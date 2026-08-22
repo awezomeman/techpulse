@@ -1,5 +1,31 @@
 [
   {
+    "id": "43e4c0bbdfb21c55",
+    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+    "excerpt": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+    "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Anthony Ha",
+    "publishedAt": "2026-08-22T21:46:56.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "88446af5ecc67154",
+    "title": "If Waymo cars are Level 4 automation, what does it take to be a Level 5?",
+    "excerpt": "We break down the different autonomous driving levels, and why Level 5 is so hard to achieve.",
+    "url": "https://www.engadget.com/2240138/if-waymo-cars-are-level-4-automation-what-is-level-5/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Novak Božović)",
+    "publishedAt": "2026-08-22T21:30:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/if-waymo-cars-are-level-4-automation-what-does-it-take-to-be-a-level-5/l-intro-1786657077.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "1d0782377edbbb93",
     "title": "Rush Rescue Mission for NASA's $500M Space Telescope Fails",
     "excerpt": "Remember that rush rescue mission for NASA's $500M space telescope? It failed, reports CNN, and the LINK satellite won't be able to boost the telescope's orbit. NASA says its decades-old Swift telescope will now continue losing altitude, until it reaches Earth's atmosphere later this year and burns…",
@@ -41,7 +67,7 @@
   {
     "id": "8552fd451d1f844d",
     "title": "Knowing When to Stop: The Art of Making a Loop Converge",
-    "excerpt": "Article URL: https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/ Comments URL: https://news.ycombinator.com/item?id=49403484 Points: 13 # Comments: 3",
+    "excerpt": "Article URL: https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/ Comments URL: https://news.ycombinator.com/item?id=49403484 Points: 15 # Comments: 4",
     "url": "https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -80,7 +106,7 @@
   {
     "id": "602915b7f62b1060",
     "title": "Fast and Hard Code",
-    "excerpt": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49403228 Points: 6 # Comments: 2",
+    "excerpt": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49403228 Points: 14 # Comments: 4",
     "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -119,7 +145,7 @@
   {
     "id": "82bff146e2510809",
     "title": "English ↔ Claudish Translator",
-    "excerpt": "Article URL: https://programasweights.com/claudish Comments URL: https://news.ycombinator.com/item?id=49402907 Points: 11 # Comments: 9",
+    "excerpt": "Article URL: https://programasweights.com/claudish Comments URL: https://news.ycombinator.com/item?id=49402907 Points: 17 # Comments: 13",
     "url": "https://programasweights.com/claudish",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -132,7 +158,7 @@
   {
     "id": "31e565cecfe1375d",
     "title": "NetBSD and My Life (2005)",
-    "excerpt": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 52 # Comments: 10",
+    "excerpt": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 63 # Comments: 14",
     "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -145,7 +171,7 @@
   {
     "id": "1ed10f47b192ae6f",
     "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-    "excerpt": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 96 # Comments: 29",
+    "excerpt": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 111 # Comments: 34",
     "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -195,19 +221,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "3f17b65fb69dd3dd",
-    "title": "Show HN: Make your logo extra bright on HDR screens",
-    "excerpt": "Certain logos started standing out to me on LinkedIn as brighter/whiter than everything else around them. I dug in and found out this is accomplished by adding a gain-map to an existing JPEG, visible only on HDR screens like a newer MacBook Pro. LinkedIn is the only social network I've found that…",
-    "url": "https://www.soverybright.com/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "telecuda",
-    "publishedAt": "2026-08-22T18:43:03.000Z",
-    "category": "security",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "cd06becacf5e4bd3",
     "title": "Are digital cameras still worth buying in 2026?",
     "excerpt": "Yes, so long as you're willing to put in the work (and money) for better photos.",
@@ -223,7 +236,7 @@
   {
     "id": "53de3fca829591e9",
     "title": "Why your local LLM feels dumber than it is",
-    "excerpt": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 36 # Comments: 12",
+    "excerpt": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 60 # Comments: 17",
     "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -236,7 +249,7 @@
   {
     "id": "068c7e8ae3f03d5c",
     "title": "Scrap",
-    "excerpt": "Article URL: https://twitter.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 139 # Comments: 52",
+    "excerpt": "Article URL: https://twitter.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 166 # Comments: 68",
     "url": "https://twitter.com/moxie/status/2091218652133732491",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -299,19 +312,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "f6dce409a4994b1f",
-    "title": "Belgian car salesman becomes prince after DNA test proves royal parentage",
-    "excerpt": "Article URL: https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl Comments URL: https://news.ycombinator.com/item?id=49401621 Points: 79 # Comments: 55",
-    "url": "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "MilnerRoute",
-    "publishedAt": "2026-08-22T17:09:27.000Z",
-    "category": "policy",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "54c67d08d3f0e117",
     "title": "Doodle generative compositions in your browser with Musical Spirograph",
     "excerpt": "So pretty. | Screenshot: Terrence O’Brien / The Verge I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical…",
@@ -340,7 +340,7 @@
   {
     "id": "33e354a2033bc20b",
     "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-    "excerpt": "Article URL: https://twitter.com/argofowl/status/2091150597374537729 Comments URL: https://news.ycombinator.com/item?id=49401549 Points: 106 # Comments: 115",
+    "excerpt": "Article URL: https://twitter.com/argofowl/status/2091150597374537729 Comments URL: https://news.ycombinator.com/item?id=49401549 Points: 118 # Comments: 121",
     "url": "https://twitter.com/argofowl/status/2091150597374537729",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -509,7 +509,7 @@
   {
     "id": "f83cb012d1e02700",
     "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-    "excerpt": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 252 # Comments: 83",
+    "excerpt": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 263 # Comments: 87",
     "url": "https://quantumi.sh/public/labs.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -548,7 +548,7 @@
   {
     "id": "12970b18560139f6",
     "title": "A Friendly Introduction to Racket",
-    "excerpt": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 116 # Comments: 52",
+    "excerpt": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 143 # Comments: 62",
     "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -600,7 +600,7 @@
   {
     "id": "8a4d5416ea3b9763",
     "title": "New MCP Roadmap",
-    "excerpt": "Article URL: https://blog.modelcontextprotocol.io/posts/mcp-roadmap/ Comments URL: https://news.ycombinator.com/item?id=49399591 Points: 155 # Comments: 118",
+    "excerpt": "Article URL: https://blog.modelcontextprotocol.io/posts/mcp-roadmap/ Comments URL: https://news.ycombinator.com/item?id=49399591 Points: 158 # Comments: 119",
     "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -847,7 +847,7 @@
   {
     "id": "e1a317553b63e42a",
     "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
-    "excerpt": "Article URL: https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi Comments URL: https://news.ycombinator.com/item?id=49398158 Points: 103 # Comments: 50",
+    "excerpt": "Article URL: https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi Comments URL: https://news.ycombinator.com/item?id=49398158 Points: 107 # Comments: 50",
     "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -860,7 +860,7 @@
   {
     "id": "c248308cd463dc29",
     "title": "Munder Difflin – Agent harness to run an office of your clones",
-    "excerpt": "Article URL: https://munderdiffl.in/ Comments URL: https://news.ycombinator.com/item?id=49398152 Points: 230 # Comments: 105",
+    "excerpt": "Article URL: https://munderdiffl.in/ Comments URL: https://news.ycombinator.com/item?id=49398152 Points: 234 # Comments: 109",
     "url": "https://munderdiffl.in/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -912,7 +912,7 @@
   {
     "id": "ef48a9723fd1cea4",
     "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
-    "excerpt": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement... Comments URL: https://news.ycombinator.com/item?id=49397074 Points: 308 # Comments: 983",
+    "excerpt": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement... Comments URL: https://news.ycombinator.com/item?id=49397074 Points: 334 # Comments: 1014",
     "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1297,7 +1297,7 @@
   {
     "id": "b27bd9d4d472dc6e",
     "title": "The Creation of Abulafia",
-    "excerpt": "Article URL: https://blog.veitheller.de/abulafia.html Comments URL: https://news.ycombinator.com/item?id=49393537 Points: 24 # Comments: 4",
+    "excerpt": "Article URL: https://blog.veitheller.de/abulafia.html Comments URL: https://news.ycombinator.com/item?id=49393537 Points: 25 # Comments: 4",
     "url": "https://blog.veitheller.de/abulafia.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1401,7 +1401,7 @@
   {
     "id": "10778dfe314d8928",
     "title": "Rust Glancer: Rust LSP using 100x less RAM",
-    "excerpt": "https://matklad.github.io/2026/08/21/rust-glancer.html Comments URL: https://news.ycombinator.com/item?id=49393052 Points: 384 # Comments: 92",
+    "excerpt": "https://matklad.github.io/2026/08/21/rust-glancer.html Comments URL: https://news.ycombinator.com/item?id=49393052 Points: 387 # Comments: 92",
     "url": "https://rust-glancer.github.io/blog/hello-world/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1479,7 +1479,7 @@
   {
     "id": "2f762b18673c747e",
     "title": "One night in Uzbekistan: Why was this one data point so influential?",
-    "excerpt": "Article URL: https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/ Comments URL: https://news.ycombinator.com/item?id=49392536 Points: 33 # Comments: 2",
+    "excerpt": "Article URL: https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/ Comments URL: https://news.ycombinator.com/item?id=49392536 Points: 41 # Comments: 3",
     "url": "https://statmodeling.stat.columbia.edu/2026/08/20/we-couldnt-reproduce-their-findings-and-realized-that-it-was-all-driven-by-weird-data-from-uzbekistan/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1526,19 +1526,6 @@
     "publishedAt": "2026-08-21T19:00:00.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/58712d20eab11dfa564aadb29ca1d33c9bfd3029-5365x3579.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "7f589202cd92c01a",
-    "title": "Season two of Netflix's Cyberpunk 2077 anime streams October 20",
-    "excerpt": "Season two of Netflix's Cyberpunk 2077 anime streams October 20",
-    "url": "https://www.engadget.com/2241834/season-two-of-netflixs-cyberpunk-2077-anime-streams-october-20/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Ian Carlos Campbell)",
-    "publishedAt": "2026-08-21T18:51:03.000Z",
-    "category": "startups",
-    "imageUrl": "https://www.engadget.com/img/gallery/season-two-of-netflixs-cyberpunk-2077-anime-streams-october-20/l-intro-1787338189.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1603,6 +1590,19 @@
     "author": "Sean O'Kane",
     "publishedAt": "2026-08-21T17:49:58.000Z",
     "category": "Startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d6a811d5ad558c3a",
+    "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+    "excerpt": "Article URL: https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6 Comments URL: https://news.ycombinator.com/item?id=49390910 Points: 0 # Comments: 0",
+    "url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "ij23",
+    "publishedAt": "2026-08-21T17:00:23.000Z",
+    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1685,19 +1685,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "9e86c763a03919e8",
-    "title": "US government lab is probing Chinese lidar for security vulnerabilities",
-    "excerpt": "The security review is being performed by the Idaho National Laboratory, and the research is being funded by a company -- or a group of companies -- in the electric and autonomous vehicle industries.",
-    "url": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Sean O'Kane",
-    "publishedAt": "2026-08-21T16:01:54.000Z",
-    "category": "policy",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "0d303faa533ec5c9",
     "title": "Framework Laptop 16 With GeForce RTX 5070 12GB, One-Piece Keyboard & Haptic Touchpad",
     "excerpt": "While the past few weeks have been quite busy with the new Framework Laptop 13 Pro testing with that all-new laptop model and paired with Intel's Core Ultra Series 3 \"Panther Lake\", at the same time Framework Computer has begun shipping some updated components for the Framework Laptop 16 laptop. If…",
@@ -1760,6 +1747,19 @@
     "publishedAt": "2026-08-21T14:05:00.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=4094116&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9a0f3fa1c88ca45b",
+    "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+    "excerpt": "Article URL: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/ Comments URL: https://news.ycombinator.com/item?id=49387959 Points: 66 # Comments: 11",
+    "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "olalonde",
+    "publishedAt": "2026-08-21T13:43:33.000Z",
+    "category": "startups",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
