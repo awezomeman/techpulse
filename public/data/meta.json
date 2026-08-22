@@ -1,5 +1,5 @@
 {
-  "lastBuild": "2026-08-22T21:47:49.108Z",
+  "lastBuild": "2026-08-22T22:24:46.448Z",
   "feedCount": 10,
   "successCount": 10,
   "failureCount": 0,
@@ -12,11 +12,11 @@
     "science": 15,
     "hardware": 28,
     "policy": 25,
-    "startups": 21,
     "software": 43,
+    "startups": 20,
     "crypto": 19,
     "Software": 3,
-    "security": 22,
+    "security": 23,
     "Startups": 1,
     "Science": 2
   }
