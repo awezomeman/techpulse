@@ -1,0 +1,106 @@
+[
+  {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/feed/",
+    "homepage": "https://techcrunch.com",
+    "defaultCategory": "Startups",
+    "enabled": true,
+    "notes": "Full-text RSS, reliable"
+  },
+  {
+    "name": "Ars Technica",
+    "url": "https://feeds.arstechnica.com/arstechnica/index",
+    "homepage": "https://arstechnica.com",
+    "defaultCategory": "Science",
+    "enabled": true,
+    "notes": "Excerpt-only RSS, reliable"
+  },
+  {
+    "name": "The Verge",
+    "url": "https://www.theverge.com/rss/index.xml",
+    "homepage": "https://www.theverge.com",
+    "defaultCategory": "Hardware",
+    "enabled": true,
+    "notes": "Excerpt-only RSS, reliable"
+  },
+  {
+    "name": "Engadget",
+    "url": "https://www.engadget.com/rss.xml",
+    "homepage": "https://www.engadget.com",
+    "defaultCategory": "Hardware",
+    "enabled": true,
+    "notes": "Full-text RSS, reliable"
+  },
+  {
+    "name": "The Register",
+    "url": "https://www.theregister.com/headlines.atom",
+    "homepage": "https://www.theregister.com",
+    "defaultCategory": "Security",
+    "enabled": true,
+    "notes": "Atom feed, British tech news with snark"
+  },
+  {
+    "name": "Slashdot",
+    "url": "https://rss.slashdot.org/Slashdot/slashdotMain",
+    "homepage": "https://slashdot.org",
+    "defaultCategory": "Software",
+    "enabled": true,
+    "notes": "RSS 2.0, community-curated"
+  },
+  {
+    "name": "Hacker News",
+    "url": "https://hnrss.org/frontpage",
+    "homepage": "https://news.ycombinator.com",
+    "defaultCategory": "Startups",
+    "enabled": true,
+    "notes": "RSS with comments link, high signal"
+  },
+  {
+    "name": "Krebs on Security",
+    "url": "https://krebsonsecurity.com/feed/",
+    "homepage": "https://krebsonsecurity.com",
+    "defaultCategory": "Security",
+    "enabled": true,
+    "notes": "Full-text RSS, investigative security journalism"
+  },
+  {
+    "name": "Phoronix",
+    "url": "https://www.phoronix.com/rss.php",
+    "homepage": "https://www.phoronix.com",
+    "defaultCategory": "Hardware",
+    "enabled": true,
+    "notes": "Linux/hardware benchmarking, full-text"
+  },
+  {
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "homepage": "https://www.coindesk.com",
+    "defaultCategory": "Crypto",
+    "enabled": true,
+    "notes": "Crypto news, excerpt-only"
+  },
+  {
+    "name": "BleepingComputer",
+    "url": "https://www.bleepingcomputer.com/feed/",
+    "homepage": "https://www.bleepingcomputer.com",
+    "defaultCategory": "Security",
+    "enabled": false,
+    "notes": "BLOCKED: Returns HTTP 403 to automated requests. Would require browser emulation or proxy, violating our constraints."
+  },
+  {
+    "name": "The Hacker News",
+    "url": "https://feeds.feedburner.com/TheHackersNews",
+    "homepage": "https://thehackernews.com",
+    "defaultCategory": "Security",
+    "enabled": false,
+    "notes": "BLOCKED: Feedburner endpoint connection timeouts. Feed may have moved or require authentication."
+  },
+  {
+    "name": "Tom's Hardware",
+    "url": "https://www.tomshardware.com/feeds/all",
+    "homepage": "https://www.tomshardware.com",
+    "defaultCategory": "Hardware",
+    "enabled": false,
+    "notes": "DISABLED PENDING VERIFICATION: Feed URL structure changed. Needs manual check before enabling."
+  }
+]
