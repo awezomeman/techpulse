@@ -36,12 +36,6 @@ jobs:
       - name: Install dependencies
         run: npm install
         
-      - name: Verify install
-        run: |
-          node -e "const p = require('rss-parser'); console.log('rss-parser OK:', typeof p)"
-          node -e "console.log('Node version:', process.version)"
-          ls -la node_modules/rss-parser/ 2>/dev/null | head -5
-        
       - name: Fetch feeds
         id: fetch
         run: node scripts/fetch-feeds.js
