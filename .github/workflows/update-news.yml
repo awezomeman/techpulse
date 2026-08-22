@@ -36,19 +36,28 @@ jobs:
       - name: Install dependencies
         run: npm install
         
+      - name: Verify install
+        run: |
+          node -e "const p = require('rss-parser'); console.log('rss-parser OK:', typeof p)"
+          node -e "console.log('Node version:', process.version)"
+          ls -la node_modules/rss-parser/ 2>/dev/null | head -5
+        
       - name: Fetch feeds
         id: fetch
-        run: npm run fetch
-        continue-on-error: true
+        run: node scripts/fetch-feeds.js
         
       - name: Check output
+        if: always()
         run: |
+          echo "=== DATA DIR ==="
           ls -la public/data/
-          wc -l public/data/articles.json
-          cat public/data/meta.json
+          echo ""
+          echo "=== ARTICLES CHECK ==="
+          test -f public/data/articles.json && echo "articles.json EXISTS" && wc -l public/data/articles.json || echo "articles.json MISSING"
+          test -f public/data/meta.json && echo "meta.json EXISTS" && cat public/data/meta.json || echo "meta.json MISSING"
           
       - name: Commit updated data
-        if: steps.fetch.outcome == 'success'
+        if: success() && steps.fetch.outcome == 'success'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -68,9 +77,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-        
-      - name: Report status
-        if: always()
-        run: |
-          echo "::notice::Deploy status: ${{ job.status }}"
-          echo "::notice::Articles: $(jq '.articleCount' public/data/meta.json 2>/dev/null || echo 'N/A')"
