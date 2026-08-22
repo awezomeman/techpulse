@@ -1,79 +1,122 @@
-name: Fetch News and Deploy
+import { readFileSync } from 'fs';
+import { fileURLToPath } from 'url';
+import { dirname, join } from 'path';
 
-on:
-  schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - 'config/**'
-      - 'scripts/**'
-      - '.github/workflows/**'
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 
-permissions:
-  contents: write
-  pages: write
-  id-token: write
+let keywordConfig = null;
+let categoryNames = null;
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
+function loadConfig() {
+  if (keywordConfig) return;
+  const configPath = join(__dirname, '..', 'config', 'feeds.json');
+  const config = JSON.parse(readFileSync(configPath, 'utf8'));
+  keywordConfig = config.keywords || {};
+  categoryNames = config.categories || {};
+}
 
-jobs:
-  fetch-and-deploy:
-    runs-on: ubuntu-latest
-    
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-          
-      - name: Install dependencies
-        run: npm install
-        
-      - name: Verify install
-        run: |
-          node -e "const p = require('rss-parser'); console.log('rss-parser OK:', typeof p)"
-          node -e "console.log('Node version:', process.version)"
-          ls -la node_modules/rss-parser/ 2>/dev/null | head -5
-        
-      - name: Fetch feeds
-        id: fetch
-        run: node scripts/fetch-feeds.js
-        
-      - name: Check output
-        if: always()
-        run: |
-          echo "=== DATA DIR ==="
-          ls -la public/data/
-          echo ""
-          echo "=== ARTICLES CHECK ==="
-          test -f public/data/articles.json && echo "articles.json EXISTS" && wc -l public/data/articles.json || echo "articles.json MISSING"
-          test -f public/data/meta.json && echo "meta.json EXISTS" && cat public/data/meta.json || echo "meta.json MISSING"
-          
-      - name: Commit updated data
-        if: success() && steps.fetch.outcome == 'success'
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/data/
-          git diff --staged --quiet || git commit -m "Update news data [$(date -u +%Y-%m-%dT%H:%M:%SZ)]"
-          git push
-        continue-on-error: true
-        
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-        
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: './public'
-          
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+function normalizeForMatching(text) {
+  return text.toLowerCase()
+    .replace(/[^\w\s]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function scoreCategory(text, keywords) {
+  const normalized = normalizeForMatching(text);
+  const words = new Set(normalized.split(' '));
+  let score = 0;
+  for (const keyword of keywords) {
+    const normalizedKeyword = keyword.toLowerCase();
+    if (words.has(normalizedKeyword)) {
+      score += 3;
+    }
+    if (normalized.includes(normalizedKeyword)) {
+      score += 2;
+    }
+    if (normalized.split(' ').some(w => w.includes(normalizedKeyword) && w.length > normalizedKeyword.length)) {
+      score += 1;
+    }
+  }
+  return score;
+}
+
+function mapFeedCategory(rawCategories) {
+  if (!rawCategories || rawCategories.length === 0) return null;
+  
+  const categoryMap = {
+    'artificial intelligence': 'ai',
+    'machine learning': 'ai',
+    'ai': 'ai',
+    'security': 'security',
+    'cybersecurity': 'security',
+    'privacy': 'security',
+    'hardware': 'hardware',
+    'chips': 'hardware',
+    'semiconductors': 'hardware',
+    'software': 'software',
+    'open source': 'software',
+    'policy': 'policy',
+    'regulation': 'policy',
+    'government': 'policy',
+    'startups': 'startups',
+    'venture capital': 'startups',
+    'funding': 'startups',
+    'cryptocurrency': 'crypto',
+    'blockchain': 'crypto',
+    'bitcoin': 'crypto',
+    'science': 'science',
+    'space': 'science',
+    'research': 'science'
+  };
+  
+  for (const cat of rawCategories) {
+    const lower = cat.toLowerCase().trim();
+    if (categoryMap[lower]) {
+      return categoryMap[lower];
+    }
+    for (const [key, value] of Object.entries(categoryMap)) {
+      if (lower.includes(key)) {
+        return value;
+      }
+    }
+  }
+  return null;
+}
+
+export function categorize(article, config = null) {
+  loadConfig();
+  
+  const feedCategory = mapFeedCategory(article.rawCategories);
+  if (feedCategory) {
+    return { ...article, category: feedCategory };
+  }
+  
+  const text = `${article.title} ${article.excerpt}`;
+  const scores = {};
+  
+  for (const [category, keywords] of Object.entries(keywordConfig)) {
+    scores[category] = scoreCategory(text, keywords);
+  }
+  
+  let bestCategory = null;
+  let bestScore = 0;
+  
+  for (const [category, score] of Object.entries(scores)) {
+    if (score > bestScore) {
+      bestScore = score;
+      bestCategory = category;
+    }
+  }
+  
+  if (bestScore >= 3) {
+    return { ...article, category: bestCategory };
+  }
+  
+  return { ...article, category: article.category || 'general' };
+}
+
+export function categorizeAll(articles) {
+  return articles.map(a => categorize(a));
+}
