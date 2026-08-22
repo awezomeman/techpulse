@@ -1,0 +1,20 @@
+{
+  "name": "techpulse",
+  "version": "1.0.0",
+  "description": "Paywall-free technology news aggregator",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-feeds.js",
+    "test": "node --test tests/*.test.js",
+    "serve": "python3 -m http.server 8080 -d public",
+    "serve-node": "node scripts/dev-server.js",
+    "build": "npm run fetch"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

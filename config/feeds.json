@@ -1,0 +1,129 @@
+{
+  "version": "1.0.0",
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "homepage": "https://techcrunch.com",
+      "defaultCategory": "Startups",
+      "enabled": true,
+      "notes": "Full-text RSS, reliable"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/index",
+      "homepage": "https://arstechnica.com",
+      "defaultCategory": "Science",
+      "enabled": true,
+      "notes": "Excerpt-only RSS, reliable"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "homepage": "https://www.theverge.com",
+      "defaultCategory": "Hardware",
+      "enabled": true,
+      "notes": "Excerpt-only RSS, reliable"
+    },
+    {
+      "name": "Engadget",
+      "url": "https://www.engadget.com/rss.xml",
+      "homepage": "https://www.engadget.com",
+      "defaultCategory": "Hardware",
+      "enabled": true,
+      "notes": "Full-text RSS, reliable"
+    },
+    {
+      "name": "The Register",
+      "url": "https://www.theregister.com/headlines.atom",
+      "homepage": "https://www.theregister.com",
+      "defaultCategory": "Security",
+      "enabled": true,
+      "notes": "Atom feed, British tech news with snark"
+    },
+    {
+      "name": "Slashdot",
+      "url": "https://rss.slashdot.org/Slashdot/slashdotMain",
+      "homepage": "https://slashdot.org",
+      "defaultCategory": "Software",
+      "enabled": true,
+      "notes": "RSS 2.0, community-curated"
+    },
+    {
+      "name": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "homepage": "https://news.ycombinator.com",
+      "defaultCategory": "Startups",
+      "enabled": true,
+      "notes": "RSS with comments link, high signal"
+    },
+    {
+      "name": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/feed/",
+      "homepage": "https://krebsonsecurity.com",
+      "defaultCategory": "Security",
+      "enabled": true,
+      "notes": "Full-text RSS, investigative security journalism"
+    },
+    {
+      "name": "Phoronix",
+      "url": "https://www.phoronix.com/rss.php",
+      "homepage": "https://www.phoronix.com",
+      "defaultCategory": "Hardware",
+      "enabled": true,
+      "notes": "Linux/hardware benchmarking, full-text"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "homepage": "https://www.coindesk.com",
+      "defaultCategory": "Crypto",
+      "enabled": true,
+      "notes": "Crypto news, excerpt-only"
+    },
+    {
+      "name": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/feed/",
+      "homepage": "https://www.bleepingcomputer.com",
+      "defaultCategory": "Security",
+      "enabled": false,
+      "notes": "BLOCKED: Returns HTTP 403 to automated requests. Would require browser emulation or proxy, violating our constraints."
+    },
+    {
+      "name": "The Hacker News",
+      "url": "https://feeds.feedburner.com/TheHackersNews",
+      "homepage": "https://thehackernews.com",
+      "defaultCategory": "Security",
+      "enabled": false,
+      "notes": "BLOCKED: Feedburner endpoint connection timeouts. Feed may have moved or require authentication."
+    },
+    {
+      "name": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/feeds/all",
+      "homepage": "https://www.tomshardware.com",
+      "defaultCategory": "Hardware",
+      "enabled": false,
+      "notes": "DISABLED PENDING VERIFICATION: Feed URL structure changed. Needs manual check before enabling."
+    }
+  ],
+  "categories": {
+    "ai": "Artificial Intelligence",
+    "security": "Cybersecurity",
+    "hardware": "Hardware",
+    "software": "Software",
+    "policy": "Policy",
+    "startups": "Startups",
+    "crypto": "Crypto & Web3",
+    "science": "Science"
+  },
+  "keywords": {
+    "ai": ["artificial intelligence", "machine learning", "deep learning", "neural network", "llm", "gpt", "chatbot", "generative ai", "openai", "anthropic", "claude", "gemini", "copilot", "agent", "autonomous agent", "ai model", "foundation model", "transformer", "diffusion", "stable diffusion", "midjourney", "dall-e", "sora", "rag", "vector database", "embedding", "fine-tuning", "inference", "training run", "gpu cluster", "ai chip", "tpu", "nvidia", "h100", "b200"],
+    "security": ["cybersecurity", "hacker", "breach", "ransomware", "malware", "phishing", "vulnerability", "exploit", "cve", "zero-day", "patch", "encryption", "ssl", "tls", "firewall", "penetration test", "red team", "blue team", "soc", "siem", "threat intelligence", "apt", "nation-state", "supply chain attack", "credential stuffing", "ddos", "botnet", "rootkit", "spyware", "adware", "cryptojacking", "data leak", "privacy violation", "gdpr", "ccpa", "hipaa", "soc 2", "iso 27001"],
+    "hardware": ["cpu", "gpu", "chip", "semiconductor", "tsmc", "intel", "amd", "nvidia", "apple silicon", "m4", "snapdragon", "qualcomm", "arm", "riscv", "motherboard", "ssd", "nvme", "ddr5", "ram", "storage", "display", "oled", "monitor", "laptop", "desktop", "server", "datacenter", "cooling", "liquid cooling", "power supply", "psu", "case", "keyboard", "mouse", "headset", "vr headset", "ar glasses", "smartphone", "tablet", "wearable", "smartwatch", "fitness tracker", "drone", "robot", "3d printer", "raspberry pi", "arduino", "fpga", "asic", "quantum computer", "qubit", "superconducting", "cryogenic"],
+    "software": ["open source", "linux", "windows", "macos", "android", "ios", "kernel", "driver", "firmware", "bios", "uefi", "container", "docker", "kubernetes", "microservices", "serverless", "api", "graphql", "rest", "websocket", "grpc", "sdk", "framework", "library", "npm", "pypi", "cargo", "maven", "gradle", "ci/cd", "devops", "git", "github", "gitlab", "bitbucket", "terraform", "ansible", "puppet", "chef", "monitoring", "observability", "logging", "tracing", "database", "sql", "nosql", "postgres", "mysql", "mongodb", "redis", "elasticsearch", "clickhouse", "snowflake", "data warehouse", "lakehouse", "etl", "pipeline", "airflow", "dbt"],
+    "policy": ["regulation", "regulatory", "fcc", "ftc", "sec", "doj", "antitrust", "merger", "acquisition", "ipo", "spac", "gdpr", "ccpa", "section 230", "net neutrality", "broadband", "spectrum", "auction", "tariff", "trade war", "sanctions", "export control", "chip act", "ira", "inflation reduction act", "chips and science act", "executive order", "bipartisan", "congress", "senate", "house", "bill", "legislation", "lawsuit", "settlement", "fine", "penalty", "compliance", "audit", "lobbying", "pac", "campaign finance", "election", "disinformation", "content moderation"],
+    "startups": ["startup", "venture capital", "vc", "seed round", "series a", "series b", "series c", "ipo", "unicorn", "decacorn", "angel investor", "accelerator", "incubator", "y combinator", "yc", "techstars", "500 startups", "founder", "co-founder", "ceo", "cto", "cfo", "board", "advisor", "equity", "stock option", "esop", "burn rate", "runway", "pivot", "mvp", "product-market fit", "growth hacking", "saas", "b2b", "b2c", "marketplace", "platform", "network effect", "viral", "churn", "cac", "ltv", "arr", "mrr", "freemium", "plg", "product-led growth"],
+    "crypto": ["bitcoin", "ethereum", "blockchain", "defi", "nft", "token", "cryptocurrency", "altcoin", "mining", "proof of work", "proof of stake", "validator", "staking", "yield farming", "liquidity pool", "dex", "cex", "binance", "coinbase", "kraken", "wallet", "metamask", "ledger", "smart contract", "solidity", "rust", "move", "aptos", "sui", "layer 2", "rollup", "zk", "zero knowledge", "bridge", "cross-chain", "interoperability", "dao", "governance", "proposal", "snapshot", "airdrop", "ico", "ido", "ieo", "regulation", "sec", "etf", "spot etf", "futures", "derivatives", "perp", "options", "margin", "liquidation", "fud", "fomo", "hodl", "wagmi"],
+    "science": ["research", "study", "paper", "journal", "nature", "science", "cell", "arxiv", "peer review", "replication", "experiment", "hypothesis", "theory", "observation", "measurement", "simulation", "modeling", "dataset", "benchmark", "evaluation", "metric", "accuracy", "precision", "recall", "f1", "bleu", "rouge", "perplexity", "top-k", "mmlu", "hellaswag", "gsm8k", "human-eval", "physics", "chemistry", "biology", "neuroscience", "genomics", "proteomics", "crispr", "gene editing", "synthetic biology", "materials science", "nanotechnology", "graphene", "superconductor", "fusion", "tokamak", "space", "nasa", "spacex", "rocket", "satellite", "telescope", "james webb", "ligo", "event horizon", "black hole", "dark matter", "dark energy", "quantum", "entanglement", "superposition"]
+  }
+}

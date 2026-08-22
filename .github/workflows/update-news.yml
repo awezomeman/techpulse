@@ -1,0 +1,77 @@
+name: Fetch News and Deploy
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'config/**'
+      - 'scripts/**'
+      - '.github/workflows/**'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  fetch-and-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          
+      - name: Install dependencies
+        run: npm ci
+        
+      - name: Fetch feeds
+        id: fetch
+        run: npm run fetch
+        continue-on-error: true
+        
+      - name: Check output
+        run: |
+          ls -la public/data/
+          wc -l public/data/articles.json
+          cat public/data/meta.json
+          
+      - name: Commit updated data
+        if: steps.fetch.outcome == 'success'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/
+          git diff --staged --quiet || git commit -m "Update news data [$(date -u +%Y-%m-%dT%H:%M:%SZ)]"
+          git push
+        continue-on-error: true
+        
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+        
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './public'
+          
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        
+      - name: Report status
+        if: always()
+        run: |
+          echo "::notice::Deploy status: ${{ job.status }}"
+          echo "::notice::Articles: $(jq '.articleCount' public/data/meta.json 2>/dev/null || echo 'N/A')"
