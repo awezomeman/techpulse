@@ -13,9 +13,35 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "ee61f68cc0323850",
+    "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has",
+    "excerpt": "Article URL: https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html Comments URL: https://news.ycombinator.com/item?id=49406069 Points: 10 # Comments: 2",
+    "url": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "ilamont",
+    "publishedAt": "2026-08-23T04:28:18.000Z",
+    "category": "crypto",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7dc96f572507ae04",
+    "title": "The Golden Rule for Becoming a Better Writer",
+    "excerpt": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 16 # Comments: 2",
+    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "andsoitis",
+    "publishedAt": "2026-08-23T03:32:25.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "b74e2345182525b0",
     "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-    "excerpt": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 14 # Comments: 0",
+    "excerpt": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 43 # Comments: 2",
     "url": "https://martypc.net/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -41,7 +67,7 @@
   {
     "id": "7f6c265bb8f9719f",
     "title": "I Dream of Quieter Computing",
-    "excerpt": "Article URL: https://henry.codes/writing/i-dream-of-quieter-computing/ Comments URL: https://news.ycombinator.com/item?id=49405682 Points: 8 # Comments: 0",
+    "excerpt": "Article URL: https://henry.codes/writing/i-dream-of-quieter-computing/ Comments URL: https://news.ycombinator.com/item?id=49405682 Points: 26 # Comments: 6",
     "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -67,7 +93,7 @@
   {
     "id": "01d473cac2894296",
     "title": "The Art and Beauty of Blade Runner",
-    "excerpt": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 19 # Comments: 5",
+    "excerpt": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 33 # Comments: 6",
     "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -132,7 +158,7 @@
   {
     "id": "11e9d27303eedadd",
     "title": "NanoGPT Speedrun Frontier",
-    "excerpt": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 68 # Comments: 19",
+    "excerpt": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 78 # Comments: 20",
     "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -262,7 +288,7 @@
   {
     "id": "31e565cecfe1375d",
     "title": "NetBSD and my life (2005)",
-    "excerpt": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 105 # Comments: 28",
+    "excerpt": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 106 # Comments: 28",
     "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -275,7 +301,7 @@
   {
     "id": "1ed10f47b192ae6f",
     "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-    "excerpt": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 174 # Comments: 72",
+    "excerpt": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html Comments URL: https://news.ycombinator.com/item?id=49402741 Points: 178 # Comments: 71",
     "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -340,7 +366,7 @@
   {
     "id": "53de3fca829591e9",
     "title": "Why your local LLM feels dumber than it is",
-    "excerpt": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 236 # Comments: 82",
+    "excerpt": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 256 # Comments: 84",
     "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -353,7 +379,7 @@
   {
     "id": "22bf6650257782ac",
     "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
-    "excerpt": "Article URL: https://marcua.net/minitools/figmimic/ Comments URL: https://news.ycombinator.com/item?id=49402213 Points: 72 # Comments: 8",
+    "excerpt": "Article URL: https://marcua.net/minitools/figmimic/ Comments URL: https://news.ycombinator.com/item?id=49402213 Points: 78 # Comments: 10",
     "url": "https://marcua.net/minitools/figmimic/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -366,7 +392,7 @@
   {
     "id": "8e5d8548a302fbb1",
     "title": "Thinking in Python",
-    "excerpt": "Article URL: https://thinkinginpython.com/ Comments URL: https://news.ycombinator.com/item?id=49402202 Points: 100 # Comments: 22",
+    "excerpt": "Article URL: https://thinkinginpython.com/ Comments URL: https://news.ycombinator.com/item?id=49402202 Points: 117 # Comments: 23",
     "url": "https://thinkinginpython.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -379,7 +405,7 @@
   {
     "id": "068c7e8ae3f03d5c",
     "title": "Scrap (2006)",
-    "excerpt": "https://xcancel.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 344 # Comments: 187",
+    "excerpt": "https://xcancel.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 356 # Comments: 189",
     "url": "https://twitter.com/moxie/status/2091218652133732491",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -392,7 +418,7 @@
   {
     "id": "4301fc5e7f109846",
     "title": "I set a trap for a book-marketing scammer (2025)",
-    "excerpt": "Article URL: https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing Comments URL: https://news.ycombinator.com/item?id=49402181 Points: 19 # Comments: 16",
+    "excerpt": "Article URL: https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing Comments URL: https://news.ycombinator.com/item?id=49402181 Points: 22 # Comments: 17",
     "url": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -431,7 +457,7 @@
   {
     "id": "e8aaa053331cdcfe",
     "title": "Reading Maps – Journeys from fiction drawn on the real world",
-    "excerpt": "Article URL: https://readingmaps.com/ Comments URL: https://news.ycombinator.com/item?id=49402107 Points: 16 # Comments: 2",
+    "excerpt": "Article URL: https://readingmaps.com/ Comments URL: https://news.ycombinator.com/item?id=49402107 Points: 19 # Comments: 2",
     "url": "https://readingmaps.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -639,7 +665,7 @@
   {
     "id": "f83cb012d1e02700",
     "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-    "excerpt": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 342 # Comments: 108",
+    "excerpt": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 350 # Comments: 108",
     "url": "https://quantumi.sh/public/labs.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -678,7 +704,7 @@
   {
     "id": "12970b18560139f6",
     "title": "A Friendly Introduction to Racket",
-    "excerpt": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 210 # Comments: 108",
+    "excerpt": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 212 # Comments: 110",
     "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -730,7 +756,7 @@
   {
     "id": "8a4d5416ea3b9763",
     "title": "New MCP Roadmap",
-    "excerpt": "Article URL: https://blog.modelcontextprotocol.io/posts/mcp-roadmap/ Comments URL: https://news.ycombinator.com/item?id=49399591 Points: 185 # Comments: 128",
+    "excerpt": "Article URL: https://blog.modelcontextprotocol.io/posts/mcp-roadmap/ Comments URL: https://news.ycombinator.com/item?id=49399591 Points: 190 # Comments: 129",
     "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -977,7 +1003,7 @@
   {
     "id": "e1a317553b63e42a",
     "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
-    "excerpt": "Article URL: https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi Comments URL: https://news.ycombinator.com/item?id=49398158 Points: 127 # Comments: 58",
+    "excerpt": "Article URL: https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi Comments URL: https://news.ycombinator.com/item?id=49398158 Points: 129 # Comments: 59",
     "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -990,7 +1016,7 @@
   {
     "id": "c248308cd463dc29",
     "title": "Munder Difflin – Agent harness to run an office of your clones",
-    "excerpt": "Article URL: https://munderdiffl.in/ Comments URL: https://news.ycombinator.com/item?id=49398152 Points: 264 # Comments: 117",
+    "excerpt": "Article URL: https://munderdiffl.in/ Comments URL: https://news.ycombinator.com/item?id=49398152 Points: 266 # Comments: 117",
     "url": "https://munderdiffl.in/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1042,7 +1068,7 @@
   {
     "id": "ef48a9723fd1cea4",
     "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
-    "excerpt": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement... Comments URL: https://news.ycombinator.com/item?id=49397074 Points: 552 # Comments: 1331",
+    "excerpt": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement... Comments URL: https://news.ycombinator.com/item?id=49397074 Points: 565 # Comments: 1347",
     "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1180,19 +1206,6 @@
     "publishedAt": "2026-08-21T23:32:17.000Z",
     "category": "science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/9315875-1152x648-1787353404.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a43da710f31ccf4d",
-    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-    "excerpt": "I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me. A lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the primary user. Our current…",
-    "url": "https://ozbrain.com",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "dariusmonsef",
-    "publishedAt": "2026-08-21T23:09:06.000Z",
-    "category": "ai",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1357,19 +1370,6 @@
     "publishedAt": "2026-08-21T21:13:43.000Z",
     "category": "policy",
     "imageUrl": "https://www.engadget.com/img/gallery/tiktok-will-pay-400-million-to-settle-justice-department-lawsuit-over-child-privacy/l-intro-1787346593.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "fd85f85620f5a1e6",
-    "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
-    "excerpt": "Article URL: https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer Comments URL: https://news.ycombinator.com/item?id=49393733 Points: 0 # Comments: 0",
-    "url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "maciejSz",
-    "publishedAt": "2026-08-21T21:00:48.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
