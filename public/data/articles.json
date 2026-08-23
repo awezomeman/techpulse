@@ -1,5 +1,83 @@
 [
   {
+    "id": "677531eebb41e966",
+    "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+    "excerpt": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, first to May 26th, 2026, then again to November 19th, 2026 , a full…",
+    "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Verge Staff",
+    "publishedAt": "2026-08-23T19:14:37.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VINTAGE_VICE_CITY_PACK_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3ece450dabbeaa26",
+    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "excerpt": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+    "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Lauren Forristal",
+    "publishedAt": "2026-08-23T19:14:08.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f6eff6289303d7af",
+    "title": "Linux 7.3 Better Protects Against Buggy EFI Firmware Taking Down The Rest Of User-Space",
+    "excerpt": "The EFI updates were merged today for the in-development Linux 7.3 kernel. Most notable with the EFI updates is now enforcing a timeout foe EFI runtime service completions rather than potentially hanging indefinitely...",
+    "url": "https://www.phoronix.com/news/Linux-7.3-EFI",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-23T19:05:02.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3aa59561d140a29f",
+    "title": "Iran-linked Cyberattackers Shut Down a UK Power Plant for Four Days",
+    "excerpt": "\"Iran shut down a British power plant for four days in an unprecedented cyber attack,\" reports the Telegraph. More details from the BBC: The government said that at no point was there a risk to the UK's energy system, but the Department for Energy Security and Net Zero (DESNZ) has contacted power…",
+    "url": "https://news.slashdot.org/story/26/08/23/1849216/iran-linked-cyberattackers-shut-down-a-uk-power-plant-for-four-days?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-08-23T18:53:00.000Z",
+    "category": "policy",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4ce887aa57f141ad",
+    "title": "Humanoid robots have beaten Usain Bolt's 100-meter dash record",
+    "excerpt": "And they looked absolutely ridiculous doing it.",
+    "url": "https://www.engadget.com/2242295/humanoid-robots-have-beaten-usain-bolts-100-meter-dash-record/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Jackson Chen)",
+    "publishedAt": "2026-08-23T18:40:04.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/humanoid-robots-have-beaten-usain-bolts-100-meter-dash-record/l-intro-1787510210.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d6ab00f4a16ec4be",
+    "title": "Why are there so many fast charging standards, and what's the difference between them?",
+    "excerpt": "A guide to the confusing world of USB-C fast charging.",
+    "url": "https://www.engadget.com/2241124/fast-charging-differenent-standards-explained/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Will Shanklin)",
+    "publishedAt": "2026-08-23T18:30:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/why-are-there-so-many-fast-charging-standards-and-whats-the-difference-between-them/l-intro-1787253133.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "63a26017d0709d35",
     "title": "Regulation Crypto is here: State of Crypto",
     "excerpt": "The SEC published its Reg Crypto proposal last week, giving the public 60 days to comment.",
@@ -992,7 +1070,7 @@
     "author": "staff@engadget.com (Jackson Chen)",
     "publishedAt": "2026-08-22T17:52:18.000Z",
     "category": "policy",
-    "imageUrl": "https://www.engadget.com/img/gallery/uber-hit-with-a-nearly-1-billion-fine-for-automatically-deactivating-drivers-in-europe/l-intro-1787420501.jpg",
+    "imageUrl": "https://www.engadget.com/img/gallery/uber-hit-with-1-billion-fine-for-automatically-deactivating-drivers-in-europe/l-intro-1787511953.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1022,19 +1100,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "b02b969e1b0f696a",
-    "title": "Is AI Really to Blame for High Unemployment Among Recent Graduates? What Economists Say",
-    "excerpt": "47% of recent graduates say AI has already impacted hiring in their field, according to an April survey from ZipRecruiter. \"But is AI really the problem, or is it more complicated?\" asks NPR. \"Here's what economists have to say.\" According to the Federal Reserve Bank of New York, the unemployment…",
-    "url": "https://it.slashdot.org/story/26/08/22/0418223/is-ai-really-to-blame-for-high-unemployment-among-recent-graduates-what-economists-say?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-08-22T17:00:00.000Z",
-    "category": "policy",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "58f3d4e7eeca0af4",
     "title": "Amazon devices are the latest casualties of the memory shortage price hikes",
     "excerpt": "Everything from the Echo to the Kindle is going up.",
@@ -1061,19 +1126,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "1c0e29f06c9ad76b",
-    "title": "You might want to skip using a Bluetooth headset for a better gaming experience",
-    "excerpt": "Bluetooth pales in comparison to 2.4GHz and wired headsets for gaming. You should pick another option to avoid its latency and other drawbacks.",
-    "url": "https://www.engadget.com/2240120/bluetooth-headset-skip-for-better-gaming-experience/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Gabriela Vătu)",
-    "publishedAt": "2026-08-22T16:30:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/you-might-want-to-skip-using-a-bluetooth-headset-for-a-better-gaming-experience/l-intro-1786658826.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "5c1d39faf87ea2e8",
     "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
     "excerpt": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
@@ -1084,19 +1136,6 @@
     "publishedAt": "2026-08-22T16:00:00.000Z",
     "category": "ai",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "34f722625aedaa72",
-    "title": "Before you buy a used GameCube, check for this common issue",
-    "excerpt": "If you buy the wrong GameCube console, you may not get to play all the games you want to play. Here's what to look for.",
-    "url": "https://www.engadget.com/2240118/before-you-buy-used-gamecube-check-region-locked/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Ben Stegner)",
-    "publishedAt": "2026-08-22T15:30:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/before-you-buy-a-used-gamecube-check-for-this-common-issue/l-intro-1786725329.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1620,19 +1659,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "7c3227e89061b9d2",
-    "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-    "excerpt": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan , \"over a million people\" have clicked on the button, which is accessible from the three…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Jay Peters",
-    "publishedAt": "2026-08-21T21:25:50.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "f3a6172c7f50cebb",
     "title": "Proton 11.0-2 Enables More Titles With Steam Play / Linux Gaming",
     "excerpt": "Just in time for those that enjoy their Linux / Steam Play gaming on weekends, Valve and CodeWeavers today released Proton 11.0-2 as the newest stable release of this Wine 11.0 downstream that powers Steam Play for running Windows games gracefully on Linux...",
@@ -1746,19 +1772,6 @@
     "author": "Sarah Perez",
     "publishedAt": "2026-08-21T19:57:46.000Z",
     "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "620096717211c01e",
-    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-    "excerpt": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Julie Bort",
-    "publishedAt": "2026-08-21T19:43:39.000Z",
-    "category": "ai",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -2345,19 +2358,6 @@
     "publishedAt": "2026-08-21T02:39:56.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=5290804&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "77e777c87a9442dd",
-    "title": "Intel Mesa Linux Drivers Now Treating Nova Lake S / U / H / HX As Stable",
-    "excerpt": "Intel's open-source Mesa drivers for Iris Gallium3D (OpenGL) and ANV (Vulkan) on Linux are no longer treating next-gen Nova Lake processors with integrated graphics as experimental and off-by-default. With today's Mesa 26.3-devel code, the Intel driver code across Nova Lake's S, U, H, and HX…",
-    "url": "https://www.phoronix.com/news/Intel-Mesa-Nova-Lake-Stable",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-21T00:44:45.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
