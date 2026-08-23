@@ -1,5 +1,52 @@
 [
   {
+    "id": "1dff4c5162e7f80d",
+    "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
+    "excerpt": "The class action suit claims that Amazon never obtained consent from Twitch streamers to be used to train its AI models.",
+    "url": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Jackson Chen)",
+    "publishedAt": "2026-08-23T17:39:26.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/twitch-and-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/l-intro-1787505971.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "fb14fc8baabad9bb",
+    "title": "Slovakia Finds Russian Backdoor In Traffic Speed Cameras",
+    "excerpt": "Slovakia acquired speed cameras to modernize its traffic control-- but there was a surprise. Tom's Hardware cites this story from the Risky Bulletin Newsletter: Unfortunately, the country's national security service, the NBU, has discovered that the cameras have multiple security issues. Firstly,…",
+    "url": "https://yro.slashdot.org/story/26/08/23/1735228/slovakia-finds-russian-backdoor-in-traffic-speed-cameras?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-08-23T17:38:00.000Z",
+    "category": "policy",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1,
+    "alsoCoveredBy": [
+      {
+        "source": "Hacker News",
+        "sourceHomepage": "https://news.ycombinator.com",
+        "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+        "publishedAt": "2026-08-23T14:38:25.000Z"
+      }
+    ]
+  },
+  {
+    "id": "fc7c7e9390fc7fa8",
+    "title": "Is it safe to use a USB-C laptop charger on your phone?",
+    "excerpt": "If you've ever wondered whether you can just charge your phone with the cable for your laptop, read on and find out how to tell.",
+    "url": "https://www.engadget.com/2240179/using-usb-c-laptop-charger-for-phone-safety-tips/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Gabriela Vătu)",
+    "publishedAt": "2026-08-23T17:30:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/is-it-safe-to-use-a-usb-c-laptop-charger-on-your-phone/l-intro-1787160171.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "bc083867cba20603",
     "title": "Stanford Economist Now Believes an AI Job Apocalypse Is Unlikely",
     "excerpt": "\"There is still no sign of economy-wide job destruction,\" says economist Erik Brynjolfsson. Working with researchers at the Stanford Digital Economy Lab, Brynjolfsson has determined an AI \"job apocalypse\" is unlikely, reports the Washington Post, \"even though it will likely impact entry-level…",
@@ -127,19 +174,6 @@
     "publishedAt": "2026-08-23T15:00:00.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/da5caf65adc295012880cf200ddf9e937f2db11c-1920x1282.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a6ece8d73059586c",
-    "title": "Slovakia finds Russian backdoor in traffic speed cameras",
-    "excerpt": "Article URL: https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/ Comments URL: https://news.ycombinator.com/item?id=49409200 Points: 21 # Comments: 2",
-    "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "dredmorbius",
-    "publishedAt": "2026-08-23T14:38:25.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1014,19 +1048,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "9d34b76a8826248d",
-    "title": "Firefox Announces Free VPN and 'Startpage' Search Engine Rolling Out to Android, iOS - Plus GeForce NOW Support",
-    "excerpt": "Firefox 154 \"brings a number of usability improvements,\" writes PC World: The free built-in VPN, introduced with Firefox 149, continues to offer a selection of virtual locations — temporarily extended to 28 countries until the end of August... The free VPN is currently available to Firefox users in…",
-    "url": "https://news.slashdot.org/story/26/08/22/0220219/firefox-announces-free-vpn-and-startpage-search-engine-rolling-out-to-android-ios---plus-geforce-now-support?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-08-22T16:00:00.000Z",
-    "category": "software",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "34f722625aedaa72",
     "title": "Before you buy a used GameCube, check for this common issue",
     "excerpt": "If you buy the wrong GameCube console, you may not get to play all the games you want to play. Here's what to look for.",
@@ -1157,19 +1178,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "3a653aa89ecafbc6",
-    "title": "The difference between Shot with IMAX and Filmed for IMAX",
-    "excerpt": "A movie can be both \"Filmed for IMAX\" and shot with IMAX cameras, which is why the two labels are easy to confuse.",
-    "url": "https://www.engadget.com/2240114/shot-in-vs-filmed-for-imax-differences/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Novak Božović)",
-    "publishedAt": "2026-08-22T13:30:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/the-difference-between-shot-with-imax-and-filmed-for-imax/l-intro-1786718973.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "82284cf91e538268",
     "title": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
     "excerpt": "Washington state is cut off for Kalshi customers while the company combats the development in court and its federal regulator keeps pursuing new rules.",
@@ -1206,19 +1214,6 @@
     "publishedAt": "2026-08-22T13:00:00.000Z",
     "category": "hardware",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268709_HP_OmniBook_3_16_laptop_review_ADiBenedetto_0012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b665551c7536da3c",
-    "title": "How to AirPlay from iPhone or MacBook to your TV",
-    "excerpt": "If you want to display media from your phone on a TV screen, you'll need to follow these steps to use AirPlay or screen mirroring.",
-    "url": "https://www.engadget.com/2240112/how-to-airplay-from-iphone-macbook-to-tv/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Christine Persaud)",
-    "publishedAt": "2026-08-22T13:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/how-to-airplay-from-iphone-or-macbook-to-your-tv/l-intro-1787080150.jpg",
     "readTimeMinutes": 1
   },
   {
