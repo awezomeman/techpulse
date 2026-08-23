@@ -205,7 +205,15 @@
     "publishedAt": "2026-08-23T17:39:26.000Z",
     "category": "ai",
     "imageUrl": "https://www.engadget.com/img/gallery/twitch-and-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/l-intro-1787505971.jpg",
-    "readTimeMinutes": 1
+    "readTimeMinutes": 1,
+    "alsoCoveredBy": [
+      {
+        "source": "Slashdot",
+        "sourceHomepage": "https://slashdot.org",
+        "url": "https://yro.slashdot.org/story/26/08/23/2127238/twitch-and-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "publishedAt": "2026-08-23T21:59:00.000Z"
+      }
+    ]
   },
   {
     "id": "fb14fc8baabad9bb",
@@ -1071,19 +1079,6 @@
     "publishedAt": "2026-08-22T19:00:00.000Z",
     "category": "ai",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3c18bbe537b94989",
-    "title": "Low Emission Zone Led To Better Lung Size, Function Among London Children",
-    "excerpt": "Long-time Slashdot reader AmiMoJo shared this report from the Guardian: Children's lungs grew bigger and stronger after the most polluting vehicles were restricted from entering London, a study has found. Examinations of London schoolchildren before and after the introduction of the city's…",
-    "url": "https://news.slashdot.org/story/26/08/22/0537243/low-emission-zone-led-to-better-lung-size-function-among-london-children?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-08-22T19:00:00.000Z",
-    "category": "science",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
