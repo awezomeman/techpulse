@@ -1,5 +1,31 @@
 [
   {
+    "id": "1538fb9c10b7b42c",
+    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+    "excerpt": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+    "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Anthony Ha",
+    "publishedAt": "2026-08-23T20:01:36.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "89ff8f1f420cc1fa",
+    "title": "How to stop Siri from interrupting while you're using CarPlay",
+    "excerpt": "Don't let Siri become a hassle instead of an assistant; keep it quiet in the car to reduce distractions.",
+    "url": "https://www.engadget.com/2240187/apple-carplay-stop-siri-from-interrupting/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Ben Stegner)",
+    "publishedAt": "2026-08-23T20:00:00.000Z",
+    "category": "security",
+    "imageUrl": "https://www.engadget.com/img/gallery/how-to-stop-siri-from-interrupting-while-youre-using-carplay/l-intro-1786715541.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "666f473cb39cc8a9",
     "title": "Uber faces fine of nearly $1B over automated driver suspensions",
     "excerpt": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
@@ -1113,19 +1139,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "58f3d4e7eeca0af4",
-    "title": "Amazon devices are the latest casualties of the memory shortage price hikes",
-    "excerpt": "Everything from the Echo to the Kindle is going up.",
-    "url": "https://www.engadget.com/2242185/amazon-devices-kindle-echo-eero-price-hikes/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Jackson Chen)",
-    "publishedAt": "2026-08-22T16:50:20.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/amazon-devices-are-the-latest-casualties-of-the-memory-shortage-price-hikes/l-intro-1787417111.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "11bfce24e7f02ff5",
     "title": "OpenAI says California should strengthen its AI safety bill",
     "excerpt": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
@@ -1721,19 +1734,6 @@
     "publishedAt": "2026-08-21T20:26:46.000Z",
     "category": "science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-173019376-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "90e90a3af9a92cb5",
-    "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
-    "excerpt": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.",
-    "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Lauren Forristal",
-    "publishedAt": "2026-08-21T20:25:21.000Z",
-    "category": "policy",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
