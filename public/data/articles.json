@@ -1,5 +1,83 @@
 [
   {
+    "id": "00c49a0753ebe169",
+    "title": "ReactOS Merges Support For Job Objects As Step To Running Modern Windows Apps",
+    "excerpt": "Merged yesterday to the ReactOS code-base is initial support for Job Objects, which is an important milestone in the road to being able to run more modern Windows software under this open-source operating system striving for Windows driver/application compatibility...",
+    "url": "https://www.phoronix.com/news/ReactOS-Job-Objects",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-23T11:41:04.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d5c052b05c19b521",
+    "title": "Supply Chain Issues Delaying US Grid Batteries' Installation",
+    "excerpt": "Falling prices have made grid-scale storage batteries more attractive, reports Bloomberg. But after decades of stagnant investment, America's grids \"are racing to make the upgrades needed to plug them in,\" with supplies straining for the necessary equipment. Demand for batteries has skyrocketed as…",
+    "url": "https://hardware.slashdot.org/story/26/08/23/0333203/supply-chain-issues-delaying-us-grid-batteries-installation?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-08-23T11:34:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d343115dfda66b87",
+    "title": "Linux 7.3 Makes Preparations Toward Upstreaming FAMFS File-System",
+    "excerpt": "The NVDIMM and direct access (DAX) patches have been merged for the Linux 7.3 cycle. Most of the DAX/NVDIMM activity this cycle is on making preparations for the upcoming submission of Micron's FAMFS file-system...",
+    "url": "https://www.phoronix.com/news/Linux-7.3-Preps-Toward-FAMFS",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-23T11:20:00.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4e71b2b6c2139c5a",
+    "title": "GCC Patch Adjusting AMD Zen 5 Misprediction Cost Nets 12% Win In Benchmark",
+    "excerpt": "An AMD compiler engineer posted a patch on Saturday for the GNU Compiler Collection (GCC). The two-line patch adjusts the misprediction cost for Zen 4 and Zen 5 processors, which ends up yielding a 12% improvement in one SPEC CPU benchmark on Zen 5 and a 9% improvement on Zen 4...",
+    "url": "https://www.phoronix.com/news/AMD-Zen-5-Mispredict-Cost",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-23T10:56:12.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a2c17786a3174e40",
+    "title": "'AI refuser' quit her dream job, and hopes others follow",
+    "excerpt": "Article URL: https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html Comments URL: https://news.ycombinator.com/item?id=49407785 Points: 10 # Comments: 3",
+    "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "mcapodici",
+    "publishedAt": "2026-08-23T10:54:35.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6c288a790822cb95",
+    "title": "Linux 7.3 Introduces New AES Encryption APIs - Will Open Up More Performance",
+    "excerpt": "Eric Biggers of Google continues carrying out great work on the Linux kernel crypto code. For Linux 7.3 he's landed work on new library APIs for most of the AES encryption modes used within the kernel. Moving forward this will open the door to more performance optimizations, reducing code…",
+    "url": "https://www.phoronix.com/news/Linux-7.3-New-Crypto-AES-APIs",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-23T10:42:14.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "057aa0f6217c9c13",
     "title": "Linux 7.3 Input Subsystem Updates Merged With Security Fixes, Other Improvements",
     "excerpt": "The big set of input subsystem updates were merged earlier this week for the Linux 7.3 cycle. It's a random assortment of different improvements as well as bug/security fixes driven in part by the flow of AI/LLM generated discoveries...",
@@ -15,7 +93,7 @@
   {
     "id": "bb31ca9ee2ae5f4f",
     "title": "The Sloppification of Peptides",
-    "excerpt": "Article URL: https://henryaj.substack.com/p/the-sloppification-of-peptides Comments URL: https://news.ycombinator.com/item?id=49407341 Points: 10 # Comments: 0",
+    "excerpt": "Article URL: https://henryaj.substack.com/p/the-sloppification-of-peptides Comments URL: https://news.ycombinator.com/item?id=49407341 Points: 35 # Comments: 7",
     "url": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -26,15 +104,15 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "842e40f64b704a59",
-    "title": "Doomscrolling at work wastes time, but the real cost is what happens after",
-    "excerpt": "Article URL: https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/ Comments URL: https://news.ycombinator.com/item?id=49407305 Points: 10 # Comments: 2",
-    "url": "https://stories.tamu.edu/news/2026/08/13/doomscrolling-at-work-wastes-time-but-the-real-cost-is-what-happens-after/",
+    "id": "1f9340956b333ac3",
+    "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+    "excerpt": "Article URL: https://skylens.yantraai.app/ Comments URL: https://news.ycombinator.com/item?id=49407309 Points: 5 # Comments: 0",
+    "url": "https://skylens.yantraai.app/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
-    "author": "giuliomagnifico",
-    "publishedAt": "2026-08-23T09:26:55.000Z",
-    "category": "startups",
+    "author": "skylensspace",
+    "publishedAt": "2026-08-23T09:27:40.000Z",
+    "category": "science",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -54,7 +132,7 @@
   {
     "id": "b299b220dceb1d87",
     "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
-    "excerpt": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 107 # Comments: 86",
+    "excerpt": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 126 # Comments: 92",
     "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -67,7 +145,7 @@
   {
     "id": "8643c9395c2b5f8b",
     "title": "JIT Compiling Code in 5μs",
-    "excerpt": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 71 # Comments: 32",
+    "excerpt": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 79 # Comments: 44",
     "url": "https://malisper.me/jit-compiling-code-in-5-us/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -80,7 +158,7 @@
   {
     "id": "a5b9842fb2f986f2",
     "title": "The End of an Athlon",
-    "excerpt": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 99 # Comments: 25",
+    "excerpt": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 116 # Comments: 34",
     "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -93,7 +171,7 @@
   {
     "id": "602915b7f62b1060",
     "title": "Fast and Hard Code",
-    "excerpt": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 34 # Comments: 6",
+    "excerpt": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 47 # Comments: 11",
     "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -119,7 +197,7 @@
   {
     "id": "7dc96f572507ae04",
     "title": "To become a better writer, read as much as you can",
-    "excerpt": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 161 # Comments: 106",
+    "excerpt": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 200 # Comments: 128",
     "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -132,7 +210,7 @@
   {
     "id": "b74e2345182525b0",
     "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-    "excerpt": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 120 # Comments: 39",
+    "excerpt": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 125 # Comments: 42",
     "url": "https://martypc.net/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -158,7 +236,7 @@
   {
     "id": "7f6c265bb8f9719f",
     "title": "I Dream of Quieter Computing",
-    "excerpt": "Article URL: https://henry.codes/writing/i-dream-of-quieter-computing/ Comments URL: https://news.ycombinator.com/item?id=49405682 Points: 77 # Comments: 61",
+    "excerpt": "Article URL: https://henry.codes/writing/i-dream-of-quieter-computing/ Comments URL: https://news.ycombinator.com/item?id=49405682 Points: 84 # Comments: 71",
     "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -184,7 +262,7 @@
   {
     "id": "01d473cac2894296",
     "title": "The Art and Beauty of Blade Runner (2015)",
-    "excerpt": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 90 # Comments: 35",
+    "excerpt": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 96 # Comments: 38",
     "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -234,19 +312,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "0e4001d016f62195",
-    "title": "Mathematicians will probably become obsolete before anyone else [pdf]",
-    "excerpt": "Article URL: https://olli.unt.edu/handouts/fall24/tk-writing-sample.pdf Comments URL: https://news.ycombinator.com/item?id=49405083 Points: 55 # Comments: 24",
-    "url": "https://olli.unt.edu/handouts/fall24/tk-writing-sample.pdf",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "tiahura",
-    "publishedAt": "2026-08-23T00:14:16.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "bb1906dadc0b2378",
     "title": "How Will AI Change the Field of Mathematics?",
     "excerpt": "\"AI went from being very terrible to seemingly genuinely quite good at a professional level in a very short space of time...\" says the Verge's AI reporter. But AI systems \"are still truly, truly terrible at some areas of math... even the days of the week.\" If you look at academic math papers, a lot…",
@@ -262,7 +327,7 @@
   {
     "id": "11e9d27303eedadd",
     "title": "NanoGPT Speedrun Frontier",
-    "excerpt": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 104 # Comments: 27",
+    "excerpt": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 112 # Comments: 27",
     "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -392,7 +457,7 @@
   {
     "id": "31e565cecfe1375d",
     "title": "NetBSD and my life (2005)",
-    "excerpt": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 129 # Comments: 29",
+    "excerpt": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 131 # Comments: 29",
     "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -457,7 +522,7 @@
   {
     "id": "53de3fca829591e9",
     "title": "Why your local LLM feels dumber than it is",
-    "excerpt": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 361 # Comments: 132",
+    "excerpt": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 378 # Comments: 141",
     "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -470,7 +535,7 @@
   {
     "id": "22bf6650257782ac",
     "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
-    "excerpt": "Article URL: https://marcua.net/minitools/figmimic/ Comments URL: https://news.ycombinator.com/item?id=49402213 Points: 101 # Comments: 13",
+    "excerpt": "Article URL: https://marcua.net/minitools/figmimic/ Comments URL: https://news.ycombinator.com/item?id=49402213 Points: 103 # Comments: 14",
     "url": "https://marcua.net/minitools/figmimic/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -483,7 +548,7 @@
   {
     "id": "8e5d8548a302fbb1",
     "title": "Thinking in Python",
-    "excerpt": "Article URL: https://thinkinginpython.com/ Comments URL: https://news.ycombinator.com/item?id=49402202 Points: 178 # Comments: 35",
+    "excerpt": "Article URL: https://thinkinginpython.com/ Comments URL: https://news.ycombinator.com/item?id=49402202 Points: 193 # Comments: 37",
     "url": "https://thinkinginpython.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -496,7 +561,7 @@
   {
     "id": "068c7e8ae3f03d5c",
     "title": "Scrap (2006)",
-    "excerpt": "https://xcancel.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 376 # Comments: 197",
+    "excerpt": "https://xcancel.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 377 # Comments: 197",
     "url": "https://twitter.com/moxie/status/2091218652133732491",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -509,7 +574,7 @@
   {
     "id": "4301fc5e7f109846",
     "title": "I set a trap for a book-marketing scammer (2025)",
-    "excerpt": "Article URL: https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing Comments URL: https://news.ycombinator.com/item?id=49402181 Points: 48 # Comments: 33",
+    "excerpt": "Article URL: https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing Comments URL: https://news.ycombinator.com/item?id=49402181 Points: 53 # Comments: 36",
     "url": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -743,7 +808,7 @@
   {
     "id": "f83cb012d1e02700",
     "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-    "excerpt": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 403 # Comments: 120",
+    "excerpt": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 412 # Comments: 127",
     "url": "https://quantumi.sh/public/labs.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -782,7 +847,7 @@
   {
     "id": "12970b18560139f6",
     "title": "A Friendly Introduction to Racket",
-    "excerpt": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 232 # Comments: 130",
+    "excerpt": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 236 # Comments: 131",
     "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1128,19 +1193,6 @@
     "publishedAt": "2026-08-22T05:05:13.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/67b45979a1b02d081d74dd1cb768215b598664d5-4858x3239.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "15688ed37f54f089",
-    "title": "China Joins Europe In Scrapping Windows For Linux",
-    "excerpt": "An anonymous reader quotes a report from ZDNet: According to a Bloomberg report, attributed to China's Ministry of State Security, the country has ordered some government agencies to drop Windows 10 China Government Edition for Chinese-made Linux distributions. Why not Windows 11? Because China,…",
-    "url": "https://linux.slashdot.org/story/26/08/21/2158246/china-joins-europe-in-scrapping-windows-for-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-08-22T03:30:00.000Z",
-    "category": "software",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -2374,32 +2426,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "f8d142ada870d766",
-    "title": "Rust 1.98 Adds Algebraic Floating-Point Methods Akin To \"-ffast-math\"",
-    "excerpt": "Rust 1.98 released today and is headlined the debut of new algebraic floating-point methods...",
-    "url": "https://www.phoronix.com/news/Rust-1.98-Released",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-20T17:29:25.000Z",
-    "category": "crypto",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "e591d52b2260a80d",
-    "title": "KMSCON 10.0.2 Brings asciicast Playback Support, Bug Fixes",
-    "excerpt": "KMSCON 10.0.2 debuted today as the latest update to this leading user-space terminal emulator for Linux systems. KMSCON is built around Linux's KMS/DRM interfaces and the most viable alternative to date for in-kernel VTs...",
-    "url": "https://www.phoronix.com/news/KMSCON-10.0.2-Released",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-20T17:19:37.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "1ae694f2007a883e",
     "title": "Roblox must make changes after failing to block adults creeping on kids",
     "excerpt": "Despite making changes last fall to help block adults from messaging unknown children , Roblox is still failing to stop adults from creeping on kids in other ways, Australia’s eSafety commissioner, Julie Inman Grant, said on Thursday. Suspecting that Roblox may not be doing enough to stop child…",
@@ -2423,19 +2449,6 @@
     "publishedAt": "2026-08-20T16:45:00.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=5290518&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "40036d23b81c93d0",
-    "title": "KDE Software Now Has Stable Btrfs Snapshot Integration With KIO-Snapshot 1.0",
-    "excerpt": "With today's release of KIO-Snapshot, KDE software now has stable integration of Btrfs file-system snapshots...",
-    "url": "https://www.phoronix.com/news/KDE-Btrfs-Snapshots",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-20T16:21:31.000Z",
-    "category": "crypto",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2579,19 +2592,6 @@
     "publishedAt": "2026-08-20T13:26:00.000Z",
     "category": "startups",
     "imageUrl": "https://image.theregister.com/?imageId=5288694&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b74299d09e470a6b",
-    "title": "FSCRYPT Sees Cleanup With Linux 7.3 To Open Door For More Features Like Btrfs Encryption",
-    "excerpt": "FSCRYPT is the Linux file-system encryption framework for supporting per-directory, transparent encryption. FSCRYPT so far is used by the likes of EXT4, F2FS, and CephFS. For Linux 7.3 there is an important clean-up to the FSCRYPT code to simplify it while also opening the door for new features…",
-    "url": "https://www.phoronix.com/news/Linux-7.3-FSCRYPT",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-20T13:18:28.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
