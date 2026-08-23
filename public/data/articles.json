@@ -1,5 +1,70 @@
 [
   {
+    "id": "736c2f98ab12883c",
+    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+    "excerpt": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+    "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Amanda Silberling",
+    "publishedAt": "2026-08-23T15:00:00.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "5513ecd64357391e",
+    "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+    "excerpt": "Jane Schoenbrun 's latest film, Teenage Sex and Death at Camp Miasma , is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair . I fell in love with this film when I first saw it at Sundance in 2021. We are…",
+    "url": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Terrence O’Brien",
+    "publishedAt": "2026-08-23T15:00:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MV5BNGQyNmE1ZDctNzlhYS00NDQyLWIwNjctYTQzNGFkZTNiZmUwXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw%40%40._V1_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "983fa0a7b2dd4ad2",
+    "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+    "excerpt": "Tracked card volume more than tripled in a year, with USDC and USDT funding over 70% of spending as users increasingly paid for groceries, rides and subscriptions.",
+    "url": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Francisco Rodrigues",
+    "publishedAt": "2026-08-23T15:00:00.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/da5caf65adc295012880cf200ddf9e937f2db11c-1920x1282.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a6ece8d73059586c",
+    "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+    "excerpt": "Article URL: https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/ Comments URL: https://news.ycombinator.com/item?id=49409200 Points: 21 # Comments: 2",
+    "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "dredmorbius",
+    "publishedAt": "2026-08-23T14:38:25.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ca878aa4b0c50db9",
+    "title": "Authoritarianism of Code",
+    "excerpt": "Article URL: https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/ Comments URL: https://news.ycombinator.com/item?id=49409184 Points: 5 # Comments: 3",
+    "url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "wqlander",
+    "publishedAt": "2026-08-23T14:36:38.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "b94c1c97822c7a6d",
     "title": "Canonical is Funding a PhD to Automate C to Rust Translation",
     "excerpt": "An anonymous reader shared this report from the blog It's FOSS: Canonical has committed funding to a three-year PhD project focused on building a system that can automatically translate large C codebases into Rust. And they are not alone; UK Research and Innovation is matching their funding for the…",
@@ -10,6 +75,19 @@
     "publishedAt": "2026-08-23T14:34:00.000Z",
     "category": "crypto",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "661b4dd315dae6ab",
+    "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+    "excerpt": "China's \"Manned Space\" program issued a terse announcement on Sunday regarding its much-anticipated Chang’e 7 lunar exploration mission. The agency stated: \"In keeping with the principle of proceeding prudently and reliably, and ensuring absolute success, after a comprehensive assessment it has…",
+    "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Eric Berger",
+    "publishedAt": "2026-08-23T14:30:16.000Z",
+    "category": "science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2012/06/shackleton_center_cropped-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -26,9 +104,22 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "fabfd4ffa9584012",
+    "title": "What Is a Harness?",
+    "excerpt": "Article URL: https://earendil.com/posts/what-is-a-harness/ Comments URL: https://news.ycombinator.com/item?id=49409092 Points: 21 # Comments: 7",
+    "url": "https://earendil.com/posts/what-is-a-harness/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "tosh",
+    "publishedAt": "2026-08-23T14:24:21.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "869ec081dde61063",
     "title": "Death to px, long live ch",
-    "excerpt": "Article URL: https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/ Comments URL: https://news.ycombinator.com/item?id=49408889 Points: 17 # Comments: 7",
+    "excerpt": "Article URL: https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/ Comments URL: https://news.ycombinator.com/item?id=49408889 Points: 20 # Comments: 10",
     "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -41,7 +132,7 @@
   {
     "id": "c6404fb58b2cf552",
     "title": "My favorite nonfiction books about cults, scams, and schemes",
-    "excerpt": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 26 # Comments: 2",
+    "excerpt": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 38 # Comments: 11",
     "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -80,7 +171,7 @@
   {
     "id": "c0486c254f229048",
     "title": "Malware infects Android-based automotive head unit firmware",
-    "excerpt": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 77 # Comments: 29",
+    "excerpt": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 85 # Comments: 37",
     "url": "https://securelist.com/android-head-unit-malware/121106/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -101,6 +192,19 @@
     "publishedAt": "2026-08-23T13:00:00.000Z",
     "category": "Hardware",
     "imageUrl": "https://www.engadget.com/img/gallery/this-affordable-fix-may-be-all-you-need-to-improve-earbud-sound-quality/l-intro-1787061352.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "cfeb5ba9eb61bfc3",
+    "title": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
+    "excerpt": "According to Coinbase’s head of AI product, we’re currently in the “Napster/LimeWire era” of agentic payments.",
+    "url": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Francisco Rodrigues",
+    "publishedAt": "2026-08-23T13:00:00.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/b2b3f7b7e0e6d86e4e32cb82bf213fc59e1ca5d7-8660x5773.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -236,7 +340,7 @@
   {
     "id": "bf896d60ebb3ffe5",
     "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-    "excerpt": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o Comments URL: https://news.ycombinator.com/item?id=49407576 Points: 81 # Comments: 50",
+    "excerpt": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o Comments URL: https://news.ycombinator.com/item?id=49407576 Points: 85 # Comments: 56",
     "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -249,7 +353,7 @@
   {
     "id": "1851acb4950c45ea",
     "title": "Iranian hackers shut down UK power plant for 4 days",
-    "excerpt": "Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/ Comments URL: https://news.ycombinator.com/item?id=49407509 Points: 50 # Comments: 27",
+    "excerpt": "Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/ Comments URL: https://news.ycombinator.com/item?id=49407509 Points: 55 # Comments: 31",
     "url": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -262,7 +366,7 @@
   {
     "id": "8558d02589ff502b",
     "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-    "excerpt": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 144 # Comments: 72",
+    "excerpt": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 157 # Comments: 79",
     "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -275,7 +379,7 @@
   {
     "id": "1f9340956b333ac3",
     "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
-    "excerpt": "Article URL: https://skylens.yantraai.app/ Comments URL: https://news.ycombinator.com/item?id=49407309 Points: 35 # Comments: 13",
+    "excerpt": "Article URL: https://skylens.yantraai.app/ Comments URL: https://news.ycombinator.com/item?id=49407309 Points: 36 # Comments: 17",
     "url": "https://skylens.yantraai.app/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -301,7 +405,7 @@
   {
     "id": "789bb78b13c45467",
     "title": "Risk of transmission of amyloid β pathology via transfused blood products",
-    "excerpt": "Article URL: https://doi.org/10.1016/S0140-6736(26)00767-1 Comments URL: https://news.ycombinator.com/item?id=49406398 Points: 19 # Comments: 0",
+    "excerpt": "Article URL: https://doi.org/10.1016/S0140-6736(26)00767-1 Comments URL: https://news.ycombinator.com/item?id=49406398 Points: 23 # Comments: 4",
     "url": "https://doi.org/10.1016/S0140-6736(26)00767-1",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -314,7 +418,7 @@
   {
     "id": "8643c9395c2b5f8b",
     "title": "JIT Compiling Code in 5μs",
-    "excerpt": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 119 # Comments: 72",
+    "excerpt": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 123 # Comments: 78",
     "url": "https://malisper.me/jit-compiling-code-in-5-us/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -327,7 +431,7 @@
   {
     "id": "a5b9842fb2f986f2",
     "title": "The End of an Athlon",
-    "excerpt": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 139 # Comments: 54",
+    "excerpt": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 143 # Comments: 57",
     "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -340,7 +444,7 @@
   {
     "id": "602915b7f62b1060",
     "title": "Fast and Hard Code",
-    "excerpt": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 78 # Comments: 42",
+    "excerpt": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 81 # Comments: 42",
     "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -366,7 +470,7 @@
   {
     "id": "7dc96f572507ae04",
     "title": "To become a better writer, read as much as you can",
-    "excerpt": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 300 # Comments: 196",
+    "excerpt": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 310 # Comments: 205",
     "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -418,7 +522,7 @@
   {
     "id": "01d473cac2894296",
     "title": "The Art and Beauty of Blade Runner (2015)",
-    "excerpt": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 132 # Comments: 66",
+    "excerpt": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 135 # Comments: 67",
     "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -483,7 +587,7 @@
   {
     "id": "11e9d27303eedadd",
     "title": "NanoGPT Speedrun Frontier",
-    "excerpt": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 125 # Comments: 31",
+    "excerpt": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 127 # Comments: 31",
     "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -613,7 +717,7 @@
   {
     "id": "31e565cecfe1375d",
     "title": "NetBSD and my life (2005)",
-    "excerpt": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 139 # Comments: 30",
+    "excerpt": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 139 # Comments: 32",
     "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -665,7 +769,7 @@
   {
     "id": "309c67c0a675fbd7",
     "title": "Things I want in a modern relational query language",
-    "excerpt": "Article URL: https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/ Comments URL: https://news.ycombinator.com/item?id=49402491 Points: 8 # Comments: 0",
+    "excerpt": "Article URL: https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/ Comments URL: https://news.ycombinator.com/item?id=49402491 Points: 18 # Comments: 5",
     "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -686,45 +790,6 @@
     "publishedAt": "2026-08-22T18:30:00.000Z",
     "category": "software",
     "imageUrl": "https://www.engadget.com/img/gallery/are-digital-cameras-still-worth-buying-in-2026/l-intro-1786982736.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "53de3fca829591e9",
-    "title": "Why your local LLM feels dumber than it is",
-    "excerpt": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 411 # Comments: 167",
-    "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "felineflock",
-    "publishedAt": "2026-08-22T18:14:16.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "22bf6650257782ac",
-    "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
-    "excerpt": "Article URL: https://marcua.net/minitools/figmimic/ Comments URL: https://news.ycombinator.com/item?id=49402213 Points: 118 # Comments: 17",
-    "url": "https://marcua.net/minitools/figmimic/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "speckx",
-    "publishedAt": "2026-08-22T18:11:40.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "8e5d8548a302fbb1",
-    "title": "Thinking in Python",
-    "excerpt": "Article URL: https://thinkinginpython.com/ Comments URL: https://news.ycombinator.com/item?id=49402202 Points: 244 # Comments: 46",
-    "url": "https://thinkinginpython.com/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "pjacotg",
-    "publishedAt": "2026-08-22T18:10:49.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1620,19 +1685,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "bdb361cc1d60e534",
-    "title": "Apple is laying off staffers working on the Vision Pro and Siri",
-    "excerpt": "Apple is laying off staff on the Siri and the Vision Pro teams, according to Bloomberg . The cuts include \"largely shutting down\" a Vision Pro gaming team and \"reducing the size\" of the team that makes Vision Pro immersive content, the publication says. More than 200 jobs were cut. Apple said in a…",
-    "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Jay Peters",
-    "publishedAt": "2026-08-21T19:44:55.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258038_M5_Vision_Pro_AKrales_0256.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "620096717211c01e",
     "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
     "excerpt": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
@@ -1733,19 +1785,6 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-08-21T17:53:28.000Z",
     "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "04ea33a88e6e480a",
-    "title": "Waymo hands over documents in NHTSA’s child collision probe",
-    "excerpt": "The responses to NHTSA's questions so far are redacted entirely, citing \"confidential business information.\"",
-    "url": "https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Sean O'Kane",
-    "publishedAt": "2026-08-21T17:49:58.000Z",
-    "category": "Startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -2296,19 +2335,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "ba95027d736c7b56",
-    "title": "A $2 million bet on XRP volatility crosses the tape as prices surge",
-    "excerpt": "An options trader opened a large straddle on XRP, betting on wild price swings by Aug. 28.",
-    "url": "https://www.coindesk.com/markets/2026/08/21/a-usd2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Omkar Godbole",
-    "publishedAt": "2026-08-21T01:51:56.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/b5c30adde39d74c27e831f8400fa198ddb0528d0-5164x2904.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "77e777c87a9442dd",
     "title": "Intel Mesa Linux Drivers Now Treating Nova Lake S / U / H / HX As Stable",
     "excerpt": "Intel's open-source Mesa drivers for Iris Gallium3D (OpenGL) and ANV (Vulkan) on Linux are no longer treating next-gen Nova Lake processors with integrated graphics as experimental and off-by-default. With today's Mesa 26.3-devel code, the Intel driver code across Nova Lake's S, U, H, and HX…",
@@ -2439,19 +2465,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "d8d9868f3605b87e",
-    "title": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
-    "excerpt": "Commodity Futures Trading Commission Chairman Mike Selig told the inaugural gathering of the Innovation Advisory Committee that his agency won't sit idle.",
-    "url": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Jesse Hamilton",
-    "publishedAt": "2026-08-20T18:54:18.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/3211fa7939c28f624c2b9b14fdc888817b3e9cbe-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "00fd962a8ab0a671",
     "title": "US Bank investigates LockBit's claims as ransomware crims set pay-or-leak deadline",
     "excerpt": "US Bank says that it's investigating ransomware crew LockBit’s claims that it breached the financial institution and stole data, which the crims threaten to leak on September 3 unless the bank pays an extortion demand. \"We have investigated this matter and the available evidence indicates that the…",
@@ -2579,19 +2592,6 @@
     "publishedAt": "2026-08-20T14:21:00.000Z",
     "category": "hardware",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "abf32a0b7556238d",
-    "title": "SpaceX’s orbital data centers would create a new category of e-waste",
-    "excerpt": "Elon Musk’s talk about maintaining a million-strong AI data center satellite megaconstellation may not exactly be practical or economical , but it might be unique. It’s about the closest we’ve come to confronting a scheme that would export a considerable amount of valuable materials into space.…",
-    "url": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Scott K. Johnson",
-    "publishedAt": "2026-08-20T13:59:50.000Z",
-    "category": "science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/yeetcycling-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
