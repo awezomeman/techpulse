@@ -1,5 +1,31 @@
 [
   {
+    "id": "b01255d76605aa1e",
+    "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+    "excerpt": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+    "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Kirsten Korosec",
+    "publishedAt": "2026-08-23T16:03:00.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "c9d9888cbed732c1",
+    "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
+    "excerpt": "XRP’s price has surged by 50% this week, the best performance since November 2024. Here's what's driving the rally.",
+    "url": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Omkar Godbole",
+    "publishedAt": "2026-08-23T15:52:21.000Z",
+    "category": "Crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/5f60efd49e0a819f81091f39acbb1766f5bf3819-2961x995.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "139fda0cfb801625",
     "title": "23 Years After SimCity 4's Release, 'Eternal Commuter' Bug Finally Fixed",
     "excerpt": "\"It began life just a year after SimCity 4's 2003 launch,\" writes the blog PCGamesN. \"Now, over 20 years later, it's still going strong with the arrival of Network Addon Mod update 50.\" The SimCity 4 Network Addon Mod, or simply 'NAM' among the community, has long been a de facto recommendation to…",
@@ -1729,19 +1755,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "b2ded3450f461f60",
-    "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
-    "excerpt": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-    "url": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "TechCrunch Events",
-    "publishedAt": "2026-08-21T19:16:15.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "0666aefefacc2b6b",
     "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
     "excerpt": "Logitech is facing a proposed class action lawsuit for not giving customers tariff refunds. In April 2025, Logitech raised the prices on 51 percent of its portfolio, with some prices increasing by as much as 25 percent. The complaint seeks to “recover monies that Logitech extracted from American…",
@@ -2324,19 +2337,6 @@
     "publishedAt": "2026-08-21T02:39:56.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=5290804&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b47e3f58d318e77a",
-    "title": "Bitcoin pushes past $75,000 as rally continues.",
-    "excerpt": "\"Bears in pain, right now,\" wrote bitcoin analyst James Check.",
-    "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-pushes-past-usd75-000-as-rally-continues",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Stephen Alpher",
-    "publishedAt": "2026-08-21T01:55:50.000Z",
-    "category": "crypto",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {

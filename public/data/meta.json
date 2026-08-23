@@ -1,5 +1,5 @@
 {
-  "lastBuild": "2026-08-23T15:49:00.240Z",
+  "lastBuild": "2026-08-23T16:29:11.096Z",
   "feedCount": 10,
   "successCount": 10,
   "failureCount": 0,
@@ -7,11 +7,12 @@
   "failures": [],
   "duplicatesFound": 0,
   "categories": {
-    "startups": 24,
-    "hardware": 29,
+    "hardware": 30,
+    "Crypto": 1,
+    "startups": 23,
     "ai": 23,
     "Hardware": 11,
-    "crypto": 20,
+    "crypto": 19,
     "science": 17,
     "software": 44,
     "security": 24,
