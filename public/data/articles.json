@@ -1,5 +1,83 @@
 [
   {
+    "id": "0fc9b9b751127f65",
+    "title": "The reasons Siri may not work on CarPlay",
+    "excerpt": "If you're struggling to get Siri to work with your car's CarPlay system, there are some things you can check.",
+    "url": "https://www.engadget.com/2240145/siri-with-carplay-reasons-not-work-fixes/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Husain Parvez)",
+    "publishedAt": "2026-08-23T13:30:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/the-reasons-siri-may-not-work-on-carplay/l-intro-1787081672.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "c0486c254f229048",
+    "title": "Malware infects Android-based automotive head unit firmware",
+    "excerpt": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 27 # Comments: 1",
+    "url": "https://securelist.com/android-head-unit-malware/121106/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "campuscodi",
+    "publishedAt": "2026-08-23T13:05:38.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9bbf247d55a63ea8",
+    "title": "This affordable fix may be all you need to improve earbud sound quality",
+    "excerpt": "You might not need to invest in a newer pair of earbuds to improve the sound quality. Here's how to upgrade your current pair for a better listening experience.",
+    "url": "https://www.engadget.com/2240144/earbuds-sound-quality-improve-with-affordable-fix/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Adnan Ahmed)",
+    "publishedAt": "2026-08-23T13:00:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/this-affordable-fix-may-be-all-you-need-to-improve-earbud-sound-quality/l-intro-1787061352.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a3084f7b560e9117",
+    "title": "An ultra-rare piece of Microsoft history could be hiding on your shelf",
+    "excerpt": "In a future edition of The Antiques Roadshow, the hosts might get all excited about a mint Microsoft Entertainment Pack for Windows… with a sticker on the box instead of a printed Tetris promotion. Veteran Microsoft engineer Raymond Chen explained the reasoning behind using the sticker instead of…",
+    "url": "https://www.theregister.com/offbeat/2026/08/23/an-ultra-rare-piece-of-microsoft-history-could-be-hiding-on-your-shelf/5291118",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-23T12:32:00.000Z",
+    "category": "software",
+    "imageUrl": "https://image.theregister.com/?imageId=1682578&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "87f63efbb85ec426",
+    "title": "What to try when an Android app keeps crashing",
+    "excerpt": "Don't keep restarting your phone. Try these other steps instead.",
+    "url": "https://www.engadget.com/2240143/what-to-try-andoird-app-keeps-crashing/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Adnan Ahmed)",
+    "publishedAt": "2026-08-23T12:30:00.000Z",
+    "category": "software",
+    "imageUrl": "https://www.engadget.com/img/gallery/what-to-try-when-an-android-app-keeps-crashing/l-intro-1786662380.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e13ab8a098c26f14",
+    "title": "Grand Theft Auto VI exists in its own universe",
+    "excerpt": "This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster . The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here . How it started Four years…",
+    "url": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Andrew Webster",
+    "publishedAt": "2026-08-23T12:00:00.000Z",
+    "category": "startups",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Lucia_Caminos_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "00c49a0753ebe169",
     "title": "ReactOS Merges Support For Job Objects As Step To Running Modern Windows Apps",
     "excerpt": "Merged yesterday to the ReactOS code-base is initial support for Job Objects, which is an important milestone in the road to being able to run more modern Windows software under this open-source operating system striving for Windows driver/application compatibility...",
@@ -39,6 +117,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "60b814f6eec75230",
+    "title": "Volcanoes that made history",
+    "excerpt": "The first telegram arrived in Singapore on a Monday, sent from the city of Batavia in the Dutch East Indies (now Jakarta, Indonesia). “Terrific detonations from Krakatau (volcanic island),” it reported. Soon afterward: “Stones falling. Village near Anjer washed away.” The wires continued clattering…",
+    "url": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Alexandra Witze, Knowable Magazine",
+    "publishedAt": "2026-08-23T11:02:54.000Z",
+    "category": "science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1001695938-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "4e71b2b6c2139c5a",
     "title": "GCC Patch Adjusting AMD Zen 5 Misprediction Cost Nets 12% Win In Benchmark",
     "excerpt": "An AMD compiler engineer posted a patch on Saturday for the GNU Compiler Collection (GCC). The two-line patch adjusts the misprediction cost for Zen 4 and Zen 5 processors, which ends up yielding a 12% improvement in one SPEC CPU benchmark on Zen 5 and a 9% improvement on Zen 4...",
@@ -48,19 +139,6 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-08-23T10:56:12.000Z",
     "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a2c17786a3174e40",
-    "title": "'AI refuser' quit her dream job, and hopes others follow",
-    "excerpt": "Article URL: https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html Comments URL: https://news.ycombinator.com/item?id=49407785 Points: 10 # Comments: 3",
-    "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "mcapodici",
-    "publishedAt": "2026-08-23T10:54:35.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -91,9 +169,48 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "bf896d60ebb3ffe5",
+    "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+    "excerpt": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o Comments URL: https://news.ycombinator.com/item?id=49407576 Points: 59 # Comments: 33",
+    "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "epestr",
+    "publishedAt": "2026-08-23T10:14:48.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1851acb4950c45ea",
+    "title": "Iranian hackers shut down UK power plant for 4 days",
+    "excerpt": "Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/ Comments URL: https://news.ycombinator.com/item?id=49407509 Points: 24 # Comments: 8",
+    "url": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "giuliomagnifico",
+    "publishedAt": "2026-08-23T10:03:01.000Z",
+    "category": "security",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8558d02589ff502b",
+    "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+    "excerpt": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 96 # Comments: 42",
+    "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "raybb",
+    "publishedAt": "2026-08-23T10:02:51.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "bb31ca9ee2ae5f4f",
     "title": "The Sloppification of Peptides",
-    "excerpt": "Article URL: https://henryaj.substack.com/p/the-sloppification-of-peptides Comments URL: https://news.ycombinator.com/item?id=49407341 Points: 35 # Comments: 7",
+    "excerpt": "Article URL: https://henryaj.substack.com/p/the-sloppification-of-peptides Comments URL: https://news.ycombinator.com/item?id=49407341 Points: 61 # Comments: 40",
     "url": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -106,7 +223,7 @@
   {
     "id": "1f9340956b333ac3",
     "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
-    "excerpt": "Article URL: https://skylens.yantraai.app/ Comments URL: https://news.ycombinator.com/item?id=49407309 Points: 5 # Comments: 0",
+    "excerpt": "Article URL: https://skylens.yantraai.app/ Comments URL: https://news.ycombinator.com/item?id=49407309 Points: 24 # Comments: 2",
     "url": "https://skylens.yantraai.app/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -132,7 +249,7 @@
   {
     "id": "b299b220dceb1d87",
     "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
-    "excerpt": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 126 # Comments: 92",
+    "excerpt": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 142 # Comments: 103",
     "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -145,7 +262,7 @@
   {
     "id": "8643c9395c2b5f8b",
     "title": "JIT Compiling Code in 5μs",
-    "excerpt": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 79 # Comments: 44",
+    "excerpt": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 102 # Comments: 54",
     "url": "https://malisper.me/jit-compiling-code-in-5-us/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -158,7 +275,7 @@
   {
     "id": "a5b9842fb2f986f2",
     "title": "The End of an Athlon",
-    "excerpt": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 116 # Comments: 34",
+    "excerpt": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 128 # Comments: 50",
     "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -171,7 +288,7 @@
   {
     "id": "602915b7f62b1060",
     "title": "Fast and Hard Code",
-    "excerpt": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 47 # Comments: 11",
+    "excerpt": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 65 # Comments: 30",
     "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -197,7 +314,7 @@
   {
     "id": "7dc96f572507ae04",
     "title": "To become a better writer, read as much as you can",
-    "excerpt": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 200 # Comments: 128",
+    "excerpt": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 258 # Comments: 171",
     "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -210,7 +327,7 @@
   {
     "id": "b74e2345182525b0",
     "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-    "excerpt": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 125 # Comments: 42",
+    "excerpt": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 143 # Comments: 53",
     "url": "https://martypc.net/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -234,19 +351,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "7f6c265bb8f9719f",
-    "title": "I Dream of Quieter Computing",
-    "excerpt": "Article URL: https://henry.codes/writing/i-dream-of-quieter-computing/ Comments URL: https://news.ycombinator.com/item?id=49405682 Points: 84 # Comments: 71",
-    "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "Sir_Twist",
-    "publishedAt": "2026-08-23T02:33:22.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "c45cf6cebcd33e04",
     "title": "Microsoft Blames Windows Gaming Issues On RGB Lighting Devices",
     "excerpt": "BleepingComputer reports: Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. As Microsoft explained when it confirmed it's investigating on Wednesday, this known issue affects games…",
@@ -262,7 +366,7 @@
   {
     "id": "01d473cac2894296",
     "title": "The Art and Beauty of Blade Runner (2015)",
-    "excerpt": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 96 # Comments: 38",
+    "excerpt": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 118 # Comments: 50",
     "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -327,7 +431,7 @@
   {
     "id": "11e9d27303eedadd",
     "title": "NanoGPT Speedrun Frontier",
-    "excerpt": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 112 # Comments: 27",
+    "excerpt": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 116 # Comments: 29",
     "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -457,7 +561,7 @@
   {
     "id": "31e565cecfe1375d",
     "title": "NetBSD and my life (2005)",
-    "excerpt": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 131 # Comments: 29",
+    "excerpt": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 135 # Comments: 29",
     "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -522,7 +626,7 @@
   {
     "id": "53de3fca829591e9",
     "title": "Why your local LLM feels dumber than it is",
-    "excerpt": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 378 # Comments: 141",
+    "excerpt": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 395 # Comments: 157",
     "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -535,7 +639,7 @@
   {
     "id": "22bf6650257782ac",
     "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
-    "excerpt": "Article URL: https://marcua.net/minitools/figmimic/ Comments URL: https://news.ycombinator.com/item?id=49402213 Points: 103 # Comments: 14",
+    "excerpt": "Article URL: https://marcua.net/minitools/figmimic/ Comments URL: https://news.ycombinator.com/item?id=49402213 Points: 113 # Comments: 14",
     "url": "https://marcua.net/minitools/figmimic/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -548,7 +652,7 @@
   {
     "id": "8e5d8548a302fbb1",
     "title": "Thinking in Python",
-    "excerpt": "Article URL: https://thinkinginpython.com/ Comments URL: https://news.ycombinator.com/item?id=49402202 Points: 193 # Comments: 37",
+    "excerpt": "Article URL: https://thinkinginpython.com/ Comments URL: https://news.ycombinator.com/item?id=49402202 Points: 225 # Comments: 42",
     "url": "https://thinkinginpython.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -561,25 +665,12 @@
   {
     "id": "068c7e8ae3f03d5c",
     "title": "Scrap (2006)",
-    "excerpt": "https://xcancel.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 377 # Comments: 197",
+    "excerpt": "https://xcancel.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 384 # Comments: 205",
     "url": "https://twitter.com/moxie/status/2091218652133732491",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "tosh",
     "publishedAt": "2026-08-22T18:08:56.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4301fc5e7f109846",
-    "title": "I set a trap for a book-marketing scammer (2025)",
-    "excerpt": "Article URL: https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing Comments URL: https://news.ycombinator.com/item?id=49402181 Points: 53 # Comments: 36",
-    "url": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "rznicolet",
-    "publishedAt": "2026-08-22T18:08:25.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -808,7 +899,7 @@
   {
     "id": "f83cb012d1e02700",
     "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-    "excerpt": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 412 # Comments: 127",
+    "excerpt": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 424 # Comments: 129",
     "url": "https://quantumi.sh/public/labs.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -842,19 +933,6 @@
     "publishedAt": "2026-08-22T14:10:17.000Z",
     "category": "security",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/c910fc1d77a080b35fa9ee1b719813158511ee07-1600x900.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "12970b18560139f6",
-    "title": "A Friendly Introduction to Racket",
-    "excerpt": "Article URL: https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/ Comments URL: https://news.ycombinator.com/item?id=49399898 Points: 236 # Comments: 131",
-    "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "signa11",
-    "publishedAt": "2026-08-22T14:08:19.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1425,19 +1503,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "72afcf453ee2c0ae",
-    "title": "TikTok will pay $400 million to settle Justice Department lawsuit over child privacy",
-    "excerpt": "The DoJ said the app has made significant strides in privacy protections since the 2024 suit.",
-    "url": "https://www.engadget.com/2241964/tiktok-will-pay-400-million-to-settle-justice-department-lawsuit-over-child-privacy/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Karissa Bell)",
-    "publishedAt": "2026-08-21T21:13:43.000Z",
-    "category": "policy",
-    "imageUrl": "https://www.engadget.com/img/gallery/tiktok-will-pay-400-million-to-settle-justice-department-lawsuit-over-child-privacy/l-intro-1787346593.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "2dd938a54109f6eb",
     "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
     "excerpt": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
@@ -1461,19 +1526,6 @@
     "publishedAt": "2026-08-21T20:50:00.000Z",
     "category": "startups",
     "imageUrl": "https://image.theregister.com/?imageId=1683935&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b315c9e7bad2b057",
-    "title": "Take-Two subpoenas Discord and Microsoft in hunt for GTA VI leaker",
-    "excerpt": "The company is searching for leakers ahead of GTA's November release.",
-    "url": "https://www.engadget.com/2241941/take-two-subpoenas-discord-and-microsoft-in-hunt-for-gta-vi-leaker/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Ian Carlos Campbell)",
-    "publishedAt": "2026-08-21T20:47:17.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/take-two-subpoenas-discord-and-microsoft-in-hunt-for-gta-vi-leaker/l-intro-1787345049.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1607,19 +1659,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "543b61cc89abe7ca",
-    "title": "LinkedIn says its AI slop button is working",
-    "excerpt": "LinkedIn says its AI slop button is working.",
-    "url": "https://www.engadget.com/2241857/linkedin-says-its-ai-slop-button-is-working/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Karissa Bell)",
-    "publishedAt": "2026-08-21T19:11:07.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/linkedin-says-its-ai-slop-button-is-working/l-intro-1787339421.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "0666aefefacc2b6b",
     "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
     "excerpt": "Logitech is facing a proposed class action lawsuit for not giving customers tariff refunds. In April 2025, Logitech raised the prices on 51 percent of its portfolio, with some prices increasing by as much as 25 percent. The complaint seeks to “recover monies that Logitech extracted from American…",
@@ -1669,19 +1708,6 @@
     "publishedAt": "2026-08-21T18:07:15.000Z",
     "category": "hardware",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2290777035-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d9936e54a112a111",
-    "title": "$100 Best Buy gift cards will be $60 at stores Saturday",
-    "excerpt": "The best gift card deal we’ve spotted this year is happening Saturday, August 22nd, at Best Buy stores for one day only. In celebration of the retailer’s 60th anniversary, you can purchase a $100 Best Buy gift card for $60. The deal is only good for as long as supplies last at your local store, so…",
-    "url": "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Brad Bourque",
-    "publishedAt": "2026-08-21T18:00:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/assets/2464767/best-buy-logo-stock1_2040.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -2569,19 +2595,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "d1a11bd35c72ecbf",
-    "title": "Reverse-lookup service exposed millions of photos of people’s faces",
-    "excerpt": "When someone uploads a photo to the people-search tool ClarityCheck, the website has a clear message: “Your reverse image search is private and secure.” New research , though, shows that the website left more than 9 million image files, including photographs of people’s faces, publicly exposed .…",
-    "url": "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "lily Hay Newman, Matt Burgess, WIRED.com",
-    "publishedAt": "2026-08-20T13:29:54.000Z",
-    "category": "science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1047996096-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "c3149cf2168a46b1",
     "title": "£37M SAP overhaul could extend Capgemini's run with UK tax collector to 28 years",
     "excerpt": "The UK's tax collector has awarded Capgemini a £37 million contract to help migrate a critical tax system from SAP's legacy ECC platform to S/4HANA, extending a supplier relationship that began in 2004. HM Revenue & Customs (HMRC) has hired the French IT services company to move the Enterprise Tax…",
@@ -2735,19 +2748,6 @@
     "publishedAt": "2026-08-20T02:13:33.000Z",
     "category": "startups",
     "imageUrl": "https://image.theregister.com/?imageId=253943&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "0d151cf1ba228bef",
-    "title": "AMD inches closer to its goal of making AI suck less ... energy",
-    "excerpt": "AI’s thirst for power remains an ongoing concern, but fear not: AMD says it’s making steady progress towards its goal of boosting rack efficiency 20x by the end of the decade. In a blog post published this week, the House of Zen estimates that, as of 2026, its systems are already 4x more efficient…",
-    "url": "https://www.theregister.com/systems/2026/08/20/amd-inches-closer-to-its-goal-of-making-ai-suck-less-energy/5289990",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-19T23:42:30.000Z",
-    "category": "hardware",
-    "imageUrl": "https://image.theregister.com/?imageId=161325&width=800",
     "readTimeMinutes": 1
   },
   {
