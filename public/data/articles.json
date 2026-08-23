@@ -1,5 +1,31 @@
 [
   {
+    "id": "bc083867cba20603",
+    "title": "Stanford Economist Now Believes an AI Job Apocalypse Is Unlikely",
+    "excerpt": "\"There is still no sign of economy-wide job destruction,\" says economist Erik Brynjolfsson. Working with researchers at the Stanford Digital Economy Lab, Brynjolfsson has determined an AI \"job apocalypse\" is unlikely, reports the Washington Post, \"even though it will likely impact entry-level…",
+    "url": "https://it.slashdot.org/story/26/08/22/211256/stanford-economist-now-believes-an-ai-job-apocalypse-is-unlikely?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-08-23T16:34:00.000Z",
+    "category": "software",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0e3ca7f80d943b7e",
+    "title": "Is a liquid-cooled PC worth it?",
+    "excerpt": "Air cooling is reliable, while liquid cooling is visually slick. Which one you should use depends on how heavy you game on your system.",
+    "url": "https://www.engadget.com/2240150/is-liquid-cooled-pc-worth-it/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Dave Meikleham)",
+    "publishedAt": "2026-08-23T16:30:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/is-a-liquid-cooled-pc-worth-it/l-intro-1786728983.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "b01255d76605aa1e",
     "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
     "excerpt": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
@@ -1066,19 +1092,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "48112fc11c7208c4",
-    "title": "New York Dethrones San Francisco Bay Area As Largest Tech Talent Market",
-    "excerpt": "fjo3 shares a report from SFGATE: The San Francisco Bay Area, epicenter of the artificial intelligence boom, is home to a massive amount of tech workers employed by some of the world's most valuable companies, from Apple to Nvidia. But for the first time, New York has eclipsed the Bay Area as the…",
-    "url": "https://news.slashdot.org/story/26/08/21/228222/new-york-dethrones-san-francisco-bay-area-as-largest-tech-talent-market?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-08-22T15:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "ce84bd0a74f57bd7",
     "title": "Here's what you'll need to watch Netflix in 4K on Chrome",
     "excerpt": "Here's what you'll need to watch Netflix in 4K on Chrome.",
@@ -1219,19 +1232,6 @@
     "publishedAt": "2026-08-22T12:42:26.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ad4a3e1f6083b6d5",
-    "title": "This handy Google Pixel feature can help solve annoying Android Bluetooth problems",
-    "excerpt": "If you're having trouble with Bluetooth connections on your Pixel phone, this tool is a great place to start your troubleshooting.",
-    "url": "https://www.engadget.com/2240108/google-pixel-android-bluetooth-diagnostics-feature/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Husain Parvez)",
-    "publishedAt": "2026-08-22T12:30:00.000Z",
-    "category": "software",
-    "imageUrl": "https://www.engadget.com/img/gallery/this-handy-google-pixel-feature-can-help-solve-annoying-android-bluetooth-problems/l-intro-1786976534.jpg",
     "readTimeMinutes": 1
   },
   {
