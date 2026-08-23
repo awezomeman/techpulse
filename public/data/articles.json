@@ -1,5 +1,44 @@
 [
   {
+    "id": "63a26017d0709d35",
+    "title": "Regulation Crypto is here: State of Crypto",
+    "excerpt": "The SEC published its Reg Crypto proposal last week, giving the public 60 days to comment.",
+    "url": "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Nikhilesh De",
+    "publishedAt": "2026-08-23T18:30:00.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/eb8dcd6a8ff7a00d092a7e659c13193ec9cd42ea-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f1c694938b8cdea5",
+    "title": "Linux 7.3 Delivers Graphics Driver Improvements From Old GPUs To Next-Gen Hardware",
+    "excerpt": "The Direct Rendering Manager (DRM) subsystem updates have been merged for the ongoing Linux 7.3 merge window. There is a lot of exciting GPU kernel driver improvements this cycle ranging from some notable enhancements to old AMD Radeon graphics hardware up through enabling support for some…",
+    "url": "https://www.phoronix.com/news/Linux-7.3-DRM",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-23T18:10:13.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f27d787c8fb57cb6",
+    "title": "Does Analogue 3D really make retro games 4K? Here's what you should know",
+    "excerpt": "The Analogue 3D does a great job at upscaling old N64 games, with a few caveats.",
+    "url": "https://www.engadget.com/2240184/is-analogue-3d-actually-4k/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Thomas Godwin)",
+    "publishedAt": "2026-08-23T18:00:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/does-analogue-3d-really-make-retro-games-4k-heres-what-you-should-know/l-intro-1787160375.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "1dff4c5162e7f80d",
     "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
     "excerpt": "The class action suit claims that Amazon never obtained consent from Twitch streamers to be used to train its AI models.",
@@ -1110,19 +1149,6 @@
     "publishedAt": "2026-08-22T15:00:00.000Z",
     "category": "security",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Bell-W.-Kamau-2-PC-Aundre-Larrow.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ce84bd0a74f57bd7",
-    "title": "Here's what you'll need to watch Netflix in 4K on Chrome",
-    "excerpt": "Here's what you'll need to watch Netflix in 4K on Chrome.",
-    "url": "https://www.engadget.com/2240115/heres-what-youll-need-to-watch-netflix-in-4k-on-chrome/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Filipe Espósito)",
-    "publishedAt": "2026-08-22T14:30:00.000Z",
-    "category": "crypto",
-    "imageUrl": "https://www.engadget.com/img/gallery/heres-what-youll-need-to-watch-netflix-in-4k-on-chrome/l-intro-1786562290.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2296,19 +2322,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "faa82897755cf313",
-    "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
-    "excerpt": "The two-day short liquidation total has surpassed $4 billion, with Thursday's figure setting a record dating back to 2021.",
-    "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Shaurya Malwa",
-    "publishedAt": "2026-08-21T04:56:30.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/f94e2ddbb86c1864461923ebf84d25d794f44d91-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "e504a919d051332b",
     "title": "Alibaba Cloud plans to use fewer Western chips, to boost its already huge AI margins",
     "excerpt": "Alibaba has revealed margins from its cloudy AI operation are rising so quickly it will be able to achieve return on investment for new hardware purchases faster than previously planned. Speaking on the company’s earnings call yesterday, CFO Toby Xu said the company runs its servers for five years,…",
@@ -2423,19 +2436,6 @@
     "publishedAt": "2026-08-20T21:14:10.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=5290671&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "82a3e55c49d74ea5",
-    "title": "Linux 7.3 Network Changes Merged But Developers \"Completely Overwhelmed\" Due To AI/LLMs",
-    "excerpt": "All of the networking subsystem feature updates were merged today for the Linux 7.3 kernel's merge window. There are a lot of wired and wireless networking improvements this cycle but also a ton of bug fixes -- including many not so important fixes spun up by AI/LLM agents. The networking subsystem…",
-    "url": "https://www.phoronix.com/news/Linux-7.3-Networking",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-20T20:05:28.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
