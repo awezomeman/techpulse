@@ -1,5 +1,44 @@
 [
   {
+    "id": "139fda0cfb801625",
+    "title": "23 Years After SimCity 4's Release, 'Eternal Commuter' Bug Finally Fixed",
+    "excerpt": "\"It began life just a year after SimCity 4's 2003 launch,\" writes the blog PCGamesN. \"Now, over 20 years later, it's still going strong with the arrival of Network Addon Mod update 50.\" The SimCity 4 Network Addon Mod, or simply 'NAM' among the community, has long been a de facto recommendation to…",
+    "url": "https://games.slashdot.org/story/26/08/23/0417243/23-years-after-simcity-4s-release-eternal-commuter-bug-finally-fixed?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-08-23T15:34:00.000Z",
+    "category": "startups",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a01fe2c8756aaf9e",
+    "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+    "excerpt": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+    "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Anthony Ha",
+    "publishedAt": "2026-08-23T15:30:00.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e48d1ee38735bb0b",
+    "title": "These modern smartwatches are in their last year of updates",
+    "excerpt": "A whole bunch of smart watches are getting phased out this year. Is your watch on the list?",
+    "url": "https://www.engadget.com/2240149/smartwatches-last-year-of-updates/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Gabriela Vătu)",
+    "publishedAt": "2026-08-23T15:30:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/these-modern-smartwatches-are-in-their-last-year-of-updates/l-intro-1786985243.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "736c2f98ab12883c",
     "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
     "excerpt": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
@@ -106,7 +145,7 @@
   {
     "id": "fabfd4ffa9584012",
     "title": "What Is a Harness?",
-    "excerpt": "Article URL: https://earendil.com/posts/what-is-a-harness/ Comments URL: https://news.ycombinator.com/item?id=49409092 Points: 21 # Comments: 7",
+    "excerpt": "Article URL: https://earendil.com/posts/what-is-a-harness/ Comments URL: https://news.ycombinator.com/item?id=49409092 Points: 27 # Comments: 15",
     "url": "https://earendil.com/posts/what-is-a-harness/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -132,7 +171,7 @@
   {
     "id": "c6404fb58b2cf552",
     "title": "My favorite nonfiction books about cults, scams, and schemes",
-    "excerpt": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 38 # Comments: 11",
+    "excerpt": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 48 # Comments: 13",
     "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -171,7 +210,7 @@
   {
     "id": "c0486c254f229048",
     "title": "Malware infects Android-based automotive head unit firmware",
-    "excerpt": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 85 # Comments: 37",
+    "excerpt": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 87 # Comments: 40",
     "url": "https://securelist.com/android-head-unit-malware/121106/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -340,7 +379,7 @@
   {
     "id": "bf896d60ebb3ffe5",
     "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-    "excerpt": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o Comments URL: https://news.ycombinator.com/item?id=49407576 Points: 85 # Comments: 56",
+    "excerpt": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o Comments URL: https://news.ycombinator.com/item?id=49407576 Points: 90 # Comments: 59",
     "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -353,7 +392,7 @@
   {
     "id": "1851acb4950c45ea",
     "title": "Iranian hackers shut down UK power plant for 4 days",
-    "excerpt": "Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/ Comments URL: https://news.ycombinator.com/item?id=49407509 Points: 55 # Comments: 31",
+    "excerpt": "Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/ Comments URL: https://news.ycombinator.com/item?id=49407509 Points: 56 # Comments: 34",
     "url": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -366,7 +405,7 @@
   {
     "id": "8558d02589ff502b",
     "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-    "excerpt": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 157 # Comments: 79",
+    "excerpt": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 159 # Comments: 80",
     "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -405,7 +444,7 @@
   {
     "id": "789bb78b13c45467",
     "title": "Risk of transmission of amyloid β pathology via transfused blood products",
-    "excerpt": "Article URL: https://doi.org/10.1016/S0140-6736(26)00767-1 Comments URL: https://news.ycombinator.com/item?id=49406398 Points: 23 # Comments: 4",
+    "excerpt": "Article URL: https://doi.org/10.1016/S0140-6736(26)00767-1 Comments URL: https://news.ycombinator.com/item?id=49406398 Points: 24 # Comments: 6",
     "url": "https://doi.org/10.1016/S0140-6736(26)00767-1",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -444,7 +483,7 @@
   {
     "id": "602915b7f62b1060",
     "title": "Fast and Hard Code",
-    "excerpt": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 81 # Comments: 42",
+    "excerpt": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 81 # Comments: 44",
     "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -470,7 +509,7 @@
   {
     "id": "7dc96f572507ae04",
     "title": "To become a better writer, read as much as you can",
-    "excerpt": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 310 # Comments: 205",
+    "excerpt": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 316 # Comments: 208",
     "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -522,7 +561,7 @@
   {
     "id": "01d473cac2894296",
     "title": "The Art and Beauty of Blade Runner (2015)",
-    "excerpt": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 135 # Comments: 67",
+    "excerpt": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 136 # Comments: 68",
     "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -769,7 +808,7 @@
   {
     "id": "309c67c0a675fbd7",
     "title": "Things I want in a modern relational query language",
-    "excerpt": "Article URL: https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/ Comments URL: https://news.ycombinator.com/item?id=49402491 Points: 18 # Comments: 5",
+    "excerpt": "Article URL: https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/ Comments URL: https://news.ycombinator.com/item?id=49402491 Points: 19 # Comments: 7",
     "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1183,19 +1222,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "01d8a92e6b58f191",
-    "title": "Darkest Dungeon DLC, a BioShock-style shooter with clowns and other new indie games worth checking out",
-    "excerpt": "Plus, Mixtape on Mac, Tetris Effect-style pachinko and a platformer with randomized controls.",
-    "url": "https://www.engadget.com/2241995/darkest-dungeon-dlc-a-bioshock-style-shooter-with-clowns-and-other-new-indie-games-worth-checking-out/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Kris Holt)",
-    "publishedAt": "2026-08-22T12:00:00.000Z",
-    "category": "software",
-    "imageUrl": "https://www.engadget.com/img/gallery/darkest-dungeon-dlc-a-bioshock-style-shooter-with-clowns-and-other-new-indie-games-worth-checking-out/l-intro-1787344138.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "cd4c8a3a48041eec",
     "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
     "excerpt": "Bitcoin and crypto staged their strongest rally in months as Treasury intervention, regulatory moves and a historic short squeeze collided, while banks and technology companies pushed deeper into stablecoins.",
@@ -1557,15 +1583,7 @@
     "publishedAt": "2026-08-21T21:25:50.000Z",
     "category": "Hardware",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/1785424232227.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1,
-    "alsoCoveredBy": [
-      {
-        "source": "Slashdot",
-        "sourceHomepage": "https://slashdot.org",
-        "url": "https://tech.slashdot.org/story/26/08/21/224221/over-1-million-people-have-clicked-linkedins-ai-slop-button?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "publishedAt": "2026-08-22T11:00:00.000Z"
-      }
-    ]
+    "readTimeMinutes": 1
   },
   {
     "id": "f3a6172c7f50cebb",
@@ -1747,19 +1765,6 @@
     "publishedAt": "2026-08-21T19:00:00.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/58712d20eab11dfa564aadb29ca1d33c9bfd3029-5365x3579.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "436ce9ffb39b50d4",
-    "title": "Tesla’s solar roof is dead — here’s what went wrong",
-    "excerpt": "Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?",
-    "url": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Tim De Chant",
-    "publishedAt": "2026-08-21T18:09:53.000Z",
-    "category": "science",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
