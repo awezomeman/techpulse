@@ -1,5 +1,70 @@
 [
   {
+    "id": "b94c1c97822c7a6d",
+    "title": "Canonical is Funding a PhD to Automate C to Rust Translation",
+    "excerpt": "An anonymous reader shared this report from the blog It's FOSS: Canonical has committed funding to a three-year PhD project focused on building a system that can automatically translate large C codebases into Rust. And they are not alone; UK Research and Innovation is matching their funding for the…",
+    "url": "https://developers.slashdot.org/story/26/08/23/0458226/canonical-is-funding-a-phd-to-automate-c-to-rust-translation?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-08-23T14:34:00.000Z",
+    "category": "crypto",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d9eac32e76e24868",
+    "title": "Wi-Fi 6 vs Wi-Fi 7: What's the difference wnd which is better for home internet?",
+    "excerpt": "Wi-Fi 6 Vs Wi-Fi 7: What's The Difference And Which Is Better For Home Internet?",
+    "url": "https://www.engadget.com/2240148/wi-fi-6-vs-wi-fi-7-whats-the-difference-and-which-is-better-for-home-internet/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Antony Terence)",
+    "publishedAt": "2026-08-23T14:30:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/wi-fi-6-vs-wi-fi-7-whats-the-difference-and-which-is-better-for-home-internet/l-intro-1787151357.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "869ec081dde61063",
+    "title": "Death to px, long live ch",
+    "excerpt": "Article URL: https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/ Comments URL: https://news.ycombinator.com/item?id=49408889 Points: 17 # Comments: 7",
+    "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "Brajeshwar",
+    "publishedAt": "2026-08-23T13:56:27.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "c6404fb58b2cf552",
+    "title": "My favorite nonfiction books about cults, scams, and schemes",
+    "excerpt": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 26 # Comments: 2",
+    "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "bwb",
+    "publishedAt": "2026-08-23T13:51:10.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0e410cc69c83efca",
+    "title": "How Cursor beat Git's scalability shortcomings",
+    "excerpt": "Developers recently burned by GitHub’s system outages should take note that there are other ways to manage Git at scale. One approach, recently put into action by Cursor, is to build the distributed version control system on object storage. A recent post from Cursor principal systems engineer…",
+    "url": "https://www.theregister.com/devops/2026/08/23/how-cursor-beat-gits-scalability-shortcomings/5291421",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-23T13:45:00.000Z",
+    "category": "software",
+    "imageUrl": "https://image.theregister.com/?imageId=5291465&width=800",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "0fc9b9b751127f65",
     "title": "The reasons Siri may not work on CarPlay",
     "excerpt": "If you're struggling to get Siri to work with your car's CarPlay system, there are some things you can check.",
@@ -15,7 +80,7 @@
   {
     "id": "c0486c254f229048",
     "title": "Malware infects Android-based automotive head unit firmware",
-    "excerpt": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 27 # Comments: 1",
+    "excerpt": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 77 # Comments: 29",
     "url": "https://securelist.com/android-head-unit-malware/121106/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -171,7 +236,7 @@
   {
     "id": "bf896d60ebb3ffe5",
     "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-    "excerpt": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o Comments URL: https://news.ycombinator.com/item?id=49407576 Points: 59 # Comments: 33",
+    "excerpt": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o Comments URL: https://news.ycombinator.com/item?id=49407576 Points: 81 # Comments: 50",
     "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -184,7 +249,7 @@
   {
     "id": "1851acb4950c45ea",
     "title": "Iranian hackers shut down UK power plant for 4 days",
-    "excerpt": "Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/ Comments URL: https://news.ycombinator.com/item?id=49407509 Points: 24 # Comments: 8",
+    "excerpt": "Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/ Comments URL: https://news.ycombinator.com/item?id=49407509 Points: 50 # Comments: 27",
     "url": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -197,7 +262,7 @@
   {
     "id": "8558d02589ff502b",
     "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-    "excerpt": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 96 # Comments: 42",
+    "excerpt": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 144 # Comments: 72",
     "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -208,22 +273,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "bb31ca9ee2ae5f4f",
-    "title": "The Sloppification of Peptides",
-    "excerpt": "Article URL: https://henryaj.substack.com/p/the-sloppification-of-peptides Comments URL: https://news.ycombinator.com/item?id=49407341 Points: 61 # Comments: 40",
-    "url": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "henryaj",
-    "publishedAt": "2026-08-23T09:32:54.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "1f9340956b333ac3",
     "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
-    "excerpt": "Article URL: https://skylens.yantraai.app/ Comments URL: https://news.ycombinator.com/item?id=49407309 Points: 24 # Comments: 2",
+    "excerpt": "Article URL: https://skylens.yantraai.app/ Comments URL: https://news.ycombinator.com/item?id=49407309 Points: 35 # Comments: 13",
     "url": "https://skylens.yantraai.app/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -247,14 +299,14 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "b299b220dceb1d87",
-    "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
-    "excerpt": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news.ycombinator.com/item?id=49406539 Points: 142 # Comments: 103",
-    "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+    "id": "789bb78b13c45467",
+    "title": "Risk of transmission of amyloid β pathology via transfused blood products",
+    "excerpt": "Article URL: https://doi.org/10.1016/S0140-6736(26)00767-1 Comments URL: https://news.ycombinator.com/item?id=49406398 Points: 19 # Comments: 0",
+    "url": "https://doi.org/10.1016/S0140-6736(26)00767-1",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
-    "author": "taubek",
-    "publishedAt": "2026-08-23T06:41:51.000Z",
+    "author": "sbulaev",
+    "publishedAt": "2026-08-23T06:07:06.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -262,7 +314,7 @@
   {
     "id": "8643c9395c2b5f8b",
     "title": "JIT Compiling Code in 5μs",
-    "excerpt": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 102 # Comments: 54",
+    "excerpt": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 119 # Comments: 72",
     "url": "https://malisper.me/jit-compiling-code-in-5-us/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -275,7 +327,7 @@
   {
     "id": "a5b9842fb2f986f2",
     "title": "The End of an Athlon",
-    "excerpt": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 128 # Comments: 50",
+    "excerpt": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 139 # Comments: 54",
     "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -288,7 +340,7 @@
   {
     "id": "602915b7f62b1060",
     "title": "Fast and Hard Code",
-    "excerpt": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 65 # Comments: 30",
+    "excerpt": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 78 # Comments: 42",
     "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -314,7 +366,7 @@
   {
     "id": "7dc96f572507ae04",
     "title": "To become a better writer, read as much as you can",
-    "excerpt": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 258 # Comments: 171",
+    "excerpt": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 300 # Comments: 196",
     "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -327,7 +379,7 @@
   {
     "id": "b74e2345182525b0",
     "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-    "excerpt": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 143 # Comments: 53",
+    "excerpt": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 154 # Comments: 55",
     "url": "https://martypc.net/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -366,7 +418,7 @@
   {
     "id": "01d473cac2894296",
     "title": "The Art and Beauty of Blade Runner (2015)",
-    "excerpt": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 118 # Comments: 50",
+    "excerpt": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 132 # Comments: 66",
     "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -431,7 +483,7 @@
   {
     "id": "11e9d27303eedadd",
     "title": "NanoGPT Speedrun Frontier",
-    "excerpt": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 116 # Comments: 29",
+    "excerpt": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 125 # Comments: 31",
     "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -561,7 +613,7 @@
   {
     "id": "31e565cecfe1375d",
     "title": "NetBSD and my life (2005)",
-    "excerpt": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 135 # Comments: 29",
+    "excerpt": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 139 # Comments: 30",
     "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -611,6 +663,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "309c67c0a675fbd7",
+    "title": "Things I want in a modern relational query language",
+    "excerpt": "Article URL: https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/ Comments URL: https://news.ycombinator.com/item?id=49402491 Points: 8 # Comments: 0",
+    "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "zdw",
+    "publishedAt": "2026-08-22T18:38:41.000Z",
+    "category": "policy",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "cd06becacf5e4bd3",
     "title": "Are digital cameras still worth buying in 2026?",
     "excerpt": "Yes, so long as you're willing to put in the work (and money) for better photos.",
@@ -626,7 +691,7 @@
   {
     "id": "53de3fca829591e9",
     "title": "Why your local LLM feels dumber than it is",
-    "excerpt": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 395 # Comments: 157",
+    "excerpt": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=49402232 Points: 411 # Comments: 167",
     "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -639,7 +704,7 @@
   {
     "id": "22bf6650257782ac",
     "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
-    "excerpt": "Article URL: https://marcua.net/minitools/figmimic/ Comments URL: https://news.ycombinator.com/item?id=49402213 Points: 113 # Comments: 14",
+    "excerpt": "Article URL: https://marcua.net/minitools/figmimic/ Comments URL: https://news.ycombinator.com/item?id=49402213 Points: 118 # Comments: 17",
     "url": "https://marcua.net/minitools/figmimic/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -652,25 +717,12 @@
   {
     "id": "8e5d8548a302fbb1",
     "title": "Thinking in Python",
-    "excerpt": "Article URL: https://thinkinginpython.com/ Comments URL: https://news.ycombinator.com/item?id=49402202 Points: 225 # Comments: 42",
+    "excerpt": "Article URL: https://thinkinginpython.com/ Comments URL: https://news.ycombinator.com/item?id=49402202 Points: 244 # Comments: 46",
     "url": "https://thinkinginpython.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "pjacotg",
     "publishedAt": "2026-08-22T18:10:49.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "068c7e8ae3f03d5c",
-    "title": "Scrap (2006)",
-    "excerpt": "https://xcancel.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 384 # Comments: 205",
-    "url": "https://twitter.com/moxie/status/2091218652133732491",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "tosh",
-    "publishedAt": "2026-08-22T18:08:56.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -894,19 +946,6 @@
     "publishedAt": "2026-08-22T15:00:00.000Z",
     "category": "hardware",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f83cb012d1e02700",
-    "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-    "excerpt": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 424 # Comments: 129",
-    "url": "https://quantumi.sh/public/labs.html",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "jemoka",
-    "publishedAt": "2026-08-22T14:54:07.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1235,19 +1274,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "955331416957a6ff",
-    "title": "'Off the Charts' El Nino Is Already the Strongest Since Records Began",
-    "excerpt": "A rapidly developing El Nino is already reaching record-setting levels for this time of year and is expected to intensify further over the coming months. \"The El Nino has blossomed. It is off the charts. Usual measures of El Nino have blown past prior record levels in the period with good data,…",
-    "url": "https://news.slashdot.org/story/26/08/21/2216202/off-the-charts-el-nino-is-already-the-strongest-since-records-began?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-08-22T07:00:00.000Z",
-    "category": "software",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "1f975915384a47c3",
     "title": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
     "excerpt": "ZEC traded above its January 2018 peak as futures volume hit billions of dollars and a Grayscale filing showed fresh progress toward converting its Zcash Trust into a spot ETF.",
@@ -1271,19 +1297,6 @@
     "publishedAt": "2026-08-22T05:05:13.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/67b45979a1b02d081d74dd1cb768215b598664d5-4858x3239.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a44cb35243be6aa7",
-    "title": "Apple reportedly cut more than 200 jobs across Vision Pro and Siri software teams",
-    "excerpt": "Apple has laid off employees in its Vision Pro and Siri teams as it shifts focus to smart glasses and next-gen AI tech.",
-    "url": "https://www.engadget.com/2242070/apple-reportedly-cut-more-than-200-jobs-across-vision-pro-and-siri-software-teams/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Steve Dent)",
-    "publishedAt": "2026-08-22T03:14:33.000Z",
-    "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/apple-reportedly-cut-more-than-200-jobs-across-vision-pro-and-siri-software-teams/l-intro-1787368261.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2735,19 +2748,6 @@
     "publishedAt": "2026-08-20T04:57:58.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=5290078&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d031f9f7f93f1b96",
-    "title": "Microsoft ends one of the last ways to buy VMware without big bundles",
-    "excerpt": "Microsoft has signalled it will end one of the last remaining ways to acquire VMware products outside of a big bundle. Redmond’s main offer for Virtzillains is the Azure VMware Solution (AVS), a cloudy affair that includes vCenter, vSAN, vSphere, and NSX and licenses for them all – but not the…",
-    "url": "https://www.theregister.com/virtualization/2026/08/20/microsoft-ends-one-of-the-last-ways-to-buy-vmware-without-big-bundles/5290044",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-20T02:13:33.000Z",
-    "category": "startups",
-    "imageUrl": "https://image.theregister.com/?imageId=253943&width=800",
     "readTimeMinutes": 1
   },
   {
