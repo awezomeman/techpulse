@@ -1,5 +1,18 @@
 [
   {
+    "id": "b6e07ef35d0ec0d6",
+    "title": "Could Mecha Comet's Linux PC-Phone Hybrid Be the Future of Linux Smartphones?",
+    "excerpt": "3,346 backers pledged $1,198,844 on Kickstarter to build the (modular) handheld Linux computer, the Mecha Comet. It's slightly bigger and heavier than your smartphone, with a 4-inch AMOLED display and loaded up with things like microphones, speakers, a SIM tray, two USB ports and a mini HDMI port.…",
+    "url": "https://linux.slashdot.org/story/26/08/24/0228216/could-mecha-comets-linux-pc-phone-hybrid-be-the-future-of-linux-smartphones?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-08-24T02:31:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "345f7fe69dfb24f4",
     "title": "Linux 7.3 Improving RAID 5/6 Benchmark-Based Algorithm Selection",
     "excerpt": "Following the main set of memory management \"MM\" changes submitted for Linux 7.3, Andrew Morton sent in his \"non-MM\" pull request of the other patches he's been collecting from various developers for this next Linux kernel release. Standing out there were some improvements to the RAID 5/6…",
@@ -1001,19 +1014,6 @@
     "publishedAt": "2026-08-22T21:30:00.000Z",
     "category": "Hardware",
     "imageUrl": "https://www.engadget.com/img/gallery/if-waymo-cars-are-level-4-automation-what-does-it-take-to-be-a-level-5/l-intro-1786657077.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "1d0782377edbbb93",
-    "title": "Rush Rescue Mission for NASA's $500M Space Telescope Fails",
-    "excerpt": "Remember that rush rescue mission for NASA's $500M space telescope? It failed, reports CNN, and the LINK satellite won't be able to boost the telescope's orbit. NASA says its decades-old Swift telescope will now continue losing altitude, until it reaches Earth's atmosphere later this year and burns…",
-    "url": "https://science.slashdot.org/story/26/08/22/1844225/rush-rescue-mission-for-nasas-500m-space-telescope-fails?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-08-22T21:00:00.000Z",
-    "category": "science",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
