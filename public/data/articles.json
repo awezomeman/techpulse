@@ -1,5 +1,135 @@
 [
   {
+    "id": "9c70561cc8117b9e",
+    "title": "Crypto political group details list of U.S. congressional allies its backing this year",
+    "excerpt": "Stand With Crypto, a member group that rates the crypto friendliness of politicians, is supporting 32 U.S. House incumbents, with more endorsements coming.",
+    "url": "https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Jesse Hamilton",
+    "publishedAt": "2026-08-24T17:30:10.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/6e8fdcc1bed7c2905fc568606a4db2d48360c7d0-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "da49ae7bb3dcd662",
+    "title": "YouTuber's backyard fab ambitions expand from RAM to homebrew LEDs",
+    "excerpt": "A YouTuber on a mission to liberate semiconductor manufacturing from the grip of multinational megacorporations is back with a new round of DIY success, this time manufacturing working LEDs in his backyard fab. Dr. Semiconductor, also known as semiconductor engineer Dr. Matthew Hartensveld, per his…",
+    "url": "https://www.theregister.com/systems/2026/08/24/youtubers-backyard-fab-ambitions-expand-from-ram-to-homebrew-leds/5291956",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-24T17:22:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://image.theregister.com/?imageId=5291973&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b4413f116cefd248",
+    "title": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
+    "excerpt": "The crypto exchange is starting with tokenized versions of Apple, Nvidia, Meta and Alphabet, issued under its new Abu Dhabi framework.",
+    "url": "https://www.coindesk.com/business/2026/08/24/coinbase-debuts-tokenized-stocks-on-base-network-joining-race-to-bring-equities-on-blockchain",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Krisztian Sandor",
+    "publishedAt": "2026-08-24T17:12:35.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/2ada5aa0d3416de51b4842b79a3c498a51d63c33-2526x1676.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "16534fa976e75a3b",
+    "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
+    "excerpt": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redfin to syndicate its listings, while Redfin would end its own advertising contracts and promise not to…",
+    "url": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Stevie Bonifield",
+    "publishedAt": "2026-08-24T17:01:05.000Z",
+    "category": "policy",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS500_FTC_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4129bc9259f0651b",
+    "title": "FDA Approves First Alzheimer's Blood Test For Americans As Young As 40",
+    "excerpt": "The FDA has cleared the first Alzheimer's blood test for symptomatic patients as young as 40. The test measures amyloid and tau biomarkers from a single blood draw and identified positive biomarkers with 97.6% accuracy in a validation study. New Atlas reports: PrecivityAD2 is a single blood test…",
+    "url": "https://science.slashdot.org/story/26/08/24/1637252/fda-approves-first-alzheimers-blood-test-for-americans-as-young-as-40?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-08-24T17:00:00.000Z",
+    "category": "science",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0741388fa76e5a97",
+    "title": "Iran-linked cyberattack shut down a UK power plant",
+    "excerpt": "A suspected Iran-linked cyberattack shut down a small UK power plant around the time that a series of digital intrusions disrupted American water utilities across 12 states. A British government spokesperson confirmed the hack to The Register on Monday and told us that the security incident…",
+    "url": "https://www.theregister.com/security/2026/08/24/iran-linked-cyberattack-shut-down-a-uk-power-plant/5291930",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-24T16:59:00.000Z",
+    "category": "security",
+    "imageUrl": "https://image.theregister.com/?imageId=5291980&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "253c23f0357fe0f1",
+    "title": "ESPN is raising prices on most of its streaming subscriptions, even bundles with Disney+",
+    "excerpt": "ESPN's Unlimited tier will cost $32 per month as of September 17.",
+    "url": "https://www.engadget.com/2242821/espn-is-raising-prices-on-most-of-its-streaming-subscriptions/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Lawrence Bonk)",
+    "publishedAt": "2026-08-24T16:49:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/espn-is-raising-prices-on-most-of-its-streaming-subscriptions-even-bundles-with-disney/l-intro-1787590062.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3189aace39c1d4ec",
+    "title": "Mozilla Presents Their Plan For Shipping JPEG-XL In Firefox 157",
+    "excerpt": "While Firefox 152+ already offers experimental JPEG-XL support, Mozilla formally announced today their plans for officially shipping JPEG-XL image format support in the Firefox web browser...",
+    "url": "https://www.phoronix.com/news/Firefox-JPEG-XL-2026-Plans",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-24T16:43:51.000Z",
+    "category": "science",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8d62c91e85403afe",
+    "title": "Robotaxis are real now — so is the pushback",
+    "excerpt": "Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis outside New York City after taxi drivers, unions, and state lawmakers opposed it. Six months later,…",
+    "url": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Rani Molla",
+    "publishedAt": "2026-08-24T16:42:37.000Z",
+    "category": "crypto",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415564/STK418_Autonomous_Vehicles_Cvirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "17c75b354fe0fbc1",
+    "title": "Logitech hit by sueball over tariff refunds",
+    "excerpt": "A complaint filed in a California District Court has accused peripheral maker Logitech of withholding tariff refunds from customers, and asked for the proceeds from its activities to be returned to punters. When the US administration imposed tariffs on imports, companies quickly passed them on to…",
+    "url": "https://www.theregister.com/legal/2026/08/24/logitech-hit-by-sueball-over-tariff-refunds/5291845",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-24T16:34:29.000Z",
+    "category": "policy",
+    "imageUrl": "https://image.theregister.com/?imageId=1684065&width=800",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "b0d6fee5c1da2131",
     "title": "What are the downsides of a mini PC?",
     "excerpt": "Small space means less cooling, which in turn means less sustained power.",
@@ -65,10 +195,10 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "d7038b7f9c33de4e",
+    "id": "5ba977b7385bab95",
     "title": "Emperor Penguin Linus Torvalds banishes a bug – with a bot",
     "excerpt": "Work on Linux kernel 7.3 is underway, and a bug fix just came in from an unusual source: Linus himself. Well, kind of… The new bug fix has the title of Don’t hand out the flat CCS storage as usable VRAM, and it comes from emperor penguin Linus Torvalds . Now that kernel 7.2 is out, the team is hard…",
-    "url": "https://www.theregister.com/os-platforms/2026/08/24/emperor-penguin-linus-torvalds-banishes-a-bug-with-a-bot/5291784",
+    "url": "https://www.theregister.com/os-platforms/2026/08/24/linus-torvalds-banishes-linux-bug-with-a-bot/5291784",
     "source": "The Register",
     "sourceHomepage": "https://www.theregister.com",
     "author": null,
@@ -249,7 +379,7 @@
   {
     "id": "c9b86a45401a6761",
     "title": "How GoFundMe became America’s backup plan",
-    "excerpt": "Today on Decoder , I’m talking with Tim Cadogan, the CEO of GoFundMe. You know GoFundMe — it’s a major fundraising platform where you can donate to help people with everything from medical expenses to little league uniforms to starting a new business. Tim took over as CEO in March 2020 — a…",
+    "excerpt": "Today on Decoder , I’m talking with Tim Cadogan, the CEO of GoFundMe. You know GoFundMe — it’s a major fundraising platform where you can donate to help people with everything from medical expenses to Little League uniforms to starting a new business. Tim took over as CEO in March 2020 — a…",
     "url": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
     "source": "The Verge",
     "sourceHomepage": "https://www.theverge.com",
@@ -755,7 +885,7 @@
   },
   {
     "id": "f460e2a9297c2cbc",
-    "title": "Live updates: Bitcoin moves closer to $80,000, but rally could need a breather",
+    "title": "Live updates: Bitcoin moves closer to $80,000, but rally could bring profit taking",
     "excerpt": "With bond yields still near multi-year highs, focus turns to Fed Chair Kevin Warsh's upcoming Jackson Hole address.",
     "url": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
     "source": "CoinDesk",
@@ -1029,7 +1159,7 @@
   {
     "id": "666f473cb39cc8a9",
     "title": "Uber faces fine of nearly $1B over automated driver suspensions",
-    "excerpt": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
+    "excerpt": "The Dutch Data Protection Authority is fining Uber €825 million in the second-largest penalty issued under Europe’s GDPR.",
     "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
     "source": "TechCrunch",
     "sourceHomepage": "https://techcrunch.com",
@@ -1037,19 +1167,6 @@
     "publishedAt": "2026-08-23T19:30:00.000Z",
     "category": "policy",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "677531eebb41e966",
-    "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
-    "excerpt": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, first to May 26th, 2026, then again to November 19th, 2026 , a full…",
-    "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Verge Staff",
-    "publishedAt": "2026-08-23T19:14:37.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VINTAGE_VICE_CITY_PACK_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -1316,19 +1433,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "5513ecd64357391e",
-    "title": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
-    "excerpt": "Jane Schoenbrun 's latest film, Teenage Sex and Death at Camp Miasma , is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair . I fell in love with this film when I first saw it at Sundance in 2021. We are…",
-    "url": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Terrence O’Brien",
-    "publishedAt": "2026-08-23T15:00:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MV5BNGQyNmE1ZDctNzlhYS00NDQyLWIwNjctYTQzNGFkZTNiZmUwXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw%40%40._V1_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "983fa0a7b2dd4ad2",
     "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
     "excerpt": "Tracked card volume more than tripled in a year, with USDC and USDT funding over 70% of spending as users increasingly paid for groceries, rides and subscriptions.",
@@ -1378,19 +1482,6 @@
     "publishedAt": "2026-08-23T14:30:16.000Z",
     "category": "science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2012/06/shackleton_center_cropped-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d9eac32e76e24868",
-    "title": "Wi-Fi 6 vs Wi-Fi 7: What's the difference and which is better for home internet?",
-    "excerpt": "Wi-Fi 6 Vs Wi-Fi 7: What's The Difference And Which Is Better For Home Internet?",
-    "url": "https://www.engadget.com/2240148/wi-fi-6-vs-wi-fi-7-whats-the-difference-and-which-is-better-for-home-internet/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Antony Terence)",
-    "publishedAt": "2026-08-23T14:30:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/wi-fi-6-vs-wi-fi-7-whats-the-difference-and-which-is-better-for-home-internet/l-intro-1787151357.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1495,19 +1586,6 @@
     "publishedAt": "2026-08-23T11:41:04.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d5c052b05c19b521",
-    "title": "Supply Chain Issues Delaying US Grid Batteries' Installation",
-    "excerpt": "Falling prices have made grid-scale storage batteries more attractive, reports Bloomberg. But after decades of stagnant investment, America's grids \"are racing to make the upgrades needed to plug them in,\" with supplies straining for the necessary equipment. Demand for batteries has skyrocketed as…",
-    "url": "https://hardware.slashdot.org/story/26/08/23/0333203/supply-chain-issues-delaying-us-grid-batteries-installation?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-08-23T11:34:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -1927,19 +2005,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "464e59ca37e929ba",
-    "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
-    "excerpt": "The Sandbox disabled bridging on affected networks to isolate tokens and warned users not to trade SAND on Base and BNB, citing an impact of under 0.01% of supply.",
-    "url": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Francisco Rodrigues",
-    "publishedAt": "2026-08-22T14:10:17.000Z",
-    "category": "security",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/c910fc1d77a080b35fa9ee1b719813158511ee07-1600x900.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "5d17435c4f47ef51",
     "title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
     "excerpt": "Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.",
@@ -1950,19 +2015,6 @@
     "publishedAt": "2026-08-22T14:00:00.000Z",
     "category": "hardware",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "1a3270e0f0deaace",
-    "title": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
-    "excerpt": "Fairmint CEO Joris Delanoue warns tokenized stocks risk recreating Wall Street’s 1960s paper crisis through fragmented systems and standards.",
-    "url": "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Will Canny",
-    "publishedAt": "2026-08-22T14:00:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/155e3ead47a755d673f9182dd4ef2a4d2eaecf98-1500x1001.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2330,19 +2382,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "c9fc97b07f7c7bdb",
-    "title": "Linux 7.3 Lands Improvements For Voodoo 3 / 4 / 5 & Vintage Atari Computers In 2026",
-    "excerpt": "At a time when Linux continues dropping older hardware drivers due to the influx of AI/LLM-generated bug reports and patches for hardware extremely unlikely to be used with modern versions of the mainline Linux kernel, Voodoo graphics cards and vintage Atari computers are seeing some reprieve with…",
-    "url": "https://www.phoronix.com/news/Linux-7.3-FBDEV",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-21T17:53:28.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "21ad7663a4c5488f",
     "title": "Fighter jets help destroy Russian drone boat near European offshore gas platform",
     "excerpt": "This week, Romania accused Russia of sending a drone boat loaded with explosives to a vital European natural gas platform in the Black Sea. A Romanian F-16 fighter jet used its cannons to disable the surface drone so that explosive ordnance experts could blow it up safely. On August 20, the…",
@@ -2691,45 +2730,6 @@
     "publishedAt": "2026-08-20T21:25:25.000Z",
     "category": "Science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/reunited8-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "88b83e3a15d89dc4",
-    "title": "Go updates may delight diehard gophers but displease AI overlords",
-    "excerpt": "The keepers of the Go programming language on Wednesday released the latest version, v1.27, and with it come considerable advances in generics. In a nutshell, generics allow developers to write logic where data types are treated as variables, eliminating the need to rewrite (or copy and paste) a…",
-    "url": "https://www.theregister.com/devops/2026/08/20/go-updates-may-delight-diehard-gophers-but-displease-ai-overlords/5290643",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-20T21:14:10.000Z",
-    "category": "hardware",
-    "imageUrl": "https://image.theregister.com/?imageId=5290671&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "de92191bc9cefa61",
-    "title": "OpenAI chases Anthropic's biz customers with zero data retention pledge",
-    "excerpt": "OpenAI appears to have found a way to balance AI model safety with commitments to retain no customer data, a feat rival Anthropic hasn't yet managed. For orgs concerned about who has access to their data, this could be a game-changer. The free-spending AI biz on Wednesday announced Private Safety…",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/20/openai-chases-anthropics-biz-customers-with-zero-data-retention-pledge/5290609",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-20T19:59:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://image.theregister.com/?imageId=5290632&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d4a8aa72d6e38bda",
-    "title": "Waymo has designed a robocar chip to stay ahead of Tesla",
-    "excerpt": "To reach their destinations safely, autonomous vehicles have just milliseconds to ingest and process streaming data from more than a dozen cameras. It's a job that's been handled with off-the-shelf AI components thus far, but Waymo has begun rolling its own AI ASICs to optimize the process. It's…",
-    "url": "https://www.theregister.com/edge-and-iot/2026/08/20/waymo-has-designed-a-robocar-chip-to-stay-ahead-of-tesla/5290592",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-20T19:41:58.000Z",
-    "category": "hardware",
-    "imageUrl": "https://image.theregister.com/?imageId=227785&width=800",
     "readTimeMinutes": 1
   },
   {
