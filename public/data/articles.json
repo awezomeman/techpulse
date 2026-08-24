@@ -1,5 +1,109 @@
 [
   {
+    "id": "d7038b7f9c33de4e",
+    "title": "Emperor Penguin Linus Torvalds banishes a bug – with a bot",
+    "excerpt": "Work on Linux kernel 7.3 is underway, and a bug fix just came in from an unusual source: Linus himself. Well, kind of… The new bug fix has the title of Don’t hand out the flat CCS storage as usable VRAM, and it comes from emperor penguin Linus Torvalds . Now that kernel 7.2 is out, the team is hard…",
+    "url": "https://www.theregister.com/os-platforms/2026/08/24/emperor-penguin-linus-torvalds-banishes-a-bug-with-a-bot/5291784",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-24T15:32:00.000Z",
+    "category": "software",
+    "imageUrl": "https://image.theregister.com/?imageId=5291813&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3bc104d1d9252dde",
+    "title": "Hot vs cold: What's the ideal temperature for solar panel efficiency?",
+    "excerpt": "Will solar panels work well in your location? Solar panel efficiency depends on several factors, including temperature.",
+    "url": "https://www.engadget.com/2240302/hot-vs-cold-ideal-best-temperature-solar-panel-explained/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Husain Parvez)",
+    "publishedAt": "2026-08-24T15:30:00.000Z",
+    "category": "science",
+    "imageUrl": "https://www.engadget.com/img/gallery/hot-vs-cold-whats-the-ideal-temperature-for-solar-panel-efficiency/l-intro-1786973561.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6fa02c4f9ef76b6b",
+    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "excerpt": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six.",
+    "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Rebecca Bellan",
+    "publishedAt": "2026-08-24T15:24:18.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8d9ac4c6981f5383",
+    "title": "ESPN streaming plans are getting more expensive",
+    "excerpt": "ESPN is hiking the price of its subscription on September 17th, a change that will also impact its bundles with Disney Plus. In a support page spotted earlier by Sports Media Watch , ESPN says its ad-supported Select membership will cost $13.99 instead of $12.99 / month, while its Unlimited plan…",
+    "url": "https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Emma Roth",
+    "publishedAt": "2026-08-24T15:06:24.000Z",
+    "category": "policy",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25594406/STK281_ESPN_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a8a77e4504265570",
+    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+    "excerpt": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+    "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Tim Fernholz",
+    "publishedAt": "2026-08-24T15:00:00.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6a2b6ac5ef25be44",
+    "title": "Tesla to recall almost three million vehicles over hidden door handles",
+    "excerpt": "Millions of Tesla vehicles are being recalled in China over the brand's hidden door handles, which regulators worry could present a danger in crashes. Minimalist door handles have long been a feature of Elon Musk's electric vehicles. However, Chinese regulators are less than impressed with the tech…",
+    "url": "https://www.theregister.com/offbeat/2026/08/24/tesla-to-recall-almost-three-million-vehicles-over-hidden-door-handles/5291757",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-24T15:00:00.000Z",
+    "category": "science",
+    "imageUrl": "https://image.theregister.com/?imageId=5291780&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "117eb9e35d509963",
+    "title": "Dr. Dre Says He Uses AI To Produce Songs",
+    "excerpt": "An anonymous reader quotes a report from Gizmodo: Dr. Dre, the pioneering rapper and seven-time Grammy-winning producer behind hit songs like Tupac's \"California Love\" and Eminem's \"The Real Slim Shady,\" is very much pro using artificial intelligence tools to make music. In an interview with the…",
+    "url": "https://entertainment.slashdot.org/story/26/08/24/081231/dr-dre-says-he-uses-ai-to-produce-songs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-08-24T15:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "706cd18342d0b530",
+    "title": "Raspberry Pi shares its official tutorial for making a cyberdeck",
+    "excerpt": "Raspberry Pi \" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/raspberry-pi-cyberdeck-main-Large.jpeg?quality=90&strip=all&crop=0,0,100,100\" /> Raspberry Pi's head of social, Ashley Whittaker, acknowledged the cyberdeck trend today, saying \"we…",
+    "url": "https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Stevie Bonifield",
+    "publishedAt": "2026-08-24T14:49:44.000Z",
+    "category": "startups",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/raspberry-pi-cyberdeck-main-Large.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "bc7e2f5a0e147c43",
     "title": "Why are more movies not shot in IMAX?",
     "excerpt": "Shooting an IMAX movie is an expensive endeavor that most filmmakers avoid, at least for now.",
@@ -573,7 +677,7 @@
   },
   {
     "id": "f460e2a9297c2cbc",
-    "title": "Live updates: Bitcoin climbs past $79,000, with gold topping $4,700",
+    "title": "Live updates: Bitcoin moves closer to $80,000, but rally could need a breather",
     "excerpt": "With bond yields still near multi-year highs, focus turns to Fed Chair Kevin Warsh's upcoming Jackson Hole address.",
     "url": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
     "source": "CoinDesk",
@@ -1200,7 +1304,7 @@
   },
   {
     "id": "d9eac32e76e24868",
-    "title": "Wi-Fi 6 vs Wi-Fi 7: What's the difference wnd which is better for home internet?",
+    "title": "Wi-Fi 6 vs Wi-Fi 7: What's the difference and which is better for home internet?",
     "excerpt": "Wi-Fi 6 Vs Wi-Fi 7: What's The Difference And Which Is Better For Home Internet?",
     "url": "https://www.engadget.com/2240148/wi-fi-6-vs-wi-fi-7-whats-the-difference-and-which-is-better-for-home-internet/",
     "source": "Engadget",
@@ -1326,19 +1430,6 @@
     "publishedAt": "2026-08-23T12:32:00.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=1682578&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "87f63efbb85ec426",
-    "title": "What to try when an Android app keeps crashing",
-    "excerpt": "Don't keep restarting your phone. Try these other steps instead.",
-    "url": "https://www.engadget.com/2240143/what-to-try-andoird-app-keeps-crashing/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Adnan Ahmed)",
-    "publishedAt": "2026-08-23T12:30:00.000Z",
-    "category": "software",
-    "imageUrl": "https://www.engadget.com/img/gallery/what-to-try-when-an-android-app-keeps-crashing/l-intro-1786662380.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1563,19 +1654,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "1eb94baa549cc70b",
-    "title": "Defamation Suit Demanding Elsevier Retract Paper Heads Closer To Trial",
-    "excerpt": "Retraction Watch reports: A trial date has been set in a $1 billion defamation case against Elsevier that alleges the company published what plaintiffs say was a manipulated study about an air purifying technology over objections from peer reviewers. The case has already cost Elsevier a $10,000…",
-    "url": "https://science.slashdot.org/story/26/08/23/0113210/defamation-suit-demanding-elsevier-retract-paper-heads-closer-to-trial?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-08-23T04:33:00.000Z",
-    "category": "science",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "7dc96f572507ae04",
     "title": "To become a better writer, read as much as you can",
     "excerpt": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 316 # Comments: 208",
@@ -1758,19 +1836,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "54c67d08d3f0e117",
-    "title": "Doodle generative compositions in your browser with Musical Spirograph",
-    "excerpt": "So pretty. | Screenshot: Terrence O’Brien / The Verge I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical…",
-    "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Terrence O’Brien",
-    "publishedAt": "2026-08-22T17:00:00.000Z",
-    "category": "science",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-21-at-2.49.24-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "11bfce24e7f02ff5",
     "title": "OpenAI says California should strengthen its AI safety bill",
     "excerpt": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
@@ -1833,19 +1898,6 @@
     "publishedAt": "2026-08-22T15:02:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=5270164&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "282f77d427690d18",
-    "title": "W. Kamau Bell has the most practical ‘most indispensable tool’",
-    "excerpt": "I’m just as confused as you. | Image: Aundre Larrow W. Kamau Bell is one of those people who has always just seemed to be there. From Totally Biased , to Politically Re-Active , United Shades of America , and We Need to Talk About Cosby , his blend of comedy, social commentary, and political…",
-    "url": "https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Terrence O’Brien",
-    "publishedAt": "2026-08-22T15:00:00.000Z",
-    "category": "security",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Bell-W.-Kamau-2-PC-Aundre-Larrow.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -2057,19 +2109,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "c665db5b81e9cdf1",
-    "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-    "excerpt": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
-    "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Kate Park",
-    "publishedAt": "2026-08-22T01:03:06.000Z",
-    "category": "science",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "8f2021869dbe2fd9",
     "title": "KDE Plasma 6.8 Lands Some Enticing Performance Optimizations This Week",
     "excerpt": "This Week in Plasma is out with its latest issue to highlight interesting developments in the trek towards Plasma 6.8...",
@@ -2119,19 +2158,6 @@
     "publishedAt": "2026-08-21T23:32:17.000Z",
     "category": "science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/9315875-1152x648-1787353404.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "393f1149ee173f71",
-    "title": "Anthropic’s Opus 4.6 is a smut-machine",
-    "excerpt": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Rebecca Bellan",
-    "publishedAt": "2026-08-21T23:07:25.000Z",
-    "category": "ai",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2717,32 +2743,6 @@
     "publishedAt": "2026-08-20T16:45:00.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=5290518&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "db2183cc32ac865f",
-    "title": "US claims 15 of the world's top 20 hyperscale datacenter locations",
-    "excerpt": "The US now accounts for 15 of the world's 20 largest hyperscale datacenter markets, with Northern Virginia alone hosting nearly 12 percent of global capacity. US locations have increased their dominance of the rankings as cloud infrastructure expands, according to Synergy Research. Since last year,…",
-    "url": "https://www.theregister.com/off-prem/2026/08/20/us-claims-15-of-the-worlds-top-20-hyperscale-datacenter-locations/5290436",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-20T16:12:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://image.theregister.com/?imageId=261440&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "849bab4dfa550bce",
-    "title": "Researcher tricks Apple’s Find My into sharing location data with Linux",
-    "excerpt": "A young security researcher figured out a way to enroll a Linux device into Apple’s Find My network and read live location data from it. Find My is Apple’s app for, you guessed it, finding things – whether AirTags, iPads, or other supported devices and items. It also works for people. Families can…",
-    "url": "https://www.theregister.com/security/2026/08/20/researcher-tricks-apples-find-my-into-sharing-location-data-with-linux/5290496",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-20T16:10:54.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=5290528&width=800",
     "readTimeMinutes": 1
   },
   {
