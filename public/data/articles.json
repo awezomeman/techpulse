@@ -1,5 +1,31 @@
 [
   {
+    "id": "2bb2c83c023f99c9",
+    "title": "Ray Dalio says investors should own ‘a bit of Bitcoin’ as U.S. debt risks rise",
+    "excerpt": "The Bridgewater founder says recent Treasury-market stress fits his long-running debt-crisis framework, though he still prefers gold as the bigger hedge.",
+    "url": "https://www.coindesk.com/markets/2026/08/24/ray-dalio-says-investors-should-own-a-bit-of-bitcoin-as-u-s-debt-risks-rise",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-08-24T05:13:19.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/66cd2470ebcf7907d01390a0237f00f003942dbb-4000x2667.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "acbaba92cabc7c85",
+    "title": "Bessent's $4 billion bond buyback wanted lower yields. It got a bitcoin surge instead.",
+    "excerpt": "Bessent’s bond-buyback plan fails to curb Treasury yields. Here's what it means for bitcoin and gold",
+    "url": "https://www.coindesk.com/markets/2026/08/24/bessent-s-usd4-billion-bond-buyback-wanted-lower-yields-it-got-a-bitcoin-surge-instead",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Omkar Godbole",
+    "publishedAt": "2026-08-24T05:12:56.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/fb81811e682f5993a7a991941d69995febee3723-5411x3529.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "b4ea458be1bab2c7",
     "title": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
     "excerpt": "The firm raised $68 million as its revenue has grown six-fold as stablecoin payments and settlement expand, CEO Mohammad Raafi Hossain told CoinDesk.",
@@ -2291,19 +2317,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "3c46772919bc3c96",
-    "title": "Strategy sits on $1.4 billion profit on bitcoin holdings as price surges",
-    "excerpt": "Strategy’s common stock rose 10% in Friday pre-market trading to $120, the highest level in two months.",
-    "url": "https://www.coindesk.com/markets/2026/08/21/strategy-sits-on-usd1-4-billion-profit-on-bitcoin-holdings-as-price-surges",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "James Van Straten",
-    "publishedAt": "2026-08-21T08:24:52.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/dd98498dbda09f933fbeac48aac3591d14c0deee-3018x1697.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "3539d11fb4575fa2",
     "title": "EE invites mobile users to live life in the 5G Fast Lane – for a price",
     "excerpt": "Mobile operator EE has launched Fast Lane, using 5G network slicing to prioritize subscribers' connections when its network is congested. According to EE, BT Group's mobile network, Fast Lane anticipates congestion and seamlessly moves eligible connections onto a dedicated network slice. EE says…",
@@ -2314,19 +2327,6 @@
     "publishedAt": "2026-08-21T07:44:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=5290340&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3ca14ce77fea8074",
-    "title": "Live updates: Bitcoin slips back to $77,000 after challenging $80,000 overnight",
-    "excerpt": "Spot bitcoin ETFs pulled in $606 million on Aug. 20 and ether funds $221 million, both bigger than the prior day, confirming the institutional bid behind bitcoin's run.",
-    "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Shaurya Malwa",
-    "publishedAt": "2026-08-21T06:43:24.000Z",
-    "category": "crypto",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
