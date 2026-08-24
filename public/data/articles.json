@@ -1,5 +1,44 @@
 [
   {
+    "id": "b4ea458be1bab2c7",
+    "title": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
+    "excerpt": "The firm raised $68 million as its revenue has grown six-fold as stablecoin payments and settlement expand, CEO Mohammad Raafi Hossain told CoinDesk.",
+    "url": "https://www.coindesk.com/business/2026/08/22/stablecoin-neobank-fasset-lands-usd1-billion-valuation-as-sbi-backs-its-payments-push",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Krisztian Sandor",
+    "publishedAt": "2026-08-24T04:45:00.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/d0866c2b1722cdffa55844039e5a8465e8132d2e-3000x1688.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d4a14a097b173e9e",
+    "title": "Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus",
+    "excerpt": "Bitcoin holds above $77,000 after a 21% week, with XRP up 46% over the same stretch. Asian stocks fell as Samsung and Alibaba slid.",
+    "url": "https://www.coindesk.com/markets/2026/08/24/crypto-holds-big-weekly-rally-as-warsh-s-jackson-hole-debut-comes-into-focus",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-08-24T04:41:28.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/e5f2293daa4cfa05aaf86ac4348f5596cdb79730-1516x852.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "58330aaa0b04f7bd",
+    "title": "One-Third of Web Pages are Now Written With AI, Says Pew Research",
+    "excerpt": "A Pew Research senior data scientist analyzed 500,000 English-language webpages from the past five years with an AI detection tool to estimate how many were likely written or edited by AI: Of all the pages in this sample, 10% show significant signs of AI authorship... If we filter old webpages out…",
+    "url": "https://slashdot.org/story/26/08/24/0359209/one-third-of-web-pages-are-now-written-with-ai-says-pew-research?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-08-24T04:34:00.000Z",
+    "category": "science",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "b6e07ef35d0ec0d6",
     "title": "Could Mecha Comet's Linux PC-Phone Hybrid Be the Future of Linux Smartphones?",
     "excerpt": "3,346 backers pledged $1,198,844 on Kickstarter to build the (modular) handheld Linux computer, the Mecha Comet. It's slightly bigger and heavier than your smartphone, with a 4-inch AMOLED display and loaded up with things like microphones, speakers, a SIM tray, two USB ports and a mini HDMI port.…",
@@ -962,19 +1001,6 @@
     "publishedAt": "2026-08-23T00:24:17.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "bb1906dadc0b2378",
-    "title": "How Will AI Change the Field of Mathematics?",
-    "excerpt": "\"AI went from being very terrible to seemingly genuinely quite good at a professional level in a very short space of time...\" says the Verge's AI reporter. But AI systems \"are still truly, truly terrible at some areas of math... even the days of the week.\" If you look at academic math papers, a lot…",
-    "url": "https://science.slashdot.org/story/26/08/22/2235244/how-will-ai-change-the-field-of-mathematics?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-08-22T22:39:00.000Z",
-    "category": "science",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -2317,19 +2343,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "12973e1322f8a91a",
-    "title": "MANTRA token plunges 18% to record low as blockchain halts after exploit",
-    "excerpt": "The token touched $0.004126 minutes before the network stopped producing blocks, while MANTRA later said an attacker exploited a vulnerability in software used by the chain.",
-    "url": "https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Shaurya Malwa",
-    "publishedAt": "2026-08-21T05:52:27.000Z",
-    "category": "security",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/36b08d944e964cea3642474c76fe72e4fc96fd0d-1280x853.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "ad21acbf67531256",
     "title": "Cisco bug severity warning reads like Olympic gymnastics scores: 10, 10, 9.9, 9.6, and 7.5.",
     "excerpt": "Cisco has revealed its Secure Workload Software, a micro-segmentation tool formerly known as Tetration that is supposed to stop attackers moving laterally across a network, has four critical flaws plus another high-severity bug. CVE-2026-20315 and CVE-2026-20317 are the two perfect-ten-rated bugs.…",
@@ -2340,19 +2353,6 @@
     "publishedAt": "2026-08-21T05:33:08.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=5290859&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d2b242c75b9ef751",
-    "title": "Ripple backs an RLUSD credit fund amid XRP's best week in months",
-    "excerpt": "Clearpool and Cicada Partners are building an institutional lending product using RLUSD, though the XRP Ledger features underpinning it are still awaiting activation.",
-    "url": "https://www.coindesk.com/markets/2026/08/21/ripple-backs-an-rlusd-credit-fund-amid-xrp-s-best-week-in-months",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Shaurya Malwa",
-    "publishedAt": "2026-08-21T05:29:48.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/260b57a4fe560b018cc5f2eb91b9df196b57dc92-3773x2122.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
