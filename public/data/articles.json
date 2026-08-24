@@ -1,5 +1,70 @@
 [
   {
+    "id": "dd409d65291700a4",
+    "title": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
+    "excerpt": "Two of the three proposals would reduce SOL supply growth by speeding up Solana’s inflation decline and raising daily fee burns from about 650 SOL to as much as 9,000 SOL.",
+    "url": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-08-24T12:52:30.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/9a77266875bd5ba03807c057c4d6412491668d63-3622x2717.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "62304ea3ddcbb1d9",
+    "title": "AliExpress accused of fingerprinting shoppers with silent audio trick that also muted a dev's headphones",
+    "excerpt": "Developer Matt Callaghan claims he caught Alibaba trying to track web users by playing sounds through browsers vulnerable to audio fingerprinting. The software engineer drew attention to the issue late last week after investigating why his Bluetooth headphones stopped playing music whenever he…",
+    "url": "https://www.theregister.com/security/2026/08/24/aliexpress-accused-of-fingerprinting-shoppers-with-silent-audio-trick-that-also-muted-a-devs-headphones/5291662",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-24T12:32:00.000Z",
+    "category": "security",
+    "imageUrl": "https://image.theregister.com/?imageId=257881&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "eb35c244ada3f255",
+    "title": "Strategy raises $2 billion through MSTR sales and creates new USD Cash pool",
+    "excerpt": "The company sold 18.26 million MSTR shares, increased its USD Reserve to $5.1 billion and repurchased another $136.4 million of STRC.",
+    "url": "https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "James Van Straten",
+    "publishedAt": "2026-08-24T12:24:58.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/dd98498dbda09f933fbeac48aac3591d14c0deee-3018x1697.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "222b29f3aab3b797",
+    "title": "US datacenters tripled their water footprint in 10 years",
+    "excerpt": "Datacenters in America used about 17 billion gallons of water during 2023, triple the amount they used a decade earlier in 2014, according to an estimate from US Congressional Research Service (CRS). In a recent report published by the Library of Congress, the CRS casts an eye over how server farms…",
+    "url": "https://www.theregister.com/on-prem/2026/08/24/us-datacenters-tripled-their-water-footprint-in-10-years/5291564",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-24T12:01:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://image.theregister.com/?imageId=4094013&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ad5dff7a55d0b819",
+    "title": "GNU Emacs 31.1 Released With Mouse Control Enabled By Default, Theme For New Users",
+    "excerpt": "GNU Emacs 31.1 is out today as the newest feature release to this popular text editor...",
+    "url": "https://www.phoronix.com/news/GNU-Emacs-31.1-Released",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-24T11:55:01.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "d35a5289e476f46b",
     "title": "De-Googled GrapheneOS is coming to Motorola’s foldables next year",
     "excerpt": "The Razr Ultra line is among those due to receive GrapheneOS support next year. | Photo: Allison Johnson / The Verge GrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones. Official support is set to arrive…",
@@ -75,6 +140,19 @@
     "publishedAt": "2026-08-24T11:15:00.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/4997e8344864d8af680c8573fe456675d3db41fd-3965x2230.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3b98deb59b14113c",
+    "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
+    "excerpt": "In another time, the MacBook Neo could have caused a substantial realignment of the lowish-end laptop business. Sure, it has shortcomings compared to the MacBook Air, but it could have at least encouraged PC makers to start shipping consistently decent keyboards, screens, and build quality in the…",
+    "url": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Andrew Cunningham",
+    "publishedAt": "2026-08-24T11:00:01.000Z",
+    "category": "hardware",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/IMG_9264-1152x648-1787169907.jpeg",
     "readTimeMinutes": 1
   },
   {
@@ -287,15 +365,15 @@
   },
   {
     "id": "f460e2a9297c2cbc",
-    "title": "Live updates: Bitcoin and gold hit fresh daily highs as bitcoin climbs above $78,000",
-    "excerpt": "Bitcoin holds its gains near $77,000 after a 22% week, while last week's biggest altcoin winners steady, with focus turning to Fed Chair Warsh's Jackson Hole debut.",
+    "title": "Live updates: Bitcoin climbs past $78,000 early Monday, with gold topping $4,700",
+    "excerpt": "With bond yields still near multi-year highs, focus turns to Fed Chair Kevin Warsh's upcoming Jackson Hole address.",
     "url": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
     "source": "CoinDesk",
     "sourceHomepage": "https://www.coindesk.com",
     "author": "Shaurya Malwa",
     "publishedAt": "2026-08-24T08:05:57.000Z",
     "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/cd18eda683c70e79b1a216101c6597d4892df0a1-1518x846.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -901,7 +979,7 @@
   },
   {
     "id": "661b4dd315dae6ab",
-    "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+    "title": "Due to need for \"absolute success,\" China delays critical Moon launch to 2027",
     "excerpt": "China's \"Manned Space\" program issued a terse announcement on Sunday regarding its much-anticipated Chang’e 7 lunar exploration mission. The agency stated: \"In keeping with the principle of proceeding prudently and reliably, and ensuring absolute success, after a comprehensive assessment it has…",
     "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
     "source": "Ars Technica",
@@ -1732,19 +1810,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "cd4c8a3a48041eec",
-    "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
-    "excerpt": "Bitcoin and crypto staged their strongest rally in months as Treasury intervention, regulatory moves and a historic short squeeze collided, while banks and technology companies pushed deeper into stablecoins.",
-    "url": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Aoyon Ashraf",
-    "publishedAt": "2026-08-22T12:00:00.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/e5935e0dfa2e7f85bd8761d8a1d6e4e8f1cce2c3-8192x5464.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "73b1f717a76ca5b1",
     "title": "Putting mice into hibernation causes a major loss of synapses",
     "excerpt": "Our leading hypothesis for how our memories are stored is that when you learn something, the connections among neurons involved get stronger and physically larger, and that constitutes the memory. The trouble is that these connections significantly change over time—they’re plastic. “If you compare…",
@@ -1872,19 +1937,6 @@
     "publishedAt": "2026-08-22T08:43:00.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=5291261&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "1f975915384a47c3",
-    "title": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
-    "excerpt": "ZEC traded above its January 2018 peak as futures volume hit billions of dollars and a Grayscale filing showed fresh progress toward converting its Zcash Trust into a spot ETF.",
-    "url": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Shaurya Malwa",
-    "publishedAt": "2026-08-22T05:37:43.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/d29e6d7594033495762bede569ca03135e9b62c4-1514x840.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2249,19 +2301,6 @@
     "publishedAt": "2026-08-21T15:45:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=235319&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ade71846c3e03426",
-    "title": "Nginx Dark Mode Support For Error Pages Remains Elusive",
-    "excerpt": "In early 2025 I wrote about the upstream Nginx web server rejecting dark mode support for its error pages on the basis of wanting to keep the default error pages simple and developers arguing the extra HTML tag for the dark mode styling as superfluous. Following a lot of public backlash for being…",
-    "url": "https://www.phoronix.com/news/Nginx-Dark-Mode-Mystery",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-21T15:25:41.000Z",
-    "category": "hardware",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2668,19 +2707,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "0106bfa2fb7bf230",
-    "title": "Genesis joins the giant electric SUV club with new GV90",
-    "excerpt": "A couple of years ago, Genesis showed us its unique take on the luxury electric SUV with the Neolum concept. The brand's designers know how to draw a handsome shape, particularly using an SUV's proportions, and the clean-lined concept featured a four-seat interior with no B pillar, swiveling front…",
-    "url": "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Jonathan M. Gitlin",
-    "publishedAt": "2026-08-20T14:35:58.000Z",
-    "category": "Science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Original-6723-photo-3-gv90-exterior-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "a4d839dd506ecdd5",
     "title": "Ransomware crook poses as recovery firm to steal payments from fellow extortionists",
     "excerpt": "A ransomware affiliate appears to have found a new way to squeeze victims for cash: pose as the good guy and undercut the criminals it was working with. Researchers at GuidePoint Security say an outfit calling itself \"Ransom Busters\" has been contacting ransomware victims before their attacks…",
@@ -2717,32 +2743,6 @@
     "publishedAt": "2026-08-20T13:45:00.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=5289735&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c3149cf2168a46b1",
-    "title": "£37M SAP overhaul could extend Capgemini's run with UK tax collector to 28 years",
-    "excerpt": "The UK's tax collector has awarded Capgemini a £37 million contract to help migrate a critical tax system from SAP's legacy ECC platform to S/4HANA, extending a supplier relationship that began in 2004. HM Revenue & Customs (HMRC) has hired the French IT services company to move the Enterprise Tax…",
-    "url": "https://www.theregister.com/public-sector/2026/08/20/37m-sap-overhaul-could-extend-capgeminis-run-with-uk-tax-collector-to-28-years/5290329",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-20T13:26:00.000Z",
-    "category": "startups",
-    "imageUrl": "https://image.theregister.com/?imageId=5288694&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "592bb798b9c55990",
-    "title": "Grok chat duped into swallowing injected instructions",
-    "excerpt": "xAI's Grok web chat agent is currently vulnerable to a novel form of prompt injection, according to security researchers with Adversa AI. The technique allows an attacker to create a web page poisoned with malicious instructions that induce an AI model summarizing the page to carry out harmful…",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/20/grok-chat-duped-into-swallowing-injected-instructions/5290019",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-20T13:00:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://image.theregister.com/?imageId=240567&width=800",
     "readTimeMinutes": 1
   },
   {
