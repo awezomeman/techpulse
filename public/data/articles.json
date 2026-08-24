@@ -1,5 +1,122 @@
 [
   {
+    "id": "4d38648c033d9e08",
+    "title": "Hugging Face reportedly in talks to be acquired for $13B",
+    "excerpt": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+    "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Rebecca Bellan",
+    "publishedAt": "2026-08-24T13:47:26.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3cd0fce72b08c4d1",
+    "title": "Netflix reportedly considers opening its app to other streamers",
+    "excerpt": "Netflix executives have considered making third-party streaming services available within its app, according to a report from The New York Times . The recent discussions reportedly centered around bringing Peacock and Fox One to Netflix, though it's unclear whether the streaming giant would sell…",
+    "url": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Emma Roth",
+    "publishedAt": "2026-08-24T13:47:14.000Z",
+    "category": "crypto",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951360/STK072_VRG_Illo_N_Barclay_8_netflix.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4986ea2460f1b949",
+    "title": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
+    "excerpt": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity.",
+    "url": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Ivan Mehta",
+    "publishedAt": "2026-08-24T13:45:15.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "402408eca7496d6e",
+    "title": "Chipmakers laughing all the way to the vault as memory prices go stratospheric",
+    "excerpt": "Semiconductor revenue is set to nearly double this year, with Gartner projecting the industry will bring in $1.6 trillion in 2026, up sharply from $809 billion in 2025 Memory chips are driving almost all of that growth: DRAM and NAND revenue are each expected to roughly triple or quadruple, pushing…",
+    "url": "https://www.theregister.com/systems/2026/08/24/chipmakers-laughing-all-the-way-to-the-vault-as-memory-prices-go-stratospheric/5291690",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-24T13:40:03.000Z",
+    "category": "hardware",
+    "imageUrl": "https://image.theregister.com/?imageId=1673877&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f1c62c27febd6b9b",
+    "title": "Early Linux 7.3 Kernel Benchmarks Show Some Performance Improvements, Some Regressions",
+    "excerpt": "Being halfway through the Linux 7.3 kernel merge window and prior to wrapping up and sending back the HP Z4 G6i workstation powered by the Xeon 678X Granite Rapids WS processor, I decided to run some benchmarks to see how Linux 7.3 Git is performing relative to the prior stable kernel series. Here…",
+    "url": "https://www.phoronix.com/review/linux-73-early-benchmarks",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-24T13:38:00.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f64684c71505181b",
+    "title": "The biggest downsides to using a digital car key",
+    "excerpt": "Many newer vehicles can be accessed from the owner's phone, if they've set it up. There are some things to consider before adding your key.",
+    "url": "https://www.engadget.com/2240284/biggest-downsides-using-digital-car-key/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Christine Persaud)",
+    "publishedAt": "2026-08-24T13:30:00.000Z",
+    "category": "software",
+    "imageUrl": "https://www.engadget.com/img/gallery/the-biggest-downsides-to-using-a-digital-car-key/l-intro-1786387351.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "60754ce6fda46034",
+    "title": "I picked Task Manager 'to see how ready AI is for primetime… or if it would just degrade to slop' – OG dev talks to The Reg",
+    "excerpt": "The author of the original legendary 1996 Windows Task Manager has released new versions for Windows, Mac, and Linux, telling The Reg the project started life as a way to see if vibe coding could produce something useful. \"I picked Task Manager as a simpler target to see how ready AI is for…",
+    "url": "https://www.theregister.com/applications/2026/08/24/i-picked-task-manager-to-see-how-ready-ai-is-for-primetime-or-if-it-would-just-degrade-to-slop-og-dev-talks-to-the-reg/5291639",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-24T13:03:00.000Z",
+    "category": "software",
+    "imageUrl": "https://image.theregister.com/?imageId=5291651&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "255ade25f63a746c",
+    "title": "The best way to test your Dolby Atmos sound system",
+    "excerpt": "When you're testing your Dolby Atmos system, pick a good benchmark video and stick with it.",
+    "url": "https://www.engadget.com/2240264/best-way-test-dolby-atmos-sound/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Jack Whitcombe)",
+    "publishedAt": "2026-08-24T13:00:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/the-best-way-to-test-your-dolby-atmos-sound-system/l-intro-1787165312.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "30b76a7e85a4bc5f",
+    "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
+    "excerpt": "The treasury firm stepped up its ETH buying as Tom Lee said the crypto’s 30% weekly rally could signal a larger move ahead.",
+    "url": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Krisztian Sandor",
+    "publishedAt": "2026-08-24T12:59:55.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/9d7bd39b2982649e7e43cc0537c507eb62abc21c-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "dd409d65291700a4",
     "title": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
     "excerpt": "Two of the three proposals would reduce SOL supply growth by speeding up Solana’s inflation decline and raising daily fee burns from about 650 SOL to as much as 9,000 SOL.",
@@ -23,6 +140,19 @@
     "publishedAt": "2026-08-24T12:32:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=257881&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2fd633607fa39e50",
+    "title": "What's the difference between Dolby Digital 5.1 and Dolby Digital Plus?",
+    "excerpt": "Is one better than the other? Will your equipment support both? Here's what you need to know and how it might affect your setup.",
+    "url": "https://www.engadget.com/2240277/dolby-digital-vs-plus-what-difference-between/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Novak Božović)",
+    "publishedAt": "2026-08-24T12:30:00.000Z",
+    "category": "software",
+    "imageUrl": "https://www.engadget.com/img/gallery/whats-the-difference-between-dolby-digital-5-1-and-dolby-digital-plus/l-intro-1787062861.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -365,7 +495,7 @@
   },
   {
     "id": "f460e2a9297c2cbc",
-    "title": "Live updates: Bitcoin climbs past $78,000 early Monday, with gold topping $4,700",
+    "title": "Live updates: Bitcoin climbs past $79,000 early Monday, with gold topping $4,700",
     "excerpt": "With bond yields still near multi-year highs, focus turns to Fed Chair Kevin Warsh's upcoming Jackson Hole address.",
     "url": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
     "source": "CoinDesk",
@@ -1485,19 +1615,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "bf0ccdec8e8ed4cb",
-    "title": "How to limit Instagram from using your data for AI and ads",
-    "excerpt": "You can keep Instagram from using your activity outside the app to influence the ads you get.",
-    "url": "https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Novak Božović)",
-    "publishedAt": "2026-08-22T20:30:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/how-to-limit-instagram-from-using-your-data-for-ai-and-ads/l-intro-1786459133.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "7df972bbb6b899d3",
     "title": "Will the DOJ’s investigation into a16z spook other VCs?",
     "excerpt": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
@@ -1511,19 +1628,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "ddcf2dd2f651aa46",
-    "title": "The oldest iPhone model you can trade-in with Apple is older than you'd think",
-    "excerpt": "Even old Apple devices you haven't touched in years could still get you some credit towards a new phone.",
-    "url": "https://www.engadget.com/2240134/oldest-iphone-model-trade-in-with-apple/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Ben Stegner)",
-    "publishedAt": "2026-08-22T20:00:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/the-oldest-iphone-model-you-can-trade-in-with-apple-is-older-than-youd-think/l-intro-1786647748.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "ec00c38f889fd611",
     "title": "Redox OS Switches To EEVDF-Based Scheduler For 2.6x Throughput",
     "excerpt": "The Rust-written, from-scratch Redox OS operating system has switched to using an EEVDF based scheduler design. In doing so they are promoting a 2.6x increase in throughput and a 782x improvement in fairness...",
@@ -1534,19 +1638,6 @@
     "publishedAt": "2026-08-22T19:42:00.000Z",
     "category": "crypto",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "9b1065fed3c4bb2e",
-    "title": "OpenAI calls for California to strengthen its AI safety laws",
-    "excerpt": "The AI leader said that the state's SB 53 framework should \"be amended to expand safeguards.\"",
-    "url": "https://www.engadget.com/2242200/openai-calls-for-california-to-strengthen-ai-safety-laws/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Jackson Chen)",
-    "publishedAt": "2026-08-22T19:27:04.000Z",
-    "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/openai-calls-for-california-to-strengthen-its-ai-safety-laws/l-intro-1787426239.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1745,19 +1836,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "82284cf91e538268",
-    "title": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
-    "excerpt": "Washington state is cut off for Kalshi customers while the company combats the development in court and its federal regulator keeps pursuing new rules.",
-    "url": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Jesse Hamilton",
-    "publishedAt": "2026-08-22T13:30:00.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/6d84d85eddfea0214122fb8436cd96c91a7a922e-2880x1620.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "1a0492973d07390d",
     "title": "AI slop is good for business if you know what you're doing",
     "excerpt": "Amazon founder Jeff Bezos is known for saying, \"Your margin is my opportunity.\" Substitute \"irresponsibility\" for \"margin,\" and you have a formulation that applies to AI-driven software development. AI models or coding agents make mistakes, and many of the people using them multiply those errors by…",
@@ -1794,19 +1872,6 @@
     "publishedAt": "2026-08-22T12:42:26.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d37b4cd83ef615b6",
-    "title": "Two great new repairable gadgets",
-    "excerpt": "Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all the old editions at the Installer homepage .) This week, I've been getting back into the Installer groove, trying out…",
-    "url": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Jay Peters",
-    "publishedAt": "2026-08-22T12:00:00.000Z",
-    "category": "policy",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/installer.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -2070,19 +2135,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "81cc8caaf0986a17",
-    "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
-    "excerpt": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
-    "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Dominic-Madori Davis",
-    "publishedAt": "2026-08-21T22:10:01.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "f3a6172c7f50cebb",
     "title": "Proton 11.0-2 Enables More Titles With Steam Play / Linux Gaming",
     "excerpt": "Just in time for those that enjoy their Linux / Steam Play gaming on weekends, Valve and CodeWeavers today released Proton 11.0-2 as the newest stable release of this Wine 11.0 downstream that powers Steam Play for running Windows games gracefully on Linux...",
@@ -2092,19 +2144,6 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-08-21T21:14:07.000Z",
     "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "2dd938a54109f6eb",
-    "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
-    "excerpt": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
-    "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Lucas Ropek",
-    "publishedAt": "2026-08-21T20:58:07.000Z",
-    "category": "hardware",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -2704,45 +2743,6 @@
     "publishedAt": "2026-08-20T15:03:00.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=5290483&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a4d839dd506ecdd5",
-    "title": "Ransomware crook poses as recovery firm to steal payments from fellow extortionists",
-    "excerpt": "A ransomware affiliate appears to have found a new way to squeeze victims for cash: pose as the good guy and undercut the criminals it was working with. Researchers at GuidePoint Security say an outfit calling itself \"Ransom Busters\" has been contacting ransomware victims before their attacks…",
-    "url": "https://www.theregister.com/cyber-crime/2026/08/20/ransomware-crook-poses-as-recovery-firm-to-steal-payments-from-fellow-extortionists/5290344",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-20T14:27:00.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=5290355&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "03279871b4cc5180",
-    "title": "Intel Hyper Threading Performance On The Xeon 678X \"Granite Rapids-WS\"",
-    "excerpt": "With the Intel Xeon 678X \"Granite Rapids WS\" processor that I have been recently testing within the HP Z4 G6i workstation, there are 48 cores plus with Hyper Threading is a total of 96 threads for this high-end workstation processor with a 300 Watt TDP. For those curious about the performance…",
-    "url": "https://www.phoronix.com/review/intel-xeon-678x-ht",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-20T14:21:00.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "e25705dbd34560eb",
-    "title": "NetBSD 11 lands with RISC-V support and lightning-fast VM boots",
-    "excerpt": "NetBSD's 19th major release adds 64-bit RISC-V support, improved Linux compatibility, and a MICROVM kernel that can boot in milliseconds. NetBSD 11.0 arrived at the end of July, a little over two years after the project celebrated its 30th birthday with the release of version 10.0. We looked at…",
-    "url": "https://www.theregister.com/os-platforms/2026/08/20/netbsd-11-lands-with-risc-v-support-and-lightning-fast-vm-boots/5289713",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-20T13:45:00.000Z",
-    "category": "software",
-    "imageUrl": "https://image.theregister.com/?imageId=5289735&width=800",
     "readTimeMinutes": 1
   },
   {
