@@ -1,5 +1,57 @@
 [
   {
+    "id": "7d620d90cc1c1dd3",
+    "title": "Humanoid robots smash Usain Bolt’s 100-meter record",
+    "excerpt": "Tiangong Ultra (left) also broke the 400 meter world record during this year’s World Humanoid Robot Games. | Image: Lintao Zhang/Getty Images The 9.58-second 100-meter dash record set by Usain Bolt in 2009 has been outpaced by Chinese robots participating at the World Humanoid Robot Games in…",
+    "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Jess Weatherbed",
+    "publishedAt": "2026-08-24T09:10:40.000Z",
+    "category": "hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2291658389.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b3681a530b55462a",
+    "title": "Software should work, and talking about it needn't be boring",
+    "excerpt": "OPINION DVD is one of those technologies that dominated for barely a generation yet left a permanent cultural mark. It made high-quality video cheap enough for mass distribution, popularized the TV series boxed set, and encouraged its gluttonous consequence: binge viewing. Streaming and capacious…",
+    "url": "https://www.theregister.com/columnists/2026/08/24/software-should-work-and-talking-about-it-neednt-be-boring/5290862",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-24T08:31:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://image.theregister.com/?imageId=5266492&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4d06eb4bf6d20f09",
+    "title": "Crypto roars back as bitcoin posts its second-best week since early 2021",
+    "excerpt": "Treasury buybacks, ETF inflows and a weaker dollar ignite crypto’s breakout.",
+    "url": "https://www.coindesk.com/markets/2026/08/24/crypto-roars-back-as-bitcoin-posts-its-second-best-week-since-early-2021",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "James Van Straten",
+    "publishedAt": "2026-08-24T08:28:14.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/a2e4b01791ef0da39400c9497a72cb149dc00d0f-3200x1800.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "608c3f1790d5f109",
+    "title": "Jackson Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead",
+    "excerpt": "Your look at what's coming in the week starting Aug. 24",
+    "url": "https://www.coindesk.com/markets/2026/08/24/jackson-hole-symposium-u-s-pce-prices-iren-earnings-crypto-week-ahead",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Francisco Rodrigues",
+    "publishedAt": "2026-08-24T08:16:29.000Z",
+    "category": "Crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/a103b6311bda34f3de954f20713a86edc0ea2dbe-5411x3044.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "f460e2a9297c2cbc",
     "title": "Live updates: Bitcoin holds $77,000 as XRP, Zcash pull back after a big weekly rally",
     "excerpt": "Bitcoin holds its gains near $77,000 after a 22% week, while last week's biggest altcoin winners steady, with focus turning to Fed Chair Warsh's Jackson Hole debut.",
@@ -23,6 +75,19 @@
     "publishedAt": "2026-08-24T07:34:00.000Z",
     "category": "software",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "64ecc30db4cb4bd6",
+    "title": "China calls off ambitious ice-hunting moonshot a day before flight",
+    "excerpt": "China’s Manned Space Agency (CMSA) on Sunday cancelled a planned Monday moonshot launch. The mission plan for Chang'e 7 calls for it to send a lander to a region near the Moon’s South Pole, in a location thought likely to contain ice in deep craters. The lander carries two other vehicles: a wheeled…",
+    "url": "https://www.theregister.com/science/2026/08/24/china-calls-off-ambitious-ice-hunting-moonshot-a-day-before-flight/5291536",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-24T07:11:04.000Z",
+    "category": "science",
+    "imageUrl": "https://image.theregister.com/?imageId=5291551&width=800",
     "readTimeMinutes": 1
   },
   {
@@ -1771,19 +1836,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "8ae89ac8295241aa",
-    "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
-    "excerpt": "The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ alleged that TikTok collected data from children without notifying parents or…",
-    "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Jay Peters",
-    "publishedAt": "2026-08-21T22:13:34.000Z",
-    "category": "policy",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "1ef72177a9165ac0",
     "title": "Wine 11.16 Released With VA-API Hardware Decoding, Better ARM64 Support",
     "excerpt": "Wine 11.16 is out today as the newest bi-weekly development release for this software enabling Windows games and applications to run on Linux and other platforms...",
@@ -2210,32 +2262,6 @@
     "publishedAt": "2026-08-21T11:31:30.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/b72b4dd95175914ab42f1abbcbe7a1c1085f565e-4000x2250.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "32c8565adee7753b",
-    "title": "The hard truth is that the Clarity Act is an anti-crypto bill",
-    "excerpt": "After years of stalled bills, misguided enforcement, and catastrophic collapses, almost any comprehensive crypto legislation began to look like progress. But Clarity is turning that hunger for progress into a political trap, argues Berkeley Law lecturer Hermine Wong.",
-    "url": "https://www.coindesk.com/opinion/2026/08/21/the-hard-truth-is-that-the-clarity-act-is-an-anti-crypto-bill",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Hermine Wong",
-    "publishedAt": "2026-08-21T11:30:00.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/66abae4ea7817e1052c710afba1f9fa54651f319-5434x3622.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "907ec94381222fb5",
-    "title": "Bitcoin faces $80,000 test as thinner weekend liquidity looms",
-    "excerpt": "Your day-ahead look for Aug. 21, 2026",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/21/bitcoin-faces-usd80-000-test-as-thinner-weekend-liquidity-looms",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Francisco Rodrigues",
-    "publishedAt": "2026-08-21T11:26:27.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/d067b6a472aefcd5d9592815bfd5149bbe698626-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2717,32 +2743,6 @@
     "publishedAt": "2026-08-20T10:15:00.000Z",
     "category": "ai",
     "imageUrl": "https://image.theregister.com/?imageId=5251723&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "89f4d92fd40e5371",
-    "title": "No lift for Swift as NASA abandons orbital rescue",
-    "excerpt": "NASA and Katalyst Space have abandoned an ambitious attempt to boost the Swift observatory into a higher orbit and postpone its fiery return to Earth. Katalyst Space's LINK spacecraft will still attempt to rendezvous with and maneuver near Swift, but plans to grapple the observatory and raise its…",
-    "url": "https://www.theregister.com/science/2026/08/20/no-lift-for-swift-as-nasa-abandons-orbital-rescue/5290164",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-20T09:43:31.000Z",
-    "category": "science",
-    "imageUrl": "https://image.theregister.com/?imageId=5237915&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c8083f0c60653011",
-    "title": "SparkyLinux 8.4 rekindles support for 32-bit PCs",
-    "excerpt": "Almost exactly a year after SparkyLinux 8.0 abandoned installation images for 32-bit PCs, version 8.4 has brought them back. The distro remains based on Debian 13 and retains the codename \"the Seven Sisters.\" The Register first checked out SparkyLinux back in 2015, and this vulture took a look at…",
-    "url": "https://www.theregister.com/os-platforms/2026/08/20/sparkylinux-84-rekindles-support-for-32-bit-pcs/5289203",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-20T08:45:00.000Z",
-    "category": "software",
-    "imageUrl": "https://image.theregister.com/?imageId=1681822&width=800",
     "readTimeMinutes": 1
   },
   {
