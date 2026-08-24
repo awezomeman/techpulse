@@ -1,5 +1,83 @@
 [
   {
+    "id": "283873375a071d33",
+    "title": "The only GameCube that could play CDs and DVDs is rarely found below $1,000 today",
+    "excerpt": "This isn't your run-of-the-mill GameCube, and its value has skyrocketed over the years. Here's what it did and how to identify it.",
+    "url": "https://www.engadget.com/2241156/only-gamecube-could-play-cds-dvds-rarely-found-below-1000-dollars-panasonic-q/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Will Shanklin)",
+    "publishedAt": "2026-08-24T18:30:00.000Z",
+    "category": "science",
+    "imageUrl": "https://www.engadget.com/img/gallery/the-only-gamecube-that-could-play-cds-and-dvds-is-rarely-found-below-1000-today/l-intro-1787255075.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9c366a768711ef20",
+    "title": "New AF_ALG Restrictions With Linux 7.3 Due To The Security & Maintenance Nightmare",
+    "excerpt": "The past few Linux kernel cycles have chipped away at AF_ALG functionality for that interface for user-space programs to access the kernel's internal cryptography API. Linux has been dropping AF_ALG features like zero-copy support and offloading. AF_ALG was quickly deprecated in Linux 7.2 while now…",
+    "url": "https://www.phoronix.com/news/Linux-7.3-AF-ALG-Restrictions",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-24T18:17:25.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "26626788ee8dd95e",
+    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+    "excerpt": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+    "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Sarah Perez",
+    "publishedAt": "2026-08-24T18:03:55.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a9d0deedfda5bd68",
+    "title": "CDPR is aiming to release The Witcher 4 in 2028",
+    "excerpt": "CDPR's co-CEO called The Witcher 4\"our biggest, boldest and most ambitious game to date.\"",
+    "url": "https://www.engadget.com/2242963/cdpr-is-aiming-to-release-the-witcher-4-in-2028/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Lawrence Bonk)",
+    "publishedAt": "2026-08-24T18:03:28.000Z",
+    "category": "startups",
+    "imageUrl": "https://www.engadget.com/img/gallery/cdpr-is-aiming-to-release-the-witcher-4-in-2028/l-intro-1787594424.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "84edc6ee68fee9d9",
+    "title": "How to add Bluetooth to a TV that doesn't have it",
+    "excerpt": "Your TV may not have native Bluetooth support, but you can still stream your TV's audio to wireless headphones.",
+    "url": "https://www.engadget.com/2240323/how-to-add-bluetooth-tv-doesnt-have-it/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Adnan Ahmed)",
+    "publishedAt": "2026-08-24T18:00:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/how-to-add-bluetooth-to-a-tv-that-doesnt-have-it/l-intro-1786128907.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "83e211d0e280a712",
+    "title": "China Delays Ambitious Chang'e 7 Lunar Mission Until 2027",
+    "excerpt": "China has delayed its ambitious Chang'e 7 lunar mission until at least 2027 after scrubbing an August 24 launch. Poor weather conditions were likely a factor, with China's Manned Space Agency (CMSA) saying the decision reflects the need for \"absolute safety.\" Scientific American reports: China and…",
+    "url": "https://science.slashdot.org/story/26/08/24/1736239/china-delays-ambitious-change-7-lunar-mission-until-2027?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-08-24T18:00:00.000Z",
+    "category": "policy",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "9c70561cc8117b9e",
     "title": "Crypto political group details list of U.S. congressional allies its backing this year",
     "excerpt": "Stand With Crypto, a member group that rates the crypto friendliness of politicians, is supporting 32 U.S. House incumbents, with more endorsements coming.",
@@ -10,6 +88,19 @@
     "publishedAt": "2026-08-24T17:30:10.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/6e8fdcc1bed7c2905fc568606a4db2d48360c7d0-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "078e0253266140b4",
+    "title": "How to cancel your ChatGPT subscription (and why you might want to)",
+    "excerpt": "If you've had it with OpenAI, here's how to cancel your subscription and delete your account.",
+    "url": "https://www.engadget.com/2240311/how-to-cancel-chatgpt-subscription-why-might-want-to/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Novak Božović)",
+    "publishedAt": "2026-08-24T17:30:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/how-to-cancel-your-chatgpt-subscription-and-why-you-might-want-to/l-intro-1786625156.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -260,10 +351,10 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "a2a9cc2971e6bdf5",
-    "title": "What Nvidia's first Groq 3 LPU benchmarks do and don't tell us about its $20B gamble",
+    "id": "bc7e336e78d45950",
+    "title": "What Nvidia's first Groq 3 LPU benchmarks tell us about its $20B gamble",
     "excerpt": "Nvidia’s $20 billion bet on Groq’s LPU tech sure looks like it was a good one. On Monday, the GPU giant offered the first glimpse of just how big a speedup its Groq 3-based LPX racks will provide. In an independent benchmark conducted by Artificial Analysis, Nvidia’s LPX rack systems managed to…",
-    "url": "https://www.theregister.com/systems/2026/08/24/what-nvidias-first-groq-3-lpu-benchmarks-do-and-dont-tell-us-about-its-20b-gamble/5291880",
+    "url": "https://www.theregister.com/systems/2026/08/24/what-nvidias-first-groq-3-lpu-benchmarks-tell-us-about-its-20b-gamble/5291880",
     "source": "The Register",
     "sourceHomepage": "https://www.theregister.com",
     "author": null,
@@ -885,7 +976,7 @@
   },
   {
     "id": "f460e2a9297c2cbc",
-    "title": "Live updates: Bitcoin moves closer to $80,000, but rally could bring profit taking",
+    "title": "Live updates: Bitcoin retreats after nearing $80,000, with analysts eyeing breather after big run",
     "excerpt": "With bond yields still near multi-year highs, focus turns to Fed Chair Kevin Warsh's upcoming Jackson Hole address.",
     "url": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
     "source": "CoinDesk",
@@ -1092,6 +1183,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "62e0416e43b7a81b",
+    "title": "Twitch And Amazon Hit With Lawsuit for Training AI With Streamers' Content",
+    "excerpt": "A class action filed this week accused Amazon's Twitch gaming service of using video streams to fuel its AI products without licensing or obtaining permission, reports Engadget: Earlier this month, Twitch Support posted on X that it added an option to opt out of \"having your channel content used to…",
+    "url": "https://yro.slashdot.org/story/26/08/23/2127238/twitch-and-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-08-23T21:59:00.000Z",
+    "category": "policy",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "4c8f023937587e73",
     "title": "What is a VESA mount and how to know what type your TV has",
     "excerpt": "Those 200 × 200 and 400 × 400 numbers tell you where the mounting holes line up, but you still need to check the mount's weight limit and hardware.",
@@ -1274,27 +1378,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "1dff4c5162e7f80d",
-    "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
-    "excerpt": "The class action suit claims that Amazon never obtained consent from Twitch streamers to be used to train its AI models.",
-    "url": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Jackson Chen)",
-    "publishedAt": "2026-08-23T17:39:26.000Z",
-    "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/twitch-and-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/l-intro-1787505971.jpg",
-    "readTimeMinutes": 1,
-    "alsoCoveredBy": [
-      {
-        "source": "Slashdot",
-        "sourceHomepage": "https://slashdot.org",
-        "url": "https://yro.slashdot.org/story/26/08/23/2127238/twitch-and-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "publishedAt": "2026-08-23T21:59:00.000Z"
-      }
-    ]
-  },
-  {
     "id": "fb14fc8baabad9bb",
     "title": "Slovakia Finds Russian Backdoor In Traffic Speed Cameras",
     "excerpt": "Slovakia acquired speed cameras to modernize its traffic control-- but there was a surprise. Tom's Hardware cites this story from the Risky Bulletin Newsletter: Unfortunately, the country's national security service, the NBU, has discovered that the cameras have multiple security issues. Firstly,…",
@@ -1316,19 +1399,6 @@
     ]
   },
   {
-    "id": "fc7c7e9390fc7fa8",
-    "title": "Is it safe to use a USB-C laptop charger on your phone?",
-    "excerpt": "If you've ever wondered whether you can just charge your phone with the cable for your laptop, read on and find out how to tell.",
-    "url": "https://www.engadget.com/2240179/using-usb-c-laptop-charger-for-phone-safety-tips/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Gabriela Vătu)",
-    "publishedAt": "2026-08-23T17:30:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/is-it-safe-to-use-a-usb-c-laptop-charger-on-your-phone/l-intro-1787160171.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "bc083867cba20603",
     "title": "Stanford Economist Now Believes an AI Job Apocalypse Is Unlikely",
     "excerpt": "\"There is still no sign of economy-wide job destruction,\" says economist Erik Brynjolfsson. Working with researchers at the Stanford Digital Economy Lab, Brynjolfsson has determined an AI \"job apocalypse\" is unlikely, reports the Washington Post, \"even though it will likely impact entry-level…",
@@ -1339,19 +1409,6 @@
     "publishedAt": "2026-08-23T16:34:00.000Z",
     "category": "software",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "0e3ca7f80d943b7e",
-    "title": "Is a liquid-cooled PC worth it?",
-    "excerpt": "Air cooling is reliable, while liquid cooling is visually slick. Which one you should use depends on how heavy you game on your system.",
-    "url": "https://www.engadget.com/2240150/is-liquid-cooled-pc-worth-it/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Dave Meikleham)",
-    "publishedAt": "2026-08-23T16:30:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/is-a-liquid-cooled-pc-worth-it/l-intro-1786728983.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1402,21 +1459,8 @@
     "sourceHomepage": "https://techcrunch.com",
     "author": "Anthony Ha",
     "publishedAt": "2026-08-23T15:30:00.000Z",
-    "category": "hardware",
+    "category": "ai",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "e48d1ee38735bb0b",
-    "title": "These modern smartwatches are in their last year of updates",
-    "excerpt": "A whole bunch of smart watches are getting phased out this year. Is your watch on the list?",
-    "url": "https://www.engadget.com/2240149/smartwatches-last-year-of-updates/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Gabriela Vătu)",
-    "publishedAt": "2026-08-23T15:30:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/these-modern-smartwatches-are-in-their-last-year-of-updates/l-intro-1786985243.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1456,19 +1500,6 @@
     "publishedAt": "2026-08-23T14:36:38.000Z",
     "category": "startups",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b94c1c97822c7a6d",
-    "title": "Canonical is Funding a PhD to Automate C to Rust Translation",
-    "excerpt": "An anonymous reader shared this report from the blog It's FOSS: Canonical has committed funding to a three-year PhD project focused on building a system that can automatically translate large C codebases into Rust. And they are not alone; UK Research and Innovation is matching their funding for the…",
-    "url": "https://developers.slashdot.org/story/26/08/23/0458226/canonical-is-funding-a-phd-to-automate-c-to-rust-translation?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-08-23T14:34:00.000Z",
-    "category": "crypto",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -2174,19 +2205,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "53db2b4d09276610",
-    "title": "Michael Polansky is training an AI model on skin that’s still alive",
-    "excerpt": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about…",
-    "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Connie Loizos",
-    "publishedAt": "2026-08-22T01:31:04.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "8f2021869dbe2fd9",
     "title": "KDE Plasma 6.8 Lands Some Enticing Performance Optimizations This Week",
     "excerpt": "This Week in Plasma is out with its latest issue to highlight interesting developments in the trek towards Plasma 6.8...",
@@ -2327,19 +2345,6 @@
     "publishedAt": "2026-08-21T20:10:50.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-922788110-1152x648-1787340488.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "7eb8d3305294dd67",
-    "title": "AMD Posts Massive Patch Series For Enabling UALink In The Linux Kernel",
-    "excerpt": "Whether coincidental or intentional, AMD engineers tend to drop interesting, feature patches for the open-source/Linux space on Friday afternoons. Hitting the kernel mailing list minutes ago were two patch series sent out by AMDGPU maintainer Alex Deucher for introducing UALink infrastructure...",
-    "url": "https://www.phoronix.com/news/UALink-Series-2-Linux",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-21T20:07:08.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
