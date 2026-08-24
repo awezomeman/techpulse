@@ -1,5 +1,44 @@
 [
   {
+    "id": "113584368e849150",
+    "title": "LLMs could control their host machines by exploiting inference engines",
+    "excerpt": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 5 # Comments: 0",
+    "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "zdw",
+    "publishedAt": "2026-08-24T19:03:06.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b93516b697db6e42",
+    "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
+    "excerpt": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 6 # Comments: 4",
+    "url": "https://textlog.cc/post/2059",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "stagas",
+    "publishedAt": "2026-08-24T18:45:43.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d867f30dbc362160",
+    "title": "Anger, Anxiety and Agency",
+    "excerpt": "Article URL: https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/ Comments URL: https://news.ycombinator.com/item?id=49424082 Points: 26 # Comments: 13",
+    "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "lumpa",
+    "publishedAt": "2026-08-24T18:37:24.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "283873375a071d33",
     "title": "The only GameCube that could play CDs and DVDs is rarely found below $1,000 today",
     "excerpt": "This isn't your run-of-the-mill GameCube, and its value has skyrocketed over the years. Here's what it did and how to identify it.",
@@ -13,6 +52,32 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "028d5cd17cb0362b",
+    "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
+    "excerpt": "Article URL: https://github.com/getkern/kern Comments URL: https://news.ycombinator.com/item?id=49423927 Points: 9 # Comments: 0",
+    "url": "https://github.com/getkern/kern",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "realexweb",
+    "publishedAt": "2026-08-24T18:24:59.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "cf972b7ec7b456da",
+    "title": "Your \"File\" Menu Isn't About Files",
+    "excerpt": "Article URL: https://adam.farkas.pro/your-file-menu-isnt-about-files/ Comments URL: https://news.ycombinator.com/item?id=49423886 Points: 16 # Comments: 17",
+    "url": "https://adam.farkas.pro/your-file-menu-isnt-about-files/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "b__d",
+    "publishedAt": "2026-08-24T18:21:48.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "9c366a768711ef20",
     "title": "New AF_ALG Restrictions With Linux 7.3 Due To The Security & Maintenance Nightmare",
     "excerpt": "The past few Linux kernel cycles have chipped away at AF_ALG functionality for that interface for user-space programs to access the kernel's internal cryptography API. Linux has been dropping AF_ALG features like zero-copy support and offloading. AF_ALG was quickly deprecated in Linux 7.2 while now…",
@@ -22,6 +87,19 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-08-24T18:17:25.000Z",
     "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "bddfd1eb2f9c5535",
+    "title": "What Is a Syslog Server?",
+    "excerpt": "Article URL: https://blog.greencloudvps.com/what-is-a-syslog-server.php Comments URL: https://news.ycombinator.com/item?id=49423799 Points: 14 # Comments: 6",
+    "url": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "theanonymousone",
+    "publishedAt": "2026-08-24T18:15:50.000Z",
+    "category": "hardware",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -78,6 +156,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "bb0848957783cedd",
+    "title": "Octopus intelligence may be related to never-before-seen mutation",
+    "excerpt": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 5 # Comments: 0",
+    "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "bookofjoe",
+    "publishedAt": "2026-08-24T17:57:13.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "9c70561cc8117b9e",
     "title": "Crypto political group details list of U.S. congressional allies its backing this year",
     "excerpt": "Stand With Crypto, a member group that rates the crypto friendliness of politicians, is supporting 32 U.S. House incumbents, with more endorsements coming.",
@@ -130,6 +221,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "945e4068028bbca3",
+    "title": "The entire city of San Francisco as a video game",
+    "excerpt": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 110 # Comments: 43",
+    "url": "https://sf.thijs.gg/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "centrosphere",
+    "publishedAt": "2026-08-24T17:05:38.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "16534fa976e75a3b",
     "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
     "excerpt": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redfin to syndicate its listings, while Redfin would end its own advertising contracts and promise not to…",
@@ -156,6 +260,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "66e2b7f8bf72c8cd",
+    "title": "Buyer beware: Those mummified remains might carry toxic spores",
+    "excerpt": "Mummified human and animal remains have long been in demand among collectors, and such items are sufficiently rare that their acquisition may involve unregulated, occasionally clandestine trade practices—if not outright illegal ones. According to the authors of a paper published in the…",
+    "url": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Jennifer Ouellette",
+    "publishedAt": "2026-08-24T16:59:07.000Z",
+    "category": "science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/curse7-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "0741388fa76e5a97",
     "title": "Iran-linked cyberattack shut down a UK power plant",
     "excerpt": "A suspected Iran-linked cyberattack shut down a small UK power plant around the time that a series of digital intrusions disrupted American water utilities across 12 states. A British government spokesperson confirmed the hack to The Register on Monday and told us that the security incident…",
@@ -169,6 +286,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "3e6ae02d2641cc81",
+    "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
+    "excerpt": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc Comments URL: https://news.ycombinator.com/item?id=49422548 Points: 42 # Comments: 3",
+    "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "rbanffy",
+    "publishedAt": "2026-08-24T16:52:01.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "253c23f0357fe0f1",
     "title": "ESPN is raising prices on most of its streaming subscriptions, even bundles with Disney+",
     "excerpt": "ESPN's Unlimited tier will cost $32 per month as of September 17.",
@@ -179,6 +309,19 @@
     "publishedAt": "2026-08-24T16:49:00.000Z",
     "category": "Hardware",
     "imageUrl": "https://www.engadget.com/img/gallery/espn-is-raising-prices-on-most-of-its-streaming-subscriptions-even-bundles-with-disney/l-intro-1787590062.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "096e9d7ef258ffba",
+    "title": "EuroHPC Launches 6 Quantum Calls with €119M in Funding",
+    "excerpt": "Article URL: https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/ Comments URL: https://news.ycombinator.com/item?id=49422481 Points: 11 # Comments: 8",
+    "url": "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "rbanffy",
+    "publishedAt": "2026-08-24T16:46:56.000Z",
+    "category": "science",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -208,6 +351,27 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "4abd2658e8a46aed",
+    "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+    "excerpt": "Taiwan has indicted nine people— reportedly including an Nvidia senior manager and two Supermicro employees based in the country—who allegedly helped forge documents to cover up illegal exports of high-end AI servers to China in violation of US export controls. On Monday, Reuters reported that…",
+    "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Ashley Belanger",
+    "publishedAt": "2026-08-24T16:41:45.000Z",
+    "category": "ai",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
+    "readTimeMinutes": 1,
+    "alsoCoveredBy": [
+      {
+        "source": "Slashdot",
+        "sourceHomepage": "https://slashdot.org",
+        "url": "https://slashdot.org/story/26/08/24/1844211/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "publishedAt": "2026-08-24T19:00:00.000Z"
+      }
+    ]
+  },
+  {
     "id": "17c75b354fe0fbc1",
     "title": "Logitech hit by sueball over tariff refunds",
     "excerpt": "A complaint filed in a California District Court has accused peripheral maker Logitech of withholding tariff refunds from customers, and asked for the proceeds from its activities to be returned to punters. When the US administration imposed tariffs on imports, companies quickly passed them on to…",
@@ -234,6 +398,32 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "db575e471af243b4",
+    "title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
+    "excerpt": "Article URL: https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure Comments URL: https://news.ycombinator.com/item?id=49422204 Points: 78 # Comments: 22",
+    "url": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "bearsyankees",
+    "publishedAt": "2026-08-24T16:29:00.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7d04125d99c12654",
+    "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
+    "excerpt": "Article URL: https://glassbox.codecanary.org Comments URL: https://news.ycombinator.com/item?id=49421948 Points: 55 # Comments: 29",
+    "url": "https://glassbox.codecanary.org",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "tke248",
+    "publishedAt": "2026-08-24T16:15:10.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "b87edece26f9c153",
     "title": "Users mash LinkedIn's AI slop button 1M+ times in 3 weeks",
     "excerpt": "More than 1 million LinkedIn users have clicked the newish “Seems like AI slop” button since the social network launched it at the end of July. Hari Srinivasan, LinkedIn’s chief product officer, said that compared to the period before launching the AI slop reporting button, those who copy-paste…",
@@ -244,6 +434,32 @@
     "publishedAt": "2026-08-24T16:15:00.000Z",
     "category": "ai",
     "imageUrl": "https://image.theregister.com/?imageId=231279&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "489edfc37a30ad38",
+    "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+    "excerpt": "PicoMQ is a Rust server for Durable Streams, built on Object Store. Cheap, URL-addressable, granular streams (create/append/read/long-poll/SSE), with Pico Protocol or Durable Streams Protocol as the facade. S3Stream is the stream storage primitive, used in AutoMQ, shipped as a Rust library.…",
+    "url": "https://picomq.com/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "adesh_nalpet",
+    "publishedAt": "2026-08-24T16:08:17.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "931dd7b67db9e32f",
+    "title": "F1 in the Netherlands: The driver you most want to beat is your teammate",
+    "excerpt": "After months of rumors surrounding his future, now we know: Four-time champion Max Verstappen is staying in the sport for the foreseeable future. The news broke on the eve of the Dutch Grand Prix, held this past weekend at Zandvoort in the Netherlands as F1 returned from its mandatory summer…",
+    "url": "https://arstechnica.com/cars/2026/08/f1-in-the-netherlands-the-driver-you-most-want-to-beat-is-your-teammate/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Jonathan M. Gitlin",
+    "publishedAt": "2026-08-24T16:02:54.000Z",
+    "category": "software",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291183505-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -260,6 +476,32 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "8317e1187afa3abd",
+    "title": "Coding expertise is going to collapse from AI reliance",
+    "excerpt": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 272 # Comments: 311",
+    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "larsfaye",
+    "publishedAt": "2026-08-24T15:52:33.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9f838576d711cee8",
+    "title": "Jabber/XMPP: 25 Years of Digital Independence",
+    "excerpt": "Article URL: https://gultsch.de/posts/25-years-of-digital-independence/ Comments URL: https://news.ycombinator.com/item?id=49421536 Points: 66 # Comments: 29",
+    "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "inputmice",
+    "publishedAt": "2026-08-24T15:51:31.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "f54746c8b1fa7d00",
     "title": "The Witcher 4 developers target a 2028 release",
     "excerpt": "CD Projekt Red is aiming to launch The Witcher 4 sometime in 2028, joint CEO Michał Nowakowski says in a new video . CD Projekt Red has been working on its next mainline Witcher title for years and has shown videos of it, but now the studio is providing a target release window for when the game…",
@@ -270,6 +512,19 @@
     "publishedAt": "2026-08-24T15:48:53.000Z",
     "category": "startups",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/The_Witcher_4_UE5_tech_demo_PS5_Ciri_2_EN.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2d2db11aa059e86a",
+    "title": "IPFS Maintainers Winding Down",
+    "excerpt": "Article URL: https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/ Comments URL: https://news.ycombinator.com/item?id=49421489 Points: 213 # Comments: 89",
+    "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "iand",
+    "publishedAt": "2026-08-24T15:48:45.000Z",
+    "category": "startups",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -312,6 +567,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "3f9be69046a627db",
+    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+    "excerpt": "Article URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/ Comments URL: https://news.ycombinator.com/item?id=49421158 Points: 313 # Comments: 134",
+    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "ComputerGuru",
+    "publishedAt": "2026-08-24T15:28:04.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "6fa02c4f9ef76b6b",
     "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
     "excerpt": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
@@ -321,6 +589,45 @@
     "author": "Rebecca Bellan",
     "publishedAt": "2026-08-24T15:24:18.000Z",
     "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "00eaf917ab1113cf",
+    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+    "excerpt": "Article URL: https://developers.openai.com/api/docs/pricing Comments URL: https://news.ycombinator.com/item?id=49421074 Points: 193 # Comments: 181",
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "tosh",
+    "publishedAt": "2026-08-24T15:22:43.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "468a1a33d560a7a4",
+    "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+    "excerpt": "https://xcancel.com/lemire/status/2091894299289874926 Comments URL: https://news.ycombinator.com/item?id=49420873 Points: 474 # Comments: 306",
+    "url": "https://twitter.com/lemire/status/2091894299289874926",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "tosh",
+    "publishedAt": "2026-08-24T15:08:17.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "bd7c0769aa8ec080",
+    "title": "Could We Dredge the Netherlands Without Fossil Fuels?",
+    "excerpt": "Article URL: https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels Comments URL: https://news.ycombinator.com/item?id=49420861 Points: 24 # Comments: 19",
+    "url": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "at1as",
+    "publishedAt": "2026-08-24T15:07:07.000Z",
+    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -400,6 +707,19 @@
     "publishedAt": "2026-08-24T14:49:44.000Z",
     "category": "startups",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/raspberry-pi-cyberdeck-main-Large.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b5f51b2be8f5165c",
+    "title": "Trump tried to curb clean energy. It’s booming anyway.",
+    "excerpt": "Donald Trump is presiding over an unexpected clean energy boom, as rising electricity demand spurs investment in new capacity despite the US administration’s efforts to thwart a solar and wind rollout. Clean energy additions will rise by a record 45 gigawatts this year, according to S&P Global…",
+    "url": "https://arstechnica.com/science/2026/08/trump-tried-to-curb-clean-energy-its-booming-anyway/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Martha Muir, Financial Times",
+    "publishedAt": "2026-08-24T14:43:56.000Z",
+    "category": "science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289637867.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1388,15 +1708,7 @@
     "publishedAt": "2026-08-23T17:38:00.000Z",
     "category": "policy",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1,
-    "alsoCoveredBy": [
-      {
-        "source": "Hacker News",
-        "sourceHomepage": "https://news.ycombinator.com",
-        "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-        "publishedAt": "2026-08-23T14:38:25.000Z"
-      }
-    ]
+    "readTimeMinutes": 1
   },
   {
     "id": "bc083867cba20603",
@@ -1435,19 +1747,6 @@
     "publishedAt": "2026-08-23T15:52:21.000Z",
     "category": "Crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/5f60efd49e0a819f81091f39acbb1766f5bf3819-2961x995.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "139fda0cfb801625",
-    "title": "23 Years After SimCity 4's Release, 'Eternal Commuter' Bug Finally Fixed",
-    "excerpt": "\"It began life just a year after SimCity 4's 2003 launch,\" writes the blog PCGamesN. \"Now, over 20 years later, it's still going strong with the arrival of Network Addon Mod update 50.\" The SimCity 4 Network Addon Mod, or simply 'NAM' among the community, has long been a de facto recommendation to…",
-    "url": "https://games.slashdot.org/story/26/08/23/0417243/23-years-after-simcity-4s-release-eternal-commuter-bug-finally-fixed?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-08-23T15:34:00.000Z",
-    "category": "startups",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -1490,19 +1789,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "ca878aa4b0c50db9",
-    "title": "Authoritarianism of Code",
-    "excerpt": "Article URL: https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/ Comments URL: https://news.ycombinator.com/item?id=49409184 Points: 5 # Comments: 3",
-    "url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "wqlander",
-    "publishedAt": "2026-08-23T14:36:38.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "661b4dd315dae6ab",
     "title": "Due to need for \"absolute success,\" China delays critical Moon launch to 2027",
     "excerpt": "China's \"Manned Space\" program issued a terse announcement on Sunday regarding its much-anticipated Chang’e 7 lunar exploration mission. The agency stated: \"In keeping with the principle of proceeding prudently and reliably, and ensuring absolute success, after a comprehensive assessment it has…",
@@ -1516,45 +1802,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "fabfd4ffa9584012",
-    "title": "What Is a Harness?",
-    "excerpt": "Article URL: https://earendil.com/posts/what-is-a-harness/ Comments URL: https://news.ycombinator.com/item?id=49409092 Points: 27 # Comments: 15",
-    "url": "https://earendil.com/posts/what-is-a-harness/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "tosh",
-    "publishedAt": "2026-08-23T14:24:21.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "869ec081dde61063",
-    "title": "Death to px, long live ch",
-    "excerpt": "Article URL: https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/ Comments URL: https://news.ycombinator.com/item?id=49408889 Points: 20 # Comments: 10",
-    "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "Brajeshwar",
-    "publishedAt": "2026-08-23T13:56:27.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c6404fb58b2cf552",
-    "title": "My favorite nonfiction books about cults, scams, and schemes",
-    "excerpt": "Article URL: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes Comments URL: https://news.ycombinator.com/item?id=49408858 Points: 48 # Comments: 13",
-    "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "bwb",
-    "publishedAt": "2026-08-23T13:51:10.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "0e410cc69c83efca",
     "title": "How Cursor beat Git's scalability shortcomings",
     "excerpt": "Developers recently burned by GitHub’s system outages should take note that there are other ways to manage Git at scale. One approach, recently put into action by Cursor, is to build the distributed version control system on object storage. A recent post from Cursor principal systems engineer…",
@@ -1565,19 +1812,6 @@
     "publishedAt": "2026-08-23T13:45:00.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=5291465&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c0486c254f229048",
-    "title": "Malware infects Android-based automotive head unit firmware",
-    "excerpt": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 87 # Comments: 40",
-    "url": "https://securelist.com/android-head-unit-malware/121106/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "campuscodi",
-    "publishedAt": "2026-08-23T13:05:38.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1685,136 +1919,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "bf896d60ebb3ffe5",
-    "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-    "excerpt": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o Comments URL: https://news.ycombinator.com/item?id=49407576 Points: 90 # Comments: 59",
-    "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "epestr",
-    "publishedAt": "2026-08-23T10:14:48.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "1851acb4950c45ea",
-    "title": "Iranian hackers shut down UK power plant for 4 days",
-    "excerpt": "Article URL: https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/ Comments URL: https://news.ycombinator.com/item?id=49407509 Points: 56 # Comments: 34",
-    "url": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "giuliomagnifico",
-    "publishedAt": "2026-08-23T10:03:01.000Z",
-    "category": "security",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "8558d02589ff502b",
-    "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-    "excerpt": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 159 # Comments: 80",
-    "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "raybb",
-    "publishedAt": "2026-08-23T10:02:51.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "1f9340956b333ac3",
-    "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
-    "excerpt": "Article URL: https://skylens.yantraai.app/ Comments URL: https://news.ycombinator.com/item?id=49407309 Points: 36 # Comments: 17",
-    "url": "https://skylens.yantraai.app/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "skylensspace",
-    "publishedAt": "2026-08-23T09:27:40.000Z",
-    "category": "science",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "789bb78b13c45467",
-    "title": "Risk of transmission of amyloid β pathology via transfused blood products",
-    "excerpt": "Article URL: https://doi.org/10.1016/S0140-6736(26)00767-1 Comments URL: https://news.ycombinator.com/item?id=49406398 Points: 24 # Comments: 6",
-    "url": "https://doi.org/10.1016/S0140-6736(26)00767-1",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "sbulaev",
-    "publishedAt": "2026-08-23T06:07:06.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "8643c9395c2b5f8b",
-    "title": "JIT Compiling Code in 5μs",
-    "excerpt": "Article URL: https://malisper.me/jit-compiling-code-in-5-us/ Comments URL: https://news.ycombinator.com/item?id=49406387 Points: 123 # Comments: 78",
-    "url": "https://malisper.me/jit-compiling-code-in-5-us/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "zX41ZdbW",
-    "publishedAt": "2026-08-23T06:04:51.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a5b9842fb2f986f2",
-    "title": "The End of an Athlon",
-    "excerpt": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 143 # Comments: 57",
-    "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "userbinator",
-    "publishedAt": "2026-08-23T05:51:01.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "602915b7f62b1060",
-    "title": "Fast and Hard Code",
-    "excerpt": "Article URL: https://lucumr.pocoo.org/2026/8/22/fast-hard-code/ Comments URL: https://news.ycombinator.com/item?id=49406285 Points: 81 # Comments: 44",
-    "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "tosh",
-    "publishedAt": "2026-08-23T05:39:06.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "7dc96f572507ae04",
-    "title": "To become a better writer, read as much as you can",
-    "excerpt": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 316 # Comments: 208",
-    "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "andsoitis",
-    "publishedAt": "2026-08-23T03:32:25.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b74e2345182525b0",
-    "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-    "excerpt": "Article URL: https://martypc.net/ Comments URL: https://news.ycombinator.com/item?id=49405816 Points: 154 # Comments: 55",
-    "url": "https://martypc.net/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "boilerupnc",
-    "publishedAt": "2026-08-23T03:13:16.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "f9804c8312afcb9c",
     "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
     "excerpt": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
@@ -1823,19 +1927,6 @@
     "sourceHomepage": "https://techcrunch.com",
     "author": "Jagmeet Singh",
     "publishedAt": "2026-08-23T03:00:00.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "01d473cac2894296",
-    "title": "The Art and Beauty of Blade Runner (2015)",
-    "excerpt": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 136 # Comments: 68",
-    "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "cocacola1",
-    "publishedAt": "2026-08-23T00:56:03.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -1863,19 +1954,6 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-08-23T00:24:17.000Z",
     "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "11e9d27303eedadd",
-    "title": "NanoGPT Speedrun Frontier",
-    "excerpt": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 127 # Comments: 31",
-    "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "stared",
-    "publishedAt": "2026-08-22T22:14:27.000Z",
-    "category": "science",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1919,19 +1997,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "31e565cecfe1375d",
-    "title": "NetBSD and my life (2005)",
-    "excerpt": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 139 # Comments: 32",
-    "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "gnyeki",
-    "publishedAt": "2026-08-22T19:07:46.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "ff82c295e74a2c22",
     "title": "Apple HFS / HFS+ File-System Support Continues Seeing Fixes With Linux 7.3",
     "excerpt": "In early 2025 it was being discussed to potentially drop the HFS and HFS+ file-system support with the code having been orphaned over a decade and becoming a maintenance burden. But that dismal outlook quickly turned around with some developers stepping up to maintain the old Apple file-system…",
@@ -1958,22 +2023,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "309c67c0a675fbd7",
-    "title": "Things I want in a modern relational query language",
-    "excerpt": "Article URL: https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/ Comments URL: https://news.ycombinator.com/item?id=49402491 Points: 19 # Comments: 7",
-    "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "zdw",
-    "publishedAt": "2026-08-22T18:38:41.000Z",
-    "category": "policy",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "11bfce24e7f02ff5",
     "title": "OpenAI says California should strengthen its AI safety bill",
-    "excerpt": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+    "excerpt": "OpenAI's global affairs team post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updating them” as new risks emerge.",
     "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
     "source": "TechCrunch",
     "sourceHomepage": "https://techcrunch.com",
@@ -2696,58 +2748,6 @@
     "publishedAt": "2026-08-20T23:47:16.000Z",
     "category": "ai",
     "imageUrl": "https://image.theregister.com/?imageId=248218&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "37cf1c73b1a53489",
-    "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
-    "excerpt": "A leading US distributor of China’s most popular humanoid robots and robot dogs now plans to produce its own robots at a facility on Long Island, New York. The business pivot comes amid the US government’s growing crackdown on foreign-made robots. The company, RoboStore, had previously become the…",
-    "url": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Jeremy Hsu",
-    "publishedAt": "2026-08-20T22:00:11.000Z",
-    "category": "hardware",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Robo-Inc-1152x648.jpeg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d1c9793a08a75ae7",
-    "title": "Europe cancels planned upgrades for Ariane 6 rocket",
-    "excerpt": "In the two years since it made a largely successful debut, Europe's Ariane 6 rocket has launched eight missions, all of which reached orbit safely. The large, expendable rocket has a capacity of more than 20 metric tons to low-Earth orbit. And to the credit of European rocket scientists and…",
-    "url": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Eric Berger",
-    "publishedAt": "2026-08-20T21:40:52.000Z",
-    "category": "science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GlYHDKoWQAAxQiG-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4f1cf4f8ba584ca8",
-    "title": "They survived 9/11; 25 years later, their bonds remain unbroken",
-    "excerpt": "September 11, 2001, will be remembered as one of the darkest days in American history. As the 25th anniversary approaches, National Geographic, in collaboration with the 9/11 Memorial and Museum, is marking the occasion with a new documentary miniseries: 9/11: Reunited . The three-episode series…",
-    "url": "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Jennifer Ouellette",
-    "publishedAt": "2026-08-20T21:25:25.000Z",
-    "category": "Science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/reunited8-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "1ae694f2007a883e",
-    "title": "Roblox must make changes after failing to block adults creeping on kids",
-    "excerpt": "Despite making changes last fall to help block adults from messaging unknown children , Roblox is still failing to stop adults from creeping on kids in other ways, Australia’s eSafety commissioner, Julie Inman Grant, said on Thursday. Suspecting that Roblox may not be doing enough to stop child…",
-    "url": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Ashley Belanger",
-    "publishedAt": "2026-08-20T17:14:08.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273992483-1024x648.jpg",
     "readTimeMinutes": 1
   },
   {
