@@ -1,8 +1,177 @@
 [
   {
+    "id": "c21b6a646e240a3d",
+    "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
+    "excerpt": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.",
+    "url": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "TechCrunch Events",
+    "publishedAt": "2026-08-24T20:16:34.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "dabfab79e53eef9b",
+    "title": "Threads is testing a podcast transcription feature",
+    "excerpt": "Meta keeps trying to entice audio content creators to Threads.",
+    "url": "https://www.engadget.com/2243126/threads-is-testing-a-podcast-transcription-feature/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Anna Washenko)",
+    "publishedAt": "2026-08-24T20:07:59.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/threads-is-testing-a-podcast-transcription-feature/l-intro-1787602018.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a429b5e27fc5972a",
+    "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+    "excerpt": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s Attorney General announced an investigation into the incident.",
+    "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Lorenzo Franceschi-Bicchierai",
+    "publishedAt": "2026-08-24T19:58:17.000Z",
+    "category": "security",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "25490c8a012f7f3d",
+    "title": "Amazon hikes hardware prices by 60 percent, blaming memory shortage",
+    "excerpt": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers.",
+    "url": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Lucas Ropek",
+    "publishedAt": "2026-08-24T19:54:50.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "878545275de8b8ca",
+    "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+    "excerpt": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+    "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "TechCrunch Events",
+    "publishedAt": "2026-08-24T19:54:19.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "13eac6207c462c18",
+    "title": "The cat-and-mouse game over 3D-printed guns has begun",
+    "excerpt": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms . It's an opening volley in what's shaping up to be an evolving battle between regulators trying to stem the tide of ghost guns and…",
+    "url": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Mack DeGeurin",
+    "publishedAt": "2026-08-24T19:50:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268706_3D-printed_gun_scanning_CVirginia20.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7e17e8f017ef8672",
+    "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
+    "excerpt": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.",
+    "url": "https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "TechCrunch Events",
+    "publishedAt": "2026-08-24T19:44:13.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e6821914cfb0f8a5",
+    "title": "GM vehicles under federal scrutiny after hundreds of reports",
+    "excerpt": "The federal government is expanding a safety investigation into a number of vehicles manufactured by General Motors after receiving hundreds of reports of brake failure. The problem affects more than 1.1 million cars, including many of GM's electric vehicles, as well as ones it has built for Honda…",
+    "url": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Jonathan M. Gitlin",
+    "publishedAt": "2026-08-24T19:42:50.000Z",
+    "category": "Science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/Lyriq-V015_v4-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3539131104a2b592",
+    "title": "Bitcoin nears $80,000, but analysts say the next pullback will be key",
+    "excerpt": "Analysts say consolidation could strengthen bitcoin’s rally, while thin trading above $80,000 may set up sharper price moves.",
+    "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Helene Braun",
+    "publishedAt": "2026-08-24T19:36:36.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/161a271835d8a7768de21a1322b974c52bc6ec6a-6957x4558.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "89b2d0cc5dc8b0d1",
+    "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
+    "excerpt": "Article URL: https://github.com/l3a0/claude-plugins Comments URL: https://news.ycombinator.com/item?id=49424758 Points: 17 # Comments: 2",
+    "url": "https://github.com/l3a0/claude-plugins",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "l3a0",
+    "publishedAt": "2026-08-24T19:32:18.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2120b6b43c62c517",
+    "title": "Linux ath11k Driver Improvements For Qualcomm WiFi 6 Hardware Yields 7x Lower Latency",
+    "excerpt": "A patch series being worked on for the ath11k mainline wireless networking driver for Qualcomm WiFi 6 / 802.11ax chipsets is yielding 7x lower latency or 2.2x throughput at identical latency...",
+    "url": "https://www.phoronix.com/news/ath11k-7x-Lower-Latency",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-24T19:29:27.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "97c5603c9e9f5a56",
+    "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
+    "excerpt": "Chinese retailer AliExpress has been caught fingerprinting visitors after one of the metrics—an outdated technique that measures inaudible sounds it sends to browsers—impeded a researcher's ability to use his bluetooth headphones. Researcher Matthew Callaghan said he stumbled on the stealthy…",
+    "url": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Dan Goodin",
+    "publishedAt": "2026-08-24T19:19:21.000Z",
+    "category": "security",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/browser-fingerprint-1000x648.jpeg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "53d975e083eaf7f3",
+    "title": "Oceans hit highest temperature on record",
+    "excerpt": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 112 # Comments: 33",
+    "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "tcp_handshaker",
+    "publishedAt": "2026-08-24T19:19:08.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "113584368e849150",
     "title": "LLMs could control their host machines by exploiting inference engines",
-    "excerpt": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 5 # Comments: 0",
+    "excerpt": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 30 # Comments: 8",
     "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -15,25 +184,12 @@
   {
     "id": "b93516b697db6e42",
     "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
-    "excerpt": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 6 # Comments: 4",
+    "excerpt": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 17 # Comments: 8",
     "url": "https://textlog.cc/post/2059",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "stagas",
     "publishedAt": "2026-08-24T18:45:43.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d867f30dbc362160",
-    "title": "Anger, Anxiety and Agency",
-    "excerpt": "Article URL: https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/ Comments URL: https://news.ycombinator.com/item?id=49424082 Points: 26 # Comments: 13",
-    "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "lumpa",
-    "publishedAt": "2026-08-24T18:37:24.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -54,26 +210,13 @@
   {
     "id": "028d5cd17cb0362b",
     "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
-    "excerpt": "Article URL: https://github.com/getkern/kern Comments URL: https://news.ycombinator.com/item?id=49423927 Points: 9 # Comments: 0",
+    "excerpt": "Article URL: https://github.com/getkern/kern Comments URL: https://news.ycombinator.com/item?id=49423927 Points: 24 # Comments: 1",
     "url": "https://github.com/getkern/kern",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "realexweb",
     "publishedAt": "2026-08-24T18:24:59.000Z",
     "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "cf972b7ec7b456da",
-    "title": "Your \"File\" Menu Isn't About Files",
-    "excerpt": "Article URL: https://adam.farkas.pro/your-file-menu-isnt-about-files/ Comments URL: https://news.ycombinator.com/item?id=49423886 Points: 16 # Comments: 17",
-    "url": "https://adam.farkas.pro/your-file-menu-isnt-about-files/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "b__d",
-    "publishedAt": "2026-08-24T18:21:48.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -93,7 +236,7 @@
   {
     "id": "bddfd1eb2f9c5535",
     "title": "What Is a Syslog Server?",
-    "excerpt": "Article URL: https://blog.greencloudvps.com/what-is-a-syslog-server.php Comments URL: https://news.ycombinator.com/item?id=49423799 Points: 14 # Comments: 6",
+    "excerpt": "Article URL: https://blog.greencloudvps.com/what-is-a-syslog-server.php Comments URL: https://news.ycombinator.com/item?id=49423799 Points: 22 # Comments: 10",
     "url": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -156,14 +299,14 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "bb0848957783cedd",
-    "title": "Octopus intelligence may be related to never-before-seen mutation",
-    "excerpt": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 5 # Comments: 0",
-    "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
+    "id": "f8ca85b331a1187b",
+    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+    "excerpt": "Article URL: https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4 Comments URL: https://news.ycombinator.com/item?id=49423495 Points: 0 # Comments: 0",
+    "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
-    "author": "bookofjoe",
-    "publishedAt": "2026-08-24T17:57:13.000Z",
+    "author": "adawg4",
+    "publishedAt": "2026-08-24T17:53:14.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -195,6 +338,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "2ad636ea4ea91395",
+    "title": "Agent Lightning v1.0",
+    "excerpt": "Article URL: https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1 Comments URL: https://news.ycombinator.com/item?id=49423077 Points: 9 # Comments: 0",
+    "url": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "qainsights",
+    "publishedAt": "2026-08-24T17:23:22.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "da49ae7bb3dcd662",
     "title": "YouTuber's backyard fab ambitions expand from RAM to homebrew LEDs",
     "excerpt": "A YouTuber on a mission to liberate semiconductor manufacturing from the grip of multinational megacorporations is back with a new round of DIY success, this time manufacturing working LEDs in his backyard fab. Dr. Semiconductor, also known as semiconductor engineer Dr. Matthew Hartensveld, per his…",
@@ -223,7 +379,7 @@
   {
     "id": "945e4068028bbca3",
     "title": "The entire city of San Francisco as a video game",
-    "excerpt": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 110 # Comments: 43",
+    "excerpt": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 175 # Comments: 60",
     "url": "https://sf.thijs.gg/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -288,7 +444,7 @@
   {
     "id": "3e6ae02d2641cc81",
     "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
-    "excerpt": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc Comments URL: https://news.ycombinator.com/item?id=49422548 Points: 42 # Comments: 3",
+    "excerpt": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc Comments URL: https://news.ycombinator.com/item?id=49422548 Points: 51 # Comments: 5",
     "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -309,19 +465,6 @@
     "publishedAt": "2026-08-24T16:49:00.000Z",
     "category": "Hardware",
     "imageUrl": "https://www.engadget.com/img/gallery/espn-is-raising-prices-on-most-of-its-streaming-subscriptions-even-bundles-with-disney/l-intro-1787590062.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "096e9d7ef258ffba",
-    "title": "EuroHPC Launches 6 Quantum Calls with €119M in Funding",
-    "excerpt": "Article URL: https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/ Comments URL: https://news.ycombinator.com/item?id=49422481 Points: 11 # Comments: 8",
-    "url": "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "rbanffy",
-    "publishedAt": "2026-08-24T16:46:56.000Z",
-    "category": "science",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -400,7 +543,7 @@
   {
     "id": "db575e471af243b4",
     "title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
-    "excerpt": "Article URL: https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure Comments URL: https://news.ycombinator.com/item?id=49422204 Points: 78 # Comments: 22",
+    "excerpt": "Article URL: https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure Comments URL: https://news.ycombinator.com/item?id=49422204 Points: 90 # Comments: 35",
     "url": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -413,7 +556,7 @@
   {
     "id": "7d04125d99c12654",
     "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
-    "excerpt": "Article URL: https://glassbox.codecanary.org Comments URL: https://news.ycombinator.com/item?id=49421948 Points: 55 # Comments: 29",
+    "excerpt": "Article URL: https://glassbox.codecanary.org Comments URL: https://news.ycombinator.com/item?id=49421948 Points: 63 # Comments: 34",
     "url": "https://glassbox.codecanary.org",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -478,7 +621,7 @@
   {
     "id": "8317e1187afa3abd",
     "title": "Coding expertise is going to collapse from AI reliance",
-    "excerpt": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 272 # Comments: 311",
+    "excerpt": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 312 # Comments: 339",
     "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -491,7 +634,7 @@
   {
     "id": "9f838576d711cee8",
     "title": "Jabber/XMPP: 25 Years of Digital Independence",
-    "excerpt": "Article URL: https://gultsch.de/posts/25-years-of-digital-independence/ Comments URL: https://news.ycombinator.com/item?id=49421536 Points: 66 # Comments: 29",
+    "excerpt": "Article URL: https://gultsch.de/posts/25-years-of-digital-independence/ Comments URL: https://news.ycombinator.com/item?id=49421536 Points: 92 # Comments: 39",
     "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -517,7 +660,7 @@
   {
     "id": "2d2db11aa059e86a",
     "title": "IPFS Maintainers Winding Down",
-    "excerpt": "Article URL: https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/ Comments URL: https://news.ycombinator.com/item?id=49421489 Points: 213 # Comments: 89",
+    "excerpt": "Article URL: https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/ Comments URL: https://news.ycombinator.com/item?id=49421489 Points: 251 # Comments: 122",
     "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -569,7 +712,7 @@
   {
     "id": "3f9be69046a627db",
     "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-    "excerpt": "Article URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/ Comments URL: https://news.ycombinator.com/item?id=49421158 Points: 313 # Comments: 134",
+    "excerpt": "Article URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/ Comments URL: https://news.ycombinator.com/item?id=49421158 Points: 381 # Comments: 153",
     "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -595,7 +738,7 @@
   {
     "id": "00eaf917ab1113cf",
     "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-    "excerpt": "Article URL: https://developers.openai.com/api/docs/pricing Comments URL: https://news.ycombinator.com/item?id=49421074 Points: 193 # Comments: 181",
+    "excerpt": "Article URL: https://developers.openai.com/api/docs/pricing Comments URL: https://news.ycombinator.com/item?id=49421074 Points: 221 # Comments: 195",
     "url": "https://developers.openai.com/api/docs/pricing",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -608,7 +751,7 @@
   {
     "id": "468a1a33d560a7a4",
     "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-    "excerpt": "https://xcancel.com/lemire/status/2091894299289874926 Comments URL: https://news.ycombinator.com/item?id=49420873 Points: 474 # Comments: 306",
+    "excerpt": "https://xcancel.com/lemire/status/2091894299289874926 Comments URL: https://news.ycombinator.com/item?id=49420873 Points: 542 # Comments: 361",
     "url": "https://twitter.com/lemire/status/2091894299289874926",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -620,8 +763,8 @@
   },
   {
     "id": "bd7c0769aa8ec080",
-    "title": "Could We Dredge the Netherlands Without Fossil Fuels?",
-    "excerpt": "Article URL: https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels Comments URL: https://news.ycombinator.com/item?id=49420861 Points: 24 # Comments: 19",
+    "title": "Could We Dredge the Netherlands Without Fossil Fuels? (2018)",
+    "excerpt": "Article URL: https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels Comments URL: https://news.ycombinator.com/item?id=49420861 Points: 32 # Comments: 33",
     "url": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -707,7 +850,15 @@
     "publishedAt": "2026-08-24T14:49:44.000Z",
     "category": "startups",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/raspberry-pi-cyberdeck-main-Large.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
+    "readTimeMinutes": 1,
+    "alsoCoveredBy": [
+      {
+        "source": "Slashdot",
+        "sourceHomepage": "https://slashdot.org",
+        "url": "https://hardware.slashdot.org/story/26/08/24/1853204/raspberry-pi-shares-its-official-tutorial-for-making-a-cyberdeck?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "publishedAt": "2026-08-24T20:00:00.000Z"
+      }
+    ]
   },
   {
     "id": "b5f51b2be8f5165c",
@@ -1243,19 +1394,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "7d620d90cc1c1dd3",
-    "title": "Humanoid robots smash Usain Bolt’s 100-meter record",
-    "excerpt": "Tiangong Ultra (left) also broke the 400 meter world record during this year’s World Humanoid Robot Games. | Image: Lintao Zhang/Getty Images The 9.58-second 100-meter dash record set by Usain Bolt in 2009 has been outpaced by Chinese robots participating at the World Humanoid Robot Games in…",
-    "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Jess Weatherbed",
-    "publishedAt": "2026-08-24T09:10:40.000Z",
-    "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2291658389.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "b3681a530b55462a",
     "title": "Software should work, and talking about it needn't be boring",
     "excerpt": "OPINION DVD is one of those technologies that dominated for barely a generation yet left a permanent cultural mark. It made high-quality video cheap enough for mass distribution, popularized the TV series boxed set, and encouraged its gluttonous consequence: binge viewing. Streaming and capacious…",
@@ -1685,19 +1823,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "f27d787c8fb57cb6",
-    "title": "Does Analogue 3D really make retro games 4K? Here's what you should know",
-    "excerpt": "The Analogue 3D does a great job at upscaling old N64 games, with a few caveats.",
-    "url": "https://www.engadget.com/2240184/is-analogue-3d-actually-4k/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Thomas Godwin)",
-    "publishedAt": "2026-08-23T18:00:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/does-analogue-3d-really-make-retro-games-4k-heres-what-you-should-know/l-intro-1787160375.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "fb14fc8baabad9bb",
     "title": "Slovakia Finds Russian Backdoor In Traffic Speed Cameras",
     "excerpt": "Slovakia acquired speed cameras to modernize its traffic control-- but there was a surprise. Tom's Hardware cites this story from the Risky Bulletin Newsletter: Unfortunately, the country's national security service, the NBU, has discovered that the cameras have multiple security issues. Firstly,…",
@@ -1707,19 +1832,6 @@
     "author": "EditorDavid",
     "publishedAt": "2026-08-23T17:38:00.000Z",
     "category": "policy",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "bc083867cba20603",
-    "title": "Stanford Economist Now Believes an AI Job Apocalypse Is Unlikely",
-    "excerpt": "\"There is still no sign of economy-wide job destruction,\" says economist Erik Brynjolfsson. Working with researchers at the Stanford Digital Economy Lab, Brynjolfsson has determined an AI \"job apocalypse\" is unlikely, reports the Washington Post, \"even though it will likely impact entry-level…",
-    "url": "https://it.slashdot.org/story/26/08/22/211256/stanford-economist-now-believes-an-ai-job-apocalypse-is-unlikely?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-08-23T16:34:00.000Z",
-    "category": "software",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
@@ -2010,71 +2122,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "92ba46e363661525",
-    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-    "excerpt": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-    "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Anna Heim",
-    "publishedAt": "2026-08-22T19:00:00.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "11bfce24e7f02ff5",
-    "title": "OpenAI says California should strengthen its AI safety bill",
-    "excerpt": "OpenAI's global affairs team post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updating them” as new risks emerge.",
-    "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Anthony Ha",
-    "publishedAt": "2026-08-22T16:30:34.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "5c1d39faf87ea2e8",
-    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-    "excerpt": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-    "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Rebecca Bellan",
-    "publishedAt": "2026-08-22T16:00:00.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "1ccd186fbe54d0db",
-    "title": "US battery startups have found a lifeline in defense",
-    "excerpt": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
-    "url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Tim De Chant",
-    "publishedAt": "2026-08-22T15:20:00.000Z",
-    "category": "policy",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "bdf211e6dd343ed4",
-    "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
-    "excerpt": "The exchange has hired White & Case as restructuring counsel, with a detailed roadmap expected by Sept. 9.",
-    "url": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Francisco Rodrigues",
-    "publishedAt": "2026-08-22T15:16:41.000Z",
-    "category": "hardware",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/420f2af41b8e84b394d9798060c7ccfa92703ed7-2280x1284.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "fc6bcc66ad37b0c4",
     "title": "If you're not using AI to attack your own systems, your adversaries will",
     "excerpt": "AI agents excel at hacking organizations, as they’ve demonstrated in real-life attacks multiple times over the past few weeks. They also expose a whole new attack surface for organizations trying to protect against both human and AI intrusions. As if defenders needed more worries to keep them up at…",
@@ -2085,19 +2132,6 @@
     "publishedAt": "2026-08-22T15:02:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=5270164&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "5d17435c4f47ef51",
-    "title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
-    "excerpt": "Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.",
-    "url": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Ivan Mehta",
-    "publishedAt": "2026-08-22T14:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2330,19 +2364,6 @@
     "sourceHomepage": "https://www.phoronix.com",
     "author": "Michael Larabel",
     "publishedAt": "2026-08-21T22:12:01.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f3a6172c7f50cebb",
-    "title": "Proton 11.0-2 Enables More Titles With Steam Play / Linux Gaming",
-    "excerpt": "Just in time for those that enjoy their Linux / Steam Play gaming on weekends, Valve and CodeWeavers today released Proton 11.0-2 as the newest stable release of this Wine 11.0 downstream that powers Steam Play for running Windows games gracefully on Linux...",
-    "url": "https://www.phoronix.com/news/Proton-11.0-2",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-21T21:14:07.000Z",
     "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -2592,32 +2613,6 @@
     "publishedAt": "2026-08-21T11:15:00.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=5237731&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b7c780b7793bb1e2",
-    "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
-    "excerpt": "Can you tell when someone nearby is wearing Meta AI glasses? As millions of people buy into the smart glasses fad each year, the odds are increasing that you could be secretly recorded while simply going about your day. Meta is not the only smart glasses maker, but its AI glasses are by far the…",
-    "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Ashley Belanger",
-    "publishedAt": "2026-08-21T11:00:53.000Z",
-    "category": "ai",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/zuckoff-glasshole-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "6ecb3f1365692ee4",
-    "title": "Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss",
-    "excerpt": "Welcome to Edition 9.07 of the Rocket Report! China's workhorse Long March rocket family appears to be rebounding quickly from a rare launch failure August 10. Chinese officials have not publicly released any information on what may have caused the Long March 7A rocket to break apart less than 90…",
-    "url": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Stephen Clark",
-    "publishedAt": "2026-08-21T11:00:36.000Z",
-    "category": "science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/04_4panel_enlarge_2x-1152x648-1787265662.jpg",
     "readTimeMinutes": 1
   },
   {
