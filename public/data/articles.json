@@ -1,8 +1,21 @@
 [
   {
+    "id": "604e660e7f016b25",
+    "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+    "excerpt": "We all knew it was coming. The expected valuation may surprise, though.",
+    "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Connie Loizos",
+    "publishedAt": "2026-08-24T23:05:44.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "caecc570422438d1",
     "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-    "excerpt": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 64 # Comments: 15",
+    "excerpt": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 107 # Comments: 23",
     "url": "https://developer.apple.com/news/?id=1ptvdtcm",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -15,7 +28,7 @@
   {
     "id": "2a7d7322802e5e56",
     "title": "Moon",
-    "excerpt": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 9 # Comments: 2",
+    "excerpt": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 45 # Comments: 5",
     "url": "https://ciechanow.ski/moon/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -106,7 +119,7 @@
   {
     "id": "581acfbd4954d166",
     "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
-    "excerpt": "Article URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk Comments URL: https://news.ycombinator.com/item?id=49425819 Points: 80 # Comments: 58",
+    "excerpt": "Article URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk Comments URL: https://news.ycombinator.com/item?id=49425819 Points: 91 # Comments: 67",
     "url": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -119,7 +132,7 @@
   {
     "id": "300ed4f3e102ca9c",
     "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-    "excerpt": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 31 # Comments: 2",
+    "excerpt": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 36 # Comments: 2",
     "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -231,7 +244,15 @@
     "publishedAt": "2026-08-24T19:54:50.000Z",
     "category": "hardware",
     "imageUrl": null,
-    "readTimeMinutes": 1
+    "readTimeMinutes": 1,
+    "alsoCoveredBy": [
+      {
+        "source": "Slashdot",
+        "sourceHomepage": "https://slashdot.org",
+        "url": "https://news.slashdot.org/story/26/08/24/228251/amazon-hikes-hardware-prices-by-60-blaming-memory-shortage?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "publishedAt": "2026-08-24T23:00:00.000Z"
+      }
+    ]
   },
   {
     "id": "878545275de8b8ca",
@@ -340,7 +361,7 @@
   {
     "id": "53d975e083eaf7f3",
     "title": "Oceans hit highest temperature on record",
-    "excerpt": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 324 # Comments: 190",
+    "excerpt": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 344 # Comments: 210",
     "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -353,7 +374,7 @@
   {
     "id": "113584368e849150",
     "title": "LLMs could control their host machines by exploiting inference engines",
-    "excerpt": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 70 # Comments: 35",
+    "excerpt": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 77 # Comments: 37",
     "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -366,7 +387,7 @@
   {
     "id": "b93516b697db6e42",
     "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
-    "excerpt": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 38 # Comments: 20",
+    "excerpt": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 38 # Comments: 22",
     "url": "https://textlog.cc/post/2059",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -379,7 +400,7 @@
   {
     "id": "d867f30dbc362160",
     "title": "Anger, Anxiety and Agency",
-    "excerpt": "Article URL: https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/ Comments URL: https://news.ycombinator.com/item?id=49424082 Points: 81 # Comments: 86",
+    "excerpt": "Article URL: https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/ Comments URL: https://news.ycombinator.com/item?id=49424082 Points: 82 # Comments: 93",
     "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -431,7 +452,7 @@
   {
     "id": "bddfd1eb2f9c5535",
     "title": "What Is a Syslog Server?",
-    "excerpt": "Article URL: https://blog.greencloudvps.com/what-is-a-syslog-server.php Comments URL: https://news.ycombinator.com/item?id=49423799 Points: 42 # Comments: 26",
+    "excerpt": "Article URL: https://blog.greencloudvps.com/what-is-a-syslog-server.php Comments URL: https://news.ycombinator.com/item?id=49423799 Points: 46 # Comments: 30",
     "url": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -496,7 +517,7 @@
   {
     "id": "bb0848957783cedd",
     "title": "Octopus intelligence may be related to never-before-seen mutation",
-    "excerpt": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 55 # Comments: 19",
+    "excerpt": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 59 # Comments: 21",
     "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -561,7 +582,7 @@
   {
     "id": "8d0f8a62181d88f8",
     "title": "Fences, Not Sandboxes",
-    "excerpt": "Article URL: https://yegge.ai/essays/fences-not-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49423146 Points: 37 # Comments: 21",
+    "excerpt": "Article URL: https://yegge.ai/essays/fences-not-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49423146 Points: 40 # Comments: 24",
     "url": "https://yegge.ai/essays/fences-not-sandboxes/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -574,7 +595,7 @@
   {
     "id": "2ad636ea4ea91395",
     "title": "Agent Lightning v1.0",
-    "excerpt": "Article URL: https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1 Comments URL: https://news.ycombinator.com/item?id=49423077 Points: 22 # Comments: 1",
+    "excerpt": "Article URL: https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1 Comments URL: https://news.ycombinator.com/item?id=49423077 Points: 24 # Comments: 1",
     "url": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -613,7 +634,7 @@
   {
     "id": "5f3bc974058a776c",
     "title": "Where did all the public bathrooms go?",
-    "excerpt": "Article URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/ Comments URL: https://news.ycombinator.com/item?id=49422800 Points: 111 # Comments: 195",
+    "excerpt": "Article URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/ Comments URL: https://news.ycombinator.com/item?id=49422800 Points: 119 # Comments: 215",
     "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -626,7 +647,7 @@
   {
     "id": "945e4068028bbca3",
     "title": "The entire city of San Francisco as a video game",
-    "excerpt": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 288 # Comments: 105",
+    "excerpt": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 300 # Comments: 105",
     "url": "https://sf.thijs.gg/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -691,7 +712,7 @@
   {
     "id": "3e6ae02d2641cc81",
     "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
-    "excerpt": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc Comments URL: https://news.ycombinator.com/item?id=49422548 Points: 65 # Comments: 8",
+    "excerpt": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc Comments URL: https://news.ycombinator.com/item?id=49422548 Points: 67 # Comments: 8",
     "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -790,7 +811,7 @@
   {
     "id": "7d04125d99c12654",
     "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
-    "excerpt": "Article URL: https://glassbox.codecanary.org Comments URL: https://news.ycombinator.com/item?id=49421948 Points: 80 # Comments: 39",
+    "excerpt": "Article URL: https://glassbox.codecanary.org Comments URL: https://news.ycombinator.com/item?id=49421948 Points: 85 # Comments: 41",
     "url": "https://glassbox.codecanary.org",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -855,7 +876,7 @@
   {
     "id": "8317e1187afa3abd",
     "title": "Coding expertise is going to collapse from AI reliance",
-    "excerpt": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 398 # Comments: 409",
+    "excerpt": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 410 # Comments: 416",
     "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1823,19 +1844,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "7e3ea65157a429f9",
-    "title": "OpenAI Faces Safety Scrutiny After Introducing 'ChatGPT For Teens'",
-    "excerpt": "This week OpenAI launched a version of ChatGPT exclusively designed for teenagers between the ages of 13 and 17, reports CTV, \"saying this version came with stronger protections around content related to mentions of suicide, self-harm and romantic or sexual chats.\" [Tech analyst Carmi Levy says]…",
-    "url": "https://news.slashdot.org/story/26/08/23/2058201/openai-faces-safety-scrutiny-after-introducing-chatgpt-for-teens?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-08-23T20:59:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "1093cbcfadf9630a",
     "title": "How is Android Auto different from Android Automotive?",
     "excerpt": "While these two names sound like they'd refer to the same product, there are major differences between them.",
@@ -2131,19 +2139,6 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-08-23T10:30:27.000Z",
     "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f9804c8312afcb9c",
-    "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
-    "excerpt": "Flipkart's quick-commerce venture is delivering 1.1 million to 1.2 million orders a day, nearly triple its November volume.",
-    "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Jagmeet Singh",
-    "publishedAt": "2026-08-23T03:00:00.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
