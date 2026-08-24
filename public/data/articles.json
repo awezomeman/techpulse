@@ -1,5 +1,96 @@
 [
   {
+    "id": "d35a5289e476f46b",
+    "title": "De-Googled GrapheneOS is coming to Motorola’s foldables next year",
+    "excerpt": "The Razr Ultra line is among those due to receive GrapheneOS support next year. | Photo: Allison Johnson / The Verge GrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones. Official support is set to arrive…",
+    "url": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Dominic Preston",
+    "publishedAt": "2026-08-24T11:37:53.000Z",
+    "category": "software",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268559_Motorola_Razr_Ultra_2026_review_AJohnson_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6bfaf2639f7bbf40",
+    "title": "Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin",
+    "excerpt": "The London-based multinational bank with $850 billion in assets announced it will distribute Anchorpoint's HKDAP to eligible clients and partners.",
+    "url": "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Olivier Acuna",
+    "publishedAt": "2026-08-24T11:36:55.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/635098a63fd9f1666a72fdfb7fee8ca9adedf6a2-4032x2268.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2d44a0e1791296a7",
+    "title": "After 50 Years, Physicists May Have Finally Found a Particle Made of Pure Force",
+    "excerpt": "Gluons are the quantum 'Gorilla Glue' involved in binding quarks together, ScienceAlert reminds us. But for nearly 50 years, physicists have hunted for \"glueballs\", exotic particles predicted by this theory of the strong interaction — the only type of particle in nature composed entirely of force…",
+    "url": "https://science.slashdot.org/story/26/08/24/0055233/after-50-years-physicists-may-have-finally-found-a-particle-made-of-pure-force?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-08-24T11:34:00.000Z",
+    "category": "science",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a71c814100b25436",
+    "title": "$1T investment giant Apollo breached after social engineering attack",
+    "excerpt": "Apollo Global Management has admitted that attackers talked their way into its cloud systems and got their hands on Social Security numbers and other personal information. The investment giant disclosed the breach in a notification filed with California's attorney general, saying it had suffered a…",
+    "url": "https://www.theregister.com/cyber-crime/2026/08/24/1t-investment-giant-apollo-breached-after-social-engineering-attack/5291609",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-24T11:29:00.000Z",
+    "category": "security",
+    "imageUrl": "https://image.theregister.com/?imageId=5264558&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f29611aef36a7d2d",
+    "title": "Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline",
+    "excerpt": "PVARA said companies have until the deadline to submit their application for a no-objection certificate or otherwise cease operating.",
+    "url": "https://www.coindesk.com/policy/2026/08/24/pakistan-kicks-off-crypto-licensing-regime-with-sept-5-registration-deadline",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Jamie Crawley",
+    "publishedAt": "2026-08-24T11:19:16.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/8434d50f9ca90a1a8a1d364db7d5e8bfb35b1309-6554x3687.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "884eff27fb03d635",
+    "title": "Financial repression: The new buzzword for bitcoin bulls",
+    "excerpt": "Your day-ahead look for Aug. 24, 2026",
+    "url": "https://www.coindesk.com/daybook-us/2026/08/24/financial-repression-the-new-buzzword-for-bitcoin-bulls",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Omkar Godbole",
+    "publishedAt": "2026-08-24T11:15:00.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/4997e8344864d8af680c8573fe456675d3db41fd-3965x2230.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4f452c8d57a79a61",
+    "title": "The new Shokz OpenFit Air 2 earbuds are nearly 20 percent lighter than the previous generation",
+    "excerpt": "They feature an open-ear design that reduces pressure and heat buildup.",
+    "url": "https://www.engadget.com/2232481/new-shokz-openfit-air-2-earbuds/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Lawrence Bonk)",
+    "publishedAt": "2026-08-24T11:00:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/the-new-shokz-openfit-air-2-earbuds-are-nearly-20-percent-lighter-than-the-previous-generation/l-intro-1786118462.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "b6ec1385d7815ab1",
     "title": "AI vendors are turning to custom hardware as Microsoft winds back the clock on Windows",
     "excerpt": "KETTLE This week, we learned a lot more about what’s going on inside the datacenter. GPUs may still be king but their exclusive reign on the rack is over. The taskbar's supremacy at the bottom of the desktop may be coming to an end too. You can listen to the latest episode of The Kettle right here…",
@@ -196,7 +287,7 @@
   },
   {
     "id": "f460e2a9297c2cbc",
-    "title": "Live updates: Bitcoin holds $77,000 as XRP, Zcash pull back after a big weekly rally",
+    "title": "Live updates: Bitcoin and gold hit fresh daily highs as bitcoin climbs above $78,000",
     "excerpt": "Bitcoin holds its gains near $77,000 after a 22% week, while last week's biggest altcoin winners steady, with focus turning to Fed Chair Warsh's Jackson Hole debut.",
     "url": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
     "source": "CoinDesk",
@@ -1238,19 +1329,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "c45cf6cebcd33e04",
-    "title": "Microsoft Blames Windows Gaming Issues On RGB Lighting Devices",
-    "excerpt": "BleepingComputer reports: Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. As Microsoft explained when it confirmed it's investigating on Wednesday, this known issue affects games…",
-    "url": "https://tech.slashdot.org/story/26/08/23/0046217/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-08-23T02:29:00.000Z",
-    "category": "software",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "01d473cac2894296",
     "title": "The Art and Beauty of Blade Runner (2015)",
     "excerpt": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 136 # Comments: 68",
@@ -1443,19 +1521,6 @@
     "publishedAt": "2026-08-22T18:38:41.000Z",
     "category": "policy",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "cd06becacf5e4bd3",
-    "title": "Are digital cameras still worth buying in 2026?",
-    "excerpt": "Yes, so long as you're willing to put in the work (and money) for better photos.",
-    "url": "https://www.engadget.com/2240133/digital-cameras-still-worth-buying-2026/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Jackson Chen)",
-    "publishedAt": "2026-08-22T18:30:00.000Z",
-    "category": "software",
-    "imageUrl": "https://www.engadget.com/img/gallery/are-digital-cameras-still-worth-buying-in-2026/l-intro-1786982736.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1823,19 +1888,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "b1520ab0e3f16846",
-    "title": "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
-    "excerpt": "Treasury buybacks are not QE, analysts said, but the move helped pull long-term yields off 19-year highs and triggered a record short squeeze in a market already leaning too bearish.",
-    "url": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Shaurya Malwa",
-    "publishedAt": "2026-08-22T05:05:13.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/67b45979a1b02d081d74dd1cb768215b598664d5-4858x3239.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "53db2b4d09276610",
     "title": "Michael Polansky is training an AI model on skin that’s still alive",
     "excerpt": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about…",
@@ -1953,19 +2005,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "eaac9111649bb58a",
-    "title": "HoverAir’s transforming modular drone has already been halted in the US",
-    "excerpt": "The HoverAir Versa. | Image: HoverAir I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo…",
-    "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Sean Hollister",
-    "publishedAt": "2026-08-21T22:14:11.000Z",
-    "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/hoverair-versa.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "1ef72177a9165ac0",
     "title": "Wine 11.16 Released With VA-API Hardware Decoding, Better ARM64 Support",
     "excerpt": "Wine 11.16 is out today as the newest bi-weekly development release for this software enabling Windows games and applications to run on Linux and other platforms...",
@@ -1976,19 +2015,6 @@
     "publishedAt": "2026-08-21T22:12:01.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d094cca6e7e20b86",
-    "title": "Crypto advocates join in suing Illinois over digital asset tax",
-    "excerpt": "The Crypto Council for Innovation and the Blockchain Association added another lawsuit against the state for its recently approved 0.2% crypto tax.",
-    "url": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Jesse Hamilton",
-    "publishedAt": "2026-08-21T22:10:28.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/4d5877d4c51309d60a12f6597ba4a1e031d8da77-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2119,19 +2145,6 @@
     "publishedAt": "2026-08-21T19:04:41.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mx-master-4-graphite-lifestyle-gallery-4-new-1088x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d18df000cf605706",
-    "title": "Pass the Clarity Act",
-    "excerpt": "Reopening a settled provision four weeks before a vote would sink the bill, argues Summer Mersinger, CEO of the Blockchain Association.",
-    "url": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Summer Mersinger",
-    "publishedAt": "2026-08-21T19:00:00.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/58712d20eab11dfa564aadb29ca1d33c9bfd3029-5365x3579.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2356,10 +2369,10 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "e7804f8f3209a7d9",
-    "title": "Microsoft sounds alarm as perfect-10 Entra ID flaw comes under attack",
-    "excerpt": "Microsoft has fixed a maximum-severity vulnerability in Entra ID that attackers were already exploiting in the wild. Tracked as CVE-2026-69836, the vulnerability carries the maximum CVSS score of 10.0 and could allow an unauthenticated attacker to execute code remotely in Microsoft's cloud identity…",
-    "url": "https://www.theregister.com/cyber-crime/2026/08/21/microsoft-sounds-alarm-as-perfect-10-entra-id-flaw-comes-under-attack/5290925",
+    "id": "f5ba4927659fbfbc",
+    "title": "Microsoft sounds alarm over perfect-10 Entra ID flaw",
+    "excerpt": "Updated to add: At the time The Register published this article, Microsoft was telling the public this flaw was being exploited in the wild. It then contacted us after publication to tell us it had \"corrected\" this CVE’s “Exploited” designation to “No,” saying that (contrary to what it said…",
+    "url": "https://www.theregister.com/cyber-crime/2026/08/21/microsoft-sounds-alarm-over-perfect-10-entra-id-flaw/5290925",
     "source": "The Register",
     "sourceHomepage": "https://www.theregister.com",
     "author": null,
@@ -2730,19 +2743,6 @@
     "publishedAt": "2026-08-20T13:00:00.000Z",
     "category": "ai",
     "imageUrl": "https://image.theregister.com/?imageId=240567&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "fb2fa8cd0e0ae229",
-    "title": "French tax authority says break-in exposed data of 600K, including some private messages",
-    "excerpt": "France's tax authority says attackers may have stolen the contents of messages exchanged with hundreds of taxpayers during the data raid it confirmed last week. In an update published this week, the General Directorate of Public Finances (DGFiP) said lists of messages exchanged with the authority…",
-    "url": "https://www.theregister.com/security/2026/08/20/french-tax-authority-says-break-in-exposed-data-of-600k-including-some-private-messages/5290249",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-20T12:33:00.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=255787&width=800",
     "readTimeMinutes": 1
   },
   {
