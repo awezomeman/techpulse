@@ -1,5 +1,96 @@
 [
   {
+    "id": "b6ec1385d7815ab1",
+    "title": "AI vendors are turning to custom hardware as Microsoft winds back the clock on Windows",
+    "excerpt": "KETTLE This week, we learned a lot more about what’s going on inside the datacenter. GPUs may still be king but their exclusive reign on the rack is over. The taskbar's supremacy at the bottom of the desktop may be coming to an end too. You can listen to the latest episode of The Kettle right here…",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/24/ai-vendors-are-turning-to-custom-hardware-as-microsoft-winds-back-the-clock-on-windows/5291293",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-24T10:57:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://image.theregister.com/?imageId=5291295&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3d9300fe5c006946",
+    "title": "Gemini strikes Apex deal to widen prediction markets reach",
+    "excerpt": "The planned tie-up would make Gemini the exclusive CFTC-regulated venue for crypto event contracts offered through Apex’s futures commission merchant.",
+    "url": "https://www.coindesk.com/business/2026/08/24/gemini-strikes-apex-deal-to-widen-prediction-markets-reach",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Will Canny",
+    "publishedAt": "2026-08-24T10:55:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/8e7f143de173398091d41beb177dbda33ae0dcfa-4208x2367.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "159ef3e402da9e5a",
+    "title": "Bitcoin steadies near $78,000 as gold rallies, altcoins consolidate after best week in 3 years",
+    "excerpt": "BTC was little changed Monday after last week's 24% surge triggered by a Treasury buyback announcement that squeezed over $3 billion in shorts.",
+    "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-steadies-near-usd78-000-as-gold-rallies-altcoins-consolidate-after-best-week-in-3-years",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Oliver Knight",
+    "publishedAt": "2026-08-24T10:41:46.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/2007719f343c4c70ab8c730d923ead497b09bc70-1520x855.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "bef2a2317cc03f5f",
+    "title": "VKD3D 2.1 Released With New Features For Direct3D 12 In Upstream Wine",
+    "excerpt": "VKD3D 2.1 was released today by CodeWeavers' Henri Verbeet as the upstream Wine project for getting Direct3D 12 implemented over the Vulkan API...",
+    "url": "https://www.phoronix.com/news/VKD3D-2.1-Released",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-24T10:34:10.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4dae6692b9f877a1",
+    "title": "Intel Engineers Propose DRM Fabric For Linux",
+    "excerpt": "Coincidentally just days after AMD posted their big UALink patch series for Linux, Intel engineers today announced a proposal called DRM Fabric...",
+    "url": "https://www.phoronix.com/news/DRM-Fabric-Proposal",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-24T10:26:22.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "dc53c0aaaeebcd3e",
+    "title": "Security vets rally around $4 paper password books for sale in Australia",
+    "excerpt": "Are you sick and tired of maintaining a password manager? Struggling with choosing the right one for you? Well, readers who live Down Under can get themselves down to their local AusPost branch where they can pick up an old-school alternative for just AU$4.90 (US$3.51). Password books are something…",
+    "url": "https://www.theregister.com/security/2026/08/24/security-vets-rally-around-4-paper-password-books-for-sale-in-australia/5291234",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-24T10:17:00.000Z",
+    "category": "security",
+    "imageUrl": "https://image.theregister.com/?imageId=5269504&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b9551fdc3e1bc66a",
+    "title": "Linux 7.3 Adds Support For Several Newer RISC-V Extensions",
+    "excerpt": "With the in-development Linux 7.3 is support for discovering and enumerating support for several newer RISC-V ISA extensions. Plus there are improvements to its control flow integrity Shadow Stack handling, CPU context switch support for QoS tagging, using UEFI runtime services for restart and…",
+    "url": "https://www.phoronix.com/news/Linux-7.3-RISC-V",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-24T10:12:56.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "25d63a27b2fde301",
     "title": "Taiwan reportedly indicted NVIDIA employees for exporting prohibited AI servers to China",
     "excerpt": "Even though the US has relaxed its restrictions of AI chip exports to China, illegal exports are apparently still taking place.",
@@ -2122,19 +2213,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "46bb40f4ed37fa1d",
-    "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
-    "excerpt": "ENA is rallying on a $1 billion FalconX deal, while HYPE tests its record, though flat dominance shows this is no broad alt season.",
-    "url": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Oliver Knight",
-    "publishedAt": "2026-08-21T16:10:37.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/d6a1610dd52a4bfd9936b0c93a6a7e89a86c8ce3-1520x856.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "0d303faa533ec5c9",
     "title": "Framework Laptop 16 With GeForce RTX 5070 12GB, One-Piece Keyboard & Haptic Touchpad",
     "excerpt": "While the past few weeks have been quite busy with the new Framework Laptop 13 Pro testing with that all-new laptop model and paired with Intel's Core Ultra Series 3 \"Panther Lake\", at the same time Framework Computer has begun shipping some updated components for the Framework Laptop 16 laptop. If…",
@@ -2213,19 +2291,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "cd2a2e7f7c651adb",
-    "title": "Intel Computer Vision Sensing Driver Now Ready For Nova Lake",
-    "excerpt": "The main set of media subsystem updates have been merged for the ongoing Linux 7.3 merge window. Notable this round is the Intel Computer Vision Sensing \"CVS\" driver merged the previous cycle now supporting next-gen Nova Lake platforms...",
-    "url": "https://www.phoronix.com/news/Linux-7.3-Media",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-21T13:13:26.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "eb3a17c129483210",
     "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
     "excerpt": "Waymo has sharply increased its lobbying spending as it seeks to persuade US regulators to clear a path for fully autonomous taxi services, intensifying its battle with rival Uber over the future of robotaxis. The Alphabet-owned company spent more than $1 million between April and June on lobbying…",
@@ -2239,19 +2304,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "aedc75e6e1e76b9f",
-    "title": "Linux 7.3 Cleans Up Stack Randomization, Ensures It Happen As Early As Possible",
-    "excerpt": "Merged this week for the Linux 7.3 kernel was a big clean-up to the stack randomization code for better security on Linux systems and helping unify some of the architecture-specific code...",
-    "url": "https://www.phoronix.com/news/Linux-7.3-Stack-Randomization",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-21T12:29:09.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "2ff027b0cf239cae",
     "title": "$10K phishing kit claims it can plant rogue passkeys for persistent access to pwned accounts",
     "excerpt": "A phishing kit for sale on Russian-language cybercrime forums claims it can enroll attacker-controlled passkeys on compromised accounts, providing persistent access after passwords are changed. Advertised at around $10,000 for the base package, with additional modules sold separately, iAuthFlow v2…",
@@ -2262,32 +2314,6 @@
     "publishedAt": "2026-08-21T12:18:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=229085&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "2e5bb3c5cc7e1315",
-    "title": "Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs",
-    "excerpt": "Three weeks of review turned up problems unrelated to the flaw that cost users $114 million, but updating still does not make a compromised wallet safe.",
-    "url": "https://www.coindesk.com/tech/2026/08/21/coldcard-ships-firmware-after-usd114-million-bitcoin-theft-says-ai-helped-catch-more-bugs",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Shaurya Malwa",
-    "publishedAt": "2026-08-21T12:10:55.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/17e2199d1d92db776ca604acd66f78a2a5052896-1754x804.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4b4698c6b294b3f9",
-    "title": "Intel Compute Runtime 26.31.39395.13 Continues Prepping For Crescent Island, OpenCL LEO",
-    "excerpt": "Intel today released the Compute Runtime 26.31.39395.13 open-source GPU compute stack update for Windows and Linux systems. Big ongoing trends for the Intel Compute Runtime continue to be preparing for upcoming Crescent Island and Nova Lake Xe3P graphics hardware as well as building out their new…",
-    "url": "https://www.phoronix.com/news/Intel-CR-26.31.39395.13",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-21T12:03:07.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2717,32 +2743,6 @@
     "publishedAt": "2026-08-20T12:33:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=255787&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "8b0cc449b56f019f",
-    "title": "OpenAI glitch locks out vetted cyber researchers – and some can't get back in",
-    "excerpt": "OpenAI says a technical stuff-up booted some vetted security researchers out of its Trusted Access for Cyber (TAC) program, only for its recovery process to decide some of them aren't welcome back. The problem surfaced this week when participants reported that their previously approved status had…",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/20/openai-glitch-locks-out-vetted-cyber-researchers-and-some-cant-get-back-in/5290238",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-20T11:45:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://image.theregister.com/?imageId=5290292&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "1d1d3a4682ba2324",
-    "title": "Microsoft probes reports of games taking exception to Windows 11's August update",
-    "excerpt": "Microsoft is investigating reports of games crashing after users installed August's Patch Tuesday update for Windows 11. The company acknowledged the reports on its Release Health page. Affected games may become unresponsive, close unexpectedly, throw an \"EXCEPTION_ACCESS_VIOLATION\" error, or…",
-    "url": "https://www.theregister.com/os-platforms/2026/08/20/microsoft-probes-reports-of-games-taking-exception-to-windows-11s-august-update/5290214",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-20T11:03:00.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=255533&width=800",
     "readTimeMinutes": 1
   },
   {
