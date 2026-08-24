@@ -1,5 +1,70 @@
 [
   {
+    "id": "f460e2a9297c2cbc",
+    "title": "Live updates: Bitcoin holds $77,000 as XRP, Zcash pull back after a big weekly rally",
+    "excerpt": "Bitcoin holds its gains near $77,000 after a 22% week, while last week's biggest altcoin winners steady, with focus turning to Fed Chair Warsh's Jackson Hole debut.",
+    "url": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-08-24T08:05:57.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/cd18eda683c70e79b1a216101c6597d4892df0a1-1518x846.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6ebba848306fb687",
+    "title": "SCO Successor Xinuos Asks Court to Rehear Its Claims Against IBM/Red Hat Over Project Monterey",
+    "excerpt": "The long legal battle over ownership of Linux \"is closer than ever to ending,\" reports the Register, \"after a panel of three judges ruled a claim against IBM and Red Hat isn't valid, and that time has expired for further action.\" In 2021, an heir to SCO settled with IBM for $14.25 million — a sum…",
+    "url": "https://linux.slashdot.org/story/26/08/24/037241/sco-successor-xinuos-asks-court-to-rehear-its-claims-against-ibmred-hat-over-project-monterey?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-08-24T07:34:00.000Z",
+    "category": "software",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "055d5e5bf3a62732",
+    "title": "Ether is crushing bitcoin and the 'golden cross' says it may not be done yet",
+    "excerpt": "The ETH/BTC ratio has recently formed a bullish golden cross, suggesting ether could extend its outperformance against bitcoin.",
+    "url": "https://www.coindesk.com/markets/2026/08/24/ether-is-crushing-bitcoin-and-the-golden-cross-says-it-may-not-be-done-yet",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Omkar Godbole",
+    "publishedAt": "2026-08-24T06:50:58.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/9397622644d18dfc13339815e362fb5d33182da7-2108x1488.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "35b81525a5762a31",
+    "title": "Batch file automated a clean-up job, then fouled itself by deleting the wrong directory",
+    "excerpt": "WHO, ME? Welcome to another installment of \"Who, Me?\" – the reader-contributed column in which The Register opens the working week with your tales of IT woe. This week, meet a reader we'll Regomize as \"Pascal,\" who once worked for a company that had just acquired its first Exchange server, home to…",
+    "url": "https://www.theregister.com/software/2026/08/24/batch-file-automated-a-clean-up-job-then-fouled-itself-by-deleting-the-wrong-directory/5290873",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-24T06:31:00.000Z",
+    "category": "software",
+    "imageUrl": "https://image.theregister.com/?imageId=255816&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f408841e4c9575ae",
+    "title": "Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power",
+    "excerpt": "The exploit shows how lightly held voting tokens can become a means of attack when control of a protocol is cheaper than the assets it governs.",
+    "url": "https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-08-24T06:27:33.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/0075d19bd82cb7278ff5f876932e712bf6d2e204-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "2bb2c83c023f99c9",
     "title": "Ray Dalio says investors should own ‘a bit of Bitcoin’ as U.S. debt risks rise",
     "excerpt": "The Bridgewater founder says recent Treasury-market stress fits his long-running debt-crisis framework, though he still prefers gold as the bigger hedge.",
@@ -1001,19 +1066,6 @@
     "publishedAt": "2026-08-23T00:31:41.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "09e001ba5d26b412",
-    "title": "Battery Fires At Recycling Centres Are Costing the UK &pound;1bn a Year",
-    "excerpt": "Wrongly discarded lithium batteries, such as those in vapes, are causing more than 10 fires a week at U.K. recycling centers, according to figures shared with the Guardian: The Environment Services Association (ESA), the trade body for waste management companies, said its members had reported 1,518…",
-    "url": "https://hardware.slashdot.org/story/26/08/23/0027208/battery-fires-at-recycling-centres-are-costing-the-uk-1bn-a-year?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-08-23T00:29:00.000Z",
-    "category": "security",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -2226,19 +2278,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "368ae014ac2875de",
-    "title": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
-    "excerpt": "Laser Digital Japan will offer liquidity to domestic crypto providers, with institutional trading services planned to follow as the appetite for crypto in Japan grows.",
-    "url": "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Olivier Acuna",
-    "publishedAt": "2026-08-21T10:38:47.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/0df79e728912cba7bff1db008fd87efc51a77c34-2708x1316.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "58d215c9bb963934",
     "title": "Linux 7.3 Ready With CXL Type-2 Driver Support For AMD Solarflare NICs",
     "excerpt": "With the mainline Linux 7.2 kernel there is now the basic support in place for CXL Type-2 accelerator drivers within the CXL core subsystem code. The first in-tree Type-2 driver with the Linux kernel is for the new AMD Solarflare NIC hardware...",
@@ -2252,19 +2291,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "1b8918596b642bb1",
-    "title": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
-    "excerpt": "BTC has gained 24% since Monday and reached the level implied by its inverse head-and-shoulders break, with shorts still taking a contrarian position.",
-    "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Oliver Knight",
-    "publishedAt": "2026-08-21T10:15:36.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/74e60c18babe89474bec272f69e064623c0b184f-1520x856.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "e7804f8f3209a7d9",
     "title": "Microsoft sounds alarm as perfect-10 Entra ID flaw comes under attack",
     "excerpt": "Microsoft has fixed a maximum-severity vulnerability in Entra ID that attackers were already exploiting in the wild. Tracked as CVE-2026-69836, the vulnerability carries the maximum CVSS score of 10.0 and could allow an unauthenticated attacker to execute code remotely in Microsoft's cloud identity…",
@@ -2275,19 +2301,6 @@
     "publishedAt": "2026-08-21T10:15:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=5211376&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "5a484c34d06e54fe",
-    "title": "Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why.",
-    "excerpt": "The rally in hard assets isn’t necessarily about what the Treasury is doing, but what its move signals to the market.",
-    "url": "https://www.coindesk.com/markets/2026/08/21/treasury-s-latest-measure-isn-t-qe-or-ycc-still-bitcoin-is-skyrocketing-here-s-why",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Omkar Godbole",
-    "publishedAt": "2026-08-21T09:17:15.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/41b87a383d7c62a63685770542bb14af5e62cfa2-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2730,19 +2743,6 @@
     "publishedAt": "2026-08-20T08:45:00.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=1681822&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d0effe015763bc55",
-    "title": "AI agent suggested installing a malware package. Engineer almost took its advice",
-    "excerpt": "PWNED Welcome back to PWNED, the column where we make fun of those who are security self-owned, so hopefully you don’t do the same. This week, we have a story that’s hot off the presses about a company almost sabotaging its security by using AI for programming. Have a story about someone leaving a…",
-    "url": "https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-20T07:00:00.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=4094065&width=800",
     "readTimeMinutes": 1
   },
   {
