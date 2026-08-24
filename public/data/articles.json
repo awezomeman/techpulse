@@ -1,5 +1,70 @@
 [
   {
+    "id": "b0d6fee5c1da2131",
+    "title": "What are the downsides of a mini PC?",
+    "excerpt": "Small space means less cooling, which in turn means less sustained power.",
+    "url": "https://www.engadget.com/2240318/mini-pc-pros-cons/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Jack Whitcombe)",
+    "publishedAt": "2026-08-24T16:30:00.000Z",
+    "category": "policy",
+    "imageUrl": "https://www.engadget.com/img/gallery/what-are-the-downsides-of-a-mini-pc/l-intro-1786717090.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b87edece26f9c153",
+    "title": "Users mash LinkedIn's AI slop button 1M+ times in 3 weeks",
+    "excerpt": "More than 1 million LinkedIn users have clicked the newish “Seems like AI slop” button since the social network launched it at the end of July. Hari Srinivasan, LinkedIn’s chief product officer, said that compared to the period before launching the AI slop reporting button, those who copy-paste…",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/24/users-mash-linkedins-ai-slop-button-1m-times-in-3-weeks/5291802",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-24T16:15:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://image.theregister.com/?imageId=231279&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d2b84b4cbecec4ca",
+    "title": "Humanoid Robots Run 100 Meters Faster Than Usain Bolt's Record Pace",
+    "excerpt": "Two humanoid robots competing at the World Humanoid Robot Games in Beijing on Saturday ran the 100-meter dash faster than Usain Bolt's 9.58-second world-record time. \"[T]he Tiangong Ultra humanoid robot completed the 100-meter dash in 9.39 seconds during a preliminary heat,\" reports Engadget.…",
+    "url": "https://hardware.slashdot.org/story/26/08/24/089213/humanoid-robots-run-100-meters-faster-than-usain-bolts-record-pace?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-08-24T16:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f54746c8b1fa7d00",
+    "title": "The Witcher 4 developers target a 2028 release",
+    "excerpt": "CD Projekt Red is aiming to launch The Witcher 4 sometime in 2028, joint CEO Michał Nowakowski says in a new video . CD Projekt Red has been working on its next mainline Witcher title for years and has shown videos of it, but now the studio is providing a target release window for when the game…",
+    "url": "https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Jay Peters",
+    "publishedAt": "2026-08-24T15:48:53.000Z",
+    "category": "startups",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/The_Witcher_4_UE5_tech_demo_PS5_Ciri_2_EN.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3e89bcaf34e90384",
+    "title": "Zillow settles antitrust lawsuit with the FTC",
+    "excerpt": "Zillow settles antitrust lawsuit with the FTC.",
+    "url": "https://www.engadget.com/2242715/zillow-settles-antitrust-lawsuit-with-the-ftc/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Jackson Chen)",
+    "publishedAt": "2026-08-24T15:43:18.000Z",
+    "category": "policy",
+    "imageUrl": "https://www.engadget.com/img/gallery/zillow-settles-antitrust-lawsuit-with-the-ftc/l-intro-1787586076.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "d7038b7f9c33de4e",
     "title": "Emperor Penguin Linus Torvalds banishes a bug – with a bot",
     "excerpt": "Work on Linux kernel 7.3 is underway, and a bug fix just came in from an unusual source: Linus himself. Well, kind of… The new bug fix has the title of Don’t hand out the flat CCS storage as usable VRAM, and it comes from emperor penguin Linus Torvalds . Now that kernel 7.2 is out, the team is hard…",
@@ -28,7 +93,7 @@
   {
     "id": "6fa02c4f9ef76b6b",
     "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-    "excerpt": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six.",
+    "excerpt": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
     "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
     "source": "TechCrunch",
     "sourceHomepage": "https://techcrunch.com",
@@ -62,6 +127,19 @@
     "publishedAt": "2026-08-24T15:00:00.000Z",
     "category": "ai",
     "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a2a9cc2971e6bdf5",
+    "title": "What Nvidia's first Groq 3 LPU benchmarks do and don't tell us about its $20B gamble",
+    "excerpt": "Nvidia’s $20 billion bet on Groq’s LPU tech sure looks like it was a good one. On Monday, the GPU giant offered the first glimpse of just how big a speedup its Groq 3-based LPX racks will provide. In an independent benchmark conducted by Artificial Analysis, Nvidia’s LPX rack systems managed to…",
+    "url": "https://www.theregister.com/systems/2026/08/24/what-nvidias-first-groq-3-lpu-benchmarks-do-and-dont-tell-us-about-its-20b-gamble/5291880",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-24T15:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://image.theregister.com/?imageId=5224053&width=800",
     "readTimeMinutes": 1
   },
   {
@@ -1368,19 +1446,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "0fc9b9b751127f65",
-    "title": "The reasons Siri may not work on CarPlay",
-    "excerpt": "If you're struggling to get Siri to work with your car's CarPlay system, there are some things you can check.",
-    "url": "https://www.engadget.com/2240145/siri-with-carplay-reasons-not-work-fixes/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Husain Parvez)",
-    "publishedAt": "2026-08-23T13:30:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/the-reasons-siri-may-not-work-on-carplay/l-intro-1787081672.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "c0486c254f229048",
     "title": "Malware infects Android-based automotive head unit firmware",
     "excerpt": "Article URL: https://securelist.com/android-head-unit-malware/121106/ Comments URL: https://news.ycombinator.com/item?id=49408550 Points: 87 # Comments: 40",
@@ -1391,19 +1456,6 @@
     "publishedAt": "2026-08-23T13:05:38.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "9bbf247d55a63ea8",
-    "title": "This affordable fix may be all you need to improve earbud sound quality",
-    "excerpt": "You might not need to invest in a newer pair of earbuds to improve the sound quality. Here's how to upgrade your current pair for a better listening experience.",
-    "url": "https://www.engadget.com/2240144/earbuds-sound-quality-improve-with-affordable-fix/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Adnan Ahmed)",
-    "publishedAt": "2026-08-23T13:00:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/this-affordable-fix-may-be-all-you-need-to-improve-earbud-sound-quality/l-intro-1787061352.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1430,19 +1482,6 @@
     "publishedAt": "2026-08-23T12:32:00.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=1682578&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "e13ab8a098c26f14",
-    "title": "Grand Theft Auto VI exists in its own universe",
-    "excerpt": "This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster . The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here . How it started Four years…",
-    "url": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Andrew Webster",
-    "publishedAt": "2026-08-23T12:00:00.000Z",
-    "category": "startups",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Lucia_Caminos_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -1586,19 +1625,6 @@
     "publishedAt": "2026-08-23T09:27:40.000Z",
     "category": "science",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "47b7da18d9b85573",
-    "title": "Debian is Voting on Whether to Allow AI-Assisted Contributions",
-    "excerpt": "Debian developers are voting on whether to ban AI-assisted contributions, reports the blog Linuxiac, with a ballot listing eight proposals and a \"None of the above\" option. The first one is still the original proposal to ban LLM-assisted contributions by changing the Debian Social Contract. This…",
-    "url": "https://linux.slashdot.org/story/26/08/23/0539230/debian-is-voting-on-whether-to-allow-ai-assisted-contributions?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-08-23T07:34:00.000Z",
-    "category": "crypto",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -2707,19 +2733,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "00fd962a8ab0a671",
-    "title": "US Bank investigates LockBit's claims as ransomware crims set pay-or-leak deadline",
-    "excerpt": "US Bank says that it's investigating ransomware crew LockBit’s claims that it breached the financial institution and stole data, which the crims threaten to leak on September 3 unless the bank pays an extortion demand. \"We have investigated this matter and the available evidence indicates that the…",
-    "url": "https://www.theregister.com/security/2026/08/20/us-bank-investigates-lockbits-claims-as-ransomware-crims-set-pay-or-leak-deadline/5290560",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-20T17:30:39.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=5239008&width=800",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "1ae694f2007a883e",
     "title": "Roblox must make changes after failing to block adults creeping on kids",
     "excerpt": "Despite making changes last fall to help block adults from messaging unknown children , Roblox is still failing to stop adults from creeping on kids in other ways, Australia’s eSafety commissioner, Julie Inman Grant, said on Thursday. Suspecting that Roblox may not be doing enough to stop child…",
@@ -2730,19 +2743,6 @@
     "publishedAt": "2026-08-20T17:14:08.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273992483-1024x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "0482895280094609",
-    "title": "Microsoft gives Task Manager another task: Watching AI workloads",
-    "excerpt": "Once upon a time, Windows Task Manager was a stone-cold killer. Optimized to within an inch of its life, it struck fear into errant processes. These days, Microsoft also wants it monitoring AI workloads. Task Manager has come a long way from the application Dave Plummer developed in the 1990s,…",
-    "url": "https://www.theregister.com/os-platforms/2026/08/20/microsoft-gives-task-manager-another-task-watching-ai-workloads/5290448",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-20T16:45:00.000Z",
-    "category": "software",
-    "imageUrl": "https://image.theregister.com/?imageId=5290518&width=800",
     "readTimeMinutes": 1
   },
   {
