@@ -1,5 +1,57 @@
 [
   {
+    "id": "25d63a27b2fde301",
+    "title": "Taiwan reportedly indicted NVIDIA employees for exporting prohibited AI servers to China",
+    "excerpt": "Even though the US has relaxed its restrictions of AI chip exports to China, illegal exports are apparently still taking place.",
+    "url": "https://www.engadget.com/2242415/taiwan-reportedly-indicted-nvidia-employees-for-exporting-prohibited-ai-servers-to-china/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Steve Dent)",
+    "publishedAt": "2026-08-24T10:02:03.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/taiwan-reportedly-indicted-nvidia-employees-for-exporting-prohibited-ai-servers-to-china/l-intro-1787565479.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2188de7894a91ac2",
+    "title": "Fed experiment shows how bitcoin rallies attract new crypto buyers",
+    "excerpt": "Households shown bitcoin’s prior-year return were 23% more likely to report owning crypto in a follow-up survey.",
+    "url": "https://www.coindesk.com/markets/2026/08/24/fed-experiment-shows-how-bitcoin-rallies-attract-new-crypto-buyers",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Francisco Rodrigues",
+    "publishedAt": "2026-08-24T09:56:17.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/b3532a6f838a307328a125e0fb64689746707a41-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "64256c0e1014c19a",
+    "title": "AMD k10temp Driver Adds EPYC Zen 5 Per-CCD Temperature Monitoring With Linux 7.3",
+    "excerpt": "Merged last week for the Linux 7.3 kernel were all the hardware monitoring (HWMON) driver updates for Linux 7.3, which included supporting several more ASUS desktop motherboards, a few AIO liquid cooling products, more Lenovo system support, and per-CCD temperature monitoring on AMD EPYC 9005…",
+    "url": "https://www.phoronix.com/news/Linux-7.3-HWMON",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-24T09:56:08.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6d33b521fd602be6",
+    "title": "Canonical backs quest to translate mountains of C into safe Rust with AI",
+    "excerpt": "Canonical's fondness for AI and Rust is no secret. Now it is co-funding a three-year PhD project investigating whether the former can translate large C codebases into the latter. Engineering veep Jon Seager announced the investment on Ubuntu's Discourse forum. The PhD project will be conducted at…",
+    "url": "https://www.theregister.com/software/2026/08/24/canonical-backs-quest-to-translate-mountains-of-c-into-safe-rust-with-ai/5290959",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-24T09:27:00.000Z",
+    "category": "software",
+    "imageUrl": "https://image.theregister.com/?imageId=1618337&width=800",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "7d620d90cc1c1dd3",
     "title": "Humanoid robots smash Usain Bolt’s 100-meter record",
     "excerpt": "Tiangong Ultra (left) also broke the 400 meter world record during this year’s World Humanoid Robot Games. | Image: Lintao Zhang/Getty Images The 9.58-second 100-meter dash record set by Usain Bolt in 2009 has been outpaced by Chinese robots participating at the World Humanoid Robot Games in…",
@@ -1316,19 +1368,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "5958ce839dfd6c15",
-    "title": "Is Nintendo Switch Online still worth it in 2026?",
-    "excerpt": "Nintendo Switch Online upgrades your experience with online play and a lot of other perks, but should you shell out for it?",
-    "url": "https://www.engadget.com/2240127/is-nintendo-switch-online-still-worth-it/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Ben Stegner)",
-    "publishedAt": "2026-08-22T18:00:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/is-nintendo-switch-online-still-worth-it-in-2026/l-intro-1786653500.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "54c67d08d3f0e117",
     "title": "Doodle generative compositions in your browser with Musical Spirograph",
     "excerpt": "So pretty. | Screenshot: Terrence O’Brien / The Verge I remember having a Spirograph as a kid and being obsessed with it. Its geometric patterns are hypnotic and gorgeous. I also love generative music composition. So bringing those two things together in a browser tab, I'm hooked. Musical…",
@@ -2252,19 +2291,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "482b7d08b0e49fc7",
-    "title": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
-    "excerpt": "Market watchers say sudden sharp price spikes and forced short liquidations are the classic signs of a bottom, though macro risks still remain.",
-    "url": "https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Olivier Acuna",
-    "publishedAt": "2026-08-21T11:31:30.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/b72b4dd95175914ab42f1abbcbe7a1c1085f565e-4000x2250.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "c48032224d828fee",
     "title": "Microsoft lets you swap New Outlook's looks with the face of Outlook Classic",
     "excerpt": "Microsoft is rolling out a setting that makes Outlook on the Web and New Outlook for Windows look and feel like Classic Outlook through a theme that tweaks the visual style and layout. \"This update is designed to help users who are transitioning from classic Outlook by providing a more familiar…",
@@ -2301,19 +2327,6 @@
     "publishedAt": "2026-08-21T11:00:36.000Z",
     "category": "science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/04_4panel_enlarge_2x-1152x648-1787265662.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "58d215c9bb963934",
-    "title": "Linux 7.3 Ready With CXL Type-2 Driver Support For AMD Solarflare NICs",
-    "excerpt": "With the mainline Linux 7.2 kernel there is now the basic support in place for CXL Type-2 accelerator drivers within the CXL core subsystem code. The first in-tree Type-2 driver with the Linux kernel is for the new AMD Solarflare NIC hardware...",
-    "url": "https://www.phoronix.com/news/AMD-Solarflare-NIC-CXL-Type-2",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-21T10:33:07.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2730,19 +2743,6 @@
     "publishedAt": "2026-08-20T11:03:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=255533&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4fd981be2b0d3039",
-    "title": "Software development and tech services in the cross-hairs as AI marches on",
-    "excerpt": "Business transformation, software development, and technology implementation are among the tech job categories likely to be hit hardest by AI, according to new research from Forrester. The global IT analyst company has researched how AI will disrupt various activities within the tech market, both…",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/20/software-development-and-tech-services-in-the-cross-hairs-as-ai-marches-on/5289668",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-20T10:15:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://image.theregister.com/?imageId=5251723&width=800",
     "readTimeMinutes": 1
   },
   {
