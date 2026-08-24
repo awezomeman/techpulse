@@ -1,5 +1,83 @@
 [
   {
+    "id": "bc7e2f5a0e147c43",
+    "title": "Why are more movies not shot in IMAX?",
+    "excerpt": "Shooting an IMAX movie is an expensive endeavor that most filmmakers avoid, at least for now.",
+    "url": "https://www.engadget.com/2240293/why-more-movies-not-shot-in-imax/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Jack Whitcombe)",
+    "publishedAt": "2026-08-24T14:30:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/why-are-more-movies-not-shot-in-imax/l-intro-1786715476.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "bef7dbfdec76876c",
+    "title": "Oracle Exadata Database@AWS offers advantages, but trade-offs remain",
+    "excerpt": "As Oracle launches its Exadata service on Database@AWS — a year after it went live for lower-level databases — experts have warned there are trade-offs in getting value for money and cautioned over Oracle FUD around the cloud migration decision-making. Earlier this month, Big Red announced the…",
+    "url": "https://www.theregister.com/databases/2026/08/24/oracle-exadata-databaseaws-offers-advantages-but-trade-offs-remain/5291731",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-24T14:29:00.000Z",
+    "category": "software",
+    "imageUrl": "https://image.theregister.com/?imageId=121330&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "50d1f5268d348adc",
+    "title": "Brake problems in GM EVs draw greater federal scrutiny",
+    "excerpt": "In one crash, the driver of a 2024 Blazer EV said they had to \"deliberately steer the vehicle into a concrete curb\" to slow it down and avoid a \"catastrophic intersection collision.\"",
+    "url": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Sean O'Kane",
+    "publishedAt": "2026-08-24T14:18:47.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "95a905222ba68c08",
+    "title": "Apple’s four-pack of second-gen AirTags is $20 off",
+    "excerpt": "Apple’s four-pack of second-generation AirTags is down to $79 (originally $99) at Amazon and at Target , which is the bundle’s lowest price yet. You can get an AirTag for $24 right now piecemeal, but getting four together as a set is a way to save even more. Why pay $96 for four when you can save…",
+    "url": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Cameron Faulkner",
+    "publishedAt": "2026-08-24T14:04:04.000Z",
+    "category": "policy",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/airtags.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d94dcff635dc4cdc",
+    "title": "ShinyHunters and ReliaQuest trade blows over claimed breach",
+    "excerpt": "ShinyHunters has claimed another cybersecurity scalp, but ReliaQuest says the crew's social engineering attack only got as far as one employee identity before its defenses slammed the door. The ransomware baddies listed US-based infosec biz ReliaQuest on its leak site on August 23, claiming the…",
+    "url": "https://www.theregister.com/cyber-crime/2026/08/24/shinyhunters-and-reliaquest-trade-blows-over-claimed-breach/5291702",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-24T14:01:00.000Z",
+    "category": "security",
+    "imageUrl": "https://image.theregister.com/?imageId=5235702&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "c9b86a45401a6761",
+    "title": "How GoFundMe became America’s backup plan",
+    "excerpt": "Today on Decoder , I’m talking with Tim Cadogan, the CEO of GoFundMe. You know GoFundMe — it’s a major fundraising platform where you can donate to help people with everything from medical expenses to little league uniforms to starting a new business. Tim took over as CEO in March 2020 — a…",
+    "url": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Nilay Patel",
+    "publishedAt": "2026-08-24T14:00:00.000Z",
+    "category": "startups",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_20260824_TimCadogan.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "4d38648c033d9e08",
     "title": "Hugging Face reportedly in talks to be acquired for $13B",
     "excerpt": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
@@ -495,7 +573,7 @@
   },
   {
     "id": "f460e2a9297c2cbc",
-    "title": "Live updates: Bitcoin climbs past $79,000 early Monday, with gold topping $4,700",
+    "title": "Live updates: Bitcoin climbs past $79,000, with gold topping $4,700",
     "excerpt": "With bond yields still near multi-year highs, focus turns to Fed Chair Kevin Warsh's upcoming Jackson Hole address.",
     "url": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
     "source": "CoinDesk",
@@ -1602,19 +1680,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "88446af5ecc67154",
-    "title": "If Waymo cars are Level 4 automation, what does it take to be a Level 5?",
-    "excerpt": "We break down the different autonomous driving levels, and why Level 5 is so hard to achieve.",
-    "url": "https://www.engadget.com/2240138/if-waymo-cars-are-level-4-automation-what-is-level-5/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Novak Božović)",
-    "publishedAt": "2026-08-22T21:30:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/if-waymo-cars-are-level-4-automation-what-does-it-take-to-be-a-level-5/l-intro-1786657077.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "7df972bbb6b899d3",
     "title": "Will the DOJ’s investigation into a16z spook other VCs?",
     "excerpt": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
@@ -1823,19 +1888,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "c000c6a2f06337f0",
-    "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
-    "excerpt": "The Echo Dot Max went from $99.99 to $119.99 overnight, while its sibling the Echo Dot jumped to $79.99 from $49.99. | Photo by Jennifer Pattison Tuohy / The Verge Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs , and Eeros…",
-    "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Jennifer Pattison Tuohy",
-    "publishedAt": "2026-08-22T13:41:01.000Z",
-    "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258034_Echo_Dot_Max_2025_JTuohy_0008.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "1a0492973d07390d",
     "title": "AI slop is good for business if you know what you're doing",
     "excerpt": "Amazon founder Jeff Bezos is known for saying, \"Your margin is my opportunity.\" Substitute \"irresponsibility\" for \"margin,\" and you have a formulation that applies to AI-driven software development. AI models or coding agents make mistakes, and many of the people using them multiply those errors by…",
@@ -1846,19 +1898,6 @@
     "publishedAt": "2026-08-22T13:19:00.000Z",
     "category": "ai",
     "imageUrl": "https://image.theregister.com/?imageId=5230118&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "cca6661bb904a3ab",
-    "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
-    "excerpt": "The OmniBook 3 isn’t a sweet treat, but it gets things done on the cheap. | Photo: Antonio G. Di Benedetto / The Verge Laptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff…",
-    "url": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Antonio G. Di Benedetto",
-    "publishedAt": "2026-08-22T13:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268709_HP_OmniBook_3_16_laptop_review_ADiBenedetto_0012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -2106,19 +2145,6 @@
     "publishedAt": "2026-08-21T23:00:18.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=5224754&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "286576db227e264e",
-    "title": "Nvidia partners with data center developer Cloverleaf",
-    "excerpt": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-    "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Lucas Ropek",
-    "publishedAt": "2026-08-21T22:37:38.000Z",
-    "category": "ai",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2717,32 +2743,6 @@
     "publishedAt": "2026-08-20T16:10:54.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=5290528&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "192c69a79f8dd098",
-    "title": "Slack Code taps into collective vibe, puts AI agents into the group chat",
-    "excerpt": "Slack has decided that AI coding agents have spent quite enough time alone with developers and would be better off doing their work where everyone can watch: on Slack. The Salesforce-owned chat factory has introduced Slack Code, which gives coding agents their own project channels where they can…",
-    "url": "https://www.theregister.com/saas/2026/08/20/slack-code-taps-into-collective-vibe-puts-ai-agents-into-the-group-chat/5290413",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-20T15:23:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://image.theregister.com/?imageId=248129&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c3ca2709e989d409",
-    "title": "Thunderbird to flap twice as fast from September",
-    "excerpt": "Thunderbird is moving to fortnightly releases to keep pace with Firefox's accelerated schedule. Mozilla and its subsidiary MZLA updated their flagship apps this week, releasing Firefox 154 and Thunderbird 154, respectively. Since last month's version 153 releases are the latest Extended Support…",
-    "url": "https://www.theregister.com/software/2026/08/20/thunderbird-to-flap-twice-as-fast-from-september/5290393",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-20T15:03:00.000Z",
-    "category": "software",
-    "imageUrl": "https://image.theregister.com/?imageId=5290483&width=800",
     "readTimeMinutes": 1
   },
   {
