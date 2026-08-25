@@ -1,5 +1,122 @@
 [
   {
+    "id": "0e500ada264f71fd",
+    "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+    "excerpt": "Article URL: https://pgbot.dev/ Comments URL: https://news.ycombinator.com/item?id=49438492 Points: 3 # Comments: 3",
+    "url": "https://pgbot.dev/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "sashash",
+    "publishedAt": "2026-08-25T18:30:57.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a532b65937f037e8",
+    "title": "How to turn off Find My iPhone (and when you definitely should)",
+    "excerpt": "Find My is a vital iPhone security feature that you should keep on almost all the time. Turning it off makes your device much harder to recover.",
+    "url": "https://www.engadget.com/2242751/how-to-turn-off-find-my-iphone-when-should/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Mariella Moon)",
+    "publishedAt": "2026-08-25T18:30:00.000Z",
+    "category": "crypto",
+    "imageUrl": "https://www.engadget.com/img/gallery/how-to-turn-off-find-my-iphone-and-when-you-definitely-should/l-intro-1787333461.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "5a8862fb4482dc72",
+    "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
+    "excerpt": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029.",
+    "url": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Sean O'Kane",
+    "publishedAt": "2026-08-25T18:26:55.000Z",
+    "category": "science",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "c9be392ef89cf459",
+    "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
+    "excerpt": "Each year, we get a huge influx of applicants to speak at TechCrunch’s events, and this year’s Founder Summit in Boston on November 4 will be no different!",
+    "url": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "TechCrunch Events",
+    "publishedAt": "2026-08-25T18:22:50.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "088de65b95f896fb",
+    "title": "Take a look at Microsoft’s new 25th anniversary Halo accessories",
+    "excerpt": "The new Designed for Xbox 25th Anniversary collection features a handful of limited edition gadgets available for pre-order today. Paying homage to the Halo special edition of the original Xbox, almost everything in the collection is translucent \"OG Green,\" matching the Xbox Series X25 limited…",
+    "url": "https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Stevie Bonifield",
+    "publishedAt": "2026-08-25T18:16:29.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/xbox-25th-anniversary-hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "48873335c69ed158",
+    "title": "Dolly Parton has died",
+    "excerpt": "https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 Points: 245 #…",
+    "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "helsinkiandrew",
+    "publishedAt": "2026-08-25T18:02:22.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9a1f4fe8fcf8374a",
+    "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
+    "excerpt": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+    "url": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "TechCrunch Events",
+    "publishedAt": "2026-08-25T18:01:30.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "753d56d1dc3e9f72",
+    "title": "Trial is 40 days. Not until you're 40",
+    "excerpt": "Article URL: https://twitter.com/WinRAR_RARLAB/status/2092182008319386067 Comments URL: https://news.ycombinator.com/item?id=49437966 Points: 13 # Comments: 0",
+    "url": "https://twitter.com/WinRAR_RARLAB/status/2092182008319386067",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "pikseladam",
+    "publishedAt": "2026-08-25T17:56:33.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "85685aa149d856de",
+    "title": "Firefox 157 will include JPEG XL by default on all platforms",
+    "excerpt": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 34 # Comments: 2",
+    "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "yboris",
+    "publishedAt": "2026-08-25T17:55:23.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "f1c8ae9706e46d62",
     "title": "Claude Cowork finally remembers what you told the app in chat",
     "excerpt": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
@@ -10,6 +127,19 @@
     "publishedAt": "2026-08-25T17:50:33.000Z",
     "category": "ai",
     "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "5562d291db93dbbb",
+    "title": "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
+    "excerpt": "Two unvaccinated people have died from measles in Pennsylvania, state health officials confirmed Tuesday . They are the first measles deaths reported in Pennsylvania in 35 years and the first deaths reported in the US in 2026. Last year, the US saw three measles deaths : two in otherwise-healthy…",
+    "url": "https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Beth Mole",
+    "publishedAt": "2026-08-25T17:39:38.000Z",
+    "category": "Science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -66,7 +196,7 @@
   },
   {
     "id": "7aabe5b1835ba7e1",
-    "title": "Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market",
+    "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
     "excerpt": "Article URL: https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer Comments URL: https://news.ycombinator.com/item?id=49437566 Points: 0 # Comments: 0",
     "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
     "source": "Hacker News",
@@ -74,6 +204,32 @@
     "author": "gfavvas",
     "publishedAt": "2026-08-25T17:28:52.000Z",
     "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "579b65ab022fee88",
+    "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
+    "excerpt": "Louisiana Gov. Jeff Landry said Tuesday that SpaceX will commit $100 billion to develop Starship factories and launch pads in the state's coastal areas. In doing so, the company seeks to replicate the Starbase facility it has built over the last decade in southern Texas on a larger scale. The…",
+    "url": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Eric Berger",
+    "publishedAt": "2026-08-25T17:26:15.000Z",
+    "category": "science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacex-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "964b914a5f9d7edb",
+    "title": "Run OpenBSD on DigitalOcean for $4/month",
+    "excerpt": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 27 # Comments: 7",
+    "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "speckx",
+    "publishedAt": "2026-08-25T17:23:07.000Z",
+    "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -93,7 +249,7 @@
   {
     "id": "d11fef79fbcc328f",
     "title": "Lightweight system monitor for Linux VPS written in Go",
-    "excerpt": "Article URL: https://github.com/leodeim/vpsmon Comments URL: https://news.ycombinator.com/item?id=49437361 Points: 4 # Comments: 0",
+    "excerpt": "Article URL: https://github.com/leodeim/vpsmon Comments URL: https://news.ycombinator.com/item?id=49437361 Points: 17 # Comments: 8",
     "url": "https://github.com/leodeim/vpsmon",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -132,7 +288,7 @@
   {
     "id": "25847b3565db870b",
     "title": "Nitter project received cease and desist",
-    "excerpt": "Article URL: https://github.com/zedeus/nitter/issues/1442 Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 61 # Comments: 12",
+    "excerpt": "Article URL: https://github.com/zedeus/nitter/issues/1442 Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 201 # Comments: 131",
     "url": "https://github.com/zedeus/nitter/issues/1442",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -145,7 +301,7 @@
   {
     "id": "b3477100d51ce4f7",
     "title": "Black hole singularity is a surface not a point",
-    "excerpt": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 24 # Comments: 7",
+    "excerpt": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 66 # Comments: 26",
     "url": "https://arxiv.org/abs/2608.21590",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -183,8 +339,8 @@
   },
   {
     "id": "04948a8ea524304c",
-    "title": "A new ceiling for Λ: the de Bruijn–Newman constant is at most 0.1787854",
-    "excerpt": "Article URL: https://www.judegomila.com/posts/riemann-lambda-0.1787854 Comments URL: https://news.ycombinator.com/item?id=49437165 Points: 8 # Comments: 0",
+    "title": "A new ceiling for Λ: the de Bruijn–Newman constant",
+    "excerpt": "Article URL: https://www.judegomila.com/posts/riemann-lambda-0.1787854 Comments URL: https://news.ycombinator.com/item?id=49437165 Points: 26 # Comments: 3",
     "url": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -208,19 +364,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "6302b588161ed28d",
-    "title": "Water Behind the Watts: The Hidden Risk of Powering Data Centers",
-    "excerpt": "Article URL: https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers Comments URL: https://news.ycombinator.com/item?id=49437152 Points: 12 # Comments: 4",
-    "url": "https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "hn_acker",
-    "publishedAt": "2026-08-25T16:58:31.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "64ff665cf7a3bb26",
     "title": "Xbox has a bunch of translucent green accessories for the console's 25th birthday",
     "excerpt": "Xbox has a bunch of translucent green accessories for the console's 25th birthday.",
@@ -236,7 +379,7 @@
   {
     "id": "bb00e934598219a7",
     "title": "My Friend Aaron",
-    "excerpt": "Article URL: https://rorz.io/writing/my-friend-aaron Comments URL: https://news.ycombinator.com/item?id=49437069 Points: 22 # Comments: 3",
+    "excerpt": "Article URL: https://rorz.io/writing/my-friend-aaron Comments URL: https://news.ycombinator.com/item?id=49437069 Points: 103 # Comments: 21",
     "url": "https://rorz.io/writing/my-friend-aaron",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -248,8 +391,8 @@
   },
   {
     "id": "1741d977cb7cebae",
-    "title": "LatticeDB – Like SQLite but for graph databases",
-    "excerpt": "Article URL: https://github.com/jeffhajewski/latticedb Comments URL: https://news.ycombinator.com/item?id=49437049 Points: 8 # Comments: 2",
+    "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
+    "excerpt": "We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better. Comments URL: https://news.ycombinator.com/item?id=49437049 Points: 33 # Comments: 5",
     "url": "https://github.com/jeffhajewski/latticedb",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -287,8 +430,8 @@
   },
   {
     "id": "64e5a3976e9279bd",
-    "title": "SpaceX – Starbase, LA",
-    "excerpt": "Article URL: https://www.spacex.com/sites/starbase-la Comments URL: https://news.ycombinator.com/item?id=49436822 Points: 27 # Comments: 16",
+    "title": "Starbase, LA",
+    "excerpt": "Article URL: https://www.spacex.com/sites/starbase-la Comments URL: https://news.ycombinator.com/item?id=49436822 Points: 76 # Comments: 72",
     "url": "https://www.spacex.com/sites/starbase-la",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -313,8 +456,8 @@
   },
   {
     "id": "49a4eac9ae7460f3",
-    "title": "Tooltips Need a Delay, and Then They Need to Skip It",
-    "excerpt": "Article URL: https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/ Comments URL: https://news.ycombinator.com/item?id=49436786 Points: 17 # Comments: 2",
+    "title": "Tooltips need a delay, and then they need to skip it",
+    "excerpt": "Article URL: https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/ Comments URL: https://news.ycombinator.com/item?id=49436786 Points: 37 # Comments: 6",
     "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -340,7 +483,7 @@
   {
     "id": "810406c16a22e017",
     "title": "Fuzzing the Gleam Compiler",
-    "excerpt": "Article URL: https://www.kurz.net/posts/fuzzing-gleam-compiler Comments URL: https://news.ycombinator.com/item?id=49436706 Points: 5 # Comments: 1",
+    "excerpt": "Article URL: https://www.kurz.net/posts/fuzzing-gleam-compiler Comments URL: https://news.ycombinator.com/item?id=49436706 Points: 18 # Comments: 1",
     "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -390,6 +533,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "cbd313b76d474c68",
+    "title": "Lab supply companies have been selling antibodies using manipulated images",
+    "excerpt": "Antibodies play a central role in your body's immune defense. But they're also nearly ubiquitous in biological research, being essential for several widely used lab techniques. While some researchers need to go through the process of producing their own antibodies, antibodies to many key proteins…",
+    "url": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "John Timmer",
+    "publishedAt": "2026-08-25T16:16:57.000Z",
+    "category": "science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1184711342-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "4bd69eb51ffaaa0e",
     "title": "Polestar claims it was blindsided by sales ban",
     "excerpt": "BEVERLY HILLS, CALIFORNIA - JUNE 26: Polestar cars are displayed in the showroom at a Polestar dealership on June 26, 2026 in Beverly Hills, California. Electric car maker Polestar will be barred from selling new vehicles in the United States starting with the 2027 model year after the Commerce…",
@@ -404,8 +560,8 @@
   },
   {
     "id": "f9f0a5b18be678ba",
-    "title": "Run Minecraft in a Windows Sandbox for Computer Use Agents",
-    "excerpt": "Article URL: https://cua.ai/docs/how-to-guides/sandbox/minecraft Comments URL: https://news.ycombinator.com/item?id=49436400 Points: 6 # Comments: 0",
+    "title": "Run Minecraft in a Windows sandbox for computer use agents",
+    "excerpt": "Article URL: https://cua.ai/docs/how-to-guides/sandbox/minecraft Comments URL: https://news.ycombinator.com/item?id=49436400 Points: 13 # Comments: 2",
     "url": "https://cua.ai/docs/how-to-guides/sandbox/minecraft",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -431,7 +587,7 @@
   {
     "id": "eb04d31c3caed1b6",
     "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
-    "excerpt": "Remember the original Quest headset that Meta (then Oculus) trumpeted back in 2019 ? Meta seems to hope you don't, since the company officially stopped supporting the wireless VR headset in 2023 to focus on the more popular Quests 2 and 3 . Luckily, tinkerers haven't similarly abandoned the…",
+    "excerpt": "Remember the original Quest headset that Meta (then Oculus) trumpeted back in 2019 ? Meta seems to hope you don't, since the company officially stopped supporting the wireless VR headset in 2023 to focus on the more popular Quests 2 and 3 . However, tinkerers haven't abandoned the hardware and…",
     "url": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
     "source": "Ars Technica",
     "sourceHomepage": "https://arstechnica.com",
@@ -521,13 +677,26 @@
   },
   {
     "id": "547aece2f08ec020",
-    "title": "Warnock: Harnessing GPU Geometry Amplification for Vector Graphics",
-    "excerpt": "Article URL: https://dl.acm.org/doi/pdf/10.1145/3820012 Comments URL: https://news.ycombinator.com/item?id=49435781 Points: 16 # Comments: 3",
+    "title": "Warnock: Harnessing GPU geometry amplification for vector graphics",
+    "excerpt": "Video: https://www.youtube.com/watch?v=PTD4yvGWgvA Comments URL: https://news.ycombinator.com/item?id=49435781 Points: 23 # Comments: 2",
     "url": "https://dl.acm.org/doi/pdf/10.1145/3820012",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "coffeeaddict1",
     "publishedAt": "2026-08-25T15:26:45.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2bdab5be337a9dcc",
+    "title": "How much of HN is AI?",
+    "excerpt": "Article URL: https://blog.coredump.cx/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=49435728 Points: 199 # Comments: 192",
+    "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "surprisetalk",
+    "publishedAt": "2026-08-25T15:23:41.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -552,7 +721,7 @@
     "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
     "source": "Ars Technica",
     "sourceHomepage": "https://arstechnica.com",
-    "author": "Lola Butcher",
+    "author": "Lola Butcher, Knowable Magazine",
     "publishedAt": "2026-08-25T15:10:03.000Z",
     "category": "ai",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2280376449-1024x648.jpg",
@@ -560,8 +729,8 @@
   },
   {
     "id": "4ab02edbaad3a8ba",
-    "title": "Beyond Good and Evil: Nietzsche and the Great War (2019)",
-    "excerpt": "Article URL: https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war Comments URL: https://news.ycombinator.com/item?id=49435495 Points: 22 # Comments: 12",
+    "title": "Otto Dix, Nietzsche, and the Great War (2019)",
+    "excerpt": "Article URL: https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war Comments URL: https://news.ycombinator.com/item?id=49435495 Points: 28 # Comments: 16",
     "url": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -678,7 +847,7 @@
   {
     "id": "7c43a530c0e52915",
     "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-    "excerpt": "Article URL: https://e360.yale.edu/digest/bomb-fishing-coral-reefs Comments URL: https://news.ycombinator.com/item?id=49434820 Points: 150 # Comments: 92",
+    "excerpt": "Article URL: https://e360.yale.edu/digest/bomb-fishing-coral-reefs Comments URL: https://news.ycombinator.com/item?id=49434820 Points: 171 # Comments: 106",
     "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -715,19 +884,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "c257fa36f743142d",
-    "title": "Building a backyard office, the build and cost breakdown",
-    "excerpt": "Article URL: https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown Comments URL: https://news.ycombinator.com/item?id=49434645 Points: 125 # Comments: 95",
-    "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "surprisetalk",
-    "publishedAt": "2026-08-25T14:20:36.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "db3f65f584bb98a4",
     "title": "Benchmarking Some Incredible Performance Gains With Btrfs On Linux 7.3",
     "excerpt": "With the Btrfs pull request for Linux 7.3 having delivered more performance optimizations with some ~3x and ~5x gains mentioned in specific areas, I was eager to test out the new Btrfs performance on the in-development kernel. In today's article are some benchmarks of Btrfs on Linux 7.2 stable…",
@@ -736,19 +892,6 @@
     "sourceHomepage": "https://www.phoronix.com",
     "author": "Michael Larabel",
     "publishedAt": "2026-08-25T14:18:32.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "dca5a1f525f95f70",
-    "title": "MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it",
-    "excerpt": "Article URL: https://www.erathos.com/en/blog/mysql-cdc-to-bigquery Comments URL: https://news.ycombinator.com/item?id=49434613 Points: 24 # Comments: 8",
-    "url": "https://www.erathos.com/en/blog/mysql-cdc-to-bigquery",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "gpaulbagetti",
-    "publishedAt": "2026-08-25T14:18:29.000Z",
     "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -763,19 +906,6 @@
     "author": "Amanda Silberling",
     "publishedAt": "2026-08-25T14:10:36.000Z",
     "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "87c1695a1d849e10",
-    "title": "Anthropic tells staff to work from home due to possible security team strike",
-    "excerpt": "Article URL: https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8 Comments URL: https://news.ycombinator.com/item?id=49434291 Points: 84 # Comments: 89",
-    "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "DGAP",
-    "publishedAt": "2026-08-25T14:00:27.000Z",
-    "category": "ai",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -923,19 +1053,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "f742b715193667b1",
-    "title": "New Mac mini, featuring M6 and M5 Pro",
-    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/ Comments URL: https://news.ycombinator.com/item?id=49433450 Points: 271 # Comments: 140",
-    "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "runako",
-    "publishedAt": "2026-08-25T13:13:00.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "70cefd6da8df8baf",
     "title": "Where to preorder the updated Mac Mini and Mac Studio",
     "excerpt": "The updated Mac Mini is a compact machine for home desktop use. | Image: Apple Apple has announced two new processors, the M6 and M5 Ultra , as well as updated Mac Mini and Mac studio machines powered by them. The new machines are already available for preorder directly from Apple, with shipping…",
@@ -1011,19 +1128,6 @@
     "publishedAt": "2026-08-25T13:00:00.000Z",
     "category": "Startups",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "7b0836580d2ad065",
-    "title": "The lens in Wyze’s new $40 indoor camera retracts for privacy",
-    "excerpt": "Wyze announced a new pan-and-tilt security camera today designed for indoor use. The entire Indoor Cam Pan can rotate 360 degrees, while the camera and lens on its front can tilt up and down 103 degrees. When you want privacy, the lens can tilt down until it completely disappears inside the Indoor…",
-    "url": "https://www.theverge.com/tech/961785/wyze-indoor-cam-pan-tilt-2k-night-vision",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Andrew Liszewski",
-    "publishedAt": "2026-08-25T13:00:00.000Z",
-    "category": "policy",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/wyze1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -1179,19 +1283,6 @@
     "author": "Aisha Malik",
     "publishedAt": "2026-08-25T12:00:00.000Z",
     "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ee865b3ef8334b72",
-    "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-    "excerpt": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
-    "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Tim Fernholz",
-    "publishedAt": "2026-08-25T12:00:00.000Z",
-    "category": "ai",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1508,19 +1599,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "ed1fd3e06a5859b1",
-    "title": "ASUS' first gaming soundbar is now available in the US for $600",
-    "excerpt": "The ASUS ROG Gjallar is now available in the US.",
-    "url": "https://www.engadget.com/2243403/asus-first-gaming-soundbar-is-now-available-in-the-us-for-600/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Mariella Moon)",
-    "publishedAt": "2026-08-25T05:30:26.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/asuss-first-gaming-soundbar-is-now-available-in-the-us-for-600/l-intro-1787635617.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "c08cb34c8af30326",
     "title": "Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning",
     "excerpt": "BTC is up more than 25% on the week after Treasury’s bond-buyback expansion sparked a rally, while Solana led majors Tuesday as validators vote on proposals to slow new SOL creation and raise daily burns.",
@@ -1544,19 +1622,6 @@
     "publishedAt": "2026-08-25T05:21:05.000Z",
     "category": "science",
     "imageUrl": "https://image.theregister.com/?imageId=4094220&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "aac90e4bd325ecd3",
-    "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
-    "excerpt": "Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.",
-    "url": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Jagmeet Singh",
-    "publishedAt": "2026-08-25T03:30:00.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1608,19 +1673,6 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-08-25T00:33:34.000Z",
     "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "fc86cf3e9da11a7b",
-    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-    "excerpt": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-    "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Lucas Ropek",
-    "publishedAt": "2026-08-25T00:23:12.000Z",
-    "category": "ai",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1677,10 +1729,10 @@
     "readTimeMinutes": 1,
     "alsoCoveredBy": [
       {
-        "source": "Hacker News",
-        "sourceHomepage": "https://news.ycombinator.com",
-        "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-        "publishedAt": "2026-08-25T14:48:58.000Z"
+        "source": "Slashdot",
+        "sourceHomepage": "https://slashdot.org",
+        "url": "https://slashdot.org/story/26/08/25/1756243/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "publishedAt": "2026-08-25T18:00:00.000Z"
       }
     ]
   },
@@ -2085,19 +2137,6 @@
     "publishedAt": "2026-08-24T15:00:00.000Z",
     "category": "science",
     "imageUrl": "https://image.theregister.com/?imageId=5291780&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "117eb9e35d509963",
-    "title": "Dr. Dre Says He Uses AI To Produce Songs",
-    "excerpt": "An anonymous reader quotes a report from Gizmodo: Dr. Dre, the pioneering rapper and seven-time Grammy-winning producer behind hit songs like Tupac's \"California Love\" and Eminem's \"The Real Slim Shady,\" is very much pro using artificial intelligence tools to make music. In an interview with the…",
-    "url": "https://entertainment.slashdot.org/story/26/08/24/081231/dr-dre-says-he-uses-ai-to-produce-songs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-08-24T15:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -2686,19 +2725,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "9e0f1c6b20ae784f",
-    "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
-    "excerpt": "Pause for a moment and listen. What do you hear? Chances are, somewhere in the background, is the ever-present hum of a road. More than 4.2 million miles of public roads crisscross the lower 48 states—enough to reach the Moon and back almost nine times. This vast network of roads spiderwebs its way…",
-    "url": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Mariah Meek and Travis Belote, The Conversation",
-    "publishedAt": "2026-08-22T11:08:53.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-626466246-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "9d1a32301cceac13",
     "title": "Skylab completists, clear some shelf space for 26 DVDs",
     "excerpt": "The team behind the Searching for Skylab documentary is releasing almost every surviving piece of video it could find from the mission. The collection will span three volumes and 26 DVDs, including an updated version of Searching for Skylab, which we reviewed in 2019. It gathers almost everything…",
@@ -2722,32 +2748,6 @@
     "publishedAt": "2026-08-22T08:43:00.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=5291261&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "044a694a94622ab5",
-    "title": "Trump's space transportation policy calls for new spaceport on federal land",
-    "excerpt": "A new national space transportation policy signed by President Donald Trump on Thursday calls for the development of more spaceports to support more than 1,000 launches and reentries per year by 2030. The presidential memorandum replaces a 2013 policy signed by former President Barack Obama. Both…",
-    "url": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Stephen Clark",
-    "publishedAt": "2026-08-21T23:32:17.000Z",
-    "category": "science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/9315875-1152x648-1787353404.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "7dec1f4aaf8582b6",
-    "title": "Thunder + fiber-optic cabling used for seismic imaging",
-    "excerpt": "Most of what we know about the Earth's interior comes from observing seismic waves. These travel at somewhat different speeds depending on the details of the rock they're moving through—whether it's solid or semi-molten, how much water is present, whether it's fractured or solid material, and so…",
-    "url": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "John Timmer",
-    "publishedAt": "2026-08-21T20:26:46.000Z",
-    "category": "science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-173019376-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
