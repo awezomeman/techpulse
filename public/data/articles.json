@@ -1,5 +1,18 @@
 [
   {
+    "id": "89261d796d86b5b3",
+    "title": "Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme",
+    "excerpt": "Brent Kovar has been found guilty of running a crypto Ponzi scheme, defrauding at least 400 investors out of $24 million.",
+    "url": "https://www.coindesk.com/policy/2026/08/25/crypto-supercomputer-ponzi-schemer-convicted-faces-up-to-280-years-in-prison",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Olivier Acuna",
+    "publishedAt": "2026-08-25T11:46:18.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/65b0740574b4859e756d0a51944a33ea6685a86b-2592x1728.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "f4b19b0f7f974d52",
     "title": "Bitcoin's surging price faces 1 key level that could signal if the bear market is really over",
     "excerpt": "Your day-ahead look for Aug. 25, 2026",
@@ -67,7 +80,7 @@
   {
     "id": "6d47d83bc6b8e7dc",
     "title": "Quantum battery upends the rules of charging",
-    "excerpt": "Article URL: https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets Comments URL: https://news.ycombinator.com/item?id=49431560 Points: 6 # Comments: 0",
+    "excerpt": "Article URL: https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets Comments URL: https://news.ycombinator.com/item?id=49431560 Points: 26 # Comments: 18",
     "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -106,7 +119,7 @@
   {
     "id": "2ef2943aa9583760",
     "title": "Why some US restaurants are banning tips",
-    "excerpt": "Article URL: https://www.bbc.com/news/articles/c4g36yze692o Comments URL: https://news.ycombinator.com/item?id=49431364 Points: 119 # Comments: 151",
+    "excerpt": "Article URL: https://www.bbc.com/news/articles/c4g36yze692o Comments URL: https://news.ycombinator.com/item?id=49431364 Points: 140 # Comments: 221",
     "url": "https://www.bbc.com/news/articles/c4g36yze692o",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -158,7 +171,7 @@
   {
     "id": "eaea9850fc391ff9",
     "title": "Screen viewing time from age 1 to 8 years and subsequent academic performance",
-    "excerpt": "Article URL: https://link.springer.com/article/10.1007/s12519-026-01046-1 Comments URL: https://news.ycombinator.com/item?id=49431024 Points: 30 # Comments: 19",
+    "excerpt": "Article URL: https://link.springer.com/article/10.1007/s12519-026-01046-1 Comments URL: https://news.ycombinator.com/item?id=49431024 Points: 38 # Comments: 30",
     "url": "https://link.springer.com/article/10.1007/s12519-026-01046-1",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -405,7 +418,7 @@
   {
     "id": "253f6697afdfe3b4",
     "title": "Headlong: A Microharness for Persistent Agents",
-    "excerpt": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents Comments URL: https://news.ycombinator.com/item?id=49428882 Points: 72 # Comments: 26",
+    "excerpt": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents Comments URL: https://news.ycombinator.com/item?id=49428882 Points: 78 # Comments: 29",
     "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -457,7 +470,7 @@
   {
     "id": "ad0cd04714e4a049",
     "title": "SiFive's First Server Platform",
-    "excerpt": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform Comments URL: https://news.ycombinator.com/item?id=49428638 Points: 65 # Comments: 16",
+    "excerpt": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform Comments URL: https://news.ycombinator.com/item?id=49428638 Points: 68 # Comments: 16",
     "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -470,7 +483,7 @@
   {
     "id": "dd533d791d33a203",
     "title": "How Universities Should Prepare Founders",
-    "excerpt": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 139 # Comments: 173",
+    "excerpt": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 150 # Comments: 182",
     "url": "https://paulgraham.com/prepare.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -483,7 +496,7 @@
   {
     "id": "8563a024344045e7",
     "title": "Was modern art a CIA psy-op? (2020)",
-    "excerpt": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/ Comments URL: https://news.ycombinator.com/item?id=49428080 Points: 92 # Comments: 150",
+    "excerpt": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/ Comments URL: https://news.ycombinator.com/item?id=49428080 Points: 97 # Comments: 158",
     "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -587,7 +600,7 @@
   {
     "id": "17737e382f9a8aaf",
     "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-    "excerpt": "Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 110 # Comments: 40",
+    "excerpt": "Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 116 # Comments: 41",
     "url": "https://github.com/murerkinn/bookshelf",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -600,7 +613,7 @@
   {
     "id": "caecc570422438d1",
     "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-    "excerpt": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 495 # Comments: 143",
+    "excerpt": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 502 # Comments: 147",
     "url": "https://developer.apple.com/news/?id=1ptvdtcm",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -613,7 +626,7 @@
   {
     "id": "2a7d7322802e5e56",
     "title": "Moon (2024)",
-    "excerpt": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 205 # Comments: 36",
+    "excerpt": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 209 # Comments: 36",
     "url": "https://ciechanow.ski/moon/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -730,7 +743,7 @@
   {
     "id": "300ed4f3e102ca9c",
     "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-    "excerpt": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 109 # Comments: 21",
+    "excerpt": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 115 # Comments: 21",
     "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -959,7 +972,7 @@
   {
     "id": "53d975e083eaf7f3",
     "title": "Oceans hit highest temperature on record",
-    "excerpt": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 585 # Comments: 459",
+    "excerpt": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 598 # Comments: 468",
     "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -972,7 +985,7 @@
   {
     "id": "113584368e849150",
     "title": "LLMs could control their host machines by exploiting inference engines",
-    "excerpt": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 158 # Comments: 74",
+    "excerpt": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 161 # Comments: 75",
     "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1128,7 +1141,7 @@
   {
     "id": "5f3bc974058a776c",
     "title": "Where did all the public bathrooms go?",
-    "excerpt": "Article URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/ Comments URL: https://news.ycombinator.com/item?id=49422800 Points: 255 # Comments: 565",
+    "excerpt": "Article URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/ Comments URL: https://news.ycombinator.com/item?id=49422800 Points: 260 # Comments: 572",
     "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1141,7 +1154,7 @@
   {
     "id": "945e4068028bbca3",
     "title": "The entire city of San Francisco as a video game",
-    "excerpt": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 488 # Comments: 144",
+    "excerpt": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 498 # Comments: 145",
     "url": "https://sf.thijs.gg/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1303,6 +1316,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "489edfc37a30ad38",
+    "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+    "excerpt": "PicoMQ is a Rust server for Durable Streams, built on Object Store. Cheap, URL-addressable, granular streams (create/append/read/long-poll/SSE), with Pico Protocol or Durable Streams Protocol as the facade. S3Stream is the stream storage primitive, used in AutoMQ, shipped as a Rust library.…",
+    "url": "https://picomq.com/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "adesh_nalpet",
+    "publishedAt": "2026-08-24T16:08:17.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "931dd7b67db9e32f",
     "title": "F1 in the Netherlands: The driver you most want to beat is your teammate",
     "excerpt": "After months of rumors surrounding his future, now we know: Four-time champion Max Verstappen is staying in the sport for the foreseeable future. The news broke on the eve of the Dutch Grand Prix, held this past weekend at Zandvoort in the Netherlands as F1 returned from its mandatory summer…",
@@ -1331,7 +1357,7 @@
   {
     "id": "9f838576d711cee8",
     "title": "Jabber/XMPP: 25 Years of Digital Independence",
-    "excerpt": "Article URL: https://gultsch.de/posts/25-years-of-digital-independence/ Comments URL: https://news.ycombinator.com/item?id=49421536 Points: 235 # Comments: 139",
+    "excerpt": "Article URL: https://gultsch.de/posts/25-years-of-digital-independence/ Comments URL: https://news.ycombinator.com/item?id=49421536 Points: 236 # Comments: 140",
     "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1396,7 +1422,7 @@
   {
     "id": "3f9be69046a627db",
     "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-    "excerpt": "Article URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/ Comments URL: https://news.ycombinator.com/item?id=49421158 Points: 735 # Comments: 342",
+    "excerpt": "Article URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/ Comments URL: https://news.ycombinator.com/item?id=49421158 Points: 743 # Comments: 352",
     "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1422,7 +1448,7 @@
   {
     "id": "468a1a33d560a7a4",
     "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-    "excerpt": "https://xcancel.com/lemire/status/2091894299289874926 Comments URL: https://news.ycombinator.com/item?id=49420873 Points: 894 # Comments: 639",
+    "excerpt": "https://xcancel.com/lemire/status/2091894299289874926 Comments URL: https://news.ycombinator.com/item?id=49420873 Points: 898 # Comments: 646",
     "url": "https://twitter.com/lemire/status/2091894299289874926",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1961,19 +1987,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "2188de7894a91ac2",
-    "title": "Fed experiment shows how bitcoin rallies attract new crypto buyers",
-    "excerpt": "Households shown bitcoin’s prior-year return were 23% more likely to report owning crypto in a follow-up survey.",
-    "url": "https://www.coindesk.com/markets/2026/08/24/fed-experiment-shows-how-bitcoin-rallies-attract-new-crypto-buyers",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Francisco Rodrigues",
-    "publishedAt": "2026-08-24T09:56:17.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/b3532a6f838a307328a125e0fb64689746707a41-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "64256c0e1014c19a",
     "title": "AMD k10temp Driver Adds EPYC Zen 5 Per-CCD Temperature Monitoring With Linux 7.3",
     "excerpt": "Merged last week for the Linux 7.3 kernel were all the hardware monitoring (HWMON) driver updates for Linux 7.3, which included supporting several more ASUS desktop motherboards, a few AIO liquid cooling products, more Lenovo system support, and per-CCD temperature monitoring on AMD EPYC 9005…",
@@ -2270,15 +2283,7 @@
     "publishedAt": "2026-08-23T11:02:54.000Z",
     "category": "science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1001695938-1152x648.jpg",
-    "readTimeMinutes": 1,
-    "alsoCoveredBy": [
-      {
-        "source": "Hacker News",
-        "sourceHomepage": "https://news.ycombinator.com",
-        "url": "https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history",
-        "publishedAt": "2026-08-25T04:09:43.000Z"
-      }
-    ]
+    "readTimeMinutes": 1
   },
   {
     "id": "4e71b2b6c2139c5a",
