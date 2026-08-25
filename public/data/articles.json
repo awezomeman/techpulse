@@ -1,5 +1,161 @@
 [
   {
+    "id": "f1c8ae9706e46d62",
+    "title": "Claude Cowork finally remembers what you told the app in chat",
+    "excerpt": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+    "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Sarah Perez",
+    "publishedAt": "2026-08-25T17:50:33.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f430439a53212a47",
+    "title": "Bose’s smallest Bluetooth speaker is a great deal at 35 percent off",
+    "excerpt": "The Bose SoundLink Micro is just over four inches square. | Image: The Verge Bose may be best known for its QuietComfort headphones , but the brand’s Bluetooth speakers have earned a great reputation for featuring great sound and build quality. The compact Bose SoundLink Micro — its most compact…",
+    "url": "https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Brad Bourque",
+    "publishedAt": "2026-08-25T17:39:20.000Z",
+    "category": "policy",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Bose-Soundlink-Micro-Gen2-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a65847541060d65f",
+    "title": "Wayland Found To Be \"Intrinsically Faster Than X11, But Not Necessarily More Efficient\"",
+    "excerpt": "The PorteuX Linux distribution focused on being a high performance, modular, and minimalist distro took to forking Xfce's xfwm4 window manager into \"xfwm4-gl\" for OpenGL compositing support. As part of that they developed a window manager / compositor benchmark for evaluating the performance and…",
+    "url": "https://www.phoronix.com/news/Wayland-X11-Performance-PorteuX",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-25T17:37:28.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a138517f9a98f3e6",
+    "title": "Waymo robotaxis are headed to Munich",
+    "excerpt": "Germany's autonomous vehicle regulations have made it a hotspot for autonomous vehicle testing and eventual commercial robotaxi deployment.",
+    "url": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Kirsten Korosec",
+    "publishedAt": "2026-08-25T17:32:03.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "28502755e5216e8c",
+    "title": "Why movie tie-in games are rarely sold anymore",
+    "excerpt": "Movie-tie in games were huge in the 2000s, but have mostly dried up in the last decade. We still get games tied to existing IP, but in a different manner.",
+    "url": "https://www.engadget.com/2240883/why-movie-tie-in-games-rarely-sold-anymore/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Deven McClure)",
+    "publishedAt": "2026-08-25T17:30:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/why-movie-tie-in-games-are-rarely-sold-anymore/l-intro-1787241481.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7aabe5b1835ba7e1",
+    "title": "Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market",
+    "excerpt": "Article URL: https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer Comments URL: https://news.ycombinator.com/item?id=49437566 Points: 0 # Comments: 0",
+    "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "gfavvas",
+    "publishedAt": "2026-08-25T17:28:52.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "be6ef3c85914f51a",
+    "title": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
+    "excerpt": "It’s time for another Geoff Keighley-hosted blast of gaming news. Gamescom’s two-hour Opening Night Live event is scheduled to kick off on Tuesday at 2PM ET, with a preshow starting 30 minutes before . Thanks to teases on social media, we already have some idea of what to expect, including looks at…",
+    "url": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Verge Staff",
+    "publishedAt": "2026-08-25T17:20:00.000Z",
+    "category": "security",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE009_Game_Awards_2025_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d11fef79fbcc328f",
+    "title": "Lightweight system monitor for Linux VPS written in Go",
+    "excerpt": "Article URL: https://github.com/leodeim/vpsmon Comments URL: https://news.ycombinator.com/item?id=49437361 Points: 4 # Comments: 0",
+    "url": "https://github.com/leodeim/vpsmon",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "ygagaga",
+    "publishedAt": "2026-08-25T17:13:59.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "19845f5a7713a4aa",
+    "title": "Instagram’s ‘First Draft’ trims your Reels clips for you",
+    "excerpt": "Instagram is launching a new Reels-editing feature that automatically trims your video clips to focus on the highlights. The feature, called First Draft, is rolling out to Instagram's iPhone app and provides a \"starting point\" that you can build upon with other edits, according to an announcement…",
+    "url": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Emma Roth",
+    "publishedAt": "2026-08-25T17:12:31.000Z",
+    "category": "hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/insta-first-draft.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ae49bfcbff4b618a",
+    "title": "The Nokia 300 Charge doubles as a 10W powerbank",
+    "excerpt": "The Nokia 300 Charge doubles as a 10W powerbank.",
+    "url": "https://www.engadget.com/2243869/the-nokia-300-charge-doubles-as-a-10w-powerbank/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Matt Tate)",
+    "publishedAt": "2026-08-25T17:09:15.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/the-nokia-300-charge-doubles-as-a-10w-powerbank/l-intro-1787677700.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "25847b3565db870b",
+    "title": "Nitter project received cease and desist",
+    "excerpt": "Article URL: https://github.com/zedeus/nitter/issues/1442 Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 61 # Comments: 12",
+    "url": "https://github.com/zedeus/nitter/issues/1442",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "Banditoz",
+    "publishedAt": "2026-08-25T17:08:21.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b3477100d51ce4f7",
+    "title": "Black hole singularity is a surface not a point",
+    "excerpt": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 24 # Comments: 7",
+    "url": "https://arxiv.org/abs/2608.21590",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "raattgift",
+    "publishedAt": "2026-08-25T17:02:49.000Z",
+    "category": "science",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "e6ab7c058c878c51",
     "title": "Claude's memory now works across both chats and Cowork sessions",
     "excerpt": "Anthropic is giving users more control over what memories Claude saves.",
@@ -9,7 +165,7 @@
     "author": "staff@engadget.com (Igor Bonifacic)",
     "publishedAt": "2026-08-25T17:00:00.000Z",
     "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/claudes-memory-now-works-across-both-chats-and-cowork-sessions/l-intro-1787673200.jpg",
+    "imageUrl": "https://www.engadget.com/img/gallery/claude-memory-now-works-across-both-chats-and-cowork-sessions/l-intro-1787677590.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -26,6 +182,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "04948a8ea524304c",
+    "title": "A new ceiling for Λ: the de Bruijn–Newman constant is at most 0.1787854",
+    "excerpt": "Article URL: https://www.judegomila.com/posts/riemann-lambda-0.1787854 Comments URL: https://news.ycombinator.com/item?id=49437165 Points: 8 # Comments: 0",
+    "url": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "judegomila",
+    "publishedAt": "2026-08-25T16:59:31.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "3010b15a566eab94",
     "title": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
     "excerpt": "With the new design of Nothing OS 5.0 , app icons and widgets can use adaptive color to get color tints pulled from your wallpaper, which update whenever your wallpaper changes. Alongside Android's built-in Dynamic Colors, the company says it allows you to have specific elements change to match…",
@@ -36,6 +205,19 @@
     "publishedAt": "2026-08-25T16:58:53.000Z",
     "category": "software",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/nothing-os-5-customization.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6302b588161ed28d",
+    "title": "Water Behind the Watts: The Hidden Risk of Powering Data Centers",
+    "excerpt": "Article URL: https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers Comments URL: https://news.ycombinator.com/item?id=49437152 Points: 12 # Comments: 4",
+    "url": "https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "hn_acker",
+    "publishedAt": "2026-08-25T16:58:31.000Z",
+    "category": "startups",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -52,6 +234,32 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "bb00e934598219a7",
+    "title": "My Friend Aaron",
+    "excerpt": "Article URL: https://rorz.io/writing/my-friend-aaron Comments URL: https://news.ycombinator.com/item?id=49437069 Points: 22 # Comments: 3",
+    "url": "https://rorz.io/writing/my-friend-aaron",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "sarreph",
+    "publishedAt": "2026-08-25T16:53:33.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1741d977cb7cebae",
+    "title": "LatticeDB – Like SQLite but for graph databases",
+    "excerpt": "Article URL: https://github.com/jeffhajewski/latticedb Comments URL: https://news.ycombinator.com/item?id=49437049 Points: 8 # Comments: 2",
+    "url": "https://github.com/jeffhajewski/latticedb",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "smiths1999",
+    "publishedAt": "2026-08-25T16:52:05.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "9d401544790457c2",
     "title": "GeForce Now is getting support for the Steam Controller",
     "excerpt": "Nvidia's GeForce Now cloud gaming service will officially support Valve's Steam Controller and Steam Machine starting later this year. With Steam Controller support, you'll be able to play games with Valve's great new gamepad when using the GeForce Now app on your Steam Deck or Steam Machine. If…",
@@ -62,6 +270,32 @@
     "publishedAt": "2026-08-25T16:47:15.000Z",
     "category": "ai",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0082.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2500a7ebf23db3d8",
+    "title": "EPA to drop requirement for public notice of polluting datacenters",
+    "excerpt": "Soon, you may not even be able to find out what that new neighborhood bit barn could do to your air quality. A proposed change by the US Environmental Protection Agency (EPA) would eliminate federal minimum requirements for public participation in minor-source air permits, a move critics warn could…",
+    "url": "https://www.theregister.com/on-prem/2026/08/25/epa-to-drop-requirement-for-public-notice-of-polluting-datacenters/5292341",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-25T16:40:00.000Z",
+    "category": "crypto",
+    "imageUrl": "https://image.theregister.com/?imageId=5292360&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "64e5a3976e9279bd",
+    "title": "SpaceX – Starbase, LA",
+    "excerpt": "Article URL: https://www.spacex.com/sites/starbase-la Comments URL: https://news.ycombinator.com/item?id=49436822 Points: 27 # Comments: 16",
+    "url": "https://www.spacex.com/sites/starbase-la",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "bilsbie",
+    "publishedAt": "2026-08-25T16:37:52.000Z",
+    "category": "science",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -78,6 +312,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "49a4eac9ae7460f3",
+    "title": "Tooltips Need a Delay, and Then They Need to Skip It",
+    "excerpt": "Article URL: https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/ Comments URL: https://news.ycombinator.com/item?id=49436786 Points: 17 # Comments: 2",
+    "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "ibobev",
+    "publishedAt": "2026-08-25T16:35:36.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "12c8b771a0f00309",
     "title": "Life360 expands pet tracking with new $8 scannable tags and zoomie alerts",
     "excerpt": "Life360’s new $7.99 scannable pet tags alert families when a lost pet is found and share its last known location, while new care-tracking features help households keep tabs on feeding, walks, medication, and more.",
@@ -87,6 +334,19 @@
     "author": "Sarah Perez",
     "publishedAt": "2026-08-25T16:35:00.000Z",
     "category": "policy",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "810406c16a22e017",
+    "title": "Fuzzing the Gleam Compiler",
+    "excerpt": "Article URL: https://www.kurz.net/posts/fuzzing-gleam-compiler Comments URL: https://news.ycombinator.com/item?id=49436706 Points: 5 # Comments: 1",
+    "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "crowdhailer",
+    "publishedAt": "2026-08-25T16:30:55.000Z",
+    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -143,6 +403,32 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "f9f0a5b18be678ba",
+    "title": "Run Minecraft in a Windows Sandbox for Computer Use Agents",
+    "excerpt": "Article URL: https://cua.ai/docs/how-to-guides/sandbox/minecraft Comments URL: https://news.ycombinator.com/item?id=49436400 Points: 6 # Comments: 0",
+    "url": "https://cua.ai/docs/how-to-guides/sandbox/minecraft",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "someguy101010",
+    "publishedAt": "2026-08-25T16:09:48.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0475464be104989e",
+    "title": "You could've applied all 1,449 Oracle patches and still been hit by this attack",
+    "excerpt": "In late July, Oracle released a mammoth security patch dump with 1,449 patches, in a perhaps unprecedented bad day for database admins. None of them, it turns out, would have prevented the credential theft on an Oracle database server described by security platform Huntress. “Even if it had been…",
+    "url": "https://www.theregister.com/security/2026/08/25/you-couldve-applied-all-1449-oracle-patches-and-still-been-hit-by-this-attack/5292335",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-25T16:09:00.000Z",
+    "category": "security",
+    "imageUrl": "https://image.theregister.com/?imageId=234063&width=800",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "eb04d31c3caed1b6",
     "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
     "excerpt": "Remember the original Quest headset that Meta (then Oculus) trumpeted back in 2019 ? Meta seems to hope you don't, since the company officially stopped supporting the wireless VR headset in 2023 to focus on the more popular Quests 2 and 3 . Luckily, tinkerers haven't similarly abandoned the…",
@@ -166,6 +452,19 @@
     "publishedAt": "2026-08-25T16:00:00.000Z",
     "category": "hardware",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d45a27a13b167e52",
+    "title": "Microsoft warns that transitioning Excel workbooks to new Exchange connectors might not be smooth sailing",
+    "excerpt": "Microsoft has issued a warning to Excel users. Want to keep using the Exchange Connector? You'll have to migrate your workbook connections and switch to Microsoft 365 or Office 2024. The software giant just published a timeline for the switchover in its Message Center. The roadmap puts customer…",
+    "url": "https://www.theregister.com/software/2026/08/25/microsoft-warns-that-transitioning-excel-workbooks-to-new-exchange-connectors-might-not-be-smooth-sailing/5292316",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-25T15:53:00.000Z",
+    "category": "software",
+    "imageUrl": "https://image.theregister.com/?imageId=254628&width=800",
     "readTimeMinutes": 1
   },
   {
@@ -223,7 +522,7 @@
   {
     "id": "547aece2f08ec020",
     "title": "Warnock: Harnessing GPU Geometry Amplification for Vector Graphics",
-    "excerpt": "Article URL: https://dl.acm.org/doi/pdf/10.1145/3820012 Comments URL: https://news.ycombinator.com/item?id=49435781 Points: 6 # Comments: 1",
+    "excerpt": "Article URL: https://dl.acm.org/doi/pdf/10.1145/3820012 Comments URL: https://news.ycombinator.com/item?id=49435781 Points: 16 # Comments: 3",
     "url": "https://dl.acm.org/doi/pdf/10.1145/3820012",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -234,16 +533,16 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "2bdab5be337a9dcc",
-    "title": "How much of HN is AI?",
-    "excerpt": "Article URL: https://blog.coredump.cx/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=49435728 Points: 168 # Comments: 138",
-    "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "surprisetalk",
-    "publishedAt": "2026-08-25T15:23:41.000Z",
-    "category": "startups",
-    "imageUrl": null,
+    "id": "4752446ee349dce4",
+    "title": "Slop factory bans Russians for using slop factory to create slop",
+    "excerpt": "ChatGPT may spew a lot of digital garbage onto the internet, but the same bots that output the trash can be used to stop it. The company draws the line at influence operations that want to slop in the name of love . . . of mother Russia. OpenAI said in a Tuesday blog post that it had identified a…",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/25/slop-factory-bans-russians-for-using-slop-factory-to-create-slop/5292297",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-25T15:15:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://image.theregister.com/?imageId=253985&width=800",
     "readTimeMinutes": 1
   },
   {
@@ -261,8 +560,8 @@
   },
   {
     "id": "4ab02edbaad3a8ba",
-    "title": "Beyond Good and Evil: Nietzsche and the Great War",
-    "excerpt": "Article URL: https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war Comments URL: https://news.ycombinator.com/item?id=49435495 Points: 17 # Comments: 9",
+    "title": "Beyond Good and Evil: Nietzsche and the Great War (2019)",
+    "excerpt": "Article URL: https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war Comments URL: https://news.ycombinator.com/item?id=49435495 Points: 22 # Comments: 12",
     "url": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -379,7 +678,7 @@
   {
     "id": "7c43a530c0e52915",
     "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-    "excerpt": "Article URL: https://e360.yale.edu/digest/bomb-fishing-coral-reefs Comments URL: https://news.ycombinator.com/item?id=49434820 Points: 118 # Comments: 80",
+    "excerpt": "Article URL: https://e360.yale.edu/digest/bomb-fishing-coral-reefs Comments URL: https://news.ycombinator.com/item?id=49434820 Points: 150 # Comments: 92",
     "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -418,7 +717,7 @@
   {
     "id": "c257fa36f743142d",
     "title": "Building a backyard office, the build and cost breakdown",
-    "excerpt": "Article URL: https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown Comments URL: https://news.ycombinator.com/item?id=49434645 Points: 98 # Comments: 60",
+    "excerpt": "Article URL: https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown Comments URL: https://news.ycombinator.com/item?id=49434645 Points: 125 # Comments: 95",
     "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -444,7 +743,7 @@
   {
     "id": "dca5a1f525f95f70",
     "title": "MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it",
-    "excerpt": "Article URL: https://www.erathos.com/en/blog/mysql-cdc-to-bigquery Comments URL: https://news.ycombinator.com/item?id=49434613 Points: 20 # Comments: 6",
+    "excerpt": "Article URL: https://www.erathos.com/en/blog/mysql-cdc-to-bigquery Comments URL: https://news.ycombinator.com/item?id=49434613 Points: 24 # Comments: 8",
     "url": "https://www.erathos.com/en/blog/mysql-cdc-to-bigquery",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -470,7 +769,7 @@
   {
     "id": "87c1695a1d849e10",
     "title": "Anthropic tells staff to work from home due to possible security team strike",
-    "excerpt": "Article URL: https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8 Comments URL: https://news.ycombinator.com/item?id=49434291 Points: 58 # Comments: 64",
+    "excerpt": "Article URL: https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8 Comments URL: https://news.ycombinator.com/item?id=49434291 Points: 84 # Comments: 89",
     "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -626,25 +925,12 @@
   {
     "id": "f742b715193667b1",
     "title": "New Mac mini, featuring M6 and M5 Pro",
-    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/ Comments URL: https://news.ycombinator.com/item?id=49433450 Points: 234 # Comments: 127",
+    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/ Comments URL: https://news.ycombinator.com/item?id=49433450 Points: 271 # Comments: 140",
     "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "runako",
     "publishedAt": "2026-08-25T13:13:00.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "540b53bf706d4d7a",
-    "title": "New Mac Studio with M5 Max and M5 Ultra",
-    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/ Comments URL: https://news.ycombinator.com/item?id=49433316 Points: 462 # Comments: 290",
-    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "interpol_p",
-    "publishedAt": "2026-08-25T13:03:17.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -660,19 +946,6 @@
     "publishedAt": "2026-08-25T13:02:18.000Z",
     "category": "hardware",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Mac-Mini-M6-M5Ultra-preorder-featured.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "0c6b106ff3944d57",
-    "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/ Comments URL: https://news.ycombinator.com/item?id=49433292 Points: 518 # Comments: 426",
-    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "interpol_p",
-    "publishedAt": "2026-08-25T13:01:22.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -751,45 +1024,6 @@
     "publishedAt": "2026-08-25T13:00:00.000Z",
     "category": "policy",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/wyze1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "48dfec2aea3975d9",
-    "title": "GuliKit’s Switch 2 TV dock gives me one feature I’ve missed when traveling",
-    "excerpt": "GuliKit’s Switch 2 dock is a much smaller alternative to Nintendo’s. Nintendo didn’t design its Switch dock with travel in mind. Genki’s Covert Dock is a much smaller alternative my family has been using to connect our Switch to hotel TVs for years, but I’ve come to realize I much prefer having a…",
-    "url": "https://www.theverge.com/tech/983020/gulikit-dock-nintendo-switch-2-hands-on",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Andrew Liszewski",
-    "publishedAt": "2026-08-25T13:00:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gulikitdock8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "dd69a50bfef7cdbf",
-    "title": "Uber is letting parents check in on their teens through drivers’ selfie cameras",
-    "excerpt": "Uber is updating its teen account feature to allow parents to use the selfie cameras on Uber drivers' phones to check in on their teenage children during ridehail trips. Since first launching teen accounts in 2023 , Uber has touted the myriad ways parents can keep tabs on their children, from PIN…",
-    "url": "https://www.theverge.com/transportation/983926/uber-teen-account-live-video-driver-selfie-camera",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Andrew J. Hawkins",
-    "publishedAt": "2026-08-25T13:00:00.000Z",
-    "category": "software",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK106__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "2d28d83e843d3f9f",
-    "title": "Apple’s new M6 chip gets more cores and more AI compute",
-    "excerpt": "Apple has announced a new M6 chip for Macs, along with an M5 Ultra that it says is its \"most powerful chip ever,\" designed for tasks like 3D rendering and running frontier AI models. The M6 is Apple's first 2nm chip, which Apple says will bring improvements in performance and power efficiency, and…",
-    "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Jay Peters",
-    "publishedAt": "2026-08-25T13:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/APPLE_M6_M5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -897,19 +1131,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "1e4f5d5732428434",
-    "title": "Solving the 1+N Query Problem",
-    "excerpt": "Article URL: https://acadia.engineering/blog/solving-the-1-plus-N-query-problem Comments URL: https://news.ycombinator.com/item?id=49432786 Points: 12 # Comments: 3",
-    "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "wheatBread",
-    "publishedAt": "2026-08-25T12:26:58.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "764e1c13ebbf8512",
     "title": "Linux 7.3 Device Mapper Sees Many Fixes, Including Code Cleanups By Claude Opus",
     "excerpt": "The Linux Device Mapper \"DKM\" framework for mapping block devices to higher-level virtual block devices doesn't see any major new features for Linux 7.3 but there are many bug fixes, including code clean-ups carried out by AI...",
@@ -975,32 +1196,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "7d7b26ea8e4bd4de",
-    "title": "Don't Wordle",
-    "excerpt": "Article URL: https://dontwordle.com/ Comments URL: https://news.ycombinator.com/item?id=49432319 Points: 203 # Comments: 89",
-    "url": "https://dontwordle.com/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "Hbruz0",
-    "publishedAt": "2026-08-25T11:49:48.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "9fc07d5dcdc21e74",
-    "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
-    "excerpt": "Article URL: https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next Comments URL: https://news.ycombinator.com/item?id=49432317 Points: 203 # Comments: 86",
-    "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "garo-pro",
-    "publishedAt": "2026-08-25T11:49:43.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "89261d796d86b5b3",
     "title": "Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme",
     "excerpt": "Brent Kovar has been found guilty of running a crypto Ponzi scheme, defrauding at least 400 investors out of $24 million.",
@@ -1011,19 +1206,6 @@
     "publishedAt": "2026-08-25T11:46:18.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/65b0740574b4859e756d0a51944a33ea6685a86b-2592x1728.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b0f0da4e7a611595",
-    "title": "HelloAssembly The smallest possible complete Windows application",
-    "excerpt": "Article URL: https://github.com/PlummersSoftwareLLC/HelloAssembly Comments URL: https://news.ycombinator.com/item?id=49432227 Points: 65 # Comments: 35",
-    "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "Bluestein",
-    "publishedAt": "2026-08-25T11:40:00.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1300,19 +1482,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "4e6767cb4d4e99ae",
-    "title": "Windows 95 released August 24, 1995",
-    "excerpt": "Article URL: https://dfarq.homeip.net/happy-20th-birthday-to-windows-95/ Comments URL: https://news.ycombinator.com/item?id=49430007 Points: 65 # Comments: 29",
-    "url": "https://dfarq.homeip.net/happy-20th-birthday-to-windows-95/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "giuliomagnifico",
-    "publishedAt": "2026-08-25T06:56:55.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "5ca67d9704156578",
     "title": "Crypto rally spills into dog and cat memecoins as smaller tokens double in a week",
     "excerpt": "Robinhood Chain-based Cash Cat jumped more than 50% in a day, while several smaller animal-themed tokens have gained between 50% and 130% over the past week.",
@@ -1378,19 +1547,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "21deab8f41f532c0",
-    "title": "How to watch the Nancy Grace Roman Space Telescope's launch",
-    "excerpt": "NASA's Nancy Grace Roman Space Telescope is scheduled for launch on August 30.",
-    "url": "https://www.engadget.com/2243391/how-to-watch-the-nancy-grace-roman-space-telescopes-launch/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Mariella Moon)",
-    "publishedAt": "2026-08-25T03:48:02.000Z",
-    "category": "science",
-    "imageUrl": "https://www.engadget.com/img/gallery/how-to-watch-the-nancy-grace-roman-space-telescopes-launch/l-intro-1787629590.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "aac90e4bd325ecd3",
     "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
     "excerpt": "Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.",
@@ -1414,32 +1570,6 @@
     "publishedAt": "2026-08-25T03:30:00.000Z",
     "category": "ai",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ad0cd04714e4a049",
-    "title": "SiFive's First Server Platform",
-    "excerpt": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform Comments URL: https://news.ycombinator.com/item?id=49428638 Points: 111 # Comments: 36",
-    "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "geerlingguy",
-    "publishedAt": "2026-08-25T03:06:26.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "dd533d791d33a203",
-    "title": "How Universities Should Prepare Founders",
-    "excerpt": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 216 # Comments: 258",
-    "url": "https://paulgraham.com/prepare.html",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "gmays",
-    "publishedAt": "2026-08-25T01:40:39.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1508,32 +1638,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "604e660e7f016b25",
-    "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
-    "excerpt": "We all knew it was coming. The expected valuation may surprise, though.",
-    "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Connie Loizos",
-    "publishedAt": "2026-08-24T23:05:44.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "17737e382f9a8aaf",
-    "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-    "excerpt": "Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 157 # Comments: 56",
-    "url": "https://github.com/murerkinn/bookshelf",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "arbayi",
-    "publishedAt": "2026-08-24T23:00:37.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "2c80a758177c06f3",
     "title": "Amazon Hikes Hardware Prices By 60%, Blaming Memory Shortage",
     "excerpt": "Amazon has raised the prices of its hardware devices by as much as 60%, blaming \"significant increases in memory and storage component costs.\" TechCrunch reports: The price explosion impacted Fire TVs, Echos, Kindles, and Eeros. One egregious example that's been cited is that of the Echo Dot, one…",
@@ -1544,19 +1648,6 @@
     "publishedAt": "2026-08-24T23:00:00.000Z",
     "category": "hardware",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "caecc570422438d1",
-    "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-    "excerpt": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 572 # Comments: 182",
-    "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "K7PJP",
-    "publishedAt": "2026-08-24T22:13:40.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1617,32 +1708,6 @@
     "publishedAt": "2026-08-24T21:32:16.000Z",
     "category": "ai",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/deployed-SST-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ce50a10042c4d6d9",
-    "title": "How does converting a video to 4K actually work?",
-    "excerpt": "Upscaling software is getting better all the time, but there are still some caveats to be aware of.",
-    "url": "https://www.engadget.com/2240352/how-converting-video-to-4k-works/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Jack Whitcombe)",
-    "publishedAt": "2026-08-24T21:30:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/how-does-converting-a-video-to-4k-actually-work/l-intro-1786115696.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f0f1ea6649d4c7d3",
-    "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-    "excerpt": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
-    "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Sean O'Kane",
-    "publishedAt": "2026-08-24T21:24:17.000Z",
-    "category": "ai",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2142,7 +2207,7 @@
   {
     "id": "62304ea3ddcbb1d9",
     "title": "AliExpress accused of fingerprinting shoppers with silent audio trick that also muted a dev's headphones",
-    "excerpt": "Developer Matt Callaghan claims he caught Alibaba trying to track web users by playing sounds through browsers vulnerable to audio fingerprinting. The software engineer drew attention to the issue late last week after investigating why his Bluetooth headphones stopped playing music whenever he…",
+    "excerpt": "Developer Matt Callaghan claims he caught Alibaba's B2C website, AliExpress, trying to track web users by playing sounds through browsers vulnerable to audio fingerprinting. The software engineer drew attention to the issue late last week after investigating why his Bluetooth headphones stopped…",
     "url": "https://www.theregister.com/security/2026/08/24/aliexpress-accused-of-fingerprinting-shoppers-with-silent-audio-trick-that-also-muted-a-devs-headphones/5291662",
     "source": "The Register",
     "sourceHomepage": "https://www.theregister.com",
@@ -2634,19 +2699,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "7926d1aae1ca60b1",
-    "title": "AMD RDNA 4m Firmware Published For Linux Ahead Of Launch",
-    "excerpt": "In addition to AMD's Friday afternoon big code drop of all the UALink enablement patches for the Linux kernel and the AMDGPU driver, there was another big drop from AMD to end out the week... Upstreamed to the linux-firmware.git repository is all the firmware binaries needed by the open-source…",
-    "url": "https://www.phoronix.com/news/AMD-RDNA-4m-Firmware-Published",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-22T11:08:14.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "9d1a32301cceac13",
     "title": "Skylab completists, clear some shelf space for 26 DVDs",
     "excerpt": "The team behind the Searching for Skylab documentary is releasing almost every surviving piece of video it could find from the mission. The collection will span three volumes and 26 DVDs, including an updated version of Searching for Skylab, which we reviewed in 2019. It gathers almost everything…",
@@ -2673,19 +2725,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "fcb8347b13c509a2",
-    "title": "AWS Security makes an inscrutable choice",
-    "excerpt": "One of the best ways to lower your AWS bill by 99 percent or more is by not checking your keys into public GitHub repositories. Many of us have done this inadvertently over the years, and the defenses against it have improved dramatically (my personal favorite being \"using non-ephemeral credentials…",
-    "url": "https://www.theregister.com/security/2026/08/22/aws-security-makes-an-inscrutable-choice-corey-quinn/5291446",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-21T23:42:41.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=5291460&width=800",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "044a694a94622ab5",
     "title": "Trump's space transportation policy calls for new spaceport on federal land",
     "excerpt": "A new national space transportation policy signed by President Donald Trump on Thursday calls for the development of more spaceports to support more than 1,000 launches and reentries per year by 2030. The presidential memorandum replaces a 2013 policy signed by former President Barack Obama. Both…",
@@ -2699,32 +2738,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "6b7bae333eb3dac0",
-    "title": "Cloverleaf deal is latest example of Nvidia using its war chest to patch cracks in the AI bubble",
-    "excerpt": "Nvidia has made its fortune on the AI boom, but the company has a problem. It faces a growing number of roadblocks which, if left unchecked, could pop the bubble. Thus, the AI arms dealer has been forced to play a game of Whac-a-Mole, shoring up the foundations of its empire by investing its spoils…",
-    "url": "https://www.theregister.com/systems/2026/08/22/cloverleaf-deal-is-latest-example-of-nvidia-using-its-war-chest-to-patch-cracks-in-the-ai-bubble/5291369",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-21T23:00:18.000Z",
-    "category": "hardware",
-    "imageUrl": "https://image.theregister.com/?imageId=5224754&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "7dc9a24e40438cb8",
-    "title": "Salesforce partners not seeing meaningful revenue from Agentforce AI platform, report says",
-    "excerpt": "Salesforce partners say they have yet to see any meaningful revenue from Agentforce, two years after the CRM giant launched its AI platform, promising spectacular growth. That's according to a recent report from TD Cowen, which surveyed Salesforce partners and found muted interest in the…",
-    "url": "https://www.theregister.com/saas/2026/08/21/salesforce-partners-not-seeing-meaningful-revenue-from-agentforce-ai-platform-report-says/5291167",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-21T20:50:00.000Z",
-    "category": "startups",
-    "imageUrl": "https://image.theregister.com/?imageId=1683935&width=800",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "7dec1f4aaf8582b6",
     "title": "Thunder + fiber-optic cabling used for seismic imaging",
     "excerpt": "Most of what we know about the Earth's interior comes from observing seismic waves. These travel at somewhat different speeds depending on the details of the rock they're moving through—whether it's solid or semi-molten, how much water is present, whether it's fractured or solid material, and so…",
@@ -2735,19 +2748,6 @@
     "publishedAt": "2026-08-21T20:26:46.000Z",
     "category": "science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-173019376-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3664caa717ce83f0",
-    "title": "AI companies are burning books, advocates complain to FTC",
-    "excerpt": "AI companies are buying loads of physical books, hoovering up the texts for model training, and then physically destroying the originals. A group of 18 advocacy organizations on Friday asked the US Federal Trade Commission to investigate the book butchering and knowledge hoarding. Fresh details of…",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/21/ai-companies-are-burning-books-advocates-complain-to-ftc/5291299",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-21T20:23:12.000Z",
-    "category": "ai",
-    "imageUrl": "https://image.theregister.com/?imageId=233661&width=800",
     "readTimeMinutes": 1
   },
   {
