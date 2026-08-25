@@ -1,5 +1,148 @@
 [
   {
+    "id": "e6ab7c058c878c51",
+    "title": "Claude's memory now works across both chats and Cowork sessions",
+    "excerpt": "Anthropic is giving users more control over what memories Claude saves.",
+    "url": "https://www.engadget.com/2243753/claude-memory-now-works-across-both-chats-and-cowork-sessions/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Igor Bonifacic)",
+    "publishedAt": "2026-08-25T17:00:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/claudes-memory-now-works-across-both-chats-and-cowork-sessions/l-intro-1787673200.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ff1a1538fbb0111a",
+    "title": "Waymo Is Expanding to Germany",
+    "excerpt": "Waymo plans to launch its robotaxi service in Munich by the end of 2027, marking the Google-owned company's first expansion into the European Union. \"It already operates in 11 cities in the United States and has applied for a license in the United Kingdom to launch its robotaxis in London this…",
+    "url": "https://tech.slashdot.org/story/26/08/25/168248/waymo-is-expanding-to-germany?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-08-25T17:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3010b15a566eab94",
+    "title": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
+    "excerpt": "With the new design of Nothing OS 5.0 , app icons and widgets can use adaptive color to get color tints pulled from your wallpaper, which update whenever your wallpaper changes. Alongside Android's built-in Dynamic Colors, the company says it allows you to have specific elements change to match…",
+    "url": "https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Stevie Bonifield",
+    "publishedAt": "2026-08-25T16:58:53.000Z",
+    "category": "software",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/nothing-os-5-customization.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "64ff665cf7a3bb26",
+    "title": "Xbox has a bunch of translucent green accessories for the console's 25th birthday",
+    "excerpt": "Xbox has a bunch of translucent green accessories for the console's 25th birthday.",
+    "url": "https://www.engadget.com/2243848/xbox-has-a-bunch-of-translucent-green-accessories-for-the-consoles-25th-birthday/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Lawrence Bonk)",
+    "publishedAt": "2026-08-25T16:57:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/xbox-has-a-bunch-of-translucent-green-accessories-for-the-consoles-25th-birthday/l-intro-1787676972.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9d401544790457c2",
+    "title": "GeForce Now is getting support for the Steam Controller",
+    "excerpt": "Nvidia's GeForce Now cloud gaming service will officially support Valve's Steam Controller and Steam Machine starting later this year. With Steam Controller support, you'll be able to play games with Valve's great new gamepad when using the GeForce Now app on your Steam Deck or Steam Machine. If…",
+    "url": "https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Jay Peters",
+    "publishedAt": "2026-08-25T16:47:15.000Z",
+    "category": "ai",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0082.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6be17fba9d2a4370",
+    "title": "Apple decides undermining its own email privacy feature was a bad idea after all",
+    "excerpt": "Apple decides undermining its own email privacy feature was a bad idea after all.",
+    "url": "https://www.engadget.com/2243812/apple-decides-undermining-its-own-email-privacy-feature-was-a-bad-idea-after-all/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Will Shanklin)",
+    "publishedAt": "2026-08-25T16:36:46.000Z",
+    "category": "crypto",
+    "imageUrl": "https://www.engadget.com/img/gallery/apple-decides-undermining-its-own-email-privacy-feature-was-a-bad-idea-after-all/l-intro-1787675747.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "12c8b771a0f00309",
+    "title": "Life360 expands pet tracking with new $8 scannable tags and zoomie alerts",
+    "excerpt": "Life360’s new $7.99 scannable pet tags alert families when a lost pet is found and share its last known location, while new care-tracking features help households keep tabs on feeding, walks, medication, and more.",
+    "url": "https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Sarah Perez",
+    "publishedAt": "2026-08-25T16:35:00.000Z",
+    "category": "policy",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "505a51178dae5449",
+    "title": "How Xbox controllers have changed in the last 25 years",
+    "excerpt": "Every Xbox controller has the familiar ABXY buttons and offset thumbsticks. But Microsoft has slowly evolved the controller over its quarter-century life.",
+    "url": "https://www.engadget.com/2240787/how-xbox-controllers-changed-25-years/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Dave Meikleham)",
+    "publishedAt": "2026-08-25T16:30:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/how-xbox-controllers-have-changed-in-the-last-25-years/l-intro-1787237309.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "54d485ad6d55ccaf",
+    "title": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
+    "excerpt": "The trading infrastructure runs on LayerZero's Zero blockchain, backed by Citadel Securities with DTCC and ICE exploring institutional market applications.",
+    "url": "https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Krisztian Sandor",
+    "publishedAt": "2026-08-25T16:22:47.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/cacddf721a616875f4ffcac5f2979bfe02adef35-1440x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a11504bdd7e003a3",
+    "title": "AI/LLM Usage Becoming A \"Denial of Service Attack\" On Open-Source Project Maintainers",
+    "excerpt": "The latest criticism of the increased burden placed on open-source software project maintainers caused by AI / LLM agents is around too many bug reports effectively causing a \"denial of service\" attack on project maintainers...",
+    "url": "https://www.phoronix.com/news/AI-DoS-Attack-Maintainers",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-25T16:20:00.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4bd69eb51ffaaa0e",
+    "title": "Polestar claims it was blindsided by sales ban",
+    "excerpt": "BEVERLY HILLS, CALIFORNIA - JUNE 26: Polestar cars are displayed in the showroom at a Polestar dealership on June 26, 2026 in Beverly Hills, California. Electric car maker Polestar will be barred from selling new vehicles in the United States starting with the 2027 model year after the Commerce…",
+    "url": "https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Andrew J. Hawkins",
+    "publishedAt": "2026-08-25T16:14:45.000Z",
+    "category": "hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2283439943.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "eb04d31c3caed1b6",
     "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
     "excerpt": "Remember the original Quest headset that Meta (then Oculus) trumpeted back in 2019 ? Meta seems to hope you don't, since the company officially stopped supporting the wireless VR headset in 2023 to focus on the more popular Quests 2 and 3 . Luckily, tinkerers haven't similarly abandoned the…",
@@ -74,13 +217,26 @@
     "author": "staff@engadget.com (Steve Dent)",
     "publishedAt": "2026-08-25T15:30:00.000Z",
     "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/apple-m5-ultra-vs-m3-ultra-whats-changed/l-intro-1787659200.jpg",
+    "imageUrl": "https://www.engadget.com/img/gallery/apple-m5-ultra-vs-m3-ultra-whats-changed/l-intro-1787675630.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "547aece2f08ec020",
+    "title": "Warnock: Harnessing GPU Geometry Amplification for Vector Graphics",
+    "excerpt": "Article URL: https://dl.acm.org/doi/pdf/10.1145/3820012 Comments URL: https://news.ycombinator.com/item?id=49435781 Points: 6 # Comments: 1",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3820012",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "coffeeaddict1",
+    "publishedAt": "2026-08-25T15:26:45.000Z",
+    "category": "startups",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
     "id": "2bdab5be337a9dcc",
     "title": "How much of HN is AI?",
-    "excerpt": "Article URL: https://blog.coredump.cx/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=49435728 Points: 86 # Comments: 44",
+    "excerpt": "Article URL: https://blog.coredump.cx/p/how-much-of-hn-is-ai Comments URL: https://news.ycombinator.com/item?id=49435728 Points: 168 # Comments: 138",
     "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -106,7 +262,7 @@
   {
     "id": "4ab02edbaad3a8ba",
     "title": "Beyond Good and Evil: Nietzsche and the Great War",
-    "excerpt": "Article URL: https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war Comments URL: https://news.ycombinator.com/item?id=49435495 Points: 7 # Comments: 4",
+    "excerpt": "Article URL: https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war Comments URL: https://news.ycombinator.com/item?id=49435495 Points: 17 # Comments: 9",
     "url": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -222,8 +378,8 @@
   },
   {
     "id": "7c43a530c0e52915",
-    "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
-    "excerpt": "Article URL: https://e360.yale.edu/digest/bomb-fishing-coral-reefs Comments URL: https://news.ycombinator.com/item?id=49434820 Points: 70 # Comments: 56",
+    "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+    "excerpt": "Article URL: https://e360.yale.edu/digest/bomb-fishing-coral-reefs Comments URL: https://news.ycombinator.com/item?id=49434820 Points: 118 # Comments: 80",
     "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -262,7 +418,7 @@
   {
     "id": "c257fa36f743142d",
     "title": "Building a backyard office, the build and cost breakdown",
-    "excerpt": "Article URL: https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown Comments URL: https://news.ycombinator.com/item?id=49434645 Points: 74 # Comments: 36",
+    "excerpt": "Article URL: https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown Comments URL: https://news.ycombinator.com/item?id=49434645 Points: 98 # Comments: 60",
     "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -288,7 +444,7 @@
   {
     "id": "dca5a1f525f95f70",
     "title": "MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it",
-    "excerpt": "Article URL: https://www.erathos.com/en/blog/mysql-cdc-to-bigquery Comments URL: https://news.ycombinator.com/item?id=49434613 Points: 13 # Comments: 3",
+    "excerpt": "Article URL: https://www.erathos.com/en/blog/mysql-cdc-to-bigquery Comments URL: https://news.ycombinator.com/item?id=49434613 Points: 20 # Comments: 6",
     "url": "https://www.erathos.com/en/blog/mysql-cdc-to-bigquery",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -308,6 +464,19 @@
     "author": "Amanda Silberling",
     "publishedAt": "2026-08-25T14:10:36.000Z",
     "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "87c1695a1d849e10",
+    "title": "Anthropic tells staff to work from home due to possible security team strike",
+    "excerpt": "Article URL: https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8 Comments URL: https://news.ycombinator.com/item?id=49434291 Points: 58 # Comments: 64",
+    "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "DGAP",
+    "publishedAt": "2026-08-25T14:00:27.000Z",
+    "category": "ai",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -457,7 +626,7 @@
   {
     "id": "f742b715193667b1",
     "title": "New Mac mini, featuring M6 and M5 Pro",
-    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/ Comments URL: https://news.ycombinator.com/item?id=49433450 Points: 168 # Comments: 96",
+    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/ Comments URL: https://news.ycombinator.com/item?id=49433450 Points: 234 # Comments: 127",
     "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -470,7 +639,7 @@
   {
     "id": "540b53bf706d4d7a",
     "title": "New Mac Studio with M5 Max and M5 Ultra",
-    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/ Comments URL: https://news.ycombinator.com/item?id=49433316 Points: 392 # Comments: 262",
+    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/ Comments URL: https://news.ycombinator.com/item?id=49433316 Points: 462 # Comments: 290",
     "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -496,7 +665,7 @@
   {
     "id": "0c6b106ff3944d57",
     "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/ Comments URL: https://news.ycombinator.com/item?id=49433292 Points: 403 # Comments: 348",
+    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/ Comments URL: https://news.ycombinator.com/item?id=49433292 Points: 518 # Comments: 426",
     "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -561,7 +730,7 @@
   {
     "id": "8c519a70d2ed15dd",
     "title": "Uber launches live video streaming for teen accounts",
-    "excerpt": "Uber said no one will be able to access the video once the ride ends",
+    "excerpt": "Uber said no one will be able to access the video once the ride ends.",
     "url": "https://techcrunch.com/2026/08/25/uber-launches-live-video-streaming-for-teen-accounts/",
     "source": "TechCrunch",
     "sourceHomepage": "https://techcrunch.com",
@@ -621,32 +790,6 @@
     "publishedAt": "2026-08-25T13:00:00.000Z",
     "category": "hardware",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/APPLE_M6_M5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "0f20eec65f40cdb9",
-    "title": "Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices",
-    "excerpt": "The M6 / M5 Pro Mac Mini. | Image: Apple Apple is announcing a new generation of the Mac Mini , once again offering two models: one with a new M6 chip and a higher-end model with the M5 Pro found in this year's MacBook Pro. The new Minis have the same tiny design and footprint as the 2024 M4 / M4…",
-    "url": "https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Antonio G. Di Benedetto",
-    "publishedAt": "2026-08-25T13:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MAC-MINI.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c2fb218f3562842e",
-    "title": "Apple launches new Mac Studios with its ‘most powerful chip ever’ — the M5 Ultra",
-    "excerpt": "Those precious, precious ports! | Image: Apple Apple is announcing new models of the Mac Studio, now using the existing M5 Max and a new M5 Ultra . This reunification under one chip generation comes over a year after Apple awkwardly split the Studio between M4 Max and M3 Ultra offerings . (The…",
-    "url": "https://www.theverge.com/tech/984207/apple-mac-studio-m5-max-ultra-price-specs-launch",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Antonio G. Di Benedetto",
-    "publishedAt": "2026-08-25T13:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MAC-STUDIOS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -728,19 +871,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "d50f40f5b74c183c",
-    "title": "France's tax agency got hacked (in French)",
-    "excerpt": "Article URL: https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/ Comments URL: https://news.ycombinator.com/item?id=49433064 Points: 106 # Comments: 49",
-    "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "zakxxi",
-    "publishedAt": "2026-08-25T12:44:35.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "e774ed2085010d26",
     "title": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
     "excerpt": "In an environment where emerging fund managers struggle to attract LP attention, FGV is betting that a different venture model can help it lure LPs.",
@@ -754,19 +884,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "82f872d2431e156c",
-    "title": "The OLED Xbox Ally X20 officially starts at $1,300",
-    "excerpt": "The Asus Xbox Ally X20 looked like it could be one of the best handheld gaming PCs yet made - but originally, Asus wanted you to buy a bundle pairing it with pricy AR glasses. In July, we told you that bundle would no longer be necessary, and today it's official: you can pre-order a standalone…",
-    "url": "https://www.theverge.com/games/984139/the-oled-xbox-ally-x20-officially-starts-at-1300",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Sean Hollister",
-    "publishedAt": "2026-08-25T12:30:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/verge-ally-x20-sean-hollister-1-12.jpg?quality=90&#038;strip=all&#038;crop=0,8.4001312520508,91.8,91.599868747949",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "bbab256160a41b9b",
     "title": "ASUS is celebrating the 20th anniversary of its gaming division with the ROG XBOX Ally X20",
     "excerpt": "The big upgrade on the 20th anniversary ROG XBOX Ally X20 is a larger 7.4-inch OLED display.",
@@ -777,6 +894,19 @@
     "publishedAt": "2026-08-25T12:30:00.000Z",
     "category": "hardware",
     "imageUrl": "https://www.engadget.com/img/gallery/asus-is-celebrating-the-20th-anniversary-of-its-gaming-division-with-the-rog-xbox-ally-x20/l-intro-1787601602.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1e4f5d5732428434",
+    "title": "Solving the 1+N Query Problem",
+    "excerpt": "Article URL: https://acadia.engineering/blog/solving-the-1-plus-N-query-problem Comments URL: https://news.ycombinator.com/item?id=49432786 Points: 12 # Comments: 3",
+    "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "wheatBread",
+    "publishedAt": "2026-08-25T12:26:58.000Z",
+    "category": "startups",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -821,7 +951,7 @@
   {
     "id": "b0d38cb03431ac50",
     "title": "Fitbit founders launch Luffu Link, an LTE health and safety band",
-    "excerpt": "Luffu Link combines all day health sensing, voice logging, location awareness, and the ability to get help from trusted contacts into a single device, all without needing a phone nearby.",
+    "excerpt": "Luffu Link combines all-day health sensing, voice logging, location awareness, and the ability to get help from trusted contacts into a single device, all without needing a phone nearby.",
     "url": "https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/",
     "source": "TechCrunch",
     "sourceHomepage": "https://techcrunch.com",
@@ -847,7 +977,7 @@
   {
     "id": "7d7b26ea8e4bd4de",
     "title": "Don't Wordle",
-    "excerpt": "Article URL: https://dontwordle.com/ Comments URL: https://news.ycombinator.com/item?id=49432319 Points: 173 # Comments: 77",
+    "excerpt": "Article URL: https://dontwordle.com/ Comments URL: https://news.ycombinator.com/item?id=49432319 Points: 203 # Comments: 89",
     "url": "https://dontwordle.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -860,7 +990,7 @@
   {
     "id": "9fc07d5dcdc21e74",
     "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
-    "excerpt": "Article URL: https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next Comments URL: https://news.ycombinator.com/item?id=49432317 Points: 171 # Comments: 73",
+    "excerpt": "Article URL: https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next Comments URL: https://news.ycombinator.com/item?id=49432317 Points: 203 # Comments: 86",
     "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -886,7 +1016,7 @@
   {
     "id": "b0f0da4e7a611595",
     "title": "HelloAssembly The smallest possible complete Windows application",
-    "excerpt": "Article URL: https://github.com/PlummersSoftwareLLC/HelloAssembly Comments URL: https://news.ycombinator.com/item?id=49432227 Points: 51 # Comments: 32",
+    "excerpt": "Article URL: https://github.com/PlummersSoftwareLLC/HelloAssembly Comments URL: https://news.ycombinator.com/item?id=49432227 Points: 65 # Comments: 35",
     "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1106,7 +1236,7 @@
   },
   {
     "id": "0e53b90f6da44f81",
-    "title": "Live updates: Bitcoin rejected at $81,000 as 50-week moving average caps rally",
+    "title": "Live updates: Bitcoin settles in under $80,000, with interest rates headed lower on Tuesday",
     "excerpt": "Spot bitcoin funds took in $337.56 million on Aug. 24, extending an unbroken run of inflows that has now put real money behind a rally that started with a short squeeze.",
     "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
     "source": "CoinDesk",
@@ -1114,7 +1244,7 @@
     "author": "Shaurya Malwa",
     "publishedAt": "2026-08-25T07:40:11.000Z",
     "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/458ab78e6e57d9d45fd15f606cd3afdce19dc262-1506x840.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1172,7 +1302,7 @@
   {
     "id": "4e6767cb4d4e99ae",
     "title": "Windows 95 released August 24, 1995",
-    "excerpt": "Article URL: https://dfarq.homeip.net/happy-20th-birthday-to-windows-95/ Comments URL: https://news.ycombinator.com/item?id=49430007 Points: 42 # Comments: 16",
+    "excerpt": "Article URL: https://dfarq.homeip.net/happy-20th-birthday-to-windows-95/ Comments URL: https://news.ycombinator.com/item?id=49430007 Points: 65 # Comments: 29",
     "url": "https://dfarq.homeip.net/happy-20th-birthday-to-windows-95/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1289,7 +1419,7 @@
   {
     "id": "ad0cd04714e4a049",
     "title": "SiFive's First Server Platform",
-    "excerpt": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform Comments URL: https://news.ycombinator.com/item?id=49428638 Points: 105 # Comments: 35",
+    "excerpt": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform Comments URL: https://news.ycombinator.com/item?id=49428638 Points: 111 # Comments: 36",
     "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1302,25 +1432,12 @@
   {
     "id": "dd533d791d33a203",
     "title": "How Universities Should Prepare Founders",
-    "excerpt": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 206 # Comments: 246",
+    "excerpt": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 216 # Comments: 258",
     "url": "https://paulgraham.com/prepare.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "gmays",
     "publishedAt": "2026-08-25T01:40:39.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "8563a024344045e7",
-    "title": "Was modern art a CIA psy-op? (2020)",
-    "excerpt": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/ Comments URL: https://news.ycombinator.com/item?id=49428080 Points: 127 # Comments: 217",
-    "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "neom",
-    "publishedAt": "2026-08-25T01:35:00.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -1406,7 +1523,7 @@
   {
     "id": "17737e382f9a8aaf",
     "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-    "excerpt": "Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 148 # Comments: 56",
+    "excerpt": "Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 157 # Comments: 56",
     "url": "https://github.com/murerkinn/bookshelf",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1432,25 +1549,12 @@
   {
     "id": "caecc570422438d1",
     "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-    "excerpt": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 566 # Comments: 177",
+    "excerpt": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 572 # Comments: 182",
     "url": "https://developer.apple.com/news/?id=1ptvdtcm",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "K7PJP",
     "publishedAt": "2026-08-24T22:13:40.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "2a7d7322802e5e56",
-    "title": "Moon (2024)",
-    "excerpt": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 240 # Comments: 38",
-    "url": "https://ciechanow.ski/moon/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "simonebrunozzi",
-    "publishedAt": "2026-08-24T22:06:02.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -1581,32 +1685,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "bd52c00ec34f04a3",
-    "title": "Zillow and Redfin settle FTC antitrust case",
-    "excerpt": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.",
-    "url": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Lauren Forristal",
-    "publishedAt": "2026-08-24T20:45:33.000Z",
-    "category": "policy",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "e746ca1cc0c85d16",
-    "title": "How to use Samsung's new My FanCam feature to make yourself the main character in your videos",
-    "excerpt": "Zooming in on your kid's performance in the school play is about to get a whole lot easier. It's going to look better, too.",
-    "url": "https://www.engadget.com/2240099/how-to-use-samsung-new-fancam-feature/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Novak Božović)",
-    "publishedAt": "2026-08-24T20:30:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/how-to-use-samsungs-new-my-fancam-feature-to-make-yourself-the-main-character-in-your-videos/l-intro-1786980855.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "1810393d50362047",
     "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
     "excerpt": "Ads and tracking have turned TVs into privacy nightmares . Both are so widespread among smart TVs that I’ve written a guide for avoiding them . One recommendation in that guide is to use a computer monitor. But in recent years, monitors have become more capable of pushing ads and tracking users.…",
@@ -1617,19 +1695,6 @@
     "publishedAt": "2026-08-24T20:17:41.000Z",
     "category": "hardware",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-159905320-1024x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "dabfab79e53eef9b",
-    "title": "Threads is testing a podcast transcription feature",
-    "excerpt": "Meta keeps trying to entice audio content creators to Threads.",
-    "url": "https://www.engadget.com/2243126/threads-is-testing-a-podcast-transcription-feature/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Anna Washenko)",
-    "publishedAt": "2026-08-24T20:07:59.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/threads-is-testing-a-podcast-transcription-feature/l-intro-1787602018.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1724,19 +1789,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "283873375a071d33",
-    "title": "The only GameCube that could play CDs and DVDs is rarely found below $1,000 today",
-    "excerpt": "This isn't your run-of-the-mill GameCube, and its value has skyrocketed over the years. Here's what it did and how to identify it.",
-    "url": "https://www.engadget.com/2241156/only-gamecube-could-play-cds-dvds-rarely-found-below-1000-dollars-panasonic-q/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Will Shanklin)",
-    "publishedAt": "2026-08-24T18:30:00.000Z",
-    "category": "science",
-    "imageUrl": "https://www.engadget.com/img/gallery/the-only-gamecube-that-could-play-cds-and-dvds-is-rarely-found-below-1000-today/l-intro-1787255075.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "9c366a768711ef20",
     "title": "New AF_ALG Restrictions With Linux 7.3 Due To The Security & Maintenance Nightmare",
     "excerpt": "The past few Linux kernel cycles have chipped away at AF_ALG functionality for that interface for user-space programs to access the kernel's internal cryptography API. Linux has been dropping AF_ALG features like zero-copy support and offloading. AF_ALG was quickly deprecated in Linux 7.2 while now…",
@@ -1747,19 +1799,6 @@
     "publishedAt": "2026-08-24T18:17:25.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a9d0deedfda5bd68",
-    "title": "CDPR is aiming to release The Witcher 4 in 2028",
-    "excerpt": "CDPR's co-CEO called The Witcher 4\"our biggest, boldest and most ambitious game to date.\"",
-    "url": "https://www.engadget.com/2242963/cdpr-is-aiming-to-release-the-witcher-4-in-2028/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Lawrence Bonk)",
-    "publishedAt": "2026-08-24T18:03:28.000Z",
-    "category": "startups",
-    "imageUrl": "https://www.engadget.com/img/gallery/cdpr-is-aiming-to-release-the-witcher-4-in-2028/l-intro-1787594424.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2114,19 +2153,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "eb35c244ada3f255",
-    "title": "Strategy raises $2 billion through MSTR sales and creates new USD Cash pool",
-    "excerpt": "The company sold 18.26 million MSTR shares, increased its USD Reserve to $5.1 billion and repurchased another $136.4 million of STRC.",
-    "url": "https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "James Van Straten",
-    "publishedAt": "2026-08-24T12:24:58.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/dd98498dbda09f933fbeac48aac3591d14c0deee-3018x1697.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "222b29f3aab3b797",
     "title": "US datacenters tripled their water footprint in 10 years",
     "excerpt": "Datacenters in America used about 17 billion gallons of water during 2023, triple the amount they used a decade earlier in 2014, according to an estimate from US Congressional Research Service (CRS). In a recent report published by the Library of Congress, the CRS casts an eye over how server farms…",
@@ -2150,19 +2176,6 @@
     "publishedAt": "2026-08-24T11:55:01.000Z",
     "category": "hardware",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "2d44a0e1791296a7",
-    "title": "After 50 Years, Physicists May Have Finally Found a Particle Made of Pure Force",
-    "excerpt": "Gluons are the quantum 'Gorilla Glue' involved in binding quarks together, ScienceAlert reminds us. But for nearly 50 years, physicists have hunted for \"glueballs\", exotic particles predicted by this theory of the strong interaction — the only type of particle in nature composed entirely of force…",
-    "url": "https://science.slashdot.org/story/26/08/24/0055233/after-50-years-physicists-may-have-finally-found-a-particle-made-of-pure-force?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-08-24T11:34:00.000Z",
-    "category": "science",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -2629,19 +2642,6 @@
     "sourceHomepage": "https://www.phoronix.com",
     "author": "Michael Larabel",
     "publishedAt": "2026-08-22T11:08:14.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "fe7bf5cb2b587eca",
-    "title": "NVK Vulkan Video Merged For Mesa 26.3",
-    "excerpt": "The newest major feature to land in Mesa's open-source NVIDIA \"NVK\" Vulkan driver is support for Vulkan Video!..",
-    "url": "https://www.phoronix.com/news/NVK-Vulkan-Video-Mesa-26.3",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-22T10:55:00.000Z",
     "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
