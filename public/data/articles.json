@@ -1,5 +1,174 @@
 [
   {
+    "id": "f4b19b0f7f974d52",
+    "title": "Bitcoin's surging price faces 1 key level that could signal if the bear market is really over",
+    "excerpt": "Your day-ahead look for Aug. 25, 2026",
+    "url": "https://www.coindesk.com/daybook-us/2026/08/25/bitcoin-s-surging-price-faces-1-key-level-that-could-signal-if-the-bear-market-is-really-over",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Omkar Godbole",
+    "publishedAt": "2026-08-25T11:15:02.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/cc6f410c5f87e5e284a155f4701d48f056220818-1500x931.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "de84d7153789219d",
+    "title": "Greenworks’ MaximusZ electric riding mower has five motors and a few compromises",
+    "excerpt": "The current EV market is flush with variety. I've driven single-motor economy-minded machines, dual-motor EVs with all-wheel drive, tri-motor vehicles that dial up the performance stakes, and even wild quad-motor performance cars, like the Rimac Nevera . But this is the first time I've ever driven…",
+    "url": "https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Tim Stevens",
+    "publishedAt": "2026-08-25T11:00:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/2026-Greenworks-MaximusZ-003-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4b385af263afbded",
+    "title": "Windows Backdoor 'Sleepwalker' Hides in Memory Until Activated by a 'Magic Packet'",
+    "excerpt": "\"The Register has a story about a Windows backdoor that waits silently in memory for a 'magic packet' before springing into action,\" writes Slashdot reader fred133. \"No outgoing traffic, just waiting...\" From the report: Like a sleeper cell awaiting activation, a never-before-seen Windows backdoor…",
+    "url": "https://it.slashdot.org/story/26/08/25/062246/windows-backdoor-sleepwalker-hides-in-memory-until-activated-by-a-magic-packet?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-08-25T11:00:00.000Z",
+    "category": "software",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "491f8513c063d48c",
+    "title": "A bitcoin short squeeze for the ages as futures open interest collapses",
+    "excerpt": "Falling open interest and subdued funding rates suggest the rally remains structurally healthy.",
+    "url": "https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "James Van Straten",
+    "publishedAt": "2026-08-25T10:57:02.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/3a55120c2741c39c5d76c6ad39c34292d2129a3a-3200x1800.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2595e749cef3cbdd",
+    "title": "Bitcoin extends 7-day advance to roughly 25%",
+    "excerpt": "Bitcoin crossed $80,000 for the first time since May, extending its seven-day advance to roughly 25%.",
+    "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-extends-7-day-advance-to-roughly-25",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Francisco Rodrigues",
+    "publishedAt": "2026-08-25T10:52:03.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/da9df256ec221c9e88238b69eb757d3b56013646-1520x855.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6d47d83bc6b8e7dc",
+    "title": "Quantum battery upends the rules of charging",
+    "excerpt": "Article URL: https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets Comments URL: https://news.ycombinator.com/item?id=49431560 Points: 6 # Comments: 0",
+    "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "reconnecting",
+    "publishedAt": "2026-08-25T10:34:12.000Z",
+    "category": "science",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "12ba0a26a4308b58",
+    "title": "Solana ETFs extend growth streak to 5 days after year's biggest inflows",
+    "excerpt": "Monday's $33.5 million was the largest single-day inflow since December, pushing cumulative net inflows to a record $1.22 billion and trading volume to $166.8 million.",
+    "url": "https://www.coindesk.com/markets/2026/08/25/solana-etfs-extend-growth-streak-to-5-days-after-year-s-biggest-inflows",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Olivier Acuna",
+    "publishedAt": "2026-08-25T10:25:32.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/ebb5a0f62882b8a5af36fcacd210933b3a4950a7-3770x2122.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "bf8ee5f40e42551a",
+    "title": "DisplayPort 2.1 ALPM Still Being Worked On For Intel Xe3P / Nova Lake",
+    "excerpt": "The in-development Linux 7.3 kernel is marking Nova Lake Xe3P graphics as stable in being enabled by default and no longer hidden behind the \"force probe\" flag. While on-by-default, there still are some features that have yet to land like the DisplayPort 2.1 ALPM functionality...",
+    "url": "https://www.phoronix.com/news/Intel-DP-2.1-ALPM-v5",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-25T10:25:15.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2ef2943aa9583760",
+    "title": "Why some US restaurants are banning tips",
+    "excerpt": "Article URL: https://www.bbc.com/news/articles/c4g36yze692o Comments URL: https://news.ycombinator.com/item?id=49431364 Points: 119 # Comments: 151",
+    "url": "https://www.bbc.com/news/articles/c4g36yze692o",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "rock_artist",
+    "publishedAt": "2026-08-25T10:09:47.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8da26dab3097b6b5",
+    "title": "KDE Remote Desktop Experience Improving For Closing The X11 vs. Wayland Gap",
+    "excerpt": "KDE developer David Edmundson is out today with a blog post around improvements that have been ongoing for the Plasma 6.8 release in improving the KDE remote desktop experience. As part of ensuring a good Wayland experience and hitting all the needs fulfilled by X11, Plasma 6.8 is seeing…",
+    "url": "https://www.phoronix.com/news/Plasma-68-Better-Remote-Desktop",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-25T10:00:02.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "54960de8894501d5",
+    "title": "Ukraine unveils native jet-powered drone interceptor",
+    "excerpt": "Ukraine’s Ministry of Defence (MoD) says the country has brought into service its first home-grown jet-powered drone interceptor, intended to take out Russian attack drones. The weapon, known as the Alexa Spatium, is a v-tail unmanned plane developed by Ukrainian engineers to destroy small airborne…",
+    "url": "https://www.theregister.com/offbeat/2026/08/25/ukraine-unveils-native-jet-powered-drone-interceptor/5292081",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-25T10:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://image.theregister.com/?imageId=5292103&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "71aed4efc6783464",
+    "title": "Lots Of New Audio Hardware Support In Linux 7.3",
+    "excerpt": "Linux sound subsystem maintainer Takashi Iwai of SUSE submitted all of the sound feature updates last week for the Linux 7.3 kernel. Besides the continued AI/LLM-generated patch churn, the sound code for Linux 7.3 sees a lot of new hardware support...",
+    "url": "https://www.phoronix.com/news/Linux-7.3-Sound",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-25T09:51:22.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "eaea9850fc391ff9",
+    "title": "Screen viewing time from age 1 to 8 years and subsequent academic performance",
+    "excerpt": "Article URL: https://link.springer.com/article/10.1007/s12519-026-01046-1 Comments URL: https://news.ycombinator.com/item?id=49431024 Points: 30 # Comments: 19",
+    "url": "https://link.springer.com/article/10.1007/s12519-026-01046-1",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "Markoff",
+    "publishedAt": "2026-08-25T09:17:33.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "6c2861183e872b5c",
     "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
     "excerpt": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices…",
@@ -92,7 +261,7 @@
   },
   {
     "id": "0e53b90f6da44f81",
-    "title": "Live updates: Bitcoin ETFs draw a sixth straight day of inflows as the rally holds above $80,000",
+    "title": "Live updates: Bitcoin rejected at $81,000 as 50-week moving average caps rally",
     "excerpt": "Spot bitcoin funds took in $337.56 million on Aug. 24, extending an unbroken run of inflows that has now put real money behind a rally that started with a short squeeze.",
     "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
     "source": "CoinDesk",
@@ -100,7 +269,7 @@
     "author": "Shaurya Malwa",
     "publishedAt": "2026-08-25T07:40:11.000Z",
     "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/398fe558a7984881da5e90ba4b9c11f62935d92e-1382x760.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/458ab78e6e57d9d45fd15f606cd3afdce19dc262-1506x840.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -236,7 +405,7 @@
   {
     "id": "253f6697afdfe3b4",
     "title": "Headlong: A Microharness for Persistent Agents",
-    "excerpt": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents Comments URL: https://news.ycombinator.com/item?id=49428882 Points: 54 # Comments: 20",
+    "excerpt": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents Comments URL: https://news.ycombinator.com/item?id=49428882 Points: 72 # Comments: 26",
     "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -288,7 +457,7 @@
   {
     "id": "ad0cd04714e4a049",
     "title": "SiFive's First Server Platform",
-    "excerpt": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform Comments URL: https://news.ycombinator.com/item?id=49428638 Points: 51 # Comments: 9",
+    "excerpt": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform Comments URL: https://news.ycombinator.com/item?id=49428638 Points: 65 # Comments: 16",
     "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -299,22 +468,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "33c6250f509a48b3",
-    "title": "Thomson Reuters Launches Its Own Frontier Model",
-    "excerpt": "Article URL: https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model Comments URL: https://news.ycombinator.com/item?id=49428318 Points: 116 # Comments: 45",
-    "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "giuliomagnifico",
-    "publishedAt": "2026-08-25T02:11:39.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "dd533d791d33a203",
     "title": "How Universities Should Prepare Founders",
-    "excerpt": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 122 # Comments: 149",
+    "excerpt": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 139 # Comments: 173",
     "url": "https://paulgraham.com/prepare.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -327,7 +483,7 @@
   {
     "id": "8563a024344045e7",
     "title": "Was modern art a CIA psy-op? (2020)",
-    "excerpt": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/ Comments URL: https://news.ycombinator.com/item?id=49428080 Points: 74 # Comments: 115",
+    "excerpt": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/ Comments URL: https://news.ycombinator.com/item?id=49428080 Points: 92 # Comments: 150",
     "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -431,7 +587,7 @@
   {
     "id": "17737e382f9a8aaf",
     "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-    "excerpt": "Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 95 # Comments: 35",
+    "excerpt": "Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 110 # Comments: 40",
     "url": "https://github.com/murerkinn/bookshelf",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -444,7 +600,7 @@
   {
     "id": "caecc570422438d1",
     "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-    "excerpt": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 459 # Comments: 127",
+    "excerpt": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 495 # Comments: 143",
     "url": "https://developer.apple.com/news/?id=1ptvdtcm",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -457,7 +613,7 @@
   {
     "id": "2a7d7322802e5e56",
     "title": "Moon (2024)",
-    "excerpt": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 185 # Comments: 33",
+    "excerpt": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 205 # Comments: 36",
     "url": "https://ciechanow.ski/moon/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -574,7 +730,7 @@
   {
     "id": "300ed4f3e102ca9c",
     "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-    "excerpt": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 97 # Comments: 18",
+    "excerpt": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 109 # Comments: 21",
     "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -803,7 +959,7 @@
   {
     "id": "53d975e083eaf7f3",
     "title": "Oceans hit highest temperature on record",
-    "excerpt": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 556 # Comments: 430",
+    "excerpt": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 585 # Comments: 459",
     "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -816,7 +972,7 @@
   {
     "id": "113584368e849150",
     "title": "LLMs could control their host machines by exploiting inference engines",
-    "excerpt": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 140 # Comments: 66",
+    "excerpt": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 158 # Comments: 74",
     "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -905,19 +1061,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "bb0848957783cedd",
-    "title": "Octopus intelligence may be related to never-before-seen mutation",
-    "excerpt": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 158 # Comments: 115",
-    "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "bookofjoe",
-    "publishedAt": "2026-08-24T17:57:13.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "4b94b24a314b48e7",
     "title": "Windows NT 4 went on sale 30 years ago today",
     "excerpt": "Today marks the 30th anniversary of Microsoft Windows NT 4.0 becoming available on August 24, 1996. Windows NT 4.0, codenamed “Tukwila,” went on retail sale exactly 30 years ago. This was the version that started to deliver on the promise of Microsoft’s long-running Windows NT project. NT 4 married…",
@@ -985,7 +1128,7 @@
   {
     "id": "5f3bc974058a776c",
     "title": "Where did all the public bathrooms go?",
-    "excerpt": "Article URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/ Comments URL: https://news.ycombinator.com/item?id=49422800 Points: 241 # Comments: 541",
+    "excerpt": "Article URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/ Comments URL: https://news.ycombinator.com/item?id=49422800 Points: 255 # Comments: 565",
     "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -998,7 +1141,7 @@
   {
     "id": "945e4068028bbca3",
     "title": "The entire city of San Francisco as a video game",
-    "excerpt": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 459 # Comments: 140",
+    "excerpt": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 488 # Comments: 144",
     "url": "https://sf.thijs.gg/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1160,19 +1303,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "489edfc37a30ad38",
-    "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
-    "excerpt": "PicoMQ is a Rust server for Durable Streams, built on Object Store. Cheap, URL-addressable, granular streams (create/append/read/long-poll/SSE), with Pico Protocol or Durable Streams Protocol as the facade. S3Stream is the stream storage primitive, used in AutoMQ, shipped as a Rust library.…",
-    "url": "https://picomq.com/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "adesh_nalpet",
-    "publishedAt": "2026-08-24T16:08:17.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "931dd7b67db9e32f",
     "title": "F1 in the Netherlands: The driver you most want to beat is your teammate",
     "excerpt": "After months of rumors surrounding his future, now we know: Four-time champion Max Verstappen is staying in the sport for the foreseeable future. The news broke on the eve of the Dutch Grand Prix, held this past weekend at Zandvoort in the Netherlands as F1 returned from its mandatory summer…",
@@ -1201,7 +1331,7 @@
   {
     "id": "9f838576d711cee8",
     "title": "Jabber/XMPP: 25 Years of Digital Independence",
-    "excerpt": "Article URL: https://gultsch.de/posts/25-years-of-digital-independence/ Comments URL: https://news.ycombinator.com/item?id=49421536 Points: 231 # Comments: 127",
+    "excerpt": "Article URL: https://gultsch.de/posts/25-years-of-digital-independence/ Comments URL: https://news.ycombinator.com/item?id=49421536 Points: 235 # Comments: 139",
     "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1266,7 +1396,7 @@
   {
     "id": "3f9be69046a627db",
     "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-    "excerpt": "Article URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/ Comments URL: https://news.ycombinator.com/item?id=49421158 Points: 707 # Comments: 309",
+    "excerpt": "Article URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/ Comments URL: https://news.ycombinator.com/item?id=49421158 Points: 735 # Comments: 342",
     "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1292,7 +1422,7 @@
   {
     "id": "468a1a33d560a7a4",
     "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-    "excerpt": "https://xcancel.com/lemire/status/2091894299289874926 Comments URL: https://news.ycombinator.com/item?id=49420873 Points: 862 # Comments: 616",
+    "excerpt": "https://xcancel.com/lemire/status/2091894299289874926 Comments URL: https://news.ycombinator.com/item?id=49420873 Points: 894 # Comments: 639",
     "url": "https://twitter.com/lemire/status/2091894299289874926",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1438,19 +1568,6 @@
     "publishedAt": "2026-08-24T14:18:47.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "95a905222ba68c08",
-    "title": "Apple’s four-pack of second-gen AirTags is $20 off",
-    "excerpt": "Apple’s four-pack of second-generation AirTags is down to $79 (originally $99) at Amazon and at Target , which is the bundle’s lowest price yet. You can get an AirTag for $24 right now piecemeal, but getting four together as a set is a way to save even more. Why pay $96 for four when you can save…",
-    "url": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Cameron Faulkner",
-    "publishedAt": "2026-08-24T14:04:04.000Z",
-    "category": "policy",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/airtags.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -1896,45 +2013,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "4d06eb4bf6d20f09",
-    "title": "Crypto roars back as bitcoin posts its second-best week since early 2021",
-    "excerpt": "Treasury buybacks, ETF inflows and a weaker dollar ignite crypto’s breakout.",
-    "url": "https://www.coindesk.com/markets/2026/08/24/crypto-roars-back-as-bitcoin-posts-its-second-best-week-since-early-2021",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "James Van Straten",
-    "publishedAt": "2026-08-24T08:28:14.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/a2e4b01791ef0da39400c9497a72cb149dc00d0f-3200x1800.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "608c3f1790d5f109",
-    "title": "Jackson Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead",
-    "excerpt": "Your look at what's coming in the week starting Aug. 24",
-    "url": "https://www.coindesk.com/markets/2026/08/24/jackson-hole-symposium-u-s-pce-prices-iren-earnings-crypto-week-ahead",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Francisco Rodrigues",
-    "publishedAt": "2026-08-24T08:16:29.000Z",
-    "category": "Crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/a103b6311bda34f3de954f20713a86edc0ea2dbe-5411x3044.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f460e2a9297c2cbc",
-    "title": "Live updates: Bitcoin retreats after nearing $80,000, with analysts eyeing breather after big run",
-    "excerpt": "With bond yields still near multi-year highs, focus turns to Fed Chair Kevin Warsh's upcoming Jackson Hole address.",
-    "url": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Shaurya Malwa",
-    "publishedAt": "2026-08-24T08:05:57.000Z",
-    "category": "crypto",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "6ebba848306fb687",
     "title": "SCO Successor Xinuos Asks Court to Rehear Its Claims Against IBM/Red Hat Over Project Monterey",
     "excerpt": "The long legal battle over ownership of Linux \"is closer than ever to ending,\" reports the Register, \"after a panel of three judges ruled a claim against IBM and Red Hat isn't valid, and that time has expired for further action.\" In 2021, an heir to SCO settled with IBM for $14.25 million — a sum…",
@@ -1961,19 +2039,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "055d5e5bf3a62732",
-    "title": "Ether is crushing bitcoin and the 'golden cross' says it may not be done yet",
-    "excerpt": "The ETH/BTC ratio has recently formed a bullish golden cross, suggesting ether could extend its outperformance against bitcoin.",
-    "url": "https://www.coindesk.com/markets/2026/08/24/ether-is-crushing-bitcoin-and-the-golden-cross-says-it-may-not-be-done-yet",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Omkar Godbole",
-    "publishedAt": "2026-08-24T06:50:58.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/9397622644d18dfc13339815e362fb5d33182da7-2108x1488.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "35b81525a5762a31",
     "title": "Batch file automated a clean-up job, then fouled itself by deleting the wrong directory",
     "excerpt": "WHO, ME? Welcome to another installment of \"Who, Me?\" – the reader-contributed column in which The Register opens the working week with your tales of IT woe. This week, meet a reader we'll Regomize as \"Pascal,\" who once worked for a company that had just acquired its first Exchange server, home to…",
@@ -1996,19 +2061,6 @@
     "author": "EditorDavid",
     "publishedAt": "2026-08-24T04:34:00.000Z",
     "category": "science",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b6e07ef35d0ec0d6",
-    "title": "Could Mecha Comet's Linux PC-Phone Hybrid Be the Future of Linux Smartphones?",
-    "excerpt": "3,346 backers pledged $1,198,844 on Kickstarter to build the (modular) handheld Linux computer, the Mecha Comet. It's slightly bigger and heavier than your smartphone, with a 4-inch AMOLED display and loaded up with things like microphones, speakers, a SIM tray, two USB ports and a mini HDMI port.…",
-    "url": "https://linux.slashdot.org/story/26/08/24/0228216/could-mecha-comets-linux-pc-phone-hybrid-be-the-future-of-linux-smartphones?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-08-24T02:31:00.000Z",
-    "category": "hardware",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
@@ -2450,19 +2502,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "ac1457a2b343119f",
-    "title": "Linux 7.3 x86/mm Lands Patches To Greatly Improve Latency-Sensitive Workloads",
-    "excerpt": "The highlight of this week's x86/mm pull request of changes for the Linux 7.3 kernel are fixes that reduce the time that the TLB flushing code has interrupts disabled. This helps significantly with latency-sensitive workloads but Intel engineer Dave Hansen noted in the pull request that \"it's…",
-    "url": "https://www.phoronix.com/news/Linux-7.3-x86-mm-Latency",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-22T09:57:36.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "9d1a32301cceac13",
     "title": "Skylab completists, clear some shelf space for 26 DVDs",
     "excerpt": "The team behind the Searching for Skylab documentary is releasing almost every surviving piece of video it could find from the mission. The collection will span three volumes and 26 DVDs, including an updated version of Searching for Skylab, which we reviewed in 2019. It gathers almost everything…",
@@ -2486,32 +2525,6 @@
     "publishedAt": "2026-08-22T08:43:00.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=5291261&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "8f2021869dbe2fd9",
-    "title": "KDE Plasma 6.8 Lands Some Enticing Performance Optimizations This Week",
-    "excerpt": "This Week in Plasma is out with its latest issue to highlight interesting developments in the trek towards Plasma 6.8...",
-    "url": "https://www.phoronix.com/news/KDE-Plasma-6.8-More-Performance",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-22T01:01:36.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f6fa0ac61cbcc8ff",
-    "title": "OpenZFS 2.4.4 Released With Linux 7.2 Support, Dozens Of Fixes",
-    "excerpt": "OpenZFS 2.4.4 is out today as the newest stable point release for this ZFS file-system implementation for Linux and FreeBSD systems...",
-    "url": "https://www.phoronix.com/news/OpenZFS-2.4.4-Released",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-22T00:40:33.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2720,19 +2733,6 @@
     "publishedAt": "2026-08-21T13:15:00.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=1682264&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "2ff027b0cf239cae",
-    "title": "$10K phishing kit claims it can plant rogue passkeys for persistent access to pwned accounts",
-    "excerpt": "A phishing kit for sale on Russian-language cybercrime forums claims it can enroll attacker-controlled passkeys on compromised accounts, providing persistent access after passwords are changed. Advertised at around $10,000 for the base package, with additional modules sold separately, iAuthFlow v2…",
-    "url": "https://www.theregister.com/cyber-crime/2026/08/21/10k-phishing-kit-claims-it-can-plant-rogue-passkeys-for-persistent-access-to-pwned-accounts/5291006",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-21T12:18:00.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=229085&width=800",
     "readTimeMinutes": 1
   },
   {
