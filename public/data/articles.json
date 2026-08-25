@@ -1,5 +1,18 @@
 [
   {
+    "id": "253f6697afdfe3b4",
+    "title": "Headlong: A Microharness for Persistent Agents",
+    "excerpt": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents Comments URL: https://news.ycombinator.com/item?id=49428882 Points: 7 # Comments: 1",
+    "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "lbw1215",
+    "publishedAt": "2026-08-25T03:54:19.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "21deab8f41f532c0",
     "title": "How to watch the Nancy Grace Roman Space Telescope's launch",
     "excerpt": "NASA's Nancy Grace Roman Space Telescope is scheduled for launch on August 30.",
@@ -10,6 +23,19 @@
     "publishedAt": "2026-08-25T03:48:02.000Z",
     "category": "science",
     "imageUrl": "https://www.engadget.com/img/gallery/how-to-watch-the-nancy-grace-roman-space-telescopes-launch/l-intro-1787629590.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ec009c61bc144f5d",
+    "title": "Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?",
+    "excerpt": "Looking for options that might work for a low power touchscreen for a calendar project. Comments URL: https://news.ycombinator.com/item?id=49428842 Points: 8 # Comments: 2",
+    "url": "https://news.ycombinator.com/item?id=49428842",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "foota",
+    "publishedAt": "2026-08-25T03:46:01.000Z",
+    "category": "hardware",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -41,7 +67,7 @@
   {
     "id": "33c6250f509a48b3",
     "title": "Thomson Reuters Launches Its Own Frontier Model",
-    "excerpt": "Article URL: https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model Comments URL: https://news.ycombinator.com/item?id=49428318 Points: 37 # Comments: 8",
+    "excerpt": "Article URL: https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model Comments URL: https://news.ycombinator.com/item?id=49428318 Points: 46 # Comments: 13",
     "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -54,25 +80,12 @@
   {
     "id": "dd533d791d33a203",
     "title": "How Universities Should Prepare Founders",
-    "excerpt": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 41 # Comments: 41",
+    "excerpt": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 49 # Comments: 48",
     "url": "https://paulgraham.com/prepare.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "gmays",
     "publishedAt": "2026-08-25T01:40:39.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "8563a024344045e7",
-    "title": "Was Modern Art a CIA Psy-Op? (2020)",
-    "excerpt": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/ Comments URL: https://news.ycombinator.com/item?id=49428080 Points: 31 # Comments: 31",
-    "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "neom",
-    "publishedAt": "2026-08-25T01:35:00.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -171,7 +184,7 @@
   {
     "id": "17737e382f9a8aaf",
     "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-    "excerpt": "Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 55 # Comments: 17",
+    "excerpt": "Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 60 # Comments: 23",
     "url": "https://github.com/murerkinn/bookshelf",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -184,7 +197,7 @@
   {
     "id": "caecc570422438d1",
     "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-    "excerpt": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 284 # Comments: 72",
+    "excerpt": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 308 # Comments: 75",
     "url": "https://developer.apple.com/news/?id=1ptvdtcm",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -197,7 +210,7 @@
   {
     "id": "2a7d7322802e5e56",
     "title": "Moon (2024)",
-    "excerpt": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 119 # Comments: 20",
+    "excerpt": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 121 # Comments: 20",
     "url": "https://ciechanow.ski/moon/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -314,7 +327,7 @@
   {
     "id": "581acfbd4954d166",
     "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
-    "excerpt": "Article URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk Comments URL: https://news.ycombinator.com/item?id=49425819 Points: 143 # Comments: 117",
+    "excerpt": "Article URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk Comments URL: https://news.ycombinator.com/item?id=49425819 Points: 146 # Comments: 122",
     "url": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -327,7 +340,7 @@
   {
     "id": "300ed4f3e102ca9c",
     "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-    "excerpt": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 63 # Comments: 13",
+    "excerpt": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 69 # Comments: 14",
     "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -556,7 +569,7 @@
   {
     "id": "53d975e083eaf7f3",
     "title": "Oceans hit highest temperature on record",
-    "excerpt": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 444 # Comments: 365",
+    "excerpt": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 456 # Comments: 369",
     "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -569,39 +582,13 @@
   {
     "id": "113584368e849150",
     "title": "LLMs could control their host machines by exploiting inference engines",
-    "excerpt": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 108 # Comments: 55",
+    "excerpt": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 111 # Comments: 57",
     "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "zdw",
     "publishedAt": "2026-08-24T19:03:06.000Z",
     "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b93516b697db6e42",
-    "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
-    "excerpt": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 62 # Comments: 27",
-    "url": "https://textlog.cc/post/2059",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "stagas",
-    "publishedAt": "2026-08-24T18:45:43.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d867f30dbc362160",
-    "title": "Anger, Anxiety and Agency",
-    "excerpt": "Article URL: https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/ Comments URL: https://news.ycombinator.com/item?id=49424082 Points: 108 # Comments: 116",
-    "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "lumpa",
-    "publishedAt": "2026-08-24T18:37:24.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -686,7 +673,7 @@
   {
     "id": "bb0848957783cedd",
     "title": "Octopus intelligence may be related to never-before-seen mutation",
-    "excerpt": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 96 # Comments: 77",
+    "excerpt": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 105 # Comments: 82",
     "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -749,19 +736,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "8d0f8a62181d88f8",
-    "title": "Fences, Not Sandboxes",
-    "excerpt": "Article URL: https://yegge.ai/essays/fences-not-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49423146 Points: 58 # Comments: 63",
-    "url": "https://yegge.ai/essays/fences-not-sandboxes/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "tosh",
-    "publishedAt": "2026-08-24T17:28:43.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "da49ae7bb3dcd662",
     "title": "YouTuber's backyard fab ambitions expand from RAM to homebrew LEDs",
     "excerpt": "A YouTuber on a mission to liberate semiconductor manufacturing from the grip of multinational megacorporations is back with a new round of DIY success, this time manufacturing working LEDs in his backyard fab. Dr. Semiconductor, also known as semiconductor engineer Dr. Matthew Hartensveld, per his…",
@@ -790,7 +764,7 @@
   {
     "id": "5f3bc974058a776c",
     "title": "Where did all the public bathrooms go?",
-    "excerpt": "Article URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/ Comments URL: https://news.ycombinator.com/item?id=49422800 Points: 181 # Comments: 363",
+    "excerpt": "Article URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/ Comments URL: https://news.ycombinator.com/item?id=49422800 Points: 190 # Comments: 393",
     "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -803,7 +777,7 @@
   {
     "id": "945e4068028bbca3",
     "title": "The entire city of San Francisco as a video game",
-    "excerpt": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 375 # Comments: 124",
+    "excerpt": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 387 # Comments: 128",
     "url": "https://sf.thijs.gg/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -863,19 +837,6 @@
     "publishedAt": "2026-08-24T16:59:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=5291980&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3e6ae02d2641cc81",
-    "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
-    "excerpt": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc Comments URL: https://news.ycombinator.com/item?id=49422548 Points: 81 # Comments: 10",
-    "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "rbanffy",
-    "publishedAt": "2026-08-24T16:52:01.000Z",
-    "category": "hardware",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -952,15 +913,28 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "ed2eb5f544919495",
-    "title": "Characterizing Agentic Flooding of Government Services",
-    "excerpt": "Article URL: https://arxiv.org/abs/2608.16603 Comments URL: https://news.ycombinator.com/item?id=49422227 Points: 62 # Comments: 75",
-    "url": "https://arxiv.org/abs/2608.16603",
+    "id": "422d724d1779eadb",
+    "title": "Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
+    "excerpt": "Article URL: https://github.com/ovenpasta/adi2 Comments URL: https://news.ycombinator.com/item?id=49422243 Points: 30 # Comments: 14",
+    "url": "https://github.com/ovenpasta/adi2",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
-    "author": "lensecat",
-    "publishedAt": "2026-08-24T16:30:21.000Z",
-    "category": "science",
+    "author": "ovenpasta",
+    "publishedAt": "2026-08-24T16:30:51.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ddba1248e92eb891",
+    "title": "Ox-Alpha Is GLM?",
+    "excerpt": "Article URL: https://dejan.ai/blog/ox-alpha/ Comments URL: https://news.ycombinator.com/item?id=49422226 Points: 30 # Comments: 8",
+    "url": "https://dejan.ai/blog/ox-alpha/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "jitbit",
+    "publishedAt": "2026-08-24T16:30:16.000Z",
+    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -991,19 +965,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "489edfc37a30ad38",
-    "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
-    "excerpt": "PicoMQ is a Rust server for Durable Streams, built on Object Store. Cheap, URL-addressable, granular streams (create/append/read/long-poll/SSE), with Pico Protocol or Durable Streams Protocol as the facade. S3Stream is the stream storage primitive, used in AutoMQ, shipped as a Rust library.…",
-    "url": "https://picomq.com/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "adesh_nalpet",
-    "publishedAt": "2026-08-24T16:08:17.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "931dd7b67db9e32f",
     "title": "F1 in the Netherlands: The driver you most want to beat is your teammate",
     "excerpt": "After months of rumors surrounding his future, now we know: Four-time champion Max Verstappen is staying in the sport for the foreseeable future. The news broke on the eve of the Dutch Grand Prix, held this past weekend at Zandvoort in the Netherlands as F1 returned from its mandatory summer…",
@@ -1027,6 +988,19 @@
     "publishedAt": "2026-08-24T16:00:00.000Z",
     "category": "hardware",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9f838576d711cee8",
+    "title": "Jabber/XMPP: 25 Years of Digital Independence",
+    "excerpt": "Article URL: https://gultsch.de/posts/25-years-of-digital-independence/ Comments URL: https://news.ycombinator.com/item?id=49421536 Points: 193 # Comments: 90",
+    "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "inputmice",
+    "publishedAt": "2026-08-24T15:51:31.000Z",
+    "category": "software",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1082,6 +1056,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "3f9be69046a627db",
+    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+    "excerpt": "Article URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/ Comments URL: https://news.ycombinator.com/item?id=49421158 Points: 613 # Comments: 241",
+    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "ComputerGuru",
+    "publishedAt": "2026-08-24T15:28:04.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "6fa02c4f9ef76b6b",
     "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
     "excerpt": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
@@ -1091,6 +1078,19 @@
     "author": "Rebecca Bellan",
     "publishedAt": "2026-08-24T15:24:18.000Z",
     "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "468a1a33d560a7a4",
+    "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+    "excerpt": "https://xcancel.com/lemire/status/2091894299289874926 Comments URL: https://news.ycombinator.com/item?id=49420873 Points: 777 # Comments: 526",
+    "url": "https://twitter.com/lemire/status/2091894299289874926",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "tosh",
+    "publishedAt": "2026-08-24T15:08:17.000Z",
+    "category": "hardware",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
