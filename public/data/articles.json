@@ -1,5 +1,57 @@
 [
   {
+    "id": "dd533d791d33a203",
+    "title": "How Universities Should Prepare Founders",
+    "excerpt": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 22 # Comments: 11",
+    "url": "https://paulgraham.com/prepare.html",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "gmays",
+    "publishedAt": "2026-08-25T01:40:39.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "62aba8431403ae0f",
+    "title": "IBM announces chip that natively executes Arm and Z instructions concurrently",
+    "excerpt": "IBM has revealed it is working on a chip with processor cores that can execute instructions for its own mainframe chips and for the Arm architecture – and for the LinuxONE architecture too for good measure. Big Blue says the unnamed chip will be built on a two-nanometer technology node, include 11…",
+    "url": "https://www.theregister.com/systems/2026/08/25/ibm-announces-chip-that-natively-executes-arm-and-z-instructions-concurrently/5292059",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-25T01:27:30.000Z",
+    "category": "hardware",
+    "imageUrl": "https://image.theregister.com/?imageId=5292064&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3a0abfbddd655214",
+    "title": "Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates",
+    "excerpt": "BTC has now surged 38% following its June plunge as shifting U.S. Treasury policy helped bring buyers back to crypto, rejuvenating ETF demand.",
+    "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-hits-usd80-000-for-the-first-time-since-may-as-crypto-recovery-accelerates",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Krisztian Sandor",
+    "publishedAt": "2026-08-25T00:55:32.000Z",
+    "category": "crypto",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a91c0cac4cb61cc2",
+    "title": "What languages are agent skills written in?",
+    "excerpt": "Article URL: https://plicara.ai/research/agent-skill-languages/ Comments URL: https://news.ycombinator.com/item?id=49427825 Points: 11 # Comments: 2",
+    "url": "https://plicara.ai/research/agent-skill-languages/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "3Mathematicians",
+    "publishedAt": "2026-08-25T00:52:27.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "cf5ef6904e26ee64",
     "title": "Linux 7.3 Merges Initial Kernel Driver Support For The 2026 Steam Controller",
     "excerpt": "The HID subsystem updates were recently merged for the ongoing Linux 7.3 kernel merge window. Among other hardware additions, the 2026 Valve Steam Controller is seeing initial kernel driver support...",
@@ -26,6 +78,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "c1747bb8b3f5e403",
+    "title": "Microsoft AI watermarks in Paint and Photos are linked to user IDs, researcher finds",
+    "excerpt": "When Anthropic disclosed earlier this month that it would be applying a statistical word-choice watermark to its Claude text output, the company noted that at least 190 AI providers have agreed to abide by Europe's AI transparency rules. One such company is Microsoft, which has been applying its…",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/25/microsoft-ai-watermarks-in-paint-and-photos-are-linked-to-user-ids-researcher-finds/5292034",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-25T00:10:51.000Z",
+    "category": "ai",
+    "imageUrl": "https://image.theregister.com/?imageId=261247&width=800",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "9368f8d739ff0575",
     "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
     "excerpt": "Cursed BIOS. | Photo by Sean Hollister / The Verge When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so . But it's not clear that computing giant Lenovo will go that far. Three weeks after a…",
@@ -36,19 +101,6 @@
     "publishedAt": "2026-08-24T23:38:10.000Z",
     "category": "software",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-legion-go-sean-hollister-1-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "51dc340d96cbdaca",
-    "title": "Iran Is Using Foreign Criminals to Attack Its Critics Overseas",
-    "excerpt": "https://archive.ph/YwVNE Comments URL: https://news.ycombinator.com/item?id=49427046 Points: 18 # Comments: 8",
-    "url": "https://www.newyorker.com/news/letter-from-the-uk/iran-is-using-foreign-criminals-to-attack-its-critics-overseas",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "firefax",
-    "publishedAt": "2026-08-24T23:06:37.000Z",
-    "category": "policy",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -67,7 +119,7 @@
   {
     "id": "17737e382f9a8aaf",
     "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-    "excerpt": "Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 24 # Comments: 4",
+    "excerpt": "Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 36 # Comments: 13",
     "url": "https://github.com/murerkinn/bookshelf",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -80,7 +132,7 @@
   {
     "id": "caecc570422438d1",
     "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-    "excerpt": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 195 # Comments: 41",
+    "excerpt": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 245 # Comments: 55",
     "url": "https://developer.apple.com/news/?id=1ptvdtcm",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -93,7 +145,7 @@
   {
     "id": "2a7d7322802e5e56",
     "title": "Moon (2024)",
-    "excerpt": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 90 # Comments: 14",
+    "excerpt": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 110 # Comments: 19",
     "url": "https://ciechanow.ski/moon/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -127,6 +179,19 @@
     "publishedAt": "2026-08-24T21:45:53.000Z",
     "category": "ai",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f9ffb2dbf06ea2d5",
+    "title": "You don't want this Sleepwalker backdoor on your Windows machine",
+    "excerpt": "Like a sleeper cell awaiting activation, a never-before-seen Windows backdoor dubbed Sleepwalker waits silently in memory for one specifically crafted network packet to wake it up and deliver commands using the malware's 23-instruction language. The commands can do everything from running code…",
+    "url": "https://www.theregister.com/security/2026/08/24/you-dont-want-this-sleepwalker-backdoor-on-your-windows-machine/5292021",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-24T21:39:39.000Z",
+    "category": "security",
+    "imageUrl": "https://image.theregister.com/?imageId=5292027&width=800",
     "readTimeMinutes": 1
   },
   {
@@ -169,6 +234,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "5f3d72bc83f601f2",
+    "title": "Browser fingerprint tool shows how easy you are to track using the latest sneaky tricks",
+    "excerpt": "If you're curious how easily tech companies can fingerprint your browser and device and potentially single them out from the crowd, a new utility Glassbox will show you. Aside from pinging a public geolocation API, it runs entirely in a user’s browser and doesn’t ship any info out to the web while…",
+    "url": "https://www.theregister.com/security/2026/08/24/browser-fingerprint-tool-shows-how-easy-you-are-to-track-using-the-latest-sneaky-tricks/5292015",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-24T21:07:10.000Z",
+    "category": "security",
+    "imageUrl": "https://image.theregister.com/?imageId=254347&width=800",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "f3ce05a5c07e4192",
     "title": "RFK Jr. may upend how vaccine recommendations are categorized",
     "excerpt": "Under anti-vaccine Health Secretary Robert F. Kennedy Jr., the US health department is considering changing how vaccine recommendations are categorized and described. The move creates the possibility that vaccinations currently considered \"routine\" or \"universal\" could be given new designations…",
@@ -184,7 +262,7 @@
   {
     "id": "581acfbd4954d166",
     "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
-    "excerpt": "Article URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk Comments URL: https://news.ycombinator.com/item?id=49425819 Points: 119 # Comments: 92",
+    "excerpt": "Article URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk Comments URL: https://news.ycombinator.com/item?id=49425819 Points: 132 # Comments: 110",
     "url": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -197,7 +275,7 @@
   {
     "id": "300ed4f3e102ca9c",
     "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-    "excerpt": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 48 # Comments: 8",
+    "excerpt": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 56 # Comments: 13",
     "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -426,7 +504,7 @@
   {
     "id": "53d975e083eaf7f3",
     "title": "Oceans hit highest temperature on record",
-    "excerpt": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 386 # Comments: 276",
+    "excerpt": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 412 # Comments: 327",
     "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -439,7 +517,7 @@
   {
     "id": "113584368e849150",
     "title": "LLMs could control their host machines by exploiting inference engines",
-    "excerpt": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 88 # Comments: 49",
+    "excerpt": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 97 # Comments: 51",
     "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -452,7 +530,7 @@
   {
     "id": "b93516b697db6e42",
     "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
-    "excerpt": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 47 # Comments: 22",
+    "excerpt": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 58 # Comments: 24",
     "url": "https://textlog.cc/post/2059",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -465,7 +543,7 @@
   {
     "id": "d867f30dbc362160",
     "title": "Anger, Anxiety and Agency",
-    "excerpt": "Article URL: https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/ Comments URL: https://news.ycombinator.com/item?id=49424082 Points: 93 # Comments: 104",
+    "excerpt": "Article URL: https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/ Comments URL: https://news.ycombinator.com/item?id=49424082 Points: 102 # Comments: 112",
     "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -498,19 +576,6 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-08-24T18:17:25.000Z",
     "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "bddfd1eb2f9c5535",
-    "title": "What Is a Syslog Server?",
-    "excerpt": "Article URL: https://blog.greencloudvps.com/what-is-a-syslog-server.php Comments URL: https://news.ycombinator.com/item?id=49423799 Points: 51 # Comments: 39",
-    "url": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "theanonymousone",
-    "publishedAt": "2026-08-24T18:15:50.000Z",
-    "category": "hardware",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -569,7 +634,7 @@
   {
     "id": "bb0848957783cedd",
     "title": "Octopus intelligence may be related to never-before-seen mutation",
-    "excerpt": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 75 # Comments: 42",
+    "excerpt": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 85 # Comments: 56",
     "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -632,19 +697,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "2ad636ea4ea91395",
-    "title": "Agent Lightning v1.0",
-    "excerpt": "Article URL: https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1 Comments URL: https://news.ycombinator.com/item?id=49423077 Points: 41 # Comments: 2",
-    "url": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "qainsights",
-    "publishedAt": "2026-08-24T17:23:22.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "da49ae7bb3dcd662",
     "title": "YouTuber's backyard fab ambitions expand from RAM to homebrew LEDs",
     "excerpt": "A YouTuber on a mission to liberate semiconductor manufacturing from the grip of multinational megacorporations is back with a new round of DIY success, this time manufacturing working LEDs in his backyard fab. Dr. Semiconductor, also known as semiconductor engineer Dr. Matthew Hartensveld, per his…",
@@ -673,7 +725,7 @@
   {
     "id": "5f3bc974058a776c",
     "title": "Where did all the public bathrooms go?",
-    "excerpt": "Article URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/ Comments URL: https://news.ycombinator.com/item?id=49422800 Points: 145 # Comments: 294",
+    "excerpt": "Article URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/ Comments URL: https://news.ycombinator.com/item?id=49422800 Points: 165 # Comments: 333",
     "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -686,7 +738,7 @@
   {
     "id": "945e4068028bbca3",
     "title": "The entire city of San Francisco as a video game",
-    "excerpt": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 327 # Comments: 115",
+    "excerpt": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 359 # Comments: 121",
     "url": "https://sf.thijs.gg/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -751,7 +803,7 @@
   {
     "id": "3e6ae02d2641cc81",
     "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
-    "excerpt": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc Comments URL: https://news.ycombinator.com/item?id=49422548 Points: 76 # Comments: 9",
+    "excerpt": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc Comments URL: https://news.ycombinator.com/item?id=49422548 Points: 80 # Comments: 10",
     "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -850,7 +902,7 @@
   {
     "id": "7d04125d99c12654",
     "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
-    "excerpt": "Article URL: https://glassbox.codecanary.org Comments URL: https://news.ycombinator.com/item?id=49421948 Points: 88 # Comments: 44",
+    "excerpt": "Article URL: https://glassbox.codecanary.org Comments URL: https://news.ycombinator.com/item?id=49421948 Points: 100 # Comments: 48",
     "url": "https://glassbox.codecanary.org",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -915,13 +967,26 @@
   {
     "id": "8317e1187afa3abd",
     "title": "Coding expertise is going to collapse from AI reliance",
-    "excerpt": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 448 # Comments: 453",
+    "excerpt": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 476 # Comments: 468",
     "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "larsfaye",
     "publishedAt": "2026-08-24T15:52:33.000Z",
     "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9f838576d711cee8",
+    "title": "Jabber/XMPP: 25 Years of Digital Independence",
+    "excerpt": "Article URL: https://gultsch.de/posts/25-years-of-digital-independence/ Comments URL: https://news.ycombinator.com/item?id=49421536 Points: 174 # Comments: 67",
+    "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "inputmice",
+    "publishedAt": "2026-08-24T15:51:31.000Z",
+    "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -2052,19 +2117,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "cfeb5ba9eb61bfc3",
-    "title": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
-    "excerpt": "According to Coinbase’s head of AI product, we’re currently in the “Napster/LimeWire era” of agentic payments.",
-    "url": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Francisco Rodrigues",
-    "publishedAt": "2026-08-23T13:00:00.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/b2b3f7b7e0e6d86e4e32cb82bf213fc59e1ca5d7-8660x5773.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "a3084f7b560e9117",
     "title": "An ultra-rare piece of Microsoft history could be hiding on your shelf",
     "excerpt": "In a future edition of The Antiques Roadshow, the hosts might get all excited about a mint Microsoft Entertainment Pack for Windows… with a sticker on the box instead of a printed Tetris promotion. Veteran Microsoft engineer Raymond Chen explained the reasoning behind using the sticker instead of…",
@@ -2686,58 +2738,6 @@
     "publishedAt": "2026-08-21T07:44:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=5290340&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3ab06157ec77249c",
-    "title": "Developer given Mission:Impossible - fixing rubbish code that could crash a city - simply chose not to accept it",
-    "excerpt": "ON CALL Making it through a working week can feel like a dangerous adventure. That's why The Register offers a little certainty and safety by always using Friday morning to share a new edition of On Call – the reader-contributed column sharing your tales of tech support. This week, meet a reader…",
-    "url": "https://www.theregister.com/software/2026/08/21/developer-given-missionimpossible-fixing-rubbish-code-that-could-crash-a-city-simply-chose-not-to-accept-it/5290120",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-21T06:30:00.000Z",
-    "category": "software",
-    "imageUrl": "https://image.theregister.com/?imageId=253830&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ad21acbf67531256",
-    "title": "Cisco bug severity warning reads like Olympic gymnastics scores: 10, 10, 9.9, 9.6, and 7.5.",
-    "excerpt": "Cisco has revealed its Secure Workload Software, a micro-segmentation tool formerly known as Tetration that is supposed to stop attackers moving laterally across a network, has four critical flaws plus another high-severity bug. CVE-2026-20315 and CVE-2026-20317 are the two perfect-ten-rated bugs.…",
-    "url": "https://www.theregister.com/security/2026/08/21/cisco-bug-severity-warning-reads-like-olympic-gymnastics-scores-10-10-99-96-and-75/5290838",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-21T05:33:08.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=5290859&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "e504a919d051332b",
-    "title": "Alibaba Cloud plans to use fewer Western chips, to boost its already huge AI margins",
-    "excerpt": "Alibaba has revealed margins from its cloudy AI operation are rising so quickly it will be able to achieve return on investment for new hardware purchases faster than previously planned. Speaking on the company’s earnings call yesterday, CFO Toby Xu said the company runs its servers for five years,…",
-    "url": "https://www.theregister.com/off-prem/2026/08/21/alibaba-cloud-plans-to-use-fewer-western-chips-to-boost-its-already-huge-ai-margins/5290815",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-21T04:38:53.000Z",
-    "category": "hardware",
-    "imageUrl": "https://image.theregister.com/?imageId=259127&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "2d60f97adf483371",
-    "title": "Supermicro fired staff after probe into $2.5 billion GPUs-to-China smuggling operation",
-    "excerpt": "Supermicro has fired some staff after conducting an investigation into allegations that its execs participated in a scheme to ship $2.5 billion worth of servers packing Nvidia GPUs to China, in violation of US export controls. In March, the US Department of Justice indicted Supermicro co-founder…",
-    "url": "https://www.theregister.com/legal/2026/08/21/supermicro-fired-staff-after-probe-into-25-billion-gpus-to-china-smuggling-operation/5290791",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-21T02:39:56.000Z",
-    "category": "hardware",
-    "imageUrl": "https://image.theregister.com/?imageId=5290804&width=800",
     "readTimeMinutes": 1
   },
   {
