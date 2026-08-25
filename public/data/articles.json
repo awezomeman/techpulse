@@ -1,5 +1,200 @@
 [
   {
+    "id": "cd6ed22634e1934f",
+    "title": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
+    "excerpt": "Apple unveils these new processors alongside an updated Mac Mini and Mac Studio.",
+    "url": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Amanda Silberling",
+    "publishedAt": "2026-08-25T14:10:36.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "93b5b7bb13b868e2",
+    "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+    "excerpt": "The funding, Gatik's largest so far, was led by Qatar Investment Authority and Koch Disruptive Technologies.",
+    "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Kirsten Korosec",
+    "publishedAt": "2026-08-25T14:10:26.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ce87565b5a5e99f5",
+    "title": "Pebble Time 2 review: The perfect smartwatch for a select group of people",
+    "excerpt": "Pebble Time 2 is a smartwatch designed to push back against the trend, and it does so beautifully.",
+    "url": "https://www.engadget.com/2243490/pebble-time-2-review/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Daniel Cooper)",
+    "publishedAt": "2026-08-25T14:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/pebble-time-2-review-the-perfect-smartwatch-for-a-select-group-of-people/l-intro-1787658110.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7976446c0381923a",
+    "title": "OpenAI's upcoming Jalapeño chip looks like it'll be an inference beast",
+    "excerpt": "OpenAI offered its closest look yet at its spicy new Jalapeño AI accelerator at the annual Hot Chips semiconductor development conference at Stanford on Tuesday. The chips, first teased earlier this year, were developed in collaboration with Broadcom, and are the first in a series of custom silicon…",
+    "url": "https://www.theregister.com/systems/2026/08/25/openais-upcoming-jalapeno-chip-looks-like-itll-be-an-inference-beast/5292052",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-25T14:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://image.theregister.com/?imageId=5292307&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "cfd88d5f165ab7e3",
+    "title": "Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899",
+    "excerpt": "The base model of the Mac Mini comes with 256GB of storage, 16GB of RAM, and costs $899.",
+    "url": "https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Ivan Mehta",
+    "publishedAt": "2026-08-25T13:55:06.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "5706de0044178bf9",
+    "title": "Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price",
+    "excerpt": "Once valued at $2.5 billion, Copper was being marketed by investment bank Cantor Fitzgerald at around $500 million in May this year.",
+    "url": "https://www.coindesk.com/business/2026/08/25/crypto-custody-firm-copper-has-potential-buyers-but-offers-are-way-below-its-usd500-million-asking-price",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Ian Allison",
+    "publishedAt": "2026-08-25T13:48:50.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/bde2c5f424b0f4b56edfc76ae278cc3190749d62-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d4a10522d7dcfde7",
+    "title": "Gamescom Opening Night Live: Updates from the showcase including Final Fantasy and Gears of War previews",
+    "excerpt": "We're liveblogging the two-hour showcase and half hour pre-show of Gamescom's ONL today! Come join us, we'll even start a little early for you.",
+    "url": "https://www.engadget.com/2243580/gamescom-onl-2026-live-blog-final-fantasy-silent-hill-gears-of-war/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Mat Smith)",
+    "publishedAt": "2026-08-25T13:33:34.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/gamescom-opening-night-live-updates-from-the-showcase-including-final-fantasy-and-gears-of-war-previews/l-intro-1787664665.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "c1e31a3255ae290d",
+    "title": "The state of AI in 2026: On the road to ROI",
+    "excerpt": "Article URL: https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai Comments URL: https://news.ycombinator.com/item?id=49433759 Points: 16 # Comments: 12",
+    "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "swolpers",
+    "publishedAt": "2026-08-25T13:32:52.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "51caaa1f61d335d8",
+    "title": "Apple M6 vs M5: How much faster is Apple's new 'everyday' Silicon?",
+    "excerpt": "Apple finds respectable performance gains on a new 2nm process, but M5 users shouldn't feel any FOMO.",
+    "url": "https://www.engadget.com/2243402/apple-m5-vs-m6-how-much-faster-silicon/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Max Miller)",
+    "publishedAt": "2026-08-25T13:30:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/apple-m5-vs-m6-how-much-faster-silicon/l-intro-1787665110.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8219ff5e1c17161f",
+    "title": "Apple Launches The M6 2nm 12-core CPU, Quad-Die M5 Ultra",
+    "excerpt": "Apple today unveiled the M6 as their first 2nm SoC design while also introducing the M5 Ultra as their first quad-die product...",
+    "url": "https://www.phoronix.com/news/Apple-M6-M5-Ultra",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-25T13:30:00.000Z",
+    "category": "security",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "c965c2e545a8f02d",
+    "title": "Windows XP was released to manufacturing a quarter of a century ago",
+    "excerpt": "It is a quarter of a century since Microsoft packed Windows XP off to manufacturing, finally drawing a line under the Windows 9x codebase (behind Windows 95, 98, and Me) and making Windows NT something for consumers. Before Windows XP, consumers and businesses lived in two different software…",
+    "url": "https://www.theregister.com/offbeat/2026/08/25/windows-xp-was-released-to-manufacturing-a-quarter-of-a-century-ago/5292240",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-25T13:27:00.000Z",
+    "category": "software",
+    "imageUrl": "https://image.theregister.com/?imageId=240382&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ae57d1b566be015c",
+    "title": "The Modern NTFS Linux Driver Adds Read Support For Windows System Compression (WOF)",
+    "excerpt": "The pull requests for the existing Paragon NTFS3 kernel driver as well as the new modern \"NTFS\" drivers have been submitted for the ongoing Linux 7.3 kernel cycle. Besides bug fixes, most notable among these NTFS file-system drivers are Windows System Compression \"WOF\" read support for the modern…",
+    "url": "https://www.phoronix.com/news/Linux-7.3-NTFS-Driver-WOF",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-25T13:19:07.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f742b715193667b1",
+    "title": "Apple's new Mac mini, featuring M6 and M5 Pro",
+    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/ Comments URL: https://news.ycombinator.com/item?id=49433450 Points: 15 # Comments: 3",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "runako",
+    "publishedAt": "2026-08-25T13:13:00.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6e460e492d5cc9fb",
+    "title": "US data centers tripled annual water consumption to 17B gallons",
+    "excerpt": "Article URL: https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/ Comments URL: https://news.ycombinator.com/item?id=49433372 Points: 46 # Comments: 70",
+    "url": "https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "kuuuzya",
+    "publishedAt": "2026-08-25T13:08:13.000Z",
+    "category": "policy",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "540b53bf706d4d7a",
+    "title": "Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
+    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/ Comments URL: https://news.ycombinator.com/item?id=49433316 Points: 174 # Comments: 86",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "interpol_p",
+    "publishedAt": "2026-08-25T13:03:17.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "70cefd6da8df8baf",
     "title": "Where to preorder the updated Mac Mini and Mac Studio",
     "excerpt": "The updated Mac Mini is a compact machine for home desktop use. | Image: Apple Apple has announced two new processors, the M6 and M5 Ultra , as well as updated Mac Mini and Mac studio machines powered by them. The new machines are already available for preorder directly from Apple, with shipping…",
@@ -10,6 +205,32 @@
     "publishedAt": "2026-08-25T13:02:18.000Z",
     "category": "hardware",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Mac-Mini-M6-M5Ultra-preorder-featured.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0c6b106ff3944d57",
+    "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/ Comments URL: https://news.ycombinator.com/item?id=49433292 Points: 255 # Comments: 195",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "interpol_p",
+    "publishedAt": "2026-08-25T13:01:22.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "12cea9588a55c56d",
+    "title": "Apple's new desktop computers are designed specifically for local AI development",
+    "excerpt": "The Mac mini and Mac Studio occupy two distinct points in Apple's lineup of desktops, but lately, they've had something in common: They're popular for local AI inference and software development thanks to the advantages of their unified memory architecture and the fast CPUs and GPUs on their…",
+    "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Samuel Axon",
+    "publishedAt": "2026-08-25T13:00:11.000Z",
+    "category": "ai",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Mac-Studio-2026-1152x648-1787611177.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -113,7 +334,7 @@
     "author": "Jay Peters",
     "publishedAt": "2026-08-25T13:00:00.000Z",
     "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-M6-and-M5-Ultra-hero.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/APPLE_M6_M5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -126,7 +347,7 @@
     "author": "Antonio G. Di Benedetto",
     "publishedAt": "2026-08-25T13:00:00.000Z",
     "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-Mac-mini-front-ports-crop_c30771.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MAC-MINI.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -139,7 +360,7 @@
     "author": "Antonio G. Di Benedetto",
     "publishedAt": "2026-08-25T13:00:00.000Z",
     "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-Mac-Studio-rear-ports.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MAC-STUDIOS.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -165,7 +386,7 @@
     "author": "staff@engadget.com (Steve Dent)",
     "publishedAt": "2026-08-25T13:00:00.000Z",
     "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/apples-m5-ultra-with-an-80-core-gpu-will-power-through-your-ai-models-and-8k-video/l-intro-1787636287.jpg",
+    "imageUrl": "https://www.engadget.com/img/gallery/apple-m5-ultra-with-80-core-gpu-ai-models-8k-video/l-intro-1787665163.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -191,7 +412,7 @@
     "author": "staff@engadget.com (Devindra Hardawar)",
     "publishedAt": "2026-08-25T13:00:00.000Z",
     "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/apple-unveils-new-mac-mini-and-mac-studio-debuting-m6-and-m5-ultra-chips/l-intro-1787659852.jpg",
+    "imageUrl": "https://www.engadget.com/img/gallery/apple-mac-mini-m6-mac-studio-m5-max/l-intro-1787665478.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -223,7 +444,7 @@
   {
     "id": "d50f40f5b74c183c",
     "title": "France's tax agency got hacked (in French)",
-    "excerpt": "Article URL: https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/ Comments URL: https://news.ycombinator.com/item?id=49433064 Points: 4 # Comments: 0",
+    "excerpt": "Article URL: https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/ Comments URL: https://news.ycombinator.com/item?id=49433064 Points: 60 # Comments: 28",
     "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -249,7 +470,7 @@
   {
     "id": "98ad4cfda928bcd8",
     "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-    "excerpt": "Article URL: https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/ Comments URL: https://news.ycombinator.com/item?id=49432879 Points: 4 # Comments: 1",
+    "excerpt": "Article URL: https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/ Comments URL: https://news.ycombinator.com/item?id=49432879 Points: 54 # Comments: 39",
     "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -296,6 +517,19 @@
     "publishedAt": "2026-08-25T12:22:16.000Z",
     "category": "software",
     "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f215c49dc8ea2e03",
+    "title": "SiFive pushes development server to take RISC-V into the datacenter",
+    "excerpt": "RISC-V chip champ SiFive has launched a development server built around its own CPUs to help port key workloads to the open compute architecture, and claims it already has hyperscalers and software customers signed up. The processor design firm biz showcasing its BigSky SF-2U870 datacenter…",
+    "url": "https://www.theregister.com/systems/2026/08/25/sifive-pushes-development-server-to-take-risc-v-into-the-datacenter/5292136",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-25T12:13:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://image.theregister.com/?imageId=246385&width=800",
     "readTimeMinutes": 1
   },
   {
@@ -353,12 +587,25 @@
   {
     "id": "7d7b26ea8e4bd4de",
     "title": "Don't Wordle",
-    "excerpt": "Article URL: https://dontwordle.com/ Comments URL: https://news.ycombinator.com/item?id=49432319 Points: 48 # Comments: 15",
+    "excerpt": "Article URL: https://dontwordle.com/ Comments URL: https://news.ycombinator.com/item?id=49432319 Points: 116 # Comments: 49",
     "url": "https://dontwordle.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "Hbruz0",
     "publishedAt": "2026-08-25T11:49:48.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9fc07d5dcdc21e74",
+    "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
+    "excerpt": "Article URL: https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next Comments URL: https://news.ycombinator.com/item?id=49432317 Points: 73 # Comments: 19",
+    "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "garo-pro",
+    "publishedAt": "2026-08-25T11:49:43.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -379,7 +626,7 @@
   {
     "id": "b0f0da4e7a611595",
     "title": "HelloAssembly The smallest possible complete Windows application",
-    "excerpt": "Article URL: https://github.com/PlummersSoftwareLLC/HelloAssembly Comments URL: https://news.ycombinator.com/item?id=49432227 Points: 13 # Comments: 11",
+    "excerpt": "Article URL: https://github.com/PlummersSoftwareLLC/HelloAssembly Comments URL: https://news.ycombinator.com/item?id=49432227 Points: 32 # Comments: 24",
     "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -390,16 +637,16 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "1f2210a820aeaa51",
-    "title": "Credit Card Rewards Became a $9.2B Wealth Transfer",
-    "excerpt": "Article URL: https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer Comments URL: https://news.ycombinator.com/item?id=49432201 Points: 96 # Comments: 164",
-    "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "conbrian",
-    "publishedAt": "2026-08-25T11:37:24.000Z",
+    "id": "d9f67f94352efadd",
+    "title": "Microsoft breaks WPF printing with .NET update",
+    "excerpt": "Having some unexpected printer problems? Microsoft's August 2026 .NET update might have broken printing on your device. According to Microsoft, \"After installing the August 2026 .NET Framework cumulative update, some WPF applications may fail with a System.IO.FileFormatException when printing or…",
+    "url": "https://www.theregister.com/os-platforms/2026/08/25/microsoft-breaks-wpf-printing-with-net-update/5292116",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-25T11:27:00.000Z",
     "category": "software",
-    "imageUrl": null,
+    "imageUrl": "https://image.theregister.com/?imageId=5244931&width=800",
     "readTimeMinutes": 1
   },
   {
@@ -468,16 +715,16 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "6d47d83bc6b8e7dc",
-    "title": "Quantum battery upends the rules of charging",
-    "excerpt": "Article URL: https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets Comments URL: https://news.ycombinator.com/item?id=49431560 Points: 44 # Comments: 48",
-    "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "reconnecting",
-    "publishedAt": "2026-08-25T10:34:12.000Z",
-    "category": "science",
-    "imageUrl": null,
+    "id": "f2e744d242a6b1c4",
+    "title": "CISA slaps its tightest three-day patching deadline on perfect-10 Oracle flaw",
+    "excerpt": "The US Cybersecurity and Infrastructure Security Agency (CISA) just dished out another three-day deadline for patching an actively exploited vulnerability, the most urgent in its wheelhouse. The culprit: a max-severity Oracle bug affecting Windows VMs. Tracked as CVE-2026-21962 (10.0), the improper…",
+    "url": "https://www.theregister.com/security/2026/08/25/cisa-slaps-its-tightest-three-day-patching-deadline-on-perfect-10-oracle-flaw/5292107",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-25T10:43:00.000Z",
+    "category": "security",
+    "imageUrl": "https://image.theregister.com/?imageId=1682641&width=800",
     "readTimeMinutes": 1
   },
   {
@@ -741,19 +988,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "253f6697afdfe3b4",
-    "title": "Headlong: A Microharness for Persistent Agents",
-    "excerpt": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents Comments URL: https://news.ycombinator.com/item?id=49428882 Points: 89 # Comments: 35",
-    "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "lbw1215",
-    "publishedAt": "2026-08-25T03:54:19.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "21deab8f41f532c0",
     "title": "How to watch the Nancy Grace Roman Space Telescope's launch",
     "excerpt": "NASA's Nancy Grace Roman Space Telescope is scheduled for launch on August 30.",
@@ -795,7 +1029,7 @@
   {
     "id": "ad0cd04714e4a049",
     "title": "SiFive's First Server Platform",
-    "excerpt": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform Comments URL: https://news.ycombinator.com/item?id=49428638 Points: 78 # Comments: 21",
+    "excerpt": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform Comments URL: https://news.ycombinator.com/item?id=49428638 Points: 91 # Comments: 26",
     "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -808,7 +1042,7 @@
   {
     "id": "dd533d791d33a203",
     "title": "How Universities Should Prepare Founders",
-    "excerpt": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 165 # Comments: 195",
+    "excerpt": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 183 # Comments: 221",
     "url": "https://paulgraham.com/prepare.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -821,7 +1055,7 @@
   {
     "id": "8563a024344045e7",
     "title": "Was modern art a CIA psy-op? (2020)",
-    "excerpt": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/ Comments URL: https://news.ycombinator.com/item?id=49428080 Points: 104 # Comments: 182",
+    "excerpt": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/ Comments URL: https://news.ycombinator.com/item?id=49428080 Points: 113 # Comments: 196",
     "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -912,7 +1146,7 @@
   {
     "id": "17737e382f9a8aaf",
     "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-    "excerpt": "Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 121 # Comments: 46",
+    "excerpt": "Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 135 # Comments: 51",
     "url": "https://github.com/murerkinn/bookshelf",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -925,7 +1159,7 @@
   {
     "id": "caecc570422438d1",
     "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-    "excerpt": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 512 # Comments: 155",
+    "excerpt": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 537 # Comments: 163",
     "url": "https://developer.apple.com/news/?id=1ptvdtcm",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -938,7 +1172,7 @@
   {
     "id": "2a7d7322802e5e56",
     "title": "Moon (2024)",
-    "excerpt": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 218 # Comments: 38",
+    "excerpt": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 228 # Comments: 38",
     "url": "https://ciechanow.ski/moon/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1055,7 +1289,7 @@
   {
     "id": "300ed4f3e102ca9c",
     "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-    "excerpt": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 121 # Comments: 23",
+    "excerpt": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 131 # Comments: 24",
     "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1284,7 +1518,7 @@
   {
     "id": "113584368e849150",
     "title": "LLMs could control their host machines by exploiting inference engines",
-    "excerpt": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 163 # Comments: 80",
+    "excerpt": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 174 # Comments: 84",
     "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1317,19 +1551,6 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-08-24T18:17:25.000Z",
     "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "26626788ee8dd95e",
-    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-    "excerpt": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
-    "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Sarah Perez",
-    "publishedAt": "2026-08-24T18:03:55.000Z",
-    "category": "ai",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1370,6 +1591,19 @@
     "publishedAt": "2026-08-24T18:00:00.000Z",
     "category": "policy",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f8ca85b331a1187b",
+    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+    "excerpt": "Article URL: https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4 Comments URL: https://news.ycombinator.com/item?id=49423495 Points: 0 # Comments: 0",
+    "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "adawg4",
+    "publishedAt": "2026-08-24T17:53:14.000Z",
+    "category": "startups",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1440,25 +1674,12 @@
   {
     "id": "5f3bc974058a776c",
     "title": "Where did all the public bathrooms go?",
-    "excerpt": "Article URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/ Comments URL: https://news.ycombinator.com/item?id=49422800 Points: 279 # Comments: 594",
+    "excerpt": "Article URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/ Comments URL: https://news.ycombinator.com/item?id=49422800 Points: 290 # Comments: 642",
     "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "herbertl",
     "publishedAt": "2026-08-24T17:07:01.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "945e4068028bbca3",
-    "title": "The entire city of San Francisco as a video game",
-    "excerpt": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 516 # Comments: 150",
-    "url": "https://sf.thijs.gg/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "centrosphere",
-    "publishedAt": "2026-08-24T17:05:38.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -1615,19 +1836,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "9f838576d711cee8",
-    "title": "Jabber/XMPP: 25 Years of Digital Independence",
-    "excerpt": "Article URL: https://gultsch.de/posts/25-years-of-digital-independence/ Comments URL: https://news.ycombinator.com/item?id=49421536 Points: 244 # Comments: 142",
-    "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "inputmice",
-    "publishedAt": "2026-08-24T15:51:31.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "3e89bcaf34e90384",
     "title": "Zillow settles antitrust lawsuit with the FTC",
     "excerpt": "Zillow settles antitrust lawsuit with the FTC.",
@@ -1651,71 +1859,6 @@
     "publishedAt": "2026-08-24T15:32:00.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=5291813&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3bc104d1d9252dde",
-    "title": "Hot vs cold: What's the ideal temperature for solar panel efficiency?",
-    "excerpt": "Will solar panels work well in your location? Solar panel efficiency depends on several factors, including temperature.",
-    "url": "https://www.engadget.com/2240302/hot-vs-cold-ideal-best-temperature-solar-panel-explained/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Husain Parvez)",
-    "publishedAt": "2026-08-24T15:30:00.000Z",
-    "category": "science",
-    "imageUrl": "https://www.engadget.com/img/gallery/hot-vs-cold-whats-the-ideal-temperature-for-solar-panel-efficiency/l-intro-1786973561.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3f9be69046a627db",
-    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-    "excerpt": "Article URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/ Comments URL: https://news.ycombinator.com/item?id=49421158 Points: 757 # Comments: 368",
-    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "ComputerGuru",
-    "publishedAt": "2026-08-24T15:28:04.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "6fa02c4f9ef76b6b",
-    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-    "excerpt": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
-    "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Rebecca Bellan",
-    "publishedAt": "2026-08-24T15:24:18.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "468a1a33d560a7a4",
-    "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-    "excerpt": "https://xcancel.com/lemire/status/2091894299289874926 Comments URL: https://news.ycombinator.com/item?id=49420873 Points: 915 # Comments: 654",
-    "url": "https://twitter.com/lemire/status/2091894299289874926",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "tosh",
-    "publishedAt": "2026-08-24T15:08:17.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a8a77e4504265570",
-    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-    "excerpt": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-    "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Tim Fernholz",
-    "publishedAt": "2026-08-24T15:00:00.000Z",
-    "category": "ai",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1771,19 +1914,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "bc7e2f5a0e147c43",
-    "title": "Why are more movies not shot in IMAX?",
-    "excerpt": "Shooting an IMAX movie is an expensive endeavor that most filmmakers avoid, at least for now.",
-    "url": "https://www.engadget.com/2240293/why-more-movies-not-shot-in-imax/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Jack Whitcombe)",
-    "publishedAt": "2026-08-24T14:30:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/why-are-more-movies-not-shot-in-imax/l-intro-1786715476.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "bef7dbfdec76876c",
     "title": "Oracle Exadata Database@AWS offers advantages, but trade-offs remain",
     "excerpt": "As Oracle launches its Exadata service on Database@AWS — a year after it went live for lower-level databases — experts have warned there are trade-offs in getting value for money and cautioned over Oracle FUD around the cloud migration decision-making. Earlier this month, Big Red announced the…",
@@ -1833,19 +1963,6 @@
     "publishedAt": "2026-08-24T13:38:00.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f64684c71505181b",
-    "title": "The biggest downsides to using a digital car key",
-    "excerpt": "Many newer vehicles can be accessed from the owner's phone, if they've set it up. There are some things to consider before adding your key.",
-    "url": "https://www.engadget.com/2240284/biggest-downsides-using-digital-car-key/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Christine Persaud)",
-    "publishedAt": "2026-08-24T13:30:00.000Z",
-    "category": "software",
-    "imageUrl": "https://www.engadget.com/img/gallery/the-biggest-downsides-to-using-a-digital-car-key/l-intro-1786387351.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1976,19 +2093,6 @@
     "publishedAt": "2026-08-24T11:29:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=5264558&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f29611aef36a7d2d",
-    "title": "Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline",
-    "excerpt": "PVARA said companies have until the deadline to submit their application for a no-objection certificate or otherwise cease operating.",
-    "url": "https://www.coindesk.com/policy/2026/08/24/pakistan-kicks-off-crypto-licensing-regime-with-sept-5-registration-deadline",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Jamie Crawley",
-    "publishedAt": "2026-08-24T11:19:16.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/8434d50f9ca90a1a8a1d364db7d5e8bfb35b1309-6554x3687.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2486,32 +2590,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "3750fcc010cfa1fe",
-    "title": "Sched_ext's Sub-Scheduler Support Now \"Feature Complete\" With Linux 7.3",
-    "excerpt": "The extensible scheduler framework \"sched_ext\" that allows for custom schedulers as BPF programs has been working on sub-scheduler support in recent kernel cycles. With Linux 7.3, sub-scheduler support is now deemed feature complete...",
-    "url": "https://www.phoronix.com/news/Linux-7.3-sched-ext",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-22T10:43:51.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "14408a168c09dcba",
-    "title": "Red Hat's Tuned 2.28 To Improve Out-Of-The-Box WiFi Power Savings On Fedora",
-    "excerpt": "Tuned 2.28 released this Saturday as the newest version of Red Hat's tuning profile delivery mechanism for Linux. Tuned is used notably out-of-the-box on Fedora Linux for monitoring and adaptively tuning systems...",
-    "url": "https://www.phoronix.com/news/Red-Hat-Tuned-2.28",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-22T10:18:39.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "9d1a32301cceac13",
     "title": "Skylab completists, clear some shelf space for 26 DVDs",
     "excerpt": "The team behind the Searching for Skylab documentary is releasing almost every surviving piece of video it could find from the mission. The collection will span three volumes and 26 DVDs, including an updated version of Searching for Skylab, which we reviewed in 2019. It gathers almost everything…",
@@ -2642,19 +2720,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "0666aefefacc2b6b",
-    "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
-    "excerpt": "Logitech is facing a proposed class action lawsuit for not giving customers tariff refunds. In April 2025, Logitech raised the prices on 51 percent of its portfolio, with some prices increasing by as much as 25 percent. The complaint seeks to “recover monies that Logitech extracted from American…",
-    "url": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Scharon Harding",
-    "publishedAt": "2026-08-21T19:04:41.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mx-master-4-graphite-lifestyle-gallery-4-new-1088x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "3a963eb28fcc6c18",
     "title": "Homeland security cybercops say patch TrueConf (Russia's Zoom) if you're using it",
     "excerpt": "CISA has ordered US federal agencies to patch two exploited flaws in TrueConf, a Russian-built video conferencing platform, after compromised servers were caught handing malware to unsuspecting meeting participants. The US cybersecurity agency on Thursday added CVE-2026-72529 and CVE-2026-72530 to…",
@@ -2668,19 +2733,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "9dbdaf6a0fbc92e7",
-    "title": "Musk fumbles the timetable for first Starship catch",
-    "excerpt": "CEO Elon Musk says SpaceX probably won't attempt to catch a returning Starship for several months, walking back his earlier suggestion that it could happen on the next test flight. In a post on his social media platform, X, Musk said: \"We will probably catch the ship with the tower in a few…",
-    "url": "https://www.theregister.com/offbeat/2026/08/21/musk-fumbles-the-timetable-for-first-starship-catch/5291201",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-21T16:14:43.000Z",
-    "category": "startups",
-    "imageUrl": "https://image.theregister.com/?imageId=5246434&width=800",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "0d303faa533ec5c9",
     "title": "Framework Laptop 16 With GeForce RTX 5070 12GB, One-Piece Keyboard & Haptic Touchpad",
     "excerpt": "While the past few weeks have been quite busy with the new Framework Laptop 13 Pro testing with that all-new laptop model and paired with Intel's Core Ultra Series 3 \"Panther Lake\", at the same time Framework Computer has begun shipping some updated components for the Framework Laptop 16 laptop. If…",
@@ -2691,58 +2743,6 @@
     "publishedAt": "2026-08-21T15:54:05.000Z",
     "category": "hardware",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b2d97b0ea875b349",
-    "title": "SickKids children’s hospital bandages up careers website after intruder breaks in",
-    "excerpt": "Toronto’s Hospital for Sick Children, commonly referred to as SickKids, says the data of current and former staff, as well as job applicants, was exposed after an intruder exploited a security flaw in a third-party software application used by the hospital. SickKids, which may ring a bell for those…",
-    "url": "https://www.theregister.com/cyber-crime/2026/08/21/sickkids-childrens-hospital-bandages-up-careers-website-after-intruder-breaks-in/5291098",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-21T15:45:00.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=235319&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a190de3dc819fd2d",
-    "title": "Hackers poison popular Rust crates to steal developers' credentials",
-    "excerpt": "Hackers slipped malware into several popular Rust packages this week, turning routine software builds into a route onto developers' machines. The Rust Security Response Team disclosed the supply chain attack on Thursday after receiving a tip about a crate called proc-macro1. An investigation found…",
-    "url": "https://www.theregister.com/security/2026/08/21/hackers-poison-popular-rust-crates-to-steal-developers-credentials/5291075",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-21T14:57:00.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=1682371&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "0281738239522d30",
-    "title": "AMD grabs more CPU share while pricier PCs punish desktop demand",
-    "excerpt": "The processor market is sending mixed signals, with server and mobile shipments rising while desktop CPU volumes decline amid higher system prices. Meanwhile, AMD's House of Zen has taken market share from Intel across every category. For Q2 2026, Mercury Research says total processor shipments…",
-    "url": "https://www.theregister.com/systems/2026/08/21/amd-grabs-more-cpu-share-while-pricier-pcs-punish-desktop-demand/5291053",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-21T14:05:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://image.theregister.com/?imageId=4094116&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "1d5501b96fcc7a0d",
-    "title": "'We let you down': GitHub pledges to scale up before developers give up",
-    "excerpt": "GitHub's handwringing continued this week as CTO Vladimir Fedorov offered more detail about the August 17 outage – while carefully avoiding the word \"sorry.\" The outage lasted 7 hours and 47 minutes and disrupted developers worldwide. Actions, pull requests, issues, Copilot, and APIs were among the…",
-    "url": "https://www.theregister.com/devops/2026/08/21/we-let-you-down-github-pledges-to-scale-up-before-developers-give-up/5291031",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-21T13:15:00.000Z",
-    "category": "software",
-    "imageUrl": "https://image.theregister.com/?imageId=1682264&width=800",
     "readTimeMinutes": 1
   },
   {
