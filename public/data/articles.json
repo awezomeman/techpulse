@@ -1,5 +1,44 @@
 [
   {
+    "id": "fba52ae06bd47d50",
+    "title": "Here are three sick Gibson guitar controllers made for Stage Tour's Dec. 10 release",
+    "excerpt": "CRKD is mining nostalgia for its latest guitar trio.",
+    "url": "https://www.engadget.com/2244257/three-sick-gibson-guitar-controllers-made-for-stage-tour-december-10-release-date/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Jessica Conditt)",
+    "publishedAt": "2026-08-25T22:42:07.000Z",
+    "category": "crypto",
+    "imageUrl": "https://www.engadget.com/img/gallery/here-are-three-sick-gibson-guitar-controllers-made-for-stage-tours-dec-10-release/l-intro-1787697529.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "c775da3c752e38de",
+    "title": "Lego Skylines is a cozy city builder from the studio that's repairing Cities: Skylines II",
+    "excerpt": "Iceflake Studios is preparing a cozy new city builder centered on the famous bricks.",
+    "url": "https://www.engadget.com/2244251/lego-skylines-is-a-cozy-city-builder-from-the-studio-that-s-repairing-cities-skylines-ii/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Anna Washenko)",
+    "publishedAt": "2026-08-25T22:30:31.000Z",
+    "category": "software",
+    "imageUrl": "https://www.engadget.com/img/gallery/lego-skylines-is-a-cozy-city-builder-from-the-studio-thats-repairing-cities-skylines-ii/l-intro-1787696785.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a192bc6f2f1ff3e6",
+    "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
+    "excerpt": "SpaceX made Florida's Space Coast home to the world's busiest spaceport for a decade, but that will change this year. The company is significantly cutting the number of launches from Florida until Starship arrives, a senior SpaceX official confirmed Tuesday. The Falcon 9 rocket has been SpaceX's…",
+    "url": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Stephen Clark",
+    "publishedAt": "2026-08-25T22:21:06.000Z",
+    "category": "science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/f9_streak1-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "73b07d5b515562c2",
     "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
     "excerpt": "The Garmin Fenix 9. | Image: Garmin Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches , with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its predecessor. Starting at $999.99 for the 43mm case option, the Fenix…",
@@ -10,6 +49,19 @@
     "publishedAt": "2026-08-25T22:20:17.000Z",
     "category": "hardware",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/garmin-fenix-9.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4806861b94d077f9",
+    "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+    "excerpt": "I'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortunately sits behind a paywall. Since I didn't want to pay subscriptions for things that should simply just…",
+    "url": "https://github.com/swimmingbrain/texbrain",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "swimmingbrain",
+    "publishedAt": "2026-08-25T22:08:50.000Z",
+    "category": "software",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -65,22 +117,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "2692054277e63ded",
-    "title": "One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool",
-    "excerpt": "Article URL: https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN Comments URL: https://news.ycombinator.com/item?id=49441101 Points: 3 # Comments: 0",
-    "url": "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "brvier",
-    "publishedAt": "2026-08-25T21:43:37.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "0f0d0550b9ca3a38",
     "title": "Python's pre-declared constants are kinda weird",
-    "excerpt": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 21 # Comments: 1",
+    "excerpt": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 57 # Comments: 8",
     "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -197,7 +236,7 @@
   {
     "id": "9f66add6a4dee5f4",
     "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
-    "excerpt": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 25 # Comments: 12",
+    "excerpt": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 30 # Comments: 17",
     "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -353,7 +392,7 @@
   {
     "id": "b9863581f526cba4",
     "title": "C2PA Cameras Do Not Survive Contact with Reality",
-    "excerpt": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 33 # Comments: 8",
+    "excerpt": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 48 # Comments: 13",
     "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -366,7 +405,7 @@
   {
     "id": "0925ce909a494da5",
     "title": "A brief history of federal lift ticket regulation",
-    "excerpt": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 7 # Comments: 0",
+    "excerpt": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 8 # Comments: 0",
     "url": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -392,7 +431,7 @@
   {
     "id": "df1f73b59713f07d",
     "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-    "excerpt": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 161 # Comments: 107",
+    "excerpt": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 183 # Comments: 116",
     "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -522,7 +561,7 @@
   {
     "id": "48873335c69ed158",
     "title": "Dolly Parton has died",
-    "excerpt": "https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 Points: 981 #…",
+    "excerpt": "https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 Points: 1025 #…",
     "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -548,7 +587,7 @@
   {
     "id": "85685aa149d856de",
     "title": "Firefox 157 will include JPEG XL by default on all platforms",
-    "excerpt": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 214 # Comments: 45",
+    "excerpt": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 229 # Comments: 47",
     "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -678,7 +717,7 @@
   {
     "id": "964b914a5f9d7edb",
     "title": "Run OpenBSD on DigitalOcean for $4/month",
-    "excerpt": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 93 # Comments: 37",
+    "excerpt": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 100 # Comments: 40",
     "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -730,7 +769,7 @@
   {
     "id": "25847b3565db870b",
     "title": "Nitter project received cease and desist",
-    "excerpt": "Article URL: https://github.com/zedeus/nitter/issues/1442 Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 448 # Comments: 304",
+    "excerpt": "Article URL: https://github.com/zedeus/nitter/issues/1442 Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 493 # Comments: 333",
     "url": "https://github.com/zedeus/nitter/issues/1442",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -743,7 +782,7 @@
   {
     "id": "b3477100d51ce4f7",
     "title": "Black hole singularity is a surface not a point",
-    "excerpt": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 149 # Comments: 104",
+    "excerpt": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 156 # Comments: 109",
     "url": "https://arxiv.org/abs/2608.21590",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -780,19 +819,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "04948a8ea524304c",
-    "title": "A new ceiling for Λ: the de Bruijn–Newman constant",
-    "excerpt": "Article URL: https://www.judegomila.com/posts/riemann-lambda-0.1787854 Comments URL: https://news.ycombinator.com/item?id=49437165 Points: 43 # Comments: 16",
-    "url": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "judegomila",
-    "publishedAt": "2026-08-25T16:59:31.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "3010b15a566eab94",
     "title": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
     "excerpt": "With the new design of Nothing OS 5.0 , app icons and widgets can use adaptive color to get color tints pulled from your wallpaper, which update whenever your wallpaper changes. Alongside Android's built-in Dynamic Colors, the company says it allows you to have specific elements change to match…",
@@ -821,7 +847,7 @@
   {
     "id": "bb00e934598219a7",
     "title": "My Friend Aaron",
-    "excerpt": "Article URL: https://rorz.io/writing/my-friend-aaron Comments URL: https://news.ycombinator.com/item?id=49437069 Points: 375 # Comments: 92",
+    "excerpt": "Article URL: https://rorz.io/writing/my-friend-aaron Comments URL: https://news.ycombinator.com/item?id=49437069 Points: 384 # Comments: 97",
     "url": "https://rorz.io/writing/my-friend-aaron",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -834,7 +860,7 @@
   {
     "id": "1741d977cb7cebae",
     "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
-    "excerpt": "We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better. Comments URL: https://news.ycombinator.com/item?id=49437049 Points: 84 # Comments: 26",
+    "excerpt": "We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better. Comments URL: https://news.ycombinator.com/item?id=49437049 Points: 89 # Comments: 28",
     "url": "https://github.com/jeffhajewski/latticedb",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -860,7 +886,7 @@
   {
     "id": "64e5a3976e9279bd",
     "title": "Starbase, LA",
-    "excerpt": "Article URL: https://www.spacex.com/sites/starbase-la Comments URL: https://news.ycombinator.com/item?id=49436822 Points: 181 # Comments: 295",
+    "excerpt": "Article URL: https://www.spacex.com/sites/starbase-la Comments URL: https://news.ycombinator.com/item?id=49436822 Points: 193 # Comments: 326",
     "url": "https://www.spacex.com/sites/starbase-la",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -886,7 +912,7 @@
   {
     "id": "49a4eac9ae7460f3",
     "title": "Tooltips need a delay, and then they need to skip it",
-    "excerpt": "Article URL: https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/ Comments URL: https://news.ycombinator.com/item?id=49436786 Points: 90 # Comments: 17",
+    "excerpt": "Article URL: https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/ Comments URL: https://news.ycombinator.com/item?id=49436786 Points: 96 # Comments: 18",
     "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -912,7 +938,7 @@
   {
     "id": "810406c16a22e017",
     "title": "Fuzzing the Gleam Compiler",
-    "excerpt": "Article URL: https://www.kurz.net/posts/fuzzing-gleam-compiler Comments URL: https://news.ycombinator.com/item?id=49436706 Points: 40 # Comments: 3",
+    "excerpt": "Article URL: https://www.kurz.net/posts/fuzzing-gleam-compiler Comments URL: https://news.ycombinator.com/item?id=49436706 Points: 44 # Comments: 4",
     "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1222,6 +1248,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "7c43a530c0e52915",
+    "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+    "excerpt": "Article URL: https://e360.yale.edu/digest/bomb-fishing-coral-reefs Comments URL: https://news.ycombinator.com/item?id=49434820 Points: 240 # Comments: 131",
+    "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "speckx",
+    "publishedAt": "2026-08-25T14:29:32.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "bfd1495c76918d53",
     "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
     "excerpt": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
@@ -1274,19 +1313,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "ce87565b5a5e99f5",
-    "title": "Pebble Time 2 review: The perfect smartwatch for a select group of people",
-    "excerpt": "Pebble Time 2 is a smartwatch designed to push back against the trend, and it does so beautifully.",
-    "url": "https://www.engadget.com/2243490/pebble-time-2-review/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Daniel Cooper)",
-    "publishedAt": "2026-08-25T14:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/pebble-time-2-review-the-perfect-smartwatch-for-a-select-group-of-people/l-intro-1787658110.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "7976446c0381923a",
     "title": "OpenAI's upcoming Jalapeño chip looks like it'll be an inference beast",
     "excerpt": "OpenAI offered its closest look yet at its spicy new Jalapeño AI accelerator at the annual Hot Chips semiconductor development conference at Stanford on Tuesday. The chips, first teased earlier this year, were developed in collaboration with Broadcom, and are the first in a series of custom silicon…",
@@ -1323,19 +1349,6 @@
     "publishedAt": "2026-08-25T13:48:50.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/bde2c5f424b0f4b56edfc76ae278cc3190749d62-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d4a10522d7dcfde7",
-    "title": "Gamescom Opening Night Live: Updates from the showcase including Final Fantasy and Gears of War previews",
-    "excerpt": "We're liveblogging the two-hour showcase and half hour pre-show of Gamescom's ONL today! Come join us, we'll even start a little early for you.",
-    "url": "https://www.engadget.com/2243580/gamescom-onl-2026-live-blog-final-fantasy-silent-hill-gears-of-war/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Mat Smith)",
-    "publishedAt": "2026-08-25T13:33:34.000Z",
-    "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/gamescom-onl-2026-live-blog-final-fantasy-silent-hill-gears-of-war/l-intro-1787689730.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2410,19 +2423,6 @@
     "publishedAt": "2026-08-24T11:29:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=5264558&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3b98deb59b14113c",
-    "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
-    "excerpt": "In another time, the MacBook Neo could have caused a substantial realignment of the lowish-end laptop business. Sure, it has shortcomings compared to the MacBook Air, but it could have at least encouraged PC makers to start shipping consistently decent keyboards, screens, and build quality in the…",
-    "url": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Andrew Cunningham",
-    "publishedAt": "2026-08-24T11:00:01.000Z",
-    "category": "hardware",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/IMG_9264-1152x648-1787169907.jpeg",
     "readTimeMinutes": 1
   },
   {
