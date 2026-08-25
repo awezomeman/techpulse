@@ -1,5 +1,57 @@
 [
   {
+    "id": "6c2861183e872b5c",
+    "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+    "excerpt": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Robert Hart",
+    "publishedAt": "2026-08-25T09:15:03.000Z",
+    "category": "ai",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9bfe76103dc48237",
+    "title": "Crooks push Mac malware through fake OpenAI Codex ads",
+    "excerpt": "Cybercrims are using fake OpenAI Codex download pages to trick Mac developers into running malware disguised as installation commands. Researchers at Cato Networks uncovered the campaign after spotting sponsored Google search results targeting people looking to download Codex for macOS. The ads…",
+    "url": "https://www.theregister.com/security/2026/08/25/crooks-push-mac-malware-through-fake-openai-codex-ads/5291899",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-25T09:15:00.000Z",
+    "category": "security",
+    "imageUrl": "https://image.theregister.com/?imageId=251976&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9b9f9b0f52038829",
+    "title": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
+    "excerpt": "Treasury says Ivan Obukhov processed over $100 million in crypto for IRGC-QF oil sales since 2023.",
+    "url": "https://www.coindesk.com/policy/2026/08/25/u-s-widens-iran-crackdown-to-encompass-crypto-gold-shipping-and-technology",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Francisco Rodrigues",
+    "publishedAt": "2026-08-25T08:47:18.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/36e62aa5a6df25b3cf06c337c082dfa82c1f0a05-1920x1252.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4058c94d403147c7",
+    "title": "Android is getting its own weird dots to cure car sickness",
+    "excerpt": "Motion Assist as found in Android 17’s settings. | Image: Android Authority (cropped by The Verge) Google is rolling out a new Android feature that's been proven to reduce, or even eliminate, motion sickness when using a phone inside a moving vehicle. Dubbed Motion Assist by Google, it's very…",
+    "url": "https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Thomas Ricker",
+    "publishedAt": "2026-08-25T08:36:27.000Z",
+    "category": "software",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Motion-Assist-Pixel-11-1-647w-1440h.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "a18ac7a88e56efbd",
     "title": "HMRC dangles £500M carrot for National Insurance system revamp",
     "excerpt": "The UK government is inviting suppliers to bid to build a new national insurance system with a price tag of up to £500 million. The tax collector, HM Revenue & Customs (HMRC), has issued a call to speak to suppliers about the procurement to continue to run and then update the National Insurance and…",
@@ -184,7 +236,7 @@
   {
     "id": "253f6697afdfe3b4",
     "title": "Headlong: A Microharness for Persistent Agents",
-    "excerpt": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents Comments URL: https://news.ycombinator.com/item?id=49428882 Points: 49 # Comments: 17",
+    "excerpt": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents Comments URL: https://news.ycombinator.com/item?id=49428882 Points: 54 # Comments: 20",
     "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -236,7 +288,7 @@
   {
     "id": "ad0cd04714e4a049",
     "title": "SiFive's First Server Platform",
-    "excerpt": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform Comments URL: https://news.ycombinator.com/item?id=49428638 Points: 39 # Comments: 7",
+    "excerpt": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform Comments URL: https://news.ycombinator.com/item?id=49428638 Points: 51 # Comments: 9",
     "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -249,7 +301,7 @@
   {
     "id": "33c6250f509a48b3",
     "title": "Thomson Reuters Launches Its Own Frontier Model",
-    "excerpt": "Article URL: https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model Comments URL: https://news.ycombinator.com/item?id=49428318 Points: 98 # Comments: 40",
+    "excerpt": "Article URL: https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model Comments URL: https://news.ycombinator.com/item?id=49428318 Points: 116 # Comments: 45",
     "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -262,7 +314,7 @@
   {
     "id": "dd533d791d33a203",
     "title": "How Universities Should Prepare Founders",
-    "excerpt": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 109 # Comments: 130",
+    "excerpt": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 122 # Comments: 149",
     "url": "https://paulgraham.com/prepare.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -275,7 +327,7 @@
   {
     "id": "8563a024344045e7",
     "title": "Was modern art a CIA psy-op? (2020)",
-    "excerpt": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/ Comments URL: https://news.ycombinator.com/item?id=49428080 Points: 72 # Comments: 95",
+    "excerpt": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/ Comments URL: https://news.ycombinator.com/item?id=49428080 Points: 74 # Comments: 115",
     "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -379,7 +431,7 @@
   {
     "id": "17737e382f9a8aaf",
     "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-    "excerpt": "Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 88 # Comments: 32",
+    "excerpt": "Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 95 # Comments: 35",
     "url": "https://github.com/murerkinn/bookshelf",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -392,7 +444,7 @@
   {
     "id": "caecc570422438d1",
     "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-    "excerpt": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 433 # Comments: 117",
+    "excerpt": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 459 # Comments: 127",
     "url": "https://developer.apple.com/news/?id=1ptvdtcm",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -405,7 +457,7 @@
   {
     "id": "2a7d7322802e5e56",
     "title": "Moon (2024)",
-    "excerpt": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 172 # Comments: 32",
+    "excerpt": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 185 # Comments: 33",
     "url": "https://ciechanow.ski/moon/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -522,7 +574,7 @@
   {
     "id": "300ed4f3e102ca9c",
     "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-    "excerpt": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 89 # Comments: 18",
+    "excerpt": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 97 # Comments: 18",
     "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -751,7 +803,7 @@
   {
     "id": "53d975e083eaf7f3",
     "title": "Oceans hit highest temperature on record",
-    "excerpt": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 529 # Comments: 422",
+    "excerpt": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 556 # Comments: 430",
     "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -764,7 +816,7 @@
   {
     "id": "113584368e849150",
     "title": "LLMs could control their host machines by exploiting inference engines",
-    "excerpt": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 134 # Comments: 65",
+    "excerpt": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 140 # Comments: 66",
     "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -855,7 +907,7 @@
   {
     "id": "bb0848957783cedd",
     "title": "Octopus intelligence may be related to never-before-seen mutation",
-    "excerpt": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 150 # Comments: 110",
+    "excerpt": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 158 # Comments: 115",
     "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -933,7 +985,7 @@
   {
     "id": "5f3bc974058a776c",
     "title": "Where did all the public bathrooms go?",
-    "excerpt": "Article URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/ Comments URL: https://news.ycombinator.com/item?id=49422800 Points: 230 # Comments: 524",
+    "excerpt": "Article URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/ Comments URL: https://news.ycombinator.com/item?id=49422800 Points: 241 # Comments: 541",
     "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -946,7 +998,7 @@
   {
     "id": "945e4068028bbca3",
     "title": "The entire city of San Francisco as a video game",
-    "excerpt": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 442 # Comments: 140",
+    "excerpt": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 459 # Comments: 140",
     "url": "https://sf.thijs.gg/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1149,7 +1201,7 @@
   {
     "id": "9f838576d711cee8",
     "title": "Jabber/XMPP: 25 Years of Digital Independence",
-    "excerpt": "Article URL: https://gultsch.de/posts/25-years-of-digital-independence/ Comments URL: https://news.ycombinator.com/item?id=49421536 Points: 224 # Comments: 118",
+    "excerpt": "Article URL: https://gultsch.de/posts/25-years-of-digital-independence/ Comments URL: https://news.ycombinator.com/item?id=49421536 Points: 231 # Comments: 127",
     "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1214,7 +1266,7 @@
   {
     "id": "3f9be69046a627db",
     "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-    "excerpt": "Article URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/ Comments URL: https://news.ycombinator.com/item?id=49421158 Points: 693 # Comments: 285",
+    "excerpt": "Article URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/ Comments URL: https://news.ycombinator.com/item?id=49421158 Points: 707 # Comments: 309",
     "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1240,7 +1292,7 @@
   {
     "id": "468a1a33d560a7a4",
     "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-    "excerpt": "https://xcancel.com/lemire/status/2091894299289874926 Comments URL: https://news.ycombinator.com/item?id=49420873 Points: 847 # Comments: 604",
+    "excerpt": "https://xcancel.com/lemire/status/2091894299289874926 Comments URL: https://news.ycombinator.com/item?id=49420873 Points: 862 # Comments: 616",
     "url": "https://twitter.com/lemire/status/2091894299289874926",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1415,19 +1467,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "c9b86a45401a6761",
-    "title": "How GoFundMe became America’s backup plan",
-    "excerpt": "Today on Decoder , I’m talking with Tim Cadogan, the CEO of GoFundMe. You know GoFundMe — it’s a major fundraising platform where you can donate to help people with everything from medical expenses to Little League uniforms to starting a new business. Tim took over as CEO in March 2020 — a…",
-    "url": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Nilay Patel",
-    "publishedAt": "2026-08-24T14:00:00.000Z",
-    "category": "startups",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_20260824_TimCadogan.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "4d38648c033d9e08",
     "title": "Hugging Face reportedly in talks to be acquired for $13B",
     "excerpt": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
@@ -1438,19 +1477,6 @@
     "publishedAt": "2026-08-24T13:47:26.000Z",
     "category": "ai",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3cd0fce72b08c4d1",
-    "title": "Netflix reportedly considers opening its app to other streamers",
-    "excerpt": "Netflix executives have considered making third-party streaming services available within its app, according to a report from The New York Times . The recent discussions reportedly centered around bringing Peacock and Fox One to Netflix, though it's unclear whether the streaming giant would sell…",
-    "url": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Emma Roth",
-    "publishedAt": "2026-08-24T13:47:14.000Z",
-    "category": "crypto",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951360/STK072_VRG_Illo_N_Barclay_8_netflix.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -1958,19 +1984,6 @@
     "publishedAt": "2026-08-24T06:31:00.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=255816&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f408841e4c9575ae",
-    "title": "Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power",
-    "excerpt": "The exploit shows how lightly held voting tokens can become a means of attack when control of a protocol is cheaper than the assets it governs.",
-    "url": "https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Shaurya Malwa",
-    "publishedAt": "2026-08-24T06:27:33.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/0075d19bd82cb7278ff5f876932e712bf6d2e204-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2720,19 +2733,6 @@
     "publishedAt": "2026-08-21T12:18:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=229085&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c48032224d828fee",
-    "title": "Microsoft lets you swap New Outlook's looks with the face of Outlook Classic",
-    "excerpt": "Microsoft is rolling out a setting that makes Outlook on the Web and New Outlook for Windows look and feel like Classic Outlook through a theme that tweaks the visual style and layout. \"This update is designed to help users who are transitioning from classic Outlook by providing a more familiar…",
-    "url": "https://www.theregister.com/applications/2026/08/21/microsoft-lets-you-swap-new-outlooks-looks-with-the-face-of-outlook-classic/5290948",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-21T11:15:00.000Z",
-    "category": "software",
-    "imageUrl": "https://image.theregister.com/?imageId=5237731&width=800",
     "readTimeMinutes": 1
   },
   {
