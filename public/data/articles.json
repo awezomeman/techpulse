@@ -1,5 +1,57 @@
 [
   {
+    "id": "cf5ef6904e26ee64",
+    "title": "Linux 7.3 Merges Initial Kernel Driver Support For The 2026 Steam Controller",
+    "excerpt": "The HID subsystem updates were recently merged for the ongoing Linux 7.3 kernel merge window. Among other hardware additions, the 2026 Valve Steam Controller is seeing initial kernel driver support...",
+    "url": "https://www.phoronix.com/news/Linux-7.3-HID",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-25T00:33:34.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "fc86cf3e9da11a7b",
+    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+    "excerpt": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+    "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Lucas Ropek",
+    "publishedAt": "2026-08-25T00:23:12.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9368f8d739ff0575",
+    "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+    "excerpt": "Cursed BIOS. | Photo by Sean Hollister / The Verge When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so . But it's not clear that computing giant Lenovo will go that far. Three weeks after a…",
+    "url": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Sean Hollister",
+    "publishedAt": "2026-08-24T23:38:10.000Z",
+    "category": "software",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-legion-go-sean-hollister-1-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "51dc340d96cbdaca",
+    "title": "Iran Is Using Foreign Criminals to Attack Its Critics Overseas",
+    "excerpt": "https://archive.ph/YwVNE Comments URL: https://news.ycombinator.com/item?id=49427046 Points: 18 # Comments: 8",
+    "url": "https://www.newyorker.com/news/letter-from-the-uk/iran-is-using-foreign-criminals-to-attack-its-critics-overseas",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "firefax",
+    "publishedAt": "2026-08-24T23:06:37.000Z",
+    "category": "policy",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "604e660e7f016b25",
     "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
     "excerpt": "We all knew it was coming. The expected valuation may surprise, though.",
@@ -13,9 +65,22 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "17737e382f9a8aaf",
+    "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+    "excerpt": "Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 24 # Comments: 4",
+    "url": "https://github.com/murerkinn/bookshelf",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "arbayi",
+    "publishedAt": "2026-08-24T23:00:37.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "caecc570422438d1",
     "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-    "excerpt": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 107 # Comments: 23",
+    "excerpt": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 195 # Comments: 41",
     "url": "https://developer.apple.com/news/?id=1ptvdtcm",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -27,8 +92,8 @@
   },
   {
     "id": "2a7d7322802e5e56",
-    "title": "Moon",
-    "excerpt": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 45 # Comments: 5",
+    "title": "Moon (2024)",
+    "excerpt": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 90 # Comments: 14",
     "url": "https://ciechanow.ski/moon/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -119,7 +184,7 @@
   {
     "id": "581acfbd4954d166",
     "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
-    "excerpt": "Article URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk Comments URL: https://news.ycombinator.com/item?id=49425819 Points: 91 # Comments: 67",
+    "excerpt": "Article URL: https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk Comments URL: https://news.ycombinator.com/item?id=49425819 Points: 119 # Comments: 92",
     "url": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -132,7 +197,7 @@
   {
     "id": "300ed4f3e102ca9c",
     "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-    "excerpt": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 36 # Comments: 2",
+    "excerpt": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 48 # Comments: 8",
     "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -361,7 +426,7 @@
   {
     "id": "53d975e083eaf7f3",
     "title": "Oceans hit highest temperature on record",
-    "excerpt": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 344 # Comments: 210",
+    "excerpt": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 386 # Comments: 276",
     "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -374,7 +439,7 @@
   {
     "id": "113584368e849150",
     "title": "LLMs could control their host machines by exploiting inference engines",
-    "excerpt": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 77 # Comments: 37",
+    "excerpt": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 88 # Comments: 49",
     "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -387,7 +452,7 @@
   {
     "id": "b93516b697db6e42",
     "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
-    "excerpt": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 38 # Comments: 22",
+    "excerpt": "Article URL: https://textlog.cc/post/2059 Comments URL: https://news.ycombinator.com/item?id=49424167 Points: 47 # Comments: 22",
     "url": "https://textlog.cc/post/2059",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -400,7 +465,7 @@
   {
     "id": "d867f30dbc362160",
     "title": "Anger, Anxiety and Agency",
-    "excerpt": "Article URL: https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/ Comments URL: https://news.ycombinator.com/item?id=49424082 Points: 82 # Comments: 93",
+    "excerpt": "Article URL: https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/ Comments URL: https://news.ycombinator.com/item?id=49424082 Points: 93 # Comments: 104",
     "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -424,19 +489,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "028d5cd17cb0362b",
-    "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
-    "excerpt": "I built kern because I needed a fast, zero-daemon tool to set CPU/RAM limits and run isolated tasks without the overhead of Docker. It's a single 1.5MB Rust binary using OCI images, cgroup v2, and namespaces. Boxes start in ~3.5ms. It's not a Kubernetes CRI or a microVM, just a standalone container…",
-    "url": "https://github.com/getkern/kern",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "realexweb",
-    "publishedAt": "2026-08-24T18:24:59.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "9c366a768711ef20",
     "title": "New AF_ALG Restrictions With Linux 7.3 Due To The Security & Maintenance Nightmare",
     "excerpt": "The past few Linux kernel cycles have chipped away at AF_ALG functionality for that interface for user-space programs to access the kernel's internal cryptography API. Linux has been dropping AF_ALG features like zero-copy support and offloading. AF_ALG was quickly deprecated in Linux 7.2 while now…",
@@ -452,7 +504,7 @@
   {
     "id": "bddfd1eb2f9c5535",
     "title": "What Is a Syslog Server?",
-    "excerpt": "Article URL: https://blog.greencloudvps.com/what-is-a-syslog-server.php Comments URL: https://news.ycombinator.com/item?id=49423799 Points: 46 # Comments: 30",
+    "excerpt": "Article URL: https://blog.greencloudvps.com/what-is-a-syslog-server.php Comments URL: https://news.ycombinator.com/item?id=49423799 Points: 51 # Comments: 39",
     "url": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -517,7 +569,7 @@
   {
     "id": "bb0848957783cedd",
     "title": "Octopus intelligence may be related to never-before-seen mutation",
-    "excerpt": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 59 # Comments: 21",
+    "excerpt": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 75 # Comments: 42",
     "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -580,22 +632,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "8d0f8a62181d88f8",
-    "title": "Fences, Not Sandboxes",
-    "excerpt": "Article URL: https://yegge.ai/essays/fences-not-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49423146 Points: 40 # Comments: 24",
-    "url": "https://yegge.ai/essays/fences-not-sandboxes/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "tosh",
-    "publishedAt": "2026-08-24T17:28:43.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "2ad636ea4ea91395",
     "title": "Agent Lightning v1.0",
-    "excerpt": "Article URL: https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1 Comments URL: https://news.ycombinator.com/item?id=49423077 Points: 24 # Comments: 1",
+    "excerpt": "Article URL: https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1 Comments URL: https://news.ycombinator.com/item?id=49423077 Points: 41 # Comments: 2",
     "url": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -634,7 +673,7 @@
   {
     "id": "5f3bc974058a776c",
     "title": "Where did all the public bathrooms go?",
-    "excerpt": "Article URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/ Comments URL: https://news.ycombinator.com/item?id=49422800 Points: 119 # Comments: 215",
+    "excerpt": "Article URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/ Comments URL: https://news.ycombinator.com/item?id=49422800 Points: 145 # Comments: 294",
     "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -647,7 +686,7 @@
   {
     "id": "945e4068028bbca3",
     "title": "The entire city of San Francisco as a video game",
-    "excerpt": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 300 # Comments: 105",
+    "excerpt": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 327 # Comments: 115",
     "url": "https://sf.thijs.gg/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -712,7 +751,7 @@
   {
     "id": "3e6ae02d2641cc81",
     "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
-    "excerpt": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc Comments URL: https://news.ycombinator.com/item?id=49422548 Points: 67 # Comments: 8",
+    "excerpt": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc Comments URL: https://news.ycombinator.com/item?id=49422548 Points: 76 # Comments: 9",
     "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -811,7 +850,7 @@
   {
     "id": "7d04125d99c12654",
     "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
-    "excerpt": "Article URL: https://glassbox.codecanary.org Comments URL: https://news.ycombinator.com/item?id=49421948 Points: 85 # Comments: 41",
+    "excerpt": "Article URL: https://glassbox.codecanary.org Comments URL: https://news.ycombinator.com/item?id=49421948 Points: 88 # Comments: 44",
     "url": "https://glassbox.codecanary.org",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -876,7 +915,7 @@
   {
     "id": "8317e1187afa3abd",
     "title": "Coding expertise is going to collapse from AI reliance",
-    "excerpt": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 410 # Comments: 416",
+    "excerpt": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise Comments URL: https://news.ycombinator.com/item?id=49421554 Points: 448 # Comments: 453",
     "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1321,19 +1360,6 @@
     "publishedAt": "2026-08-24T11:55:01.000Z",
     "category": "hardware",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d35a5289e476f46b",
-    "title": "De-Googled GrapheneOS is coming to Motorola’s foldables next year",
-    "excerpt": "The Razr Ultra line is among those due to receive GrapheneOS support next year. | Photo: Allison Johnson / The Verge GrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones. Official support is set to arrive…",
-    "url": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Dominic Preston",
-    "publishedAt": "2026-08-24T11:37:53.000Z",
-    "category": "software",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268559_Motorola_Razr_Ultra_2026_review_AJohnson_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -1987,19 +2013,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "736c2f98ab12883c",
-    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-    "excerpt": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-    "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Amanda Silberling",
-    "publishedAt": "2026-08-23T15:00:00.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "983fa0a7b2dd4ad2",
     "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
     "excerpt": "Tracked card volume more than tripled in a year, with USDC and USDT funding over 70% of spending as users increasingly paid for groceries, rides and subscriptions.",
@@ -2426,19 +2439,6 @@
     "publishedAt": "2026-08-21T23:00:18.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=5224754&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "1ef72177a9165ac0",
-    "title": "Wine 11.16 Released With VA-API Hardware Decoding, Better ARM64 Support",
-    "excerpt": "Wine 11.16 is out today as the newest bi-weekly development release for this software enabling Windows games and applications to run on Linux and other platforms...",
-    "url": "https://www.phoronix.com/news/Wine-11.16-Released",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-21T22:12:01.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
