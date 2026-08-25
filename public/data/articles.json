@@ -1,7 +1,46 @@
 [
   {
+    "id": "a18ac7a88e56efbd",
+    "title": "HMRC dangles £500M carrot for National Insurance system revamp",
+    "excerpt": "The UK government is inviting suppliers to bid to build a new national insurance system with a price tag of up to £500 million. The tax collector, HM Revenue & Customs (HMRC), has issued a call to speak to suppliers about the procurement to continue to run and then update the National Insurance and…",
+    "url": "https://www.theregister.com/software/2026/08/25/hmrc-dangles-500m-carrot-for-national-insurance-system-revamp/5291869",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-25T08:30:00.000Z",
+    "category": "software",
+    "imageUrl": "https://image.theregister.com/?imageId=209285&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "eedfec0799d1e014",
+    "title": "What is virtualization modernization?",
+    "excerpt": "Virtualization modernization is the process of rethinking how you manage virtual workloads across your hybrid estate. IT challenges are expanding, with organizations facing a mixture of licensing challenges and new workloads. This is prompting them to examine their virtualization portfolios. Many…",
+    "url": "https://www.theregister.com/virtualization/2026/08/25/sponsored-what-is-virtualization-modernization/5290459",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-25T08:00:00.000Z",
+    "category": "software",
+    "imageUrl": "https://image.theregister.com/?imageId=5290473&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "25ced437bf96f00d",
+    "title": "Franklin Templeton and Hashkey roll out U.S. tokenized money fund in Asia",
+    "excerpt": "Tokenized U.S. treasury and money market funds are one of the fastest-growing segments in the digital asset markets, growing fifteenfold in two years.",
+    "url": "https://www.coindesk.com/business/2026/08/25/franklin-templeton-and-hashkey-roll-out-u-s-tokenized-money-fund-in-asia",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Olivier Acuna",
+    "publishedAt": "2026-08-25T07:55:18.000Z",
+    "category": "software",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/09b91de6de40cce9a15d10990697d9b05efe241f-1920x1078.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "0e53b90f6da44f81",
-    "title": "Live updates: Bitcoin ETFs draw a seventh straight day of inflows as the rally holds above $80,000",
+    "title": "Live updates: Bitcoin ETFs draw a sixth straight day of inflows as the rally holds above $80,000",
     "excerpt": "Spot bitcoin funds took in $337.56 million on Aug. 24, extending an unbroken run of inflows that has now put real money behind a rally that started with a short squeeze.",
     "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
     "source": "CoinDesk",
@@ -23,6 +62,19 @@
     "publishedAt": "2026-08-25T07:32:32.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/86a15ecf511deb99d9d1558beb572b964626cec7-3000x2000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6cd0b0deb31ba8bb",
+    "title": "Australia’s record industry won’t chart tunes recorded in the key of AI",
+    "excerpt": "The Australian Recording Industry Association (ARIA) has decided it won’t list AI-generated music on its charts of best-selling music. The decision comes into effect this week and follows two interesting musical moments of note. One came when an AI-assisted cover version of Madonna’s Like a Prayer…",
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/25/australias-record-industry-wont-chart-tunes-recorded-in-the-key-of-ai/5292074",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-25T07:15:43.000Z",
+    "category": "ai",
+    "imageUrl": "https://image.theregister.com/?imageId=135655&width=800",
     "readTimeMinutes": 1
   },
   {
@@ -132,7 +184,7 @@
   {
     "id": "253f6697afdfe3b4",
     "title": "Headlong: A Microharness for Persistent Agents",
-    "excerpt": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents Comments URL: https://news.ycombinator.com/item?id=49428882 Points: 44 # Comments: 15",
+    "excerpt": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents Comments URL: https://news.ycombinator.com/item?id=49428882 Points: 49 # Comments: 17",
     "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -184,7 +236,7 @@
   {
     "id": "ad0cd04714e4a049",
     "title": "SiFive's First Server Platform",
-    "excerpt": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform Comments URL: https://news.ycombinator.com/item?id=49428638 Points: 31 # Comments: 7",
+    "excerpt": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform Comments URL: https://news.ycombinator.com/item?id=49428638 Points: 39 # Comments: 7",
     "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -197,7 +249,7 @@
   {
     "id": "33c6250f509a48b3",
     "title": "Thomson Reuters Launches Its Own Frontier Model",
-    "excerpt": "Article URL: https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model Comments URL: https://news.ycombinator.com/item?id=49428318 Points: 90 # Comments: 34",
+    "excerpt": "Article URL: https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model Comments URL: https://news.ycombinator.com/item?id=49428318 Points: 98 # Comments: 40",
     "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -210,7 +262,7 @@
   {
     "id": "dd533d791d33a203",
     "title": "How Universities Should Prepare Founders",
-    "excerpt": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 96 # Comments: 115",
+    "excerpt": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 109 # Comments: 130",
     "url": "https://paulgraham.com/prepare.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -223,7 +275,7 @@
   {
     "id": "8563a024344045e7",
     "title": "Was modern art a CIA psy-op? (2020)",
-    "excerpt": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/ Comments URL: https://news.ycombinator.com/item?id=49428080 Points: 66 # Comments: 72",
+    "excerpt": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/ Comments URL: https://news.ycombinator.com/item?id=49428080 Points: 72 # Comments: 95",
     "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -327,7 +379,7 @@
   {
     "id": "17737e382f9a8aaf",
     "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-    "excerpt": "Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 81 # Comments: 32",
+    "excerpt": "Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 88 # Comments: 32",
     "url": "https://github.com/murerkinn/bookshelf",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -340,7 +392,7 @@
   {
     "id": "caecc570422438d1",
     "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-    "excerpt": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 405 # Comments: 107",
+    "excerpt": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 433 # Comments: 117",
     "url": "https://developer.apple.com/news/?id=1ptvdtcm",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -353,7 +405,7 @@
   {
     "id": "2a7d7322802e5e56",
     "title": "Moon (2024)",
-    "excerpt": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 163 # Comments: 30",
+    "excerpt": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 172 # Comments: 32",
     "url": "https://ciechanow.ski/moon/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -470,7 +522,7 @@
   {
     "id": "300ed4f3e102ca9c",
     "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-    "excerpt": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 84 # Comments: 18",
+    "excerpt": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 89 # Comments: 18",
     "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -699,7 +751,7 @@
   {
     "id": "53d975e083eaf7f3",
     "title": "Oceans hit highest temperature on record",
-    "excerpt": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 505 # Comments: 408",
+    "excerpt": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 529 # Comments: 422",
     "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -712,7 +764,7 @@
   {
     "id": "113584368e849150",
     "title": "LLMs could control their host machines by exploiting inference engines",
-    "excerpt": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 131 # Comments: 60",
+    "excerpt": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 134 # Comments: 65",
     "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -803,25 +855,12 @@
   {
     "id": "bb0848957783cedd",
     "title": "Octopus intelligence may be related to never-before-seen mutation",
-    "excerpt": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 142 # Comments: 101",
+    "excerpt": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/ Comments URL: https://news.ycombinator.com/item?id=49423539 Points: 150 # Comments: 110",
     "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "bookofjoe",
     "publishedAt": "2026-08-24T17:57:13.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f8ca85b331a1187b",
-    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-    "excerpt": "Article URL: https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4 Comments URL: https://news.ycombinator.com/item?id=49423495 Points: 0 # Comments: 0",
-    "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "adawg4",
-    "publishedAt": "2026-08-24T17:53:14.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -894,7 +933,7 @@
   {
     "id": "5f3bc974058a776c",
     "title": "Where did all the public bathrooms go?",
-    "excerpt": "Article URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/ Comments URL: https://news.ycombinator.com/item?id=49422800 Points: 219 # Comments: 499",
+    "excerpt": "Article URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/ Comments URL: https://news.ycombinator.com/item?id=49422800 Points: 230 # Comments: 524",
     "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -907,7 +946,7 @@
   {
     "id": "945e4068028bbca3",
     "title": "The entire city of San Francisco as a video game",
-    "excerpt": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 436 # Comments: 139",
+    "excerpt": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 442 # Comments: 140",
     "url": "https://sf.thijs.gg/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1069,6 +1108,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "489edfc37a30ad38",
+    "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+    "excerpt": "PicoMQ is a Rust server for Durable Streams, built on Object Store. Cheap, URL-addressable, granular streams (create/append/read/long-poll/SSE), with Pico Protocol or Durable Streams Protocol as the facade. S3Stream is the stream storage primitive, used in AutoMQ, shipped as a Rust library.…",
+    "url": "https://picomq.com/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "adesh_nalpet",
+    "publishedAt": "2026-08-24T16:08:17.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "931dd7b67db9e32f",
     "title": "F1 in the Netherlands: The driver you most want to beat is your teammate",
     "excerpt": "After months of rumors surrounding his future, now we know: Four-time champion Max Verstappen is staying in the sport for the foreseeable future. The news broke on the eve of the Dutch Grand Prix, held this past weekend at Zandvoort in the Netherlands as F1 returned from its mandatory summer…",
@@ -1097,7 +1149,7 @@
   {
     "id": "9f838576d711cee8",
     "title": "Jabber/XMPP: 25 Years of Digital Independence",
-    "excerpt": "Article URL: https://gultsch.de/posts/25-years-of-digital-independence/ Comments URL: https://news.ycombinator.com/item?id=49421536 Points: 214 # Comments: 105",
+    "excerpt": "Article URL: https://gultsch.de/posts/25-years-of-digital-independence/ Comments URL: https://news.ycombinator.com/item?id=49421536 Points: 224 # Comments: 118",
     "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1162,7 +1214,7 @@
   {
     "id": "3f9be69046a627db",
     "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-    "excerpt": "Article URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/ Comments URL: https://news.ycombinator.com/item?id=49421158 Points: 673 # Comments: 271",
+    "excerpt": "Article URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/ Comments URL: https://news.ycombinator.com/item?id=49421158 Points: 693 # Comments: 285",
     "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1188,7 +1240,7 @@
   {
     "id": "468a1a33d560a7a4",
     "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-    "excerpt": "https://xcancel.com/lemire/status/2091894299289874926 Comments URL: https://news.ycombinator.com/item?id=49420873 Points: 835 # Comments: 584",
+    "excerpt": "https://xcancel.com/lemire/status/2091894299289874926 Comments URL: https://news.ycombinator.com/item?id=49420873 Points: 847 # Comments: 604",
     "url": "https://twitter.com/lemire/status/2091894299289874926",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1919,19 +1971,6 @@
     "publishedAt": "2026-08-24T06:27:33.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/0075d19bd82cb7278ff5f876932e712bf6d2e204-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "2bb2c83c023f99c9",
-    "title": "Ray Dalio says investors should own ‘a bit of Bitcoin’ as U.S. debt risks rise",
-    "excerpt": "The Bridgewater founder says recent Treasury-market stress fits his long-running debt-crisis framework, though he still prefers gold as the bigger hedge.",
-    "url": "https://www.coindesk.com/markets/2026/08/24/ray-dalio-says-investors-should-own-a-bit-of-bitcoin-as-u-s-debt-risks-rise",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Shaurya Malwa",
-    "publishedAt": "2026-08-24T05:13:19.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/66cd2470ebcf7907d01390a0237f00f003942dbb-4000x2667.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2694,45 +2733,6 @@
     "publishedAt": "2026-08-21T11:15:00.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=5237731&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f5ba4927659fbfbc",
-    "title": "Microsoft sounds alarm over perfect-10 Entra ID flaw",
-    "excerpt": "Updated to add: At the time The Register published this article, Microsoft was telling the public this flaw was being exploited in the wild. It then contacted us after publication to tell us it had \"corrected\" this CVE’s “Exploited” designation to “No,” saying that (contrary to what it said…",
-    "url": "https://www.theregister.com/cyber-crime/2026/08/21/microsoft-sounds-alarm-over-perfect-10-entra-id-flaw/5290925",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-21T10:15:00.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=5211376&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "af1f142e1786fe44",
-    "title": "Wi-Fi 7's WPA3 protections come with a compatibility catch",
-    "excerpt": "Broadband industry research body CableLabs is warning that attempts to make Wi-Fi 7 access points accommodate older devices can create compatibility problems of their own, and wants hardware makers to prioritize support for the industry's workaround. Wi-Fi 7 products have been finding their way…",
-    "url": "https://www.theregister.com/networks/2026/08/21/wi-fi-7s-wpa3-protections-come-with-a-compatibility-catch/5289614",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-21T09:14:00.000Z",
-    "category": "policy",
-    "imageUrl": "https://image.theregister.com/?imageId=5239018&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "146cec7727376264",
-    "title": "Debian is 33, Haiku is 25, and neither is standing still",
-    "excerpt": "This is a quiet time of year in tech circles – perhaps explaining why, 25 and 33 years ago, the people behind two ambitious operating system projects kicked them off. Debian Last weekend, the Debian project turned 33 years old. The Linux kernel first appeared in September 1991, so it was not quite…",
-    "url": "https://www.theregister.com/os-platforms/2026/08/21/debian-is-33-haiku-is-25-and-neither-is-standing-still/5290144",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-21T08:26:00.000Z",
-    "category": "software",
-    "imageUrl": "https://image.theregister.com/?imageId=5290207&width=800",
     "readTimeMinutes": 1
   },
   {
