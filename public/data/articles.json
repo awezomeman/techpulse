@@ -1,5 +1,44 @@
 [
   {
+    "id": "82885f718bc09b41",
+    "title": "Adam Mosseri says it's 'news to me' that Instagram employees limited his exposure to teen safety data",
+    "excerpt": "The head of Instagram is the first high-profile exec to testify in the latest social media addiction trial.",
+    "url": "https://www.engadget.com/2244270/adam-mosseri-says-its-news-to-me-that-instagram-employees-limited-his-exposure-to-teen-safety-data/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Karissa Bell)",
+    "publishedAt": "2026-08-25T23:08:06.000Z",
+    "category": "security",
+    "imageUrl": "https://www.engadget.com/img/gallery/adam-mosseri-says-its-news-to-me-that-instagram-employees-were-told-to-limit-his-exposure-to-teen-safety-data/l-intro-1787698830.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1a9a7b656365a5fe",
+    "title": "Alabama Launches Investigation Into OpenAI's Hack of Hugging Face",
+    "excerpt": "Alabama's attorney general has subpoenaed OpenAI as part of an investigation into whether inadequate safeguards contributed to an incident in which an unreleased cybersecurity model escaped its isolated environment and hacked Hugging Face. TechCrunch reports: The investigation comes weeks after…",
+    "url": "https://yro.slashdot.org/story/26/08/25/2259204/alabama-launches-investigation-into-openais-hack-of-hugging-face?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-08-25T23:00:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d5ee38af130f31e9",
+    "title": "Intel's 256-core Xeon 7 CPUs are a Diamond in the rough",
+    "excerpt": "DEEP DIVE Intel's Xeon 7 platform, better known by its codename Diamond Rapids, was supposed to launch this year with up to 192 cores backed by a whopping 16 memory channels. But that's not going to happen. This being Intel, the launch was, to no one's great surprise, delayed until 2027 to give…",
+    "url": "https://www.theregister.com/hpc/2026/08/25/intel-diamond-rapids-xeon-7-cpu-deep-dive/5292427",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-25T22:54:37.000Z",
+    "category": "hardware",
+    "imageUrl": "https://image.theregister.com/?imageId=5292446&width=800",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "fba52ae06bd47d50",
     "title": "Here are three sick Gibson guitar controllers made for Stage Tour's Dec. 10 release",
     "excerpt": "CRKD is mining nostalgia for its latest guitar trio.",
@@ -119,7 +158,7 @@
   {
     "id": "0f0d0550b9ca3a38",
     "title": "Python's pre-declared constants are kinda weird",
-    "excerpt": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 57 # Comments: 8",
+    "excerpt": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 79 # Comments: 23",
     "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -236,7 +275,7 @@
   {
     "id": "9f66add6a4dee5f4",
     "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
-    "excerpt": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 30 # Comments: 17",
+    "excerpt": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 34 # Comments: 20",
     "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -392,7 +431,7 @@
   {
     "id": "b9863581f526cba4",
     "title": "C2PA Cameras Do Not Survive Contact with Reality",
-    "excerpt": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 48 # Comments: 13",
+    "excerpt": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 52 # Comments: 18",
     "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -405,7 +444,7 @@
   {
     "id": "0925ce909a494da5",
     "title": "A brief history of federal lift ticket regulation",
-    "excerpt": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 8 # Comments: 0",
+    "excerpt": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 13 # Comments: 0",
     "url": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -431,7 +470,7 @@
   {
     "id": "df1f73b59713f07d",
     "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-    "excerpt": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 183 # Comments: 116",
+    "excerpt": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 201 # Comments: 120",
     "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -561,7 +600,7 @@
   {
     "id": "48873335c69ed158",
     "title": "Dolly Parton has died",
-    "excerpt": "https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 Points: 1025 #…",
+    "excerpt": "https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 Points: 1068 #…",
     "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -587,7 +626,7 @@
   {
     "id": "85685aa149d856de",
     "title": "Firefox 157 will include JPEG XL by default on all platforms",
-    "excerpt": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 229 # Comments: 47",
+    "excerpt": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 238 # Comments: 51",
     "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -717,7 +756,7 @@
   {
     "id": "964b914a5f9d7edb",
     "title": "Run OpenBSD on DigitalOcean for $4/month",
-    "excerpt": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 100 # Comments: 40",
+    "excerpt": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 101 # Comments: 45",
     "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -769,7 +808,7 @@
   {
     "id": "25847b3565db870b",
     "title": "Nitter project received cease and desist",
-    "excerpt": "Article URL: https://github.com/zedeus/nitter/issues/1442 Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 493 # Comments: 333",
+    "excerpt": "Article URL: https://github.com/zedeus/nitter/issues/1442 Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 526 # Comments: 368",
     "url": "https://github.com/zedeus/nitter/issues/1442",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -782,7 +821,7 @@
   {
     "id": "b3477100d51ce4f7",
     "title": "Black hole singularity is a surface not a point",
-    "excerpt": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 156 # Comments: 109",
+    "excerpt": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 158 # Comments: 118",
     "url": "https://arxiv.org/abs/2608.21590",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -847,7 +886,7 @@
   {
     "id": "bb00e934598219a7",
     "title": "My Friend Aaron",
-    "excerpt": "Article URL: https://rorz.io/writing/my-friend-aaron Comments URL: https://news.ycombinator.com/item?id=49437069 Points: 384 # Comments: 97",
+    "excerpt": "Article URL: https://rorz.io/writing/my-friend-aaron Comments URL: https://news.ycombinator.com/item?id=49437069 Points: 395 # Comments: 104",
     "url": "https://rorz.io/writing/my-friend-aaron",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -860,7 +899,7 @@
   {
     "id": "1741d977cb7cebae",
     "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
-    "excerpt": "We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better. Comments URL: https://news.ycombinator.com/item?id=49437049 Points: 89 # Comments: 28",
+    "excerpt": "We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better. Comments URL: https://news.ycombinator.com/item?id=49437049 Points: 90 # Comments: 30",
     "url": "https://github.com/jeffhajewski/latticedb",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -886,7 +925,7 @@
   {
     "id": "64e5a3976e9279bd",
     "title": "Starbase, LA",
-    "excerpt": "Article URL: https://www.spacex.com/sites/starbase-la Comments URL: https://news.ycombinator.com/item?id=49436822 Points: 193 # Comments: 326",
+    "excerpt": "Article URL: https://www.spacex.com/sites/starbase-la Comments URL: https://news.ycombinator.com/item?id=49436822 Points: 195 # Comments: 351",
     "url": "https://www.spacex.com/sites/starbase-la",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -912,7 +951,7 @@
   {
     "id": "49a4eac9ae7460f3",
     "title": "Tooltips need a delay, and then they need to skip it",
-    "excerpt": "Article URL: https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/ Comments URL: https://news.ycombinator.com/item?id=49436786 Points: 96 # Comments: 18",
+    "excerpt": "Article URL: https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/ Comments URL: https://news.ycombinator.com/item?id=49436786 Points: 98 # Comments: 19",
     "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -938,7 +977,7 @@
   {
     "id": "810406c16a22e017",
     "title": "Fuzzing the Gleam Compiler",
-    "excerpt": "Article URL: https://www.kurz.net/posts/fuzzing-gleam-compiler Comments URL: https://news.ycombinator.com/item?id=49436706 Points: 44 # Comments: 4",
+    "excerpt": "Article URL: https://www.kurz.net/posts/fuzzing-gleam-compiler Comments URL: https://news.ycombinator.com/item?id=49436706 Points: 47 # Comments: 4",
     "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1118,6 +1157,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "cf16d57109c5b6fa",
+    "title": "Behaviorally fingerprinting Ox Alpha's provenance",
+    "excerpt": "Article URL: https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance Comments URL: https://news.ycombinator.com/item?id=49435641 Points: 25 # Comments: 14",
+    "url": "https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "cgorlla",
+    "publishedAt": "2026-08-25T15:18:22.000Z",
+    "category": "science",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "4752446ee349dce4",
     "title": "Slop factory bans Russians for using slop factory to create slop",
     "excerpt": "ChatGPT may spew a lot of digital garbage onto the internet, but the same bots that output the trash can be used to stop it. The company draws the line at influence operations that want to slop in the name of love . . . of mother Russia. OpenAI said in a Tuesday blog post that it had identified a…",
@@ -1232,32 +1284,6 @@
     "publishedAt": "2026-08-25T14:30:52.000Z",
     "category": "Hardware",
     "imageUrl": "https://www.engadget.com/img/gallery/sony-phones-in-an-update-to-the-midrange-xperia-10-and-slaps-a-sizable-price-hike-on-it/l-intro-1787668001.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "1b34461b9274c997",
-    "title": "What's the difference between Thunderbolt 4 and 5?",
-    "excerpt": "Thunderbolt 5 offers extremely fast data transfer and lots of power, but most devices can't take advantage of it",
-    "url": "https://www.engadget.com/2240370/whats-the-difference-between-thunderbold-4-and-5/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Thomas Godwin)",
-    "publishedAt": "2026-08-25T14:30:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/whats-the-difference-between-thunderbolt-4-and-5/l-intro-1786973927.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "7c43a530c0e52915",
-    "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-    "excerpt": "Article URL: https://e360.yale.edu/digest/bomb-fishing-coral-reefs Comments URL: https://news.ycombinator.com/item?id=49434820 Points: 240 # Comments: 131",
-    "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "speckx",
-    "publishedAt": "2026-08-25T14:29:32.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2036,19 +2062,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "ab5efaccfde0052b",
-    "title": "Raspberry Pi Shares Its Official Tutorial For Making a Cyberdeck",
-    "excerpt": "Raspberry Pi has published an official guide for building a cyberdeck, leaning into a viral trend of homemade portable computers built from repurposed cases, purses, and other oddball hardware. The guide uses a Raspberry Pi 5, keyboard, battery, and Pelican-style case. The Verge reports: Raspberry…",
-    "url": "https://hardware.slashdot.org/story/26/08/24/1853204/raspberry-pi-shares-its-official-tutorial-for-making-a-cyberdeck?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-08-24T20:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "e6821914cfb0f8a5",
     "title": "GM vehicles under federal scrutiny after hundreds of reports",
     "excerpt": "The federal government is expanding a safety investigation into a number of vehicles manufactured by General Motors after receiving hundreds of reports of brake failure. The problem affects more than 1.1 million cars, including many of GM's electric vehicles, as well as ones it has built for Honda…",
@@ -2735,19 +2748,6 @@
     "publishedAt": "2026-08-23T00:24:17.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "fc6bcc66ad37b0c4",
-    "title": "If you're not using AI to attack your own systems, your adversaries will",
-    "excerpt": "AI agents excel at hacking organizations, as they’ve demonstrated in real-life attacks multiple times over the past few weeks. They also expose a whole new attack surface for organizations trying to protect against both human and AI intrusions. As if defenders needed more worries to keep them up at…",
-    "url": "https://www.theregister.com/security/2026/08/22/if-youre-not-using-ai-to-attack-your-own-systems-your-adversaries-will/5291346",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-22T15:02:00.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=5270164&width=800",
     "readTimeMinutes": 1
   },
   {
