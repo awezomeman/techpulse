@@ -1,5 +1,369 @@
 [
   {
+    "id": "70cefd6da8df8baf",
+    "title": "Where to preorder the updated Mac Mini and Mac Studio",
+    "excerpt": "The updated Mac Mini is a compact machine for home desktop use. | Image: Apple Apple has announced two new processors, the M6 and M5 Ultra , as well as updated Mac Mini and Mac studio machines powered by them. The new machines are already available for preorder directly from Apple, with shipping…",
+    "url": "https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Brad Bourque",
+    "publishedAt": "2026-08-25T13:02:18.000Z",
+    "category": "hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Mac-Mini-M6-M5Ultra-preorder-featured.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "56bf778e7881c49e",
+    "title": "Andy Dunn’s startup Pie becomes less of an events app and more of a social network",
+    "excerpt": "The social app founded by Bonobos co-founder Andy Dunn is expanding beyond events with new digital homes for groups to connect, organize, and make plans.",
+    "url": "https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Sarah Perez",
+    "publishedAt": "2026-08-25T13:00:00.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "440f96257a985975",
+    "title": "WhatsApp tightens account security with stronger two-step verification and more",
+    "excerpt": "WhatsApp’s two-step verification previously relied on a six-digit PIN, but now users can choose a longer, alphanumeric password with special characters.",
+    "url": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Aisha Malik",
+    "publishedAt": "2026-08-25T13:00:00.000Z",
+    "category": "security",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "79f6641c4618a997",
+    "title": "Accel-backed Keenable is indexing the web for AI agents",
+    "excerpt": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+    "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Anna Heim",
+    "publishedAt": "2026-08-25T13:00:00.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8c519a70d2ed15dd",
+    "title": "Uber launches live video streaming for teen accounts",
+    "excerpt": "Uber said no one will be able to access the video once the ride ends",
+    "url": "https://techcrunch.com/2026/08/25/uber-launches-live-video-streaming-for-teen-accounts/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Ivan Mehta",
+    "publishedAt": "2026-08-25T13:00:00.000Z",
+    "category": "Startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7b0836580d2ad065",
+    "title": "The lens in Wyze’s new $40 indoor camera retracts for privacy",
+    "excerpt": "Wyze announced a new pan-and-tilt security camera today designed for indoor use. The entire Indoor Cam Pan can rotate 360 degrees, while the camera and lens on its front can tilt up and down 103 degrees. When you want privacy, the lens can tilt down until it completely disappears inside the Indoor…",
+    "url": "https://www.theverge.com/tech/961785/wyze-indoor-cam-pan-tilt-2k-night-vision",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Andrew Liszewski",
+    "publishedAt": "2026-08-25T13:00:00.000Z",
+    "category": "policy",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/wyze1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "48dfec2aea3975d9",
+    "title": "GuliKit’s Switch 2 TV dock gives me one feature I’ve missed when traveling",
+    "excerpt": "GuliKit’s Switch 2 dock is a much smaller alternative to Nintendo’s. Nintendo didn’t design its Switch dock with travel in mind. Genki’s Covert Dock is a much smaller alternative my family has been using to connect our Switch to hotel TVs for years, but I’ve come to realize I much prefer having a…",
+    "url": "https://www.theverge.com/tech/983020/gulikit-dock-nintendo-switch-2-hands-on",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Andrew Liszewski",
+    "publishedAt": "2026-08-25T13:00:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gulikitdock8.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "dd69a50bfef7cdbf",
+    "title": "Uber is letting parents check in on their teens through drivers’ selfie cameras",
+    "excerpt": "Uber is updating its teen account feature to allow parents to use the selfie cameras on Uber drivers' phones to check in on their teenage children during ridehail trips. Since first launching teen accounts in 2023 , Uber has touted the myriad ways parents can keep tabs on their children, from PIN…",
+    "url": "https://www.theverge.com/transportation/983926/uber-teen-account-live-video-driver-selfie-camera",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Andrew J. Hawkins",
+    "publishedAt": "2026-08-25T13:00:00.000Z",
+    "category": "software",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK106__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2d28d83e843d3f9f",
+    "title": "Apple’s new M6 chip gets more cores and more AI compute",
+    "excerpt": "Apple has announced a new M6 chip for Macs, along with an M5 Ultra that it says is its \"most powerful chip ever,\" designed for tasks like 3D rendering and running frontier AI models. The M6 is Apple's first 2nm chip, which Apple says will bring improvements in performance and power efficiency, and…",
+    "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Jay Peters",
+    "publishedAt": "2026-08-25T13:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-M6-and-M5-Ultra-hero.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0f20eec65f40cdb9",
+    "title": "Apple’s new Mac Mini has fresh M6 and M5 Pro chip offerings — and higher prices",
+    "excerpt": "The M6 / M5 Pro Mac Mini. | Image: Apple Apple is announcing a new generation of the Mac Mini , once again offering two models: one with a new M6 chip and a higher-end model with the M5 Pro found in this year's MacBook Pro. The new Minis have the same tiny design and footprint as the 2024 M4 / M4…",
+    "url": "https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Antonio G. Di Benedetto",
+    "publishedAt": "2026-08-25T13:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-Mac-mini-front-ports-crop_c30771.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "c2fb218f3562842e",
+    "title": "Apple launches new Mac Studios with its ‘most powerful chip ever’ — the M5 Ultra",
+    "excerpt": "Those precious, precious ports! | Image: Apple Apple is announcing new models of the Mac Studio, now using the existing M5 Max and a new M5 Ultra . This reunification under one chip generation comes over a year after Apple awkwardly split the Studio between M4 Max and M3 Ultra offerings . (The…",
+    "url": "https://www.theverge.com/tech/984207/apple-mac-studio-m5-max-ultra-price-specs-launch",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Antonio G. Di Benedetto",
+    "publishedAt": "2026-08-25T13:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-Mac-Studio-rear-ports.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "05dbd60b7848cc9e",
+    "title": "Uber will let parents peek through a driver's selfie camera when teens are taking a trip",
+    "excerpt": "Uber will only access recordings from a driver's phone to review safety reports.",
+    "url": "https://www.engadget.com/2243088/uber-will-let-parents-peek-through-a-drivers-selfie-camera-when-teens-are-taking-a-trip/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Kris Holt)",
+    "publishedAt": "2026-08-25T13:00:00.000Z",
+    "category": "software",
+    "imageUrl": "https://www.engadget.com/img/gallery/uber-will-let-parents-peek-through-a-drivers-selfie-camera-when-teens-are-taking-a-trip/l-intro-1787599851.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ab3c1ca5f3a82eef",
+    "title": "Apple's M5 Ultra with an 80-core GPU will power through your AI models and 8K video",
+    "excerpt": "With the launch of the latest Mac mini and Mac Studio computers, Apple introduced new chips with cutting-edge technology.",
+    "url": "https://www.engadget.com/2243405/apple-m5-ultra-with-80-core-gpu-ai-models-8k-video/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Steve Dent)",
+    "publishedAt": "2026-08-25T13:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/apples-m5-ultra-with-an-80-core-gpu-will-power-through-your-ai-models-and-8k-video/l-intro-1787636287.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ce69e6540263795b",
+    "title": "WhatsApp is upgrading its 2FA settings",
+    "excerpt": "You can now ditch the six-digit code for a stronger password.",
+    "url": "https://www.engadget.com/2243289/whatsapp-is-upgrading-its-2fa-settings/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Karissa Bell)",
+    "publishedAt": "2026-08-25T13:00:00.000Z",
+    "category": "software",
+    "imageUrl": "https://www.engadget.com/img/gallery/whatsapp-is-upgrading-its-2fa-settings/l-intro-1787611944.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4e0672e7fbfcf1a1",
+    "title": "Apple refreshes Mac mini and Mac Studio with new M6 and M5 Ultra chips",
+    "excerpt": "Apple is finally refreshing the Mac mini and Mac Studio, which will sport new M6 and M5 Ultra chips.",
+    "url": "https://www.engadget.com/2243379/apple-mac-mini-m6-mac-studio-m5-max/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Devindra Hardawar)",
+    "publishedAt": "2026-08-25T13:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/apple-unveils-new-mac-mini-and-mac-studio-debuting-m6-and-m5-ultra-chips/l-intro-1787659852.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a6110edd224b01a0",
+    "title": "MiCA revolutionised European crypto, and left Poland licking its wounds",
+    "excerpt": "Many in Poland may look back at 2026 as the year European crypto finally grew up, and one of Poland’s brightest economic ambitions faded into darkness, writes Mateusz Kara, founder and CEO of Morphic Financial Group.",
+    "url": "https://www.coindesk.com/opinion/2026/08/24/mica-revolutionised-european-crypto-and-left-poland-licking-its-wounds",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Mateusz Kara",
+    "publishedAt": "2026-08-25T13:00:00.000Z",
+    "category": "startups",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/53639c0c462d1a9b7d0995c0e8a3aca32cf27545-5520x3684.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8afc3505e96c2a98",
+    "title": "Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase",
+    "excerpt": "'Operation Lighthouse' went after child sex abuse materials, working with law enforcement to round up more than 14,000 investigative leads.",
+    "url": "https://www.coindesk.com/policy/2026/08/24/chainalysis-run-sting-targets-child-exploitation-networks-with-aid-of-binance-coinbase",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Jesse Hamilton",
+    "publishedAt": "2026-08-25T13:00:00.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/9bce868ea7c0bbcc7eaf04e6a1a10b89164fba2a-1629x916.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d50f40f5b74c183c",
+    "title": "France's tax agency got hacked (in French)",
+    "excerpt": "Article URL: https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/ Comments URL: https://news.ycombinator.com/item?id=49433064 Points: 4 # Comments: 0",
+    "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "zakxxi",
+    "publishedAt": "2026-08-25T12:44:35.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e774ed2085010d26",
+    "title": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
+    "excerpt": "In an environment where emerging fund managers struggle to attract LP attention, FGV is betting that a different venture model can help it lure LPs.",
+    "url": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Dominic-Madori Davis",
+    "publishedAt": "2026-08-25T12:37:37.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "98ad4cfda928bcd8",
+    "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+    "excerpt": "Article URL: https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/ Comments URL: https://news.ycombinator.com/item?id=49432879 Points: 4 # Comments: 1",
+    "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "MC995",
+    "publishedAt": "2026-08-25T12:33:00.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "82f872d2431e156c",
+    "title": "The OLED Xbox Ally X20 officially starts at $1,300",
+    "excerpt": "The Asus Xbox Ally X20 looked like it could be one of the best handheld gaming PCs yet made - but originally, Asus wanted you to buy a bundle pairing it with pricy AR glasses. In July, we told you that bundle would no longer be necessary, and today it's official: you can pre-order a standalone…",
+    "url": "https://www.theverge.com/games/984139/the-oled-xbox-ally-x20-officially-starts-at-1300",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Sean Hollister",
+    "publishedAt": "2026-08-25T12:30:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/verge-ally-x20-sean-hollister-1-12.jpg?quality=90&#038;strip=all&#038;crop=0,8.4001312520508,91.8,91.599868747949",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "bbab256160a41b9b",
+    "title": "ASUS is celebrating the 20th anniversary of its gaming division with the ROG XBOX Ally X20",
+    "excerpt": "The big upgrade on the 20th anniversary ROG XBOX Ally X20 is a larger 7.4-inch OLED display.",
+    "url": "https://www.engadget.com/2243119/asus-rog-xbox-ally-x20-20th-anniversary-release/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Sam Rutherford)",
+    "publishedAt": "2026-08-25T12:30:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/asus-is-celebrating-the-20th-anniversary-of-its-gaming-division-with-the-rog-xbox-ally-x20/l-intro-1787601602.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "764e1c13ebbf8512",
+    "title": "Linux 7.3 Device Mapper Sees Many Fixes, Including Code Cleanups By Claude Opus",
+    "excerpt": "The Linux Device Mapper \"DKM\" framework for mapping block devices to higher-level virtual block devices doesn't see any major new features for Linux 7.3 but there are many bug fixes, including code clean-ups carried out by AI...",
+    "url": "https://www.phoronix.com/news/Linux-7.3-Device-Mapper",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-25T12:22:16.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "68f89597fb8f73af",
+    "title": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
+    "excerpt": "One wallet bought heavily into a yield token, which pushed the price of its paired principal token down just enough to trigger liquidations across borrowers using it as collateral.",
+    "url": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-08-25T12:03:55.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/b4aed0ab4a4b649c1960f892d8955d28e8e5fc67-1552x736.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b0d38cb03431ac50",
+    "title": "Fitbit founders launch Luffu Link, an LTE health and safety band",
+    "excerpt": "Luffu Link combines all day health sensing, voice logging, location awareness, and the ability to get help from trusted contacts into a single device, all without needing a phone nearby.",
+    "url": "https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Aisha Malik",
+    "publishedAt": "2026-08-25T12:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ee865b3ef8334b72",
+    "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+    "excerpt": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+    "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Tim Fernholz",
+    "publishedAt": "2026-08-25T12:00:00.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3cfb54b83448150b",
+    "title": "The TCL Note A1 is a kinder, gentler tablet",
+    "excerpt": "Website design is my passion. Without thinking, I scribbled over what I'd just written. It's what I would have done if I was writing with pen and paper. But I didn't have a pen in my hand; my canvas was an LCD and the letters on my page were just pixels. Score one point to the TCL Note A1. TCL's…",
+    "url": "https://www.theverge.com/tech/984086/tcl-note-a1-nxtpaper-tablet-review",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Allison Johnson",
+    "publishedAt": "2026-08-25T12:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268711_TCL_Note_A1_Nxtpaper_review_AJohnson_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7d7b26ea8e4bd4de",
+    "title": "Don't Wordle",
+    "excerpt": "Article URL: https://dontwordle.com/ Comments URL: https://news.ycombinator.com/item?id=49432319 Points: 48 # Comments: 15",
+    "url": "https://dontwordle.com/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "Hbruz0",
+    "publishedAt": "2026-08-25T11:49:48.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "89261d796d86b5b3",
     "title": "Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme",
     "excerpt": "Brent Kovar has been found guilty of running a crypto Ponzi scheme, defrauding at least 400 investors out of $24 million.",
@@ -10,6 +374,32 @@
     "publishedAt": "2026-08-25T11:46:18.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/65b0740574b4859e756d0a51944a33ea6685a86b-2592x1728.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b0f0da4e7a611595",
+    "title": "HelloAssembly The smallest possible complete Windows application",
+    "excerpt": "Article URL: https://github.com/PlummersSoftwareLLC/HelloAssembly Comments URL: https://news.ycombinator.com/item?id=49432227 Points: 13 # Comments: 11",
+    "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "Bluestein",
+    "publishedAt": "2026-08-25T11:40:00.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1f2210a820aeaa51",
+    "title": "Credit Card Rewards Became a $9.2B Wealth Transfer",
+    "excerpt": "Article URL: https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer Comments URL: https://news.ycombinator.com/item?id=49432201 Points: 96 # Comments: 164",
+    "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "conbrian",
+    "publishedAt": "2026-08-25T11:37:24.000Z",
+    "category": "software",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -80,7 +470,7 @@
   {
     "id": "6d47d83bc6b8e7dc",
     "title": "Quantum battery upends the rules of charging",
-    "excerpt": "Article URL: https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets Comments URL: https://news.ycombinator.com/item?id=49431560 Points: 26 # Comments: 18",
+    "excerpt": "Article URL: https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets Comments URL: https://news.ycombinator.com/item?id=49431560 Points: 44 # Comments: 48",
     "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -112,19 +502,6 @@
     "sourceHomepage": "https://www.phoronix.com",
     "author": "Michael Larabel",
     "publishedAt": "2026-08-25T10:25:15.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "2ef2943aa9583760",
-    "title": "Why some US restaurants are banning tips",
-    "excerpt": "Article URL: https://www.bbc.com/news/articles/c4g36yze692o Comments URL: https://news.ycombinator.com/item?id=49431364 Points: 140 # Comments: 221",
-    "url": "https://www.bbc.com/news/articles/c4g36yze692o",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "rock_artist",
-    "publishedAt": "2026-08-25T10:09:47.000Z",
     "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -169,32 +546,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "eaea9850fc391ff9",
-    "title": "Screen viewing time from age 1 to 8 years and subsequent academic performance",
-    "excerpt": "Article URL: https://link.springer.com/article/10.1007/s12519-026-01046-1 Comments URL: https://news.ycombinator.com/item?id=49431024 Points: 38 # Comments: 30",
-    "url": "https://link.springer.com/article/10.1007/s12519-026-01046-1",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "Markoff",
-    "publishedAt": "2026-08-25T09:17:33.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "6c2861183e872b5c",
-    "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-    "excerpt": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Robert Hart",
-    "publishedAt": "2026-08-25T09:15:03.000Z",
-    "category": "ai",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "9bfe76103dc48237",
     "title": "Crooks push Mac malware through fake OpenAI Codex ads",
     "excerpt": "Cybercrims are using fake OpenAI Codex download pages to trick Mac developers into running malware disguised as installation commands. Researchers at Cato Networks uncovered the campaign after spotting sponsored Google search results targeting people looking to download Codex for macOS. The ads…",
@@ -218,19 +569,6 @@
     "publishedAt": "2026-08-25T08:47:18.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/36e62aa5a6df25b3cf06c337c082dfa82c1f0a05-1920x1252.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4058c94d403147c7",
-    "title": "Android is getting its own weird dots to cure car sickness",
-    "excerpt": "Motion Assist as found in Android 17’s settings. | Image: Android Authority (cropped by The Verge) Google is rolling out a new Android feature that's been proven to reduce, or even eliminate, motion sickness when using a phone inside a moving vehicle. Dubbed Motion Assist by Google, it's very…",
-    "url": "https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Thomas Ricker",
-    "publishedAt": "2026-08-25T08:36:27.000Z",
-    "category": "software",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Motion-Assist-Pixel-11-1-647w-1440h.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -403,22 +741,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "93cd3ee5c8e7f399",
-    "title": "Show HN: Screen memory without screenshots, just text to Markdown",
-    "excerpt": "It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose. Point Claude Code (or anything with file access) at the folder and ask \"what…",
-    "url": "https://github.com/dragthelake/ambient-context",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "Dramatize",
-    "publishedAt": "2026-08-25T04:33:24.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "253f6697afdfe3b4",
     "title": "Headlong: A Microharness for Persistent Agents",
-    "excerpt": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents Comments URL: https://news.ycombinator.com/item?id=49428882 Points: 78 # Comments: 29",
+    "excerpt": "Article URL: https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents Comments URL: https://news.ycombinator.com/item?id=49428882 Points: 89 # Comments: 35",
     "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -470,7 +795,7 @@
   {
     "id": "ad0cd04714e4a049",
     "title": "SiFive's First Server Platform",
-    "excerpt": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform Comments URL: https://news.ycombinator.com/item?id=49428638 Points: 68 # Comments: 16",
+    "excerpt": "Article URL: https://chipsandcheese.com/p/sifives-first-server-platform Comments URL: https://news.ycombinator.com/item?id=49428638 Points: 78 # Comments: 21",
     "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -483,7 +808,7 @@
   {
     "id": "dd533d791d33a203",
     "title": "How Universities Should Prepare Founders",
-    "excerpt": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 150 # Comments: 182",
+    "excerpt": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 165 # Comments: 195",
     "url": "https://paulgraham.com/prepare.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -496,7 +821,7 @@
   {
     "id": "8563a024344045e7",
     "title": "Was modern art a CIA psy-op? (2020)",
-    "excerpt": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/ Comments URL: https://news.ycombinator.com/item?id=49428080 Points: 97 # Comments: 158",
+    "excerpt": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/ Comments URL: https://news.ycombinator.com/item?id=49428080 Points: 104 # Comments: 182",
     "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -572,19 +897,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "9368f8d739ff0575",
-    "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
-    "excerpt": "Cursed BIOS. | Photo by Sean Hollister / The Verge When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so . But it's not clear that computing giant Lenovo will go that far. Three weeks after a…",
-    "url": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Sean Hollister",
-    "publishedAt": "2026-08-24T23:38:10.000Z",
-    "category": "software",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-legion-go-sean-hollister-1-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "604e660e7f016b25",
     "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
     "excerpt": "We all knew it was coming. The expected valuation may surprise, though.",
@@ -600,7 +912,7 @@
   {
     "id": "17737e382f9a8aaf",
     "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-    "excerpt": "Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 116 # Comments: 41",
+    "excerpt": "Article URL: https://github.com/murerkinn/bookshelf Comments URL: https://news.ycombinator.com/item?id=49427001 Points: 121 # Comments: 46",
     "url": "https://github.com/murerkinn/bookshelf",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -613,7 +925,7 @@
   {
     "id": "caecc570422438d1",
     "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-    "excerpt": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 502 # Comments: 147",
+    "excerpt": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm Comments URL: https://news.ycombinator.com/item?id=49426564 Points: 512 # Comments: 155",
     "url": "https://developer.apple.com/news/?id=1ptvdtcm",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -626,7 +938,7 @@
   {
     "id": "2a7d7322802e5e56",
     "title": "Moon (2024)",
-    "excerpt": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 209 # Comments: 36",
+    "excerpt": "Article URL: https://ciechanow.ski/moon/ Comments URL: https://news.ycombinator.com/item?id=49426466 Points: 218 # Comments: 38",
     "url": "https://ciechanow.ski/moon/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -678,7 +990,7 @@
   {
     "id": "50152fc49922f1aa",
     "title": "Data centers become \"killer application\" for new power transformer tech",
-    "excerpt": "Data centers have become the largest driver of surging electricity demand that is straining US power grids. But the AI data center boom has also accelerated investment in a technology that could provide a silver lining for everyone—solid-state power transformers that replace industrial-age…",
+    "excerpt": "Data centers have become the largest driver of a surging electricity demand that is straining US power grids. But the AI data center boom has also accelerated investment in a technology that could provide a silver lining for everyone—solid-state power transformers that replace industrial-age…",
     "url": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
     "source": "Ars Technica",
     "sourceHomepage": "https://arstechnica.com",
@@ -743,7 +1055,7 @@
   {
     "id": "300ed4f3e102ca9c",
     "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-    "excerpt": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 115 # Comments: 21",
+    "excerpt": "Article URL: https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/ Comments URL: https://news.ycombinator.com/item?id=49425800 Points: 121 # Comments: 23",
     "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -832,6 +1144,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "ab5efaccfde0052b",
+    "title": "Raspberry Pi Shares Its Official Tutorial For Making a Cyberdeck",
+    "excerpt": "Raspberry Pi has published an official guide for building a cyberdeck, leaning into a viral trend of homemade portable computers built from repurposed cases, purses, and other oddball hardware. The guide uses a Raspberry Pi 5, keyboard, battery, and Pelican-style case. The Verge reports: Raspberry…",
+    "url": "https://hardware.slashdot.org/story/26/08/24/1853204/raspberry-pi-shares-its-official-tutorial-for-making-a-cyberdeck?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-08-24T20:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "a429b5e27fc5972a",
     "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
     "excerpt": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.",
@@ -876,19 +1201,6 @@
     "publishedAt": "2026-08-24T19:54:19.000Z",
     "category": "ai",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "13eac6207c462c18",
-    "title": "The cat-and-mouse game over 3D-printed guns has begun",
-    "excerpt": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms . It's an opening volley in what's shaping up to be an evolving battle between regulators trying to stem the tide of ghost guns and…",
-    "url": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Mack DeGeurin",
-    "publishedAt": "2026-08-24T19:50:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268706_3D-printed_gun_scanning_CVirginia20.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -970,22 +1282,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "53d975e083eaf7f3",
-    "title": "Oceans hit highest temperature on record",
-    "excerpt": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o Comments URL: https://news.ycombinator.com/item?id=49424606 Points: 598 # Comments: 468",
-    "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "tcp_handshaker",
-    "publishedAt": "2026-08-24T19:19:08.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "113584368e849150",
     "title": "LLMs could control their host machines by exploiting inference engines",
-    "excerpt": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 161 # Comments: 75",
+    "excerpt": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator.com/item?id=49424387 Points: 163 # Comments: 80",
     "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1141,7 +1440,7 @@
   {
     "id": "5f3bc974058a776c",
     "title": "Where did all the public bathrooms go?",
-    "excerpt": "Article URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/ Comments URL: https://news.ycombinator.com/item?id=49422800 Points: 260 # Comments: 572",
+    "excerpt": "Article URL: https://daily.jstor.org/where-did-all-the-public-bathrooms-go/ Comments URL: https://news.ycombinator.com/item?id=49422800 Points: 279 # Comments: 594",
     "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1154,7 +1453,7 @@
   {
     "id": "945e4068028bbca3",
     "title": "The entire city of San Francisco as a video game",
-    "excerpt": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 498 # Comments: 145",
+    "excerpt": "https://twitter.com/cdngdev/status/2091909073038082139 , https://xcancel.com/cdngdev/status/2091909073038082139 Comments URL: https://news.ycombinator.com/item?id=49422784 Points: 516 # Comments: 150",
     "url": "https://sf.thijs.gg/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1162,19 +1461,6 @@
     "publishedAt": "2026-08-24T17:05:38.000Z",
     "category": "startups",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "16534fa976e75a3b",
-    "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
-    "excerpt": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redfin to syndicate its listings, while Redfin would end its own advertising contracts and promise not to…",
-    "url": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Stevie Bonifield",
-    "publishedAt": "2026-08-24T17:01:05.000Z",
-    "category": "policy",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS500_FTC_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -1243,19 +1529,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "8d62c91e85403afe",
-    "title": "Robotaxis are real now — so is the pushback",
-    "excerpt": "Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis outside New York City after taxi drivers, unions, and state lawmakers opposed it. Six months later,…",
-    "url": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Rani Molla",
-    "publishedAt": "2026-08-24T16:42:37.000Z",
-    "category": "crypto",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415564/STK418_Autonomous_Vehicles_Cvirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "4abd2658e8a46aed",
     "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
     "excerpt": "Taiwan has indicted nine people— reportedly including an Nvidia senior manager and two Supermicro employees based in the country—who allegedly helped forge documents to cover up illegal exports of high-end AI servers to China in violation of US export controls. On Monday, Reuters reported that…",
@@ -1316,19 +1589,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "489edfc37a30ad38",
-    "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
-    "excerpt": "PicoMQ is a Rust server for Durable Streams, built on Object Store. Cheap, URL-addressable, granular streams (create/append/read/long-poll/SSE), with Pico Protocol or Durable Streams Protocol as the facade. S3Stream is the stream storage primitive, used in AutoMQ, shipped as a Rust library.…",
-    "url": "https://picomq.com/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "adesh_nalpet",
-    "publishedAt": "2026-08-24T16:08:17.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "931dd7b67db9e32f",
     "title": "F1 in the Netherlands: The driver you most want to beat is your teammate",
     "excerpt": "After months of rumors surrounding his future, now we know: Four-time champion Max Verstappen is staying in the sport for the foreseeable future. The news broke on the eve of the Dutch Grand Prix, held this past weekend at Zandvoort in the Netherlands as F1 returned from its mandatory summer…",
@@ -1357,7 +1617,7 @@
   {
     "id": "9f838576d711cee8",
     "title": "Jabber/XMPP: 25 Years of Digital Independence",
-    "excerpt": "Article URL: https://gultsch.de/posts/25-years-of-digital-independence/ Comments URL: https://news.ycombinator.com/item?id=49421536 Points: 236 # Comments: 140",
+    "excerpt": "Article URL: https://gultsch.de/posts/25-years-of-digital-independence/ Comments URL: https://news.ycombinator.com/item?id=49421536 Points: 244 # Comments: 142",
     "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1365,19 +1625,6 @@
     "publishedAt": "2026-08-24T15:51:31.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f54746c8b1fa7d00",
-    "title": "The Witcher 4 developers target a 2028 release",
-    "excerpt": "CD Projekt Red is aiming to launch The Witcher 4 sometime in 2028, joint CEO Michał Nowakowski says in a new video . CD Projekt Red has been working on its next mainline Witcher title for years and has shown videos of it, but now the studio is providing a target release window for when the game…",
-    "url": "https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Jay Peters",
-    "publishedAt": "2026-08-24T15:48:53.000Z",
-    "category": "startups",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/The_Witcher_4_UE5_tech_demo_PS5_Ciri_2_EN.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -1422,7 +1669,7 @@
   {
     "id": "3f9be69046a627db",
     "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-    "excerpt": "Article URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/ Comments URL: https://news.ycombinator.com/item?id=49421158 Points: 743 # Comments: 352",
+    "excerpt": "Article URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/ Comments URL: https://news.ycombinator.com/item?id=49421158 Points: 757 # Comments: 368",
     "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1448,7 +1695,7 @@
   {
     "id": "468a1a33d560a7a4",
     "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-    "excerpt": "https://xcancel.com/lemire/status/2091894299289874926 Comments URL: https://news.ycombinator.com/item?id=49420873 Points: 898 # Comments: 646",
+    "excerpt": "https://xcancel.com/lemire/status/2091894299289874926 Comments URL: https://news.ycombinator.com/item?id=49420873 Points: 915 # Comments: 654",
     "url": "https://twitter.com/lemire/status/2091894299289874926",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1456,19 +1703,6 @@
     "publishedAt": "2026-08-24T15:08:17.000Z",
     "category": "hardware",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "8d9ac4c6981f5383",
-    "title": "ESPN streaming plans are getting more expensive",
-    "excerpt": "ESPN is hiking the price of its subscription on September 17th, a change that will also impact its bundles with Disney Plus. In a support page spotted earlier by Sports Media Watch , ESPN says its ad-supported Select membership will cost $13.99 instead of $12.99 / month, while its Unlimited plan…",
-    "url": "https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Emma Roth",
-    "publishedAt": "2026-08-24T15:06:24.000Z",
-    "category": "policy",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25594406/STK281_ESPN_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -1524,27 +1758,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "706cd18342d0b530",
-    "title": "Raspberry Pi shares its official tutorial for making a cyberdeck",
-    "excerpt": "Raspberry Pi \" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/raspberry-pi-cyberdeck-main-Large.jpeg?quality=90&strip=all&crop=0,0,100,100\" /> Raspberry Pi's head of social, Ashley Whittaker, acknowledged the cyberdeck trend today, saying \"we…",
-    "url": "https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Stevie Bonifield",
-    "publishedAt": "2026-08-24T14:49:44.000Z",
-    "category": "startups",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/raspberry-pi-cyberdeck-main-Large.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1,
-    "alsoCoveredBy": [
-      {
-        "source": "Slashdot",
-        "sourceHomepage": "https://slashdot.org",
-        "url": "https://hardware.slashdot.org/story/26/08/24/1853204/raspberry-pi-shares-its-official-tutorial-for-making-a-cyberdeck?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "publishedAt": "2026-08-24T20:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": "b5f51b2be8f5165c",
     "title": "Trump tried to curb clean energy. It’s booming anyway.",
     "excerpt": "Donald Trump is presiding over an unexpected clean energy boom, as rising electricity demand spurs investment in new capacity despite the US administration’s efforts to thwart a solar and wind rollout. Clean energy additions will rise by a record 45 gigawatts this year, according to S&P Global…",
@@ -1584,19 +1797,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "50d1f5268d348adc",
-    "title": "Brake problems in GM EVs draw greater federal scrutiny",
-    "excerpt": "In one crash, the driver of a 2024 Blazer EV said they had to \"deliberately steer the vehicle into a concrete curb\" to slow it down and avoid a \"catastrophic intersection collision.\"",
-    "url": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Sean O'Kane",
-    "publishedAt": "2026-08-24T14:18:47.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "d94dcff635dc4cdc",
     "title": "ShinyHunters and ReliaQuest trade blows over claimed breach",
     "excerpt": "ShinyHunters has claimed another cybersecurity scalp, but ReliaQuest says the crew's social engineering attack only got as far as one employee identity before its defenses slammed the door. The ransomware baddies listed US-based infosec biz ReliaQuest on its leak site on August 23, claiming the…",
@@ -1607,32 +1807,6 @@
     "publishedAt": "2026-08-24T14:01:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=5235702&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4d38648c033d9e08",
-    "title": "Hugging Face reportedly in talks to be acquired for $13B",
-    "excerpt": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
-    "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Rebecca Bellan",
-    "publishedAt": "2026-08-24T13:47:26.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4986ea2460f1b949",
-    "title": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
-    "excerpt": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity.",
-    "url": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Ivan Mehta",
-    "publishedAt": "2026-08-24T13:45:15.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1688,19 +1862,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "255ade25f63a746c",
-    "title": "The best way to test your Dolby Atmos sound system",
-    "excerpt": "When you're testing your Dolby Atmos system, pick a good benchmark video and stick with it.",
-    "url": "https://www.engadget.com/2240264/best-way-test-dolby-atmos-sound/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Jack Whitcombe)",
-    "publishedAt": "2026-08-24T13:00:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/the-best-way-to-test-your-dolby-atmos-sound-system/l-intro-1787165312.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "30b76a7e85a4bc5f",
     "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
     "excerpt": "The treasury firm stepped up its ETH buying as Tom Lee said the crypto’s 30% weekly rally could signal a larger move ahead.",
@@ -1737,19 +1898,6 @@
     "publishedAt": "2026-08-24T12:32:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=257881&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "2fd633607fa39e50",
-    "title": "What's the difference between Dolby Digital 5.1 and Dolby Digital Plus?",
-    "excerpt": "Is one better than the other? Will your equipment support both? Here's what you need to know and how it might affect your setup.",
-    "url": "https://www.engadget.com/2240277/dolby-digital-vs-plus-what-difference-between/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Novak Božović)",
-    "publishedAt": "2026-08-24T12:30:00.000Z",
-    "category": "software",
-    "imageUrl": "https://www.engadget.com/img/gallery/whats-the-difference-between-dolby-digital-5-1-and-dolby-digital-plus/l-intro-1787062861.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1844,19 +1992,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "884eff27fb03d635",
-    "title": "Financial repression: The new buzzword for bitcoin bulls",
-    "excerpt": "Your day-ahead look for Aug. 24, 2026",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/24/financial-repression-the-new-buzzword-for-bitcoin-bulls",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Omkar Godbole",
-    "publishedAt": "2026-08-24T11:15:00.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/4997e8344864d8af680c8573fe456675d3db41fd-3965x2230.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "3b98deb59b14113c",
     "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
     "excerpt": "In another time, the MacBook Neo could have caused a substantial realignment of the lowish-end laptop business. Sure, it has shortcomings compared to the MacBook Air, but it could have at least encouraged PC makers to start shipping consistently decent keyboards, screens, and build quality in the…",
@@ -1870,19 +2005,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "4f452c8d57a79a61",
-    "title": "The new Shokz OpenFit Air 2 earbuds are nearly 20 percent lighter than the previous generation",
-    "excerpt": "They feature an open-ear design that reduces pressure and heat buildup.",
-    "url": "https://www.engadget.com/2232481/new-shokz-openfit-air-2-earbuds/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Lawrence Bonk)",
-    "publishedAt": "2026-08-24T11:00:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/the-new-shokz-openfit-air-2-earbuds-are-nearly-20-percent-lighter-than-the-previous-generation/l-intro-1786118462.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "b6ec1385d7815ab1",
     "title": "AI vendors are turning to custom hardware as Microsoft winds back the clock on Windows",
     "excerpt": "KETTLE This week, we learned a lot more about what’s going on inside the datacenter. GPUs may still be king but their exclusive reign on the rack is over. The taskbar's supremacy at the bottom of the desktop may be coming to an end too. You can listen to the latest episode of The Kettle right here…",
@@ -1893,32 +2015,6 @@
     "publishedAt": "2026-08-24T10:57:00.000Z",
     "category": "ai",
     "imageUrl": "https://image.theregister.com/?imageId=5291295&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3d9300fe5c006946",
-    "title": "Gemini strikes Apex deal to widen prediction markets reach",
-    "excerpt": "The planned tie-up would make Gemini the exclusive CFTC-regulated venue for crypto event contracts offered through Apex’s futures commission merchant.",
-    "url": "https://www.coindesk.com/business/2026/08/24/gemini-strikes-apex-deal-to-widen-prediction-markets-reach",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Will Canny",
-    "publishedAt": "2026-08-24T10:55:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/8e7f143de173398091d41beb177dbda33ae0dcfa-4208x2367.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "159ef3e402da9e5a",
-    "title": "Bitcoin steadies near $78,000 as gold rallies, altcoins consolidate after best week in 3 years",
-    "excerpt": "BTC was little changed Monday after last week's 24% surge triggered by a Treasury buyback announcement that squeezed over $3 billion in shorts.",
-    "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-steadies-near-usd78-000-as-gold-rallies-altcoins-consolidate-after-best-week-in-3-years",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Oliver Knight",
-    "publishedAt": "2026-08-24T10:41:46.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/2007719f343c4c70ab8c730d923ead497b09bc70-1520x855.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -1971,19 +2067,6 @@
     "publishedAt": "2026-08-24T10:12:56.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "25d63a27b2fde301",
-    "title": "Taiwan reportedly indicted NVIDIA employees for exporting prohibited AI servers to China",
-    "excerpt": "Even though the US has relaxed its restrictions of AI chip exports to China, illegal exports are apparently still taking place.",
-    "url": "https://www.engadget.com/2242415/taiwan-reportedly-indicted-nvidia-employees-for-exporting-prohibited-ai-servers-to-china/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Steve Dent)",
-    "publishedAt": "2026-08-24T10:02:03.000Z",
-    "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/taiwan-reportedly-indicted-nvidia-employees-for-exporting-prohibited-ai-servers-to-china/l-intro-1787565479.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2117,58 +2200,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "4c8f023937587e73",
-    "title": "What is a VESA mount and how to know what type your TV has",
-    "excerpt": "Those 200 × 200 and 400 × 400 numbers tell you where the mounting holes line up, but you still need to check the mount's weight limit and hardware.",
-    "url": "https://www.engadget.com/2240255/vesa-tv-mount-how-to-know-type-guide/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Novak Božović)",
-    "publishedAt": "2026-08-23T21:30:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/what-is-a-vesa-mount-and-how-to-know-what-type-your-tv-has/l-intro-1787145637.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "1538fb9c10b7b42c",
-    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-    "excerpt": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-    "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Anthony Ha",
-    "publishedAt": "2026-08-23T20:01:36.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "666f473cb39cc8a9",
-    "title": "Uber faces fine of nearly $1B over automated driver suspensions",
-    "excerpt": "The Dutch Data Protection Authority is fining Uber €825 million in the second-largest penalty issued under Europe’s GDPR.",
-    "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Anthony Ha",
-    "publishedAt": "2026-08-23T19:30:00.000Z",
-    "category": "policy",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3ece450dabbeaa26",
-    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "excerpt": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-    "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Lauren Forristal",
-    "publishedAt": "2026-08-23T19:14:08.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "f6eff6289303d7af",
     "title": "Linux 7.3 Better Protects Against Buggy EFI Firmware Taking Down The Rest Of User-Space",
     "excerpt": "The EFI updates were merged today for the in-development Linux 7.3 kernel. Most notable with the EFI updates is now enforcing a timeout foe EFI runtime service completions rather than potentially hanging indefinitely...",
@@ -2191,19 +2222,6 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-08-23T18:10:13.000Z",
     "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b01255d76605aa1e",
-    "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
-    "excerpt": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-    "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Kirsten Korosec",
-    "publishedAt": "2026-08-23T16:03:00.000Z",
-    "category": "hardware",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -2489,19 +2507,6 @@
     "sourceHomepage": "https://www.phoronix.com",
     "author": "Michael Larabel",
     "publishedAt": "2026-08-22T10:18:39.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b808d9fb4b88e52f",
-    "title": "Open-Source Etnaviv Driver Now Able To Run YOLOX",
-    "excerpt": "The open-source, reverse-engineered Etnaviv driver stack that began for providing accelerated graphics support on Vivante GPU IP and since expanded to handle Vivante NPUs as well is now able to handle YOLOX object detection...",
-    "url": "https://www.phoronix.com/news/Etnaviv-YOLOX",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-22T10:06:04.000Z",
     "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
