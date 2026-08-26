@@ -1,5 +1,57 @@
 [
   {
+    "id": "35265d2a90046a04",
+    "title": "Sopra Steria's £370M Capita spat heads for 2028 courtroom showdown",
+    "excerpt": "System integrator Sopra Steria is set to have its day in court to contest a £370 million contract awarded by the UK government to Capita to run shared services for finance and HR across a number of Whitehall departments. A judge has set a trial date for early 2028, pending attempts to settle the…",
+    "url": "https://www.theregister.com/public-sector/2026/08/26/sopra-sterias-370m-capita-spat-heads-for-2028-courtroom-showdown/5292234",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-26T08:29:00.000Z",
+    "category": "software",
+    "imageUrl": "https://image.theregister.com/?imageId=227883&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "473a6285e5ccd7c3",
+    "title": "A massive $6.4 billion bitcoin options expiry on Friday could amplify volatility",
+    "excerpt": "Friday’s expiry follows bitcoin’s surge from $62,000 to $80,000, leaving market makers with increased exposure to manage around several key strike prices.",
+    "url": "https://www.coindesk.com/markets/2026/08/25/a-massive-usd6-4-billion-bitcoin-options-expiry-on-friday-could-amplify-volatility",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "James Van Straten",
+    "publishedAt": "2026-08-26T08:01:09.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/433dc66ccff9e405374f8e47dd644523e988eda5-2400x1200.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3ed9b6a7446fd182",
+    "title": "US removes Syria from terrorism sponsor list, lifting major investment obstacle",
+    "excerpt": "Article URL: https://www.reuters.com/world/middle-east/us-removes-syrias-designation-state-sponsor-terrorism-2026-08-24/ Comments URL: https://news.ycombinator.com/item?id=49445362 Points: 7 # Comments: 1",
+    "url": "https://www.reuters.com/world/middle-east/us-removes-syrias-designation-state-sponsor-terrorism-2026-08-24/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "imadj",
+    "publishedAt": "2026-08-26T07:46:36.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f9990195f9a28ee9",
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "excerpt": "Article URL: https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/ Comments URL: https://news.ycombinator.com/item?id=49445252 Points: 24 # Comments: 8",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "sam_lowry_",
+    "publishedAt": "2026-08-26T07:31:31.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "91dc54a11b8075a9",
     "title": "SpaceX is building a $100 billion 'Starbase' launch site in Louisiana",
     "excerpt": "'We're preparing to build a spaceport that, until now, has only existed in science fiction,'",
@@ -54,7 +106,7 @@
   {
     "id": "5f4a76f0c9a1ab38",
     "title": "More than half of adults in U.S. say they lack basic statistical understanding",
-    "excerpt": "Article URL: https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding Comments URL: https://news.ycombinator.com/item?id=49444514 Points: 63 # Comments: 86",
+    "excerpt": "Article URL: https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding Comments URL: https://news.ycombinator.com/item?id=49444514 Points: 77 # Comments: 112",
     "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -93,7 +145,7 @@
   {
     "id": "c5f9c7930c15d52a",
     "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
-    "excerpt": "Article URL: https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm Comments URL: https://news.ycombinator.com/item?id=49444232 Points: 19 # Comments: 4",
+    "excerpt": "Article URL: https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm Comments URL: https://news.ycombinator.com/item?id=49444232 Points: 32 # Comments: 9",
     "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -158,7 +210,7 @@
   {
     "id": "d1475184a3524f52",
     "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
-    "excerpt": "Article URL: https://arxiv.org/abs/2607.21503 Comments URL: https://news.ycombinator.com/item?id=49443523 Points: 39 # Comments: 14",
+    "excerpt": "Article URL: https://arxiv.org/abs/2607.21503 Comments URL: https://news.ycombinator.com/item?id=49443523 Points: 49 # Comments: 16",
     "url": "https://arxiv.org/abs/2607.21503",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -197,7 +249,7 @@
   {
     "id": "53580a8d0bc336d3",
     "title": "Queryable Executables",
-    "excerpt": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables Comments URL: https://news.ycombinator.com/item?id=49442589 Points: 135 # Comments: 23",
+    "excerpt": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables Comments URL: https://news.ycombinator.com/item?id=49442589 Points: 167 # Comments: 35",
     "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -288,7 +340,7 @@
   {
     "id": "627f5c4c4f2430f6",
     "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-    "excerpt": "Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 70 # Comments: 35",
+    "excerpt": "Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 77 # Comments: 43",
     "url": "https://github.com/runetes/maiao",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -496,7 +548,7 @@
   {
     "id": "9f66add6a4dee5f4",
     "title": "When str.lower() is a security vulnerability in Python",
-    "excerpt": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 107 # Comments: 45",
+    "excerpt": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 117 # Comments: 47",
     "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -652,26 +704,13 @@
   {
     "id": "b9863581f526cba4",
     "title": "C2PA Cameras Do Not Survive Contact with Reality",
-    "excerpt": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 137 # Comments: 80",
+    "excerpt": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 145 # Comments: 84",
     "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "Retr0id",
     "publishedAt": "2026-08-25T19:38:24.000Z",
     "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "0925ce909a494da5",
-    "title": "A brief history of federal lift ticket regulation",
-    "excerpt": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 59 # Comments: 11",
-    "url": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "CGMthrowaway",
-    "publishedAt": "2026-08-25T19:25:43.000Z",
-    "category": "policy",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -691,7 +730,7 @@
   {
     "id": "df1f73b59713f07d",
     "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-    "excerpt": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 364 # Comments: 181",
+    "excerpt": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 378 # Comments: 188",
     "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -821,7 +860,7 @@
   {
     "id": "48873335c69ed158",
     "title": "Dolly Parton has died",
-    "excerpt": "https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 Points: 1422 #…",
+    "excerpt": "https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 Points: 1442 #…",
     "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -847,7 +886,7 @@
   {
     "id": "85685aa149d856de",
     "title": "Firefox 157 will include JPEG XL by default on all platforms",
-    "excerpt": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 357 # Comments: 90",
+    "excerpt": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 368 # Comments: 94",
     "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -949,19 +988,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "7aabe5b1835ba7e1",
-    "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
-    "excerpt": "Article URL: https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer Comments URL: https://news.ycombinator.com/item?id=49437566 Points: 0 # Comments: 0",
-    "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "gfavvas",
-    "publishedAt": "2026-08-25T17:28:52.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "579b65ab022fee88",
     "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
     "excerpt": "Louisiana Gov. Jeff Landry said Tuesday that SpaceX will commit $100 billion to develop Starship factories and launch pads in the state's coastal areas. In doing so, the company seeks to replicate the Starbase facility it has built over the last decade in southern Texas on a larger scale. The…",
@@ -977,7 +1003,7 @@
   {
     "id": "964b914a5f9d7edb",
     "title": "Run OpenBSD on DigitalOcean for $4/month",
-    "excerpt": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 156 # Comments: 70",
+    "excerpt": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 161 # Comments: 72",
     "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1029,7 +1055,7 @@
   {
     "id": "25847b3565db870b",
     "title": "Nitter and XCancel receive cease and desist notices",
-    "excerpt": "https://github.com/zedeus/nitter/issues/1442 https://xcancel.com/ Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 848 # Comments: 702",
+    "excerpt": "https://github.com/zedeus/nitter/issues/1442 https://xcancel.com/ Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 893 # Comments: 741",
     "url": "https://github.com/zedeus/nitter/issues/1442",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1042,7 +1068,7 @@
   {
     "id": "b3477100d51ce4f7",
     "title": "Black hole singularity is a surface not a point",
-    "excerpt": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 230 # Comments: 168",
+    "excerpt": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 236 # Comments: 174",
     "url": "https://arxiv.org/abs/2608.21590",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1107,7 +1133,7 @@
   {
     "id": "bb00e934598219a7",
     "title": "My Friend Aaron",
-    "excerpt": "Article URL: https://rorz.io/writing/my-friend-aaron Comments URL: https://news.ycombinator.com/item?id=49437069 Points: 532 # Comments: 146",
+    "excerpt": "Article URL: https://rorz.io/writing/my-friend-aaron Comments URL: https://news.ycombinator.com/item?id=49437069 Points: 548 # Comments: 147",
     "url": "https://rorz.io/writing/my-friend-aaron",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1120,7 +1146,7 @@
   {
     "id": "1741d977cb7cebae",
     "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
-    "excerpt": "We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better. Comments URL: https://news.ycombinator.com/item?id=49437049 Points: 144 # Comments: 38",
+    "excerpt": "We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better. Comments URL: https://news.ycombinator.com/item?id=49437049 Points: 151 # Comments: 39",
     "url": "https://github.com/jeffhajewski/latticedb",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1159,7 +1185,7 @@
   {
     "id": "49a4eac9ae7460f3",
     "title": "Tooltips need a delay, and then they need to skip it",
-    "excerpt": "Article URL: https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/ Comments URL: https://news.ycombinator.com/item?id=49436786 Points: 165 # Comments: 41",
+    "excerpt": "Article URL: https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/ Comments URL: https://news.ycombinator.com/item?id=49436786 Points: 172 # Comments: 45",
     "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1958,19 +1984,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "162ade46250df524",
-    "title": "Bitcoin traders place $2.9 million bet on a rapid price jump above $82,000",
-    "excerpt": "Traders are spending millions to position for further Bitcoin upside after its staggering rally to $80,000, though demand for downside protection remains firm, according to Laevitas.",
-    "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-traders-place-usd2-9-million-bet-on-a-rapid-price-jump-above-usd82-000",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Omkar Godbole",
-    "publishedAt": "2026-08-25T05:51:52.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/182de5fa38718c7d7513c132ebd58b4ad7663cc9-6016x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "1be1f7298be8f71a",
     "title": "SpaceX claims it will put a Vera Rubin NVL72 rack-scale system into orbit next year",
     "excerpt": "SpaceX will send at least one datacenter rack into space next year, according to Elon Musk, with more to follow in 2028. The occasional trillionaire made that claim on Monday on the user-generated content platform – a.k.a. the social network X – that he runs in part to feed the Grok models SpaceX…",
@@ -2626,19 +2639,6 @@
     "publishedAt": "2026-08-24T00:38:25.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "bac38d7a265c7234",
-    "title": "AI-driven upgrade of communications energy storage empowers a new energy ecosystem for multiple industries",
-    "excerpt": "AI datacenters have become a major driver of rising electricity consumption, but AI doesn't just happen in a datacenter. The telecommunications networks connecting datacenters to businesses and consumers are themselves major electricity consumers. 5G and its successors mean ever higher energy…",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/24/sponsored-ai-driven-upgrade-of-communications-energy-storage-empowers-a-new-energy-ecosystem-for-multiple-industries/5290186",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-24T00:00:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://image.theregister.com/?imageId=5290211&width=800",
     "readTimeMinutes": 1
   },
   {
