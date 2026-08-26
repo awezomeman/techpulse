@@ -1,5 +1,161 @@
 [
   {
+    "id": "5e1d88da8e8cb206",
+    "title": "SpaceX plans to plant $100B Starbase on Louisiana coast",
+    "excerpt": "SpaceX has announced plans to spend $100 billion on a Louisiana spaceport designed to support thousands of launches annually. According to SpaceX, construction is planned to start in 2027, and the first Starship launch from the facility is earmarked for 2029. The spaceport will have its own…",
+    "url": "https://www.theregister.com/offbeat/2026/08/26/spacex-plans-to-plant-100b-starbase-on-louisiana-coast/5292520",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-26T11:29:00.000Z",
+    "category": "policy",
+    "imageUrl": "https://image.theregister.com/?imageId=5292566&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b688adff78d1165d",
+    "title": "ECB claims digital euro will offer 'maximum level of privacy' amid surveillance fears",
+    "excerpt": "Central bank officials say the Eurosystem will be structurally unable to link users to purchases, but civil society groups remain skeptical.",
+    "url": "https://www.coindesk.com/policy/2026/08/26/the-digital-euro-will-offer-more-privacy-than-regular-bank-transfers-ecb-says",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Olivier Acuna",
+    "publishedAt": "2026-08-26T11:14:16.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/d0db21d928477a86ae47705620f76771436eb0c7-2650x1512.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "83b416b43d924603",
+    "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+    "excerpt": "Bill Gates, chair of the Gates Foundation, speaks during a 2024 conference. | Bloomberg via Getty Images Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Robert Hart",
+    "publishedAt": "2026-08-26T11:07:40.000Z",
+    "category": "policy",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2095072875.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "57f01c97b0d8d261",
+    "title": "Nigel Farage wants to scrap 'suffocating' UK GDPR",
+    "excerpt": "Reform UK says it wants to scrap the UK GDPR after eight years of the regulations “strangling” small businesses. The party’s leader Nigel Farage and economy chief Robert Jenrick announced additional pledges on Tuesday evening, which include scrapping the UK’s data protection regulation for a…",
+    "url": "https://www.theregister.com/public-sector/2026/08/26/nigel-farage-wants-to-scrap-suffocating-uk-gdpr/5292540",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-26T11:06:40.000Z",
+    "category": "policy",
+    "imageUrl": "https://image.theregister.com/?imageId=223526&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "66a73e59cef5aecc",
+    "title": "The 3 catalysts that could define bitcoin's next move",
+    "excerpt": "Your day-ahead look for Aug. 26, 2026",
+    "url": "https://www.coindesk.com/daybook-us/2026/08/26/the-3-catalysts-that-could-define-bitcoin-s-next-move",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Omkar Godbole",
+    "publishedAt": "2026-08-26T11:02:33.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/693575c5c547ec149e1c707e4ac159476905398f-600x338.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "55000dbc066e5e26",
+    "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+    "excerpt": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+    "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Jagmeet Singh",
+    "publishedAt": "2026-08-26T11:00:00.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "52431fbefed483d8",
+    "title": "Scientists May Have Figured Out Why Dead Brains Don't Always Rot",
+    "excerpt": "fahrbot-bot shares a report from Smithsonian Magazine: The brain is one of the first organs to begin decomposing after death. Yet archaeologists have discovered more than 4,400 preserved human brains around the world, some of which have remained intact for the last 12,000 years. In hundreds of…",
+    "url": "https://science.slashdot.org/story/26/08/26/0626223/scientists-may-have-figured-out-why-dead-brains-dont-always-rot?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-08-26T11:00:00.000Z",
+    "category": "Software",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a00407e778f44b52",
+    "title": "Bitcoin takes a breather after adding 23% in 7 days as ETF demand holds steady",
+    "excerpt": "The price of bitcoin fell to $79,000 on Wednesday after gaining 23% in seven days as August ETF inflows climbed above $3 billion.",
+    "url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-takes-a-breather-after-adding-23-in-7-days-as-etf-demand-holds-steady",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Francisco Rodrigues",
+    "publishedAt": "2026-08-26T10:45:29.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/71f884c9ed5ca051ca0b72a7daa966a90cfd37b2-1520x856.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "07c36ca1dc0ba2c3",
+    "title": "U.S. gov't moves to suppress pushback on data centers",
+    "excerpt": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them Comments URL:…",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "rbanffy",
+    "publishedAt": "2026-08-26T10:44:40.000Z",
+    "category": "crypto",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3353a4e21a4434a1",
+    "title": "Strategy cuts net leverage to near zero as cash nearly matches convertible debt",
+    "excerpt": "The bitcoin treasury company has built nearly four years of preferred-dividend coverage while continuing to repurchase STRC below par.",
+    "url": "https://www.coindesk.com/markets/2026/08/26/strategy-cuts-net-leverage-to-near-zero-as-cash-nearly-matches-convertible-debt",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "James Van Straten",
+    "publishedAt": "2026-08-26T10:42:52.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/b7a99614202ed28b61d1994d9d008c5549d6458b-3552x1970.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "97f76ff26368d862",
+    "title": "The Feeling of Power (Asimov, 1958)",
+    "excerpt": "Article URL: https://archive.org/details/1958-02_IF Comments URL: https://news.ycombinator.com/item?id=49446602 Points: 10 # Comments: 1",
+    "url": "https://archive.org/details/1958-02_IF",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "irdc",
+    "publishedAt": "2026-08-26T10:26:03.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "13cff13023565ee7",
+    "title": "It's Not the End of Programming",
+    "excerpt": "Article URL: https://mathstodon.xyz/@abuseofnotation/117161292083848755 Comments URL: https://news.ycombinator.com/item?id=49446597 Points: 11 # Comments: 4",
+    "url": "https://mathstodon.xyz/@abuseofnotation/117161292083848755",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "boris_m",
+    "publishedAt": "2026-08-26T10:25:33.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "deddf848a93d85ec",
     "title": "AMD Introduces New \"GFX1250-STRICT\" GPU Target In LLVM",
     "excerpt": "The AMD GFX1250 IP is what's used by the new Instinct MI450 series accelerators. That's been around within the Linux kernel, AMDGPU LLVM compiler back-end, and related codebases the past year. Interestingly merged yesterday is a new \"gfx1250-strict\" target...",
@@ -26,9 +182,22 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "8a40d13bde7492ba",
+    "title": "Beyond Recall and the Illusion of Competence",
+    "excerpt": "Article URL: https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html Comments URL: https://news.ycombinator.com/item?id=49446442 Points: 9 # Comments: 1",
+    "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "tuxie_",
+    "publishedAt": "2026-08-26T10:07:02.000Z",
+    "category": "science",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "a9c204e117f936d5",
     "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-    "excerpt": "Article URL: https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek Comments URL: https://news.ycombinator.com/item?id=49446422 Points: 5 # Comments: 1",
+    "excerpt": "Article URL: https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek Comments URL: https://news.ycombinator.com/item?id=49446422 Points: 92 # Comments: 27",
     "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -93,13 +262,26 @@
   {
     "id": "d5a829ea8d47acaf",
     "title": "Social media use on the rise among Australian under-16s after ban: data",
-    "excerpt": "Article URL: https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data Comments URL: https://news.ycombinator.com/item?id=49446221 Points: 11 # Comments: 8",
+    "excerpt": "Article URL: https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data Comments URL: https://news.ycombinator.com/item?id=49446221 Points: 25 # Comments: 24",
     "url": "https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "giuliomagnifico",
     "publishedAt": "2026-08-26T09:35:58.000Z",
     "category": "security",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9a9716f307fb16d3",
+    "title": "XCancel and Nitter are receiving C&D letters from XCorp",
+    "excerpt": "https://xcancel.com \"On Monday 24th August at 8PM EST, we received at letter from X Corp. asking to cease and desist the service XCancel. The service XCancel is stopped until further notice. We are seeking legal advice and won't share more details for now. Thank you for the trust you have put in…",
+    "url": "https://news.ycombinator.com/item?id=49446210",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "mobilio",
+    "publishedAt": "2026-08-26T09:34:38.000Z",
+    "category": "crypto",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -130,22 +312,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "0f6429ef679060f4",
-    "title": "Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY",
-    "excerpt": "Article URL: https://www.globalsolo.global/data/banking-access-index Comments URL: https://news.ycombinator.com/item?id=49445908 Points: 6 # Comments: 6",
-    "url": "https://www.globalsolo.global/data/banking-access-index",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "jettfu",
-    "publishedAt": "2026-08-26T09:01:49.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "c3c8edeb5da3f1f3",
     "title": "Value Classes Still Need Compiler Sympathy",
-    "excerpt": "Article URL: https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/ Comments URL: https://news.ycombinator.com/item?id=49445884 Points: 11 # Comments: 2",
+    "excerpt": "Article URL: https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/ Comments URL: https://news.ycombinator.com/item?id=49445884 Points: 28 # Comments: 11",
     "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -158,7 +327,7 @@
   {
     "id": "c5e2a3d985d27665",
     "title": "Oldinsurancemaps.net is now a Charter Project",
-    "excerpt": "Article URL: https://openstreetmap.us/news/2026/08/oim-charter-project/ Comments URL: https://news.ycombinator.com/item?id=49445873 Points: 34 # Comments: 3",
+    "excerpt": "Article URL: https://openstreetmap.us/news/2026/08/oim-charter-project/ Comments URL: https://news.ycombinator.com/item?id=49445873 Points: 63 # Comments: 8",
     "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -184,7 +353,7 @@
   {
     "id": "d548e64399a40e00",
     "title": "RAG Is Simpler Than You Think",
-    "excerpt": "Article URL: https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think Comments URL: https://news.ycombinator.com/item?id=49445727 Points: 33 # Comments: 16",
+    "excerpt": "Article URL: https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think Comments URL: https://news.ycombinator.com/item?id=49445727 Points: 87 # Comments: 43",
     "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -223,7 +392,7 @@
   {
     "id": "ed6c163602c3ba54",
     "title": "Show HN: Buslens – where can I get to by bus? (UK)",
-    "excerpt": "Article URL: https://rupertlinacre.com/buslens/ Comments URL: https://news.ycombinator.com/item?id=49445286 Points: 29 # Comments: 19",
+    "excerpt": "Article URL: https://rupertlinacre.com/buslens/ Comments URL: https://news.ycombinator.com/item?id=49445286 Points: 41 # Comments: 30",
     "url": "https://rupertlinacre.com/buslens/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -286,19 +455,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "5f4a76f0c9a1ab38",
-    "title": "More than half of adults in U.S. say they lack basic statistical understanding",
-    "excerpt": "Article URL: https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding Comments URL: https://news.ycombinator.com/item?id=49444514 Points: 103 # Comments: 138",
-    "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "giuliomagnifico",
-    "publishedAt": "2026-08-26T05:49:20.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "5c7c9565a612636d",
     "title": "India’s crewed space program will fly this year, after missing 2022 and 2025 targets",
     "excerpt": "India plans the first launch of its crewed space program this year and has expanded its orbital ambitions to include operating a space station by 2035. India’s crewed space program is called Gaganyaan and has already missed deadlines to fly in 2022 and 2025. The nation’s space research organization…",
@@ -327,7 +483,7 @@
   {
     "id": "c5f9c7930c15d52a",
     "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
-    "excerpt": "Article URL: https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm Comments URL: https://news.ycombinator.com/item?id=49444232 Points: 43 # Comments: 12",
+    "excerpt": "Article URL: https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm Comments URL: https://news.ycombinator.com/item?id=49444232 Points: 47 # Comments: 12",
     "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -392,7 +548,7 @@
   {
     "id": "d1475184a3524f52",
     "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
-    "excerpt": "Article URL: https://arxiv.org/abs/2607.21503 Comments URL: https://news.ycombinator.com/item?id=49443523 Points: 56 # Comments: 19",
+    "excerpt": "Article URL: https://arxiv.org/abs/2607.21503 Comments URL: https://news.ycombinator.com/item?id=49443523 Points: 59 # Comments: 21",
     "url": "https://arxiv.org/abs/2607.21503",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -431,7 +587,7 @@
   {
     "id": "53580a8d0bc336d3",
     "title": "Queryable Executables",
-    "excerpt": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables Comments URL: https://news.ycombinator.com/item?id=49442589 Points: 197 # Comments: 53",
+    "excerpt": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables Comments URL: https://news.ycombinator.com/item?id=49442589 Points: 211 # Comments: 60",
     "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -522,7 +678,7 @@
   {
     "id": "627f5c4c4f2430f6",
     "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-    "excerpt": "Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 82 # Comments: 50",
+    "excerpt": "Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 91 # Comments: 52",
     "url": "https://github.com/runetes/maiao",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -717,7 +873,7 @@
   {
     "id": "9f66add6a4dee5f4",
     "title": "When str.lower() is a security vulnerability in Python",
-    "excerpt": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 132 # Comments: 54",
+    "excerpt": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 136 # Comments: 57",
     "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -871,19 +1027,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "b9863581f526cba4",
-    "title": "C2PA Cameras Do Not Survive Contact with Reality",
-    "excerpt": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 155 # Comments: 103",
-    "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "Retr0id",
-    "publishedAt": "2026-08-25T19:38:24.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "c29a4151e61a9b1b",
     "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
     "excerpt": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software.",
@@ -899,7 +1042,7 @@
   {
     "id": "df1f73b59713f07d",
     "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-    "excerpt": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 399 # Comments: 198",
+    "excerpt": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 423 # Comments: 203",
     "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1131,19 +1274,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "7aabe5b1835ba7e1",
-    "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
-    "excerpt": "Article URL: https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer Comments URL: https://news.ycombinator.com/item?id=49437566 Points: 0 # Comments: 0",
-    "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "gfavvas",
-    "publishedAt": "2026-08-25T17:28:52.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "579b65ab022fee88",
     "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
     "excerpt": "Louisiana Gov. Jeff Landry said Tuesday that SpaceX will commit $100 billion to develop Starship factories and launch pads in the state's coastal areas. In doing so, the company seeks to replicate the Starbase facility it has built over the last decade in southern Texas on a larger scale. The…",
@@ -1159,7 +1289,7 @@
   {
     "id": "964b914a5f9d7edb",
     "title": "Run OpenBSD on DigitalOcean for $4/month",
-    "excerpt": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 167 # Comments: 77",
+    "excerpt": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 172 # Comments: 79",
     "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1183,19 +1313,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "19845f5a7713a4aa",
-    "title": "Instagram’s ‘First Draft’ trims your Reels clips for you",
-    "excerpt": "Instagram is launching a new Reels-editing feature that automatically trims your video clips to focus on the highlights. The feature, called First Draft, is rolling out to Instagram's iPhone app and provides a \"starting point\" that you can build upon with other edits, according to an announcement…",
-    "url": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Emma Roth",
-    "publishedAt": "2026-08-25T17:12:31.000Z",
-    "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/insta-first-draft.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "ae49bfcbff4b618a",
     "title": "The Nokia 300 Charge doubles as a 10W powerbank",
     "excerpt": "The Nokia 300 Charge doubles as a 10W powerbank.",
@@ -1211,7 +1328,7 @@
   {
     "id": "25847b3565db870b",
     "title": "Nitter and XCancel receive cease and desist notices",
-    "excerpt": "https://github.com/zedeus/nitter/issues/1442 https://xcancel.com/ Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 967 # Comments: 796",
+    "excerpt": "https://github.com/zedeus/nitter/issues/1442 https://xcancel.com/ Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 986 # Comments: 826",
     "url": "https://github.com/zedeus/nitter/issues/1442",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1224,7 +1341,7 @@
   {
     "id": "b3477100d51ce4f7",
     "title": "Black hole singularity is a surface not a point",
-    "excerpt": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 255 # Comments: 183",
+    "excerpt": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 262 # Comments: 188",
     "url": "https://arxiv.org/abs/2608.21590",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1271,19 +1388,6 @@
     "publishedAt": "2026-08-25T16:57:00.000Z",
     "category": "Hardware",
     "imageUrl": "https://www.engadget.com/img/gallery/xbox-has-a-bunch-of-translucent-green-accessories-for-the-consoles-25th-birthday/l-intro-1787676972.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "1741d977cb7cebae",
-    "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
-    "excerpt": "We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better. Comments URL: https://news.ycombinator.com/item?id=49437049 Points: 156 # Comments: 41",
-    "url": "https://github.com/jeffhajewski/latticedb",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "smiths1999",
-    "publishedAt": "2026-08-25T16:52:05.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1633,19 +1737,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "93b5b7bb13b868e2",
-    "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
-    "excerpt": "The funding, Gatik's largest so far, was led by Qatar Investment Authority and Koch Disruptive Technologies.",
-    "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Kirsten Korosec",
-    "publishedAt": "2026-08-25T14:00:00.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "7976446c0381923a",
     "title": "OpenAI's upcoming Jalapeño chip looks like it'll be an inference beast",
     "excerpt": "OpenAI offered its closest look yet at its spicy new Jalapeño AI accelerator at the annual Hot Chips semiconductor development conference at Stanford on Tuesday. The chips, first teased earlier this year, were developed in collaboration with Broadcom, and are the first in a series of custom silicon…",
@@ -1880,19 +1971,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "12ba0a26a4308b58",
-    "title": "Solana ETFs extend growth streak to 5 days after year's biggest inflows",
-    "excerpt": "Monday's $33.5 million was the largest single-day inflow since December, pushing cumulative net inflows to a record $1.22 billion and trading volume to $166.8 million.",
-    "url": "https://www.coindesk.com/markets/2026/08/25/solana-etfs-extend-growth-streak-to-5-days-after-year-s-biggest-inflows",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Olivier Acuna",
-    "publishedAt": "2026-08-25T10:25:32.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/ebb5a0f62882b8a5af36fcacd210933b3a4950a7-3770x2122.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "bf8ee5f40e42551a",
     "title": "DisplayPort 2.1 ALPM Still Being Worked On For Intel Xe3P / Nova Lake",
     "excerpt": "The in-development Linux 7.3 kernel is marking Nova Lake Xe3P graphics as stable in being enabled by default and no longer hidden behind the \"force probe\" flag. While on-by-default, there still are some features that have yet to land like the DisplayPort 2.1 ALPM functionality...",
@@ -1958,19 +2036,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "9b9f9b0f52038829",
-    "title": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
-    "excerpt": "Treasury says Ivan Obukhov processed over $100 million in crypto for IRGC-QF oil sales since 2023.",
-    "url": "https://www.coindesk.com/policy/2026/08/25/u-s-widens-iran-crackdown-to-encompass-crypto-gold-shipping-and-technology",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Francisco Rodrigues",
-    "publishedAt": "2026-08-25T08:47:18.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/36e62aa5a6df25b3cf06c337c082dfa82c1f0a05-1920x1252.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "a18ac7a88e56efbd",
     "title": "HMRC dangles £500M carrot for National Insurance system revamp",
     "excerpt": "The UK government is inviting suppliers to bid to build a new national insurance system with a price tag of up to £500 million. The tax collector, HM Revenue & Customs (HMRC), has issued a call to speak to suppliers about the procurement to continue to run and then update the National Insurance and…",
@@ -1994,32 +2059,6 @@
     "publishedAt": "2026-08-25T08:00:00.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=5290473&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "25ced437bf96f00d",
-    "title": "Franklin Templeton and Hashkey roll out U.S. tokenized money fund in Asia",
-    "excerpt": "Tokenized U.S. treasury and money market funds are one of the fastest-growing segments in the digital asset markets, growing fifteenfold in two years.",
-    "url": "https://www.coindesk.com/business/2026/08/25/franklin-templeton-and-hashkey-roll-out-u-s-tokenized-money-fund-in-asia",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Olivier Acuna",
-    "publishedAt": "2026-08-25T07:55:18.000Z",
-    "category": "software",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/09b91de6de40cce9a15d10990697d9b05efe241f-1920x1078.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "0e53b90f6da44f81",
-    "title": "Live updates: Bitcoin settles in under $80,000, with interest rates headed lower on Tuesday",
-    "excerpt": "Spot bitcoin funds took in $337.56 million on Aug. 24, extending an unbroken run of inflows that has now put real money behind a rally that started with a short squeeze.",
-    "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Shaurya Malwa",
-    "publishedAt": "2026-08-25T07:40:11.000Z",
-    "category": "crypto",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2111,19 +2150,6 @@
     "publishedAt": "2026-08-25T00:10:51.000Z",
     "category": "ai",
     "imageUrl": "https://image.theregister.com/?imageId=261247&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "2c80a758177c06f3",
-    "title": "Amazon Hikes Hardware Prices By 60%, Blaming Memory Shortage",
-    "excerpt": "Amazon has raised the prices of its hardware devices by as much as 60%, blaming \"significant increases in memory and storage component costs.\" TechCrunch reports: The price explosion impacted Fire TVs, Echos, Kindles, and Eeros. One egregious example that's been cited is that of the Echo Dot, one…",
-    "url": "https://news.slashdot.org/story/26/08/24/228251/amazon-hikes-hardware-prices-by-60-blaming-memory-shortage?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-08-24T23:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -2639,32 +2665,6 @@
     "publishedAt": "2026-08-24T09:56:08.000Z",
     "category": "hardware",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "6d33b521fd602be6",
-    "title": "Canonical backs quest to translate mountains of C into safe Rust with AI",
-    "excerpt": "Canonical's fondness for AI and Rust is no secret. Now it is co-funding a three-year PhD project investigating whether the former can translate large C codebases into the latter. Engineering veep Jon Seager announced the investment on Ubuntu's Discourse forum. The PhD project will be conducted at…",
-    "url": "https://www.theregister.com/software/2026/08/24/canonical-backs-quest-to-translate-mountains-of-c-into-safe-rust-with-ai/5290959",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-24T09:27:00.000Z",
-    "category": "software",
-    "imageUrl": "https://image.theregister.com/?imageId=1618337&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b3681a530b55462a",
-    "title": "Software should work, and talking about it needn't be boring",
-    "excerpt": "OPINION DVD is one of those technologies that dominated for barely a generation yet left a permanent cultural mark. It made high-quality video cheap enough for mass distribution, popularized the TV series boxed set, and encouraged its gluttonous consequence: binge viewing. Streaming and capacious…",
-    "url": "https://www.theregister.com/columnists/2026/08/24/software-should-work-and-talking-about-it-neednt-be-boring/5290862",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-24T08:31:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://image.theregister.com/?imageId=5266492&width=800",
     "readTimeMinutes": 1
   },
   {
