@@ -1,5 +1,18 @@
 [
   {
+    "id": "fd761e36aed36b31",
+    "title": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
+    "excerpt": "Every major token fell over 24 hours except HYPE, though bitcoin holds a 23% weekly gain and XRP almost 45%.",
+    "url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-08-26T04:13:10.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/36ba29ecad53db4ffa1e0c5b2dfe5b2bf0de96a2-1508x844.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "355d8aee33bd32ed",
     "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
     "excerpt": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
@@ -15,7 +28,7 @@
   {
     "id": "d3044b95035565ee",
     "title": "Ask HN: What is one simple thing LLMs are insanely bad at?",
-    "excerpt": "I am looking for ideas on what to train a specialized model for! What is one simple thing you repeatedly ask ChatGPT, Claude, or another model to do that it still somehow messes up? Comments URL: https://news.ycombinator.com/item?id=49443820 Points: 12 # Comments: 17",
+    "excerpt": "I am looking for ideas on what to train a specialized model for! What is one simple thing you repeatedly ask ChatGPT, Claude, or another model to do that it still somehow messes up? Comments URL: https://news.ycombinator.com/item?id=49443820 Points: 22 # Comments: 38",
     "url": "https://news.ycombinator.com/item?id=49443820",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -28,26 +41,13 @@
   {
     "id": "d1475184a3524f52",
     "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
-    "excerpt": "Article URL: https://arxiv.org/abs/2607.21503 Comments URL: https://news.ycombinator.com/item?id=49443523 Points: 6 # Comments: 1",
+    "excerpt": "Article URL: https://arxiv.org/abs/2607.21503 Comments URL: https://news.ycombinator.com/item?id=49443523 Points: 9 # Comments: 3",
     "url": "https://arxiv.org/abs/2607.21503",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "gdad",
     "publishedAt": "2026-08-26T02:35:25.000Z",
     "category": "science",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "6876515560507789",
-    "title": "Letter from Dolly Parton to Eminem",
-    "excerpt": "Article URL: https://twitter.com/Eminem/status/2092367272891310482 Comments URL: https://news.ycombinator.com/item?id=49443331 Points: 44 # Comments: 3",
-    "url": "https://twitter.com/Eminem/status/2092367272891310482",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "tibbar",
-    "publishedAt": "2026-08-26T02:09:12.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -67,7 +67,7 @@
   {
     "id": "adaa9d6eee2bfac4",
     "title": "The brain may be about to have its Ozempic moment",
-    "excerpt": "Article URL: https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment Comments URL: https://news.ycombinator.com/item?id=49442743 Points: 62 # Comments: 44",
+    "excerpt": "Article URL: https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment Comments URL: https://news.ycombinator.com/item?id=49442743 Points: 64 # Comments: 47",
     "url": "https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -93,7 +93,7 @@
   {
     "id": "53580a8d0bc336d3",
     "title": "Queryable Executables",
-    "excerpt": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables Comments URL: https://news.ycombinator.com/item?id=49442589 Points: 46 # Comments: 6",
+    "excerpt": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables Comments URL: https://news.ycombinator.com/item?id=49442589 Points: 53 # Comments: 7",
     "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -184,7 +184,7 @@
   {
     "id": "627f5c4c4f2430f6",
     "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-    "excerpt": "Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 46 # Comments: 18",
+    "excerpt": "Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 48 # Comments: 19",
     "url": "https://github.com/runetes/maiao",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -392,7 +392,7 @@
   {
     "id": "9f66add6a4dee5f4",
     "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
-    "excerpt": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 84 # Comments: 33",
+    "excerpt": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 89 # Comments: 38",
     "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -548,7 +548,7 @@
   {
     "id": "b9863581f526cba4",
     "title": "C2PA Cameras Do Not Survive Contact with Reality",
-    "excerpt": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 104 # Comments: 54",
+    "excerpt": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 106 # Comments: 56",
     "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -561,7 +561,7 @@
   {
     "id": "0925ce909a494da5",
     "title": "A brief history of federal lift ticket regulation",
-    "excerpt": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 49 # Comments: 3",
+    "excerpt": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 50 # Comments: 6",
     "url": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -587,7 +587,7 @@
   {
     "id": "df1f73b59713f07d",
     "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-    "excerpt": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 318 # Comments: 154",
+    "excerpt": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 323 # Comments: 158",
     "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -717,7 +717,7 @@
   {
     "id": "48873335c69ed158",
     "title": "Dolly Parton has died",
-    "excerpt": "https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 Points: 1319 #…",
+    "excerpt": "https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 Points: 1328 #…",
     "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -743,7 +743,7 @@
   {
     "id": "85685aa149d856de",
     "title": "Firefox 157 will include JPEG XL by default on all platforms",
-    "excerpt": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 310 # Comments: 83",
+    "excerpt": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 313 # Comments: 86",
     "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -925,7 +925,7 @@
   {
     "id": "25847b3565db870b",
     "title": "Nitter and XCancel receive cease and desist notices",
-    "excerpt": "https://github.com/zedeus/nitter/issues/1442 https://xcancel.com/ Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 714 # Comments: 609",
+    "excerpt": "https://github.com/zedeus/nitter/issues/1442 https://xcancel.com/ Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 725 # Comments: 620",
     "url": "https://github.com/zedeus/nitter/issues/1442",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -938,7 +938,7 @@
   {
     "id": "b3477100d51ce4f7",
     "title": "Black hole singularity is a surface not a point",
-    "excerpt": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 211 # Comments: 150",
+    "excerpt": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 213 # Comments: 152",
     "url": "https://arxiv.org/abs/2608.21590",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1003,7 +1003,7 @@
   {
     "id": "bb00e934598219a7",
     "title": "My Friend Aaron",
-    "excerpt": "Article URL: https://rorz.io/writing/my-friend-aaron Comments URL: https://news.ycombinator.com/item?id=49437069 Points: 481 # Comments: 133",
+    "excerpt": "Article URL: https://rorz.io/writing/my-friend-aaron Comments URL: https://news.ycombinator.com/item?id=49437069 Points: 489 # Comments: 133",
     "url": "https://rorz.io/writing/my-friend-aaron",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1016,7 +1016,7 @@
   {
     "id": "1741d977cb7cebae",
     "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
-    "excerpt": "We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better. Comments URL: https://news.ycombinator.com/item?id=49437049 Points: 123 # Comments: 36",
+    "excerpt": "We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better. Comments URL: https://news.ycombinator.com/item?id=49437049 Points: 128 # Comments: 36",
     "url": "https://github.com/jeffhajewski/latticedb",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1055,7 +1055,7 @@
   {
     "id": "49a4eac9ae7460f3",
     "title": "Tooltips need a delay, and then they need to skip it",
-    "excerpt": "Article URL: https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/ Comments URL: https://news.ycombinator.com/item?id=49436786 Points: 133 # Comments: 33",
+    "excerpt": "Article URL: https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/ Comments URL: https://news.ycombinator.com/item?id=49436786 Points: 133 # Comments: 34",
     "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1240,6 +1240,19 @@
     "publishedAt": "2026-08-25T15:30:00.000Z",
     "category": "hardware",
     "imageUrl": "https://www.engadget.com/img/gallery/apple-m5-ultra-vs-m3-ultra-whats-changed/l-intro-1787695390.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "93551b217a1b5318",
+    "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+    "excerpt": "Found that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer's cloud service for stuff like changing AC or opening/ locking doors. Gave it info such as the full car manual.…",
+    "url": "https://github.com/ThinkOffApp/CarWatch",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "petruspennanen",
+    "publishedAt": "2026-08-25T15:20:20.000Z",
+    "category": "hardware",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2171,19 +2184,6 @@
     "publishedAt": "2026-08-24T17:43:41.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=5291999&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "9c70561cc8117b9e",
-    "title": "Crypto political group details list of U.S. congressional allies its backing this year",
-    "excerpt": "Stand With Crypto, a member group that rates the crypto friendliness of politicians, is supporting 32 U.S. House incumbents, with more endorsements coming.",
-    "url": "https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Jesse Hamilton",
-    "publishedAt": "2026-08-24T17:30:10.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/6e8fdcc1bed7c2905fc568606a4db2d48360c7d0-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
