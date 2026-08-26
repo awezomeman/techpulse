@@ -13,6 +13,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "adaa9d6eee2bfac4",
+    "title": "The brain may be about to have its Ozempic moment",
+    "excerpt": "Article URL: https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment Comments URL: https://news.ycombinator.com/item?id=49442743 Points: 25 # Comments: 17",
+    "url": "https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "Anon84",
+    "publishedAt": "2026-08-26T00:40:41.000Z",
+    "category": "science",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "e1432047f902fc67",
     "title": "Chrome/Chromium Experimenting With Flatpak Packaging",
     "excerpt": "Google engineers responsible for the Chrome/Chromium web browser are experimenting with Flatpak packaging on Linux. They aren't yet committed to officially supporting Flatpak packages but for now are at least exploring the option...",
@@ -28,7 +41,7 @@
   {
     "id": "53580a8d0bc336d3",
     "title": "Queryable Executables",
-    "excerpt": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables Comments URL: https://news.ycombinator.com/item?id=49442589 Points: 5 # Comments: 0",
+    "excerpt": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables Comments URL: https://news.ycombinator.com/item?id=49442589 Points: 19 # Comments: 3",
     "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -119,7 +132,7 @@
   {
     "id": "627f5c4c4f2430f6",
     "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-    "excerpt": "Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 25 # Comments: 3",
+    "excerpt": "Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 31 # Comments: 11",
     "url": "https://github.com/runetes/maiao",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -236,7 +249,7 @@
   {
     "id": "0f0d0550b9ca3a38",
     "title": "Python's pre-declared constants are kinda weird",
-    "excerpt": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 134 # Comments: 104",
+    "excerpt": "Article URL: https://sebsite.pw/w/20260801-pythonconstants.html Comments URL: https://news.ycombinator.com/item?id=49441033 Points: 154 # Comments: 140",
     "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -340,7 +353,7 @@
   {
     "id": "9f66add6a4dee5f4",
     "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
-    "excerpt": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 55 # Comments: 28",
+    "excerpt": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 70 # Comments: 30",
     "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -496,7 +509,7 @@
   {
     "id": "b9863581f526cba4",
     "title": "C2PA Cameras Do Not Survive Contact with Reality",
-    "excerpt": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 74 # Comments: 33",
+    "excerpt": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 87 # Comments: 40",
     "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -509,7 +522,7 @@
   {
     "id": "0925ce909a494da5",
     "title": "A brief history of federal lift ticket regulation",
-    "excerpt": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 24 # Comments: 0",
+    "excerpt": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 37 # Comments: 1",
     "url": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -535,7 +548,7 @@
   {
     "id": "df1f73b59713f07d",
     "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-    "excerpt": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 251 # Comments: 140",
+    "excerpt": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 295 # Comments: 149",
     "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -665,7 +678,7 @@
   {
     "id": "48873335c69ed158",
     "title": "Dolly Parton has died",
-    "excerpt": "https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 Points: 1192 #…",
+    "excerpt": "https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de... https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d... , https://archive.ph/w4vsE https://www.hollywoodreporter.com/music/music-news/dolly-par... Comments URL: https://news.ycombinator.com/item?id=49438052 Points: 1258 #…",
     "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -691,7 +704,7 @@
   {
     "id": "85685aa149d856de",
     "title": "Firefox 157 will include JPEG XL by default on all platforms",
-    "excerpt": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 272 # Comments: 69",
+    "excerpt": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Points: 292 # Comments: 76",
     "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -821,7 +834,7 @@
   {
     "id": "964b914a5f9d7edb",
     "title": "Run OpenBSD on DigitalOcean for $4/month",
-    "excerpt": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 118 # Comments: 55",
+    "excerpt": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 130 # Comments: 61",
     "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -842,19 +855,6 @@
     "publishedAt": "2026-08-25T17:20:00.000Z",
     "category": "Hardware",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE009_Game_Awards_2025_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d11fef79fbcc328f",
-    "title": "Show HN: Lightweight system monitor for Linux VPS written in Go",
-    "excerpt": "Article URL: https://github.com/leodeim/vpsmon Comments URL: https://news.ycombinator.com/item?id=49437361 Points: 46 # Comments: 16",
-    "url": "https://github.com/leodeim/vpsmon",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "ygagaga",
-    "publishedAt": "2026-08-25T17:13:59.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -886,7 +886,7 @@
   {
     "id": "25847b3565db870b",
     "title": "Nitter and XCancel receive cease and desist notices",
-    "excerpt": "https://github.com/zedeus/nitter/issues/1442 https://xcancel.com/ Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 609 # Comments: 522",
+    "excerpt": "https://github.com/zedeus/nitter/issues/1442 https://xcancel.com/ Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 671 # Comments: 576",
     "url": "https://github.com/zedeus/nitter/issues/1442",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -899,7 +899,7 @@
   {
     "id": "b3477100d51ce4f7",
     "title": "Black hole singularity is a surface not a point",
-    "excerpt": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 183 # Comments: 125",
+    "excerpt": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 196 # Comments: 132",
     "url": "https://arxiv.org/abs/2608.21590",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -964,7 +964,7 @@
   {
     "id": "bb00e934598219a7",
     "title": "My Friend Aaron",
-    "excerpt": "Article URL: https://rorz.io/writing/my-friend-aaron Comments URL: https://news.ycombinator.com/item?id=49437069 Points: 435 # Comments: 120",
+    "excerpt": "Article URL: https://rorz.io/writing/my-friend-aaron Comments URL: https://news.ycombinator.com/item?id=49437069 Points: 460 # Comments: 126",
     "url": "https://rorz.io/writing/my-friend-aaron",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -977,7 +977,7 @@
   {
     "id": "1741d977cb7cebae",
     "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
-    "excerpt": "We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better. Comments URL: https://news.ycombinator.com/item?id=49437049 Points: 106 # Comments: 31",
+    "excerpt": "We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better. Comments URL: https://news.ycombinator.com/item?id=49437049 Points: 117 # Comments: 33",
     "url": "https://github.com/jeffhajewski/latticedb",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1003,7 +1003,7 @@
   {
     "id": "64e5a3976e9279bd",
     "title": "Starbase, LA",
-    "excerpt": "Article URL: https://www.spacex.com/sites/starbase-la Comments URL: https://news.ycombinator.com/item?id=49436822 Points: 217 # Comments: 390",
+    "excerpt": "Article URL: https://www.spacex.com/sites/starbase-la Comments URL: https://news.ycombinator.com/item?id=49436822 Points: 240 # Comments: 411",
     "url": "https://www.spacex.com/sites/starbase-la",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1029,7 +1029,7 @@
   {
     "id": "49a4eac9ae7460f3",
     "title": "Tooltips need a delay, and then they need to skip it",
-    "excerpt": "Article URL: https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/ Comments URL: https://news.ycombinator.com/item?id=49436786 Points: 110 # Comments: 24",
+    "excerpt": "Article URL: https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/ Comments URL: https://news.ycombinator.com/item?id=49436786 Points: 118 # Comments: 28",
     "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1049,19 +1049,6 @@
     "author": "Sarah Perez",
     "publishedAt": "2026-08-25T16:35:00.000Z",
     "category": "policy",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "810406c16a22e017",
-    "title": "Fuzzing the Gleam Compiler",
-    "excerpt": "Article URL: https://www.kurz.net/posts/fuzzing-gleam-compiler Comments URL: https://news.ycombinator.com/item?id=49436706 Points: 56 # Comments: 6",
-    "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "crowdhailer",
-    "publishedAt": "2026-08-25T16:30:55.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1219,6 +1206,19 @@
     "publishedAt": "2026-08-25T15:30:00.000Z",
     "category": "hardware",
     "imageUrl": "https://www.engadget.com/img/gallery/apple-m5-ultra-vs-m3-ultra-whats-changed/l-intro-1787695390.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "93551b217a1b5318",
+    "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+    "excerpt": "Found that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer's cloud service for stuff like changing AC or opening/ locking doors. Gave it info such as the full car manual.…",
+    "url": "https://github.com/ThinkOffApp/CarWatch",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "petruspennanen",
+    "publishedAt": "2026-08-25T15:20:20.000Z",
+    "category": "hardware",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
