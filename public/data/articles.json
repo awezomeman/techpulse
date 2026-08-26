@@ -1,5 +1,109 @@
 [
   {
+    "id": "deddf848a93d85ec",
+    "title": "AMD Introduces New \"GFX1250-STRICT\" GPU Target In LLVM",
+    "excerpt": "The AMD GFX1250 IP is what's used by the new Instinct MI450 series accelerators. That's been around within the Linux kernel, AMDGPU LLVM compiler back-end, and related codebases the past year. Interestingly merged yesterday is a new \"gfx1250-strict\" target...",
+    "url": "https://www.phoronix.com/news/AMD-gfx1250-strict",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-26T10:22:43.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1abe7070f7f12136",
+    "title": "GCC Patches Added -mcpu=native -mtune=native Support For RISC-V",
+    "excerpt": "A SiFive engineer posted patches today for the GNU Compiler Collection (GCC) for adding -mtune=native -mcpu=native support for the compiler on RISC-V...",
+    "url": "https://www.phoronix.com/news/GCC-RISC-V-mcpu-mtune-native",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-26T10:08:15.000Z",
+    "category": "security",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a9c204e117f936d5",
+    "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+    "excerpt": "Article URL: https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek Comments URL: https://news.ycombinator.com/item?id=49446422 Points: 5 # Comments: 1",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "garo-pro",
+    "publishedAt": "2026-08-26T10:04:55.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3772095e3f9c9e7b",
+    "title": "Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe",
+    "excerpt": "Revolut said the stablecoin’s rollout will start with a select group of customers within Denmark, Poland, and Portugal.",
+    "url": "https://www.coindesk.com/business/2026/08/26/euro-stablecoins-get-a-mainstream-push-as-revolut-begins-rolling-out-eurr-in-europe",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Francisco Rodrigues",
+    "publishedAt": "2026-08-26T10:03:43.000Z",
+    "category": "Crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/3cd4d678c4ba0e042e13fafc6c1f01fa2cef3847-1420x916.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "46847481cf63239c",
+    "title": "Ikea’s Xbox collection includes a giant thumbstick stool",
+    "excerpt": "Some pieces in the Yxstaby collection are more obviously Xbox-inspired than others. | Image: Ikea Ikea has teamed up with Microsoft to launch a new assortment of gaming-inspired furniture and home accessories, coinciding with the 25th anniversary of the first Xbox console. The nine-piece Yxstaby…",
+    "url": "https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Jess Weatherbed",
+    "publishedAt": "2026-08-26T10:00:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Ikea-Xbox-Yxstaby-collection.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "37b3abbf338bb439",
+    "title": "UK supermarket scales go 404 on shoppers",
+    "excerpt": "BORK!BORK!BORK! The scales are empty, and so what else can there be but a 404? Today's entry in the pantheon of bork takes us to the UK city of Coventry, where a set of scales at a Tesco store shows the number 404. Spotted by eagle-eyed Register reader Rowan Archer, the scales have logged off and…",
+    "url": "https://www.theregister.com/offbeat/2026/08/26/uk-supermarket-scales-go-404-on-shoppers/5292088",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-26T10:00:00.000Z",
+    "category": "Security",
+    "imageUrl": "https://image.theregister.com/?imageId=5292093&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "98228c1e77b48296",
+    "title": "Linux 7.3 PCI Code Adds Advisory Non-Fatal Errors, Intel Dunlow Support",
+    "excerpt": "All of the PCI/PCIe subsystem updates for the in-development Linux 7.3 kernel were merged this week...",
+    "url": "https://www.phoronix.com/news/Linux-7.3-PCI",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-26T09:53:14.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d5a829ea8d47acaf",
+    "title": "Social media use on the rise among Australian under-16s after ban: data",
+    "excerpt": "Article URL: https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data Comments URL: https://news.ycombinator.com/item?id=49446221 Points: 11 # Comments: 8",
+    "url": "https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "giuliomagnifico",
+    "publishedAt": "2026-08-26T09:35:58.000Z",
+    "category": "security",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "93885974b5c5d783",
     "title": "Debian polls its developers on whether to burn the bots, tame the bots, or let 'em loose",
     "excerpt": "The Debian project is polling its developers over AI usage: use it, impose limits, or ban it outright. The second Debian vote of the year, General Resolution: LLM usage in Debian is underway. More saliently, it is still underway – Debian Project Lead Sruthi Chandran extended the voting deadline by…",
@@ -14,7 +118,7 @@
   },
   {
     "id": "80de5e63d582a5e8",
-    "title": "Japan targets early 2030s launch for blockchain-based stock and bond settlement system",
+    "title": "Japan to start stocks and bonds tokenization development plans this year",
     "excerpt": "Japan's regulators are racing to modernize national settlement systems to prevent institutional investors and foreign capital from fleeing to overseas markets.",
     "url": "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds",
     "source": "CoinDesk",
@@ -28,7 +132,7 @@
   {
     "id": "0f6429ef679060f4",
     "title": "Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY",
-    "excerpt": "Article URL: https://www.globalsolo.global/data/banking-access-index Comments URL: https://news.ycombinator.com/item?id=49445908 Points: 3 # Comments: 0",
+    "excerpt": "Article URL: https://www.globalsolo.global/data/banking-access-index Comments URL: https://news.ycombinator.com/item?id=49445908 Points: 6 # Comments: 6",
     "url": "https://www.globalsolo.global/data/banking-access-index",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -41,7 +145,7 @@
   {
     "id": "c3c8edeb5da3f1f3",
     "title": "Value Classes Still Need Compiler Sympathy",
-    "excerpt": "Article URL: https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/ Comments URL: https://news.ycombinator.com/item?id=49445884 Points: 3 # Comments: 0",
+    "excerpt": "Article URL: https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/ Comments URL: https://news.ycombinator.com/item?id=49445884 Points: 11 # Comments: 2",
     "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -54,7 +158,7 @@
   {
     "id": "c5e2a3d985d27665",
     "title": "Oldinsurancemaps.net is now a Charter Project",
-    "excerpt": "Article URL: https://openstreetmap.us/news/2026/08/oim-charter-project/ Comments URL: https://news.ycombinator.com/item?id=49445873 Points: 7 # Comments: 0",
+    "excerpt": "Article URL: https://openstreetmap.us/news/2026/08/oim-charter-project/ Comments URL: https://news.ycombinator.com/item?id=49445873 Points: 34 # Comments: 3",
     "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -78,22 +182,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "ea4811c61705992f",
-    "title": "My Anti-AI Manifesto",
-    "excerpt": "Article URL: http://alessandrorosa.altervista.org/pages/my.anti.ai.manifesto.html Comments URL: https://news.ycombinator.com/item?id=49445787 Points: 4 # Comments: 2",
-    "url": "http://alessandrorosa.altervista.org/pages/my.anti.ai.manifesto.html",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "alesrosa",
-    "publishedAt": "2026-08-26T08:47:45.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "d548e64399a40e00",
     "title": "RAG Is Simpler Than You Think",
-    "excerpt": "Article URL: https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think Comments URL: https://news.ycombinator.com/item?id=49445727 Points: 5 # Comments: 0",
+    "excerpt": "Article URL: https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think Comments URL: https://news.ycombinator.com/item?id=49445727 Points: 33 # Comments: 16",
     "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -132,26 +223,13 @@
   {
     "id": "ed6c163602c3ba54",
     "title": "Show HN: Buslens – where can I get to by bus? (UK)",
-    "excerpt": "Article URL: https://rupertlinacre.com/buslens/ Comments URL: https://news.ycombinator.com/item?id=49445286 Points: 16 # Comments: 3",
+    "excerpt": "Article URL: https://rupertlinacre.com/buslens/ Comments URL: https://news.ycombinator.com/item?id=49445286 Points: 29 # Comments: 19",
     "url": "https://rupertlinacre.com/buslens/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "RobinL",
     "publishedAt": "2026-08-26T07:36:52.000Z",
     "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f9990195f9a28ee9",
-    "title": "Disrupting a new covert influence campaign from Russia",
-    "excerpt": "Article URL: https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/ Comments URL: https://news.ycombinator.com/item?id=49445252 Points: 48 # Comments: 31",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "sam_lowry_",
-    "publishedAt": "2026-08-26T07:31:31.000Z",
-    "category": "ai",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -210,7 +288,7 @@
   {
     "id": "5f4a76f0c9a1ab38",
     "title": "More than half of adults in U.S. say they lack basic statistical understanding",
-    "excerpt": "Article URL: https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding Comments URL: https://news.ycombinator.com/item?id=49444514 Points: 92 # Comments: 134",
+    "excerpt": "Article URL: https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding Comments URL: https://news.ycombinator.com/item?id=49444514 Points: 103 # Comments: 138",
     "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -249,7 +327,7 @@
   {
     "id": "c5f9c7930c15d52a",
     "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
-    "excerpt": "Article URL: https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm Comments URL: https://news.ycombinator.com/item?id=49444232 Points: 36 # Comments: 10",
+    "excerpt": "Article URL: https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm Comments URL: https://news.ycombinator.com/item?id=49444232 Points: 43 # Comments: 12",
     "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -314,7 +392,7 @@
   {
     "id": "d1475184a3524f52",
     "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
-    "excerpt": "Article URL: https://arxiv.org/abs/2607.21503 Comments URL: https://news.ycombinator.com/item?id=49443523 Points: 53 # Comments: 17",
+    "excerpt": "Article URL: https://arxiv.org/abs/2607.21503 Comments URL: https://news.ycombinator.com/item?id=49443523 Points: 56 # Comments: 19",
     "url": "https://arxiv.org/abs/2607.21503",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -353,7 +431,7 @@
   {
     "id": "53580a8d0bc336d3",
     "title": "Queryable Executables",
-    "excerpt": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables Comments URL: https://news.ycombinator.com/item?id=49442589 Points: 182 # Comments: 47",
+    "excerpt": "Article URL: https://fzakaria.com/2026/08/24/actually-queryable-executables Comments URL: https://news.ycombinator.com/item?id=49442589 Points: 197 # Comments: 53",
     "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -444,7 +522,7 @@
   {
     "id": "627f5c4c4f2430f6",
     "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-    "excerpt": "Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 81 # Comments: 45",
+    "excerpt": "Article URL: https://github.com/runetes/maiao Comments URL: https://news.ycombinator.com/item?id=49441666 Points: 82 # Comments: 50",
     "url": "https://github.com/runetes/maiao",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -639,7 +717,7 @@
   {
     "id": "9f66add6a4dee5f4",
     "title": "When str.lower() is a security vulnerability in Python",
-    "excerpt": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 123 # Comments: 49",
+    "excerpt": "Article URL: https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability Comments URL: https://news.ycombinator.com/item?id=49440410 Points: 132 # Comments: 54",
     "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -795,7 +873,7 @@
   {
     "id": "b9863581f526cba4",
     "title": "C2PA Cameras Do Not Survive Contact with Reality",
-    "excerpt": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 151 # Comments: 94",
+    "excerpt": "Article URL: https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html Comments URL: https://news.ycombinator.com/item?id=49439499 Points: 155 # Comments: 103",
     "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -821,7 +899,7 @@
   {
     "id": "df1f73b59713f07d",
     "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-    "excerpt": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 397 # Comments: 194",
+    "excerpt": "Article URL: https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar Comments URL: https://news.ycombinator.com/item?id=49439017 Points: 399 # Comments: 198",
     "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1081,7 +1159,7 @@
   {
     "id": "964b914a5f9d7edb",
     "title": "Run OpenBSD on DigitalOcean for $4/month",
-    "excerpt": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 164 # Comments: 74",
+    "excerpt": "Article URL: https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/ Comments URL: https://news.ycombinator.com/item?id=49437483 Points: 167 # Comments: 77",
     "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1133,7 +1211,7 @@
   {
     "id": "25847b3565db870b",
     "title": "Nitter and XCancel receive cease and desist notices",
-    "excerpt": "https://github.com/zedeus/nitter/issues/1442 https://xcancel.com/ Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 940 # Comments: 781",
+    "excerpt": "https://github.com/zedeus/nitter/issues/1442 https://xcancel.com/ Comments URL: https://news.ycombinator.com/item?id=49437283 Points: 967 # Comments: 796",
     "url": "https://github.com/zedeus/nitter/issues/1442",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1146,7 +1224,7 @@
   {
     "id": "b3477100d51ce4f7",
     "title": "Black hole singularity is a surface not a point",
-    "excerpt": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 244 # Comments: 183",
+    "excerpt": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 255 # Comments: 183",
     "url": "https://arxiv.org/abs/2608.21590",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1183,19 +1261,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "3010b15a566eab94",
-    "title": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
-    "excerpt": "With the new design of Nothing OS 5.0 , app icons and widgets can use adaptive color to get color tints pulled from your wallpaper, which update whenever your wallpaper changes. Alongside Android's built-in Dynamic Colors, the company says it allows you to have specific elements change to match…",
-    "url": "https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Stevie Bonifield",
-    "publishedAt": "2026-08-25T16:58:53.000Z",
-    "category": "software",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/nothing-os-5-customization.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "64ff665cf7a3bb26",
     "title": "Xbox has a bunch of translucent green accessories for the console's 25th birthday",
     "excerpt": "Xbox has a bunch of translucent green accessories for the console's 25th birthday.",
@@ -1211,7 +1276,7 @@
   {
     "id": "1741d977cb7cebae",
     "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
-    "excerpt": "We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better. Comments URL: https://news.ycombinator.com/item?id=49437049 Points: 153 # Comments: 41",
+    "excerpt": "We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better. Comments URL: https://news.ycombinator.com/item?id=49437049 Points: 156 # Comments: 41",
     "url": "https://github.com/jeffhajewski/latticedb",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1958,19 +2023,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "ca9e6e9c1adb6724",
-    "title": "Treasury’s bond buyback plan fights the market and heightens the danger, billionaire Druckenmiller says",
-    "excerpt": "The billionaire investor argues the intervention removes a vital check on government borrowing and fiscal accountability while markets remain the better judge of prices.",
-    "url": "https://www.coindesk.com/markets/2026/08/25/governments-defending-prices-against-fundamentals-always-lose-billionaire-investor-druckenmiller-says",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Omkar Godbole",
-    "publishedAt": "2026-08-25T07:32:32.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/86a15ecf511deb99d9d1558beb572b964626cec7-3000x2000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "6cd0b0deb31ba8bb",
     "title": "Australia’s record industry won’t chart tunes recorded in the key of AI",
     "excerpt": "The Australian Recording Industry Association (ARIA) has decided it won’t list AI-generated music on its charts of best-selling music. The decision comes into effect this week and follows two interesting musical moments of note. One came when an AI-assisted cover version of Madonna’s Like a Prayer…",
@@ -2616,19 +2668,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "64ecc30db4cb4bd6",
-    "title": "China calls off ambitious ice-hunting moonshot a day before flight",
-    "excerpt": "China’s Manned Space Agency (CMSA) on Sunday cancelled a planned Monday moonshot launch. The mission plan for Chang'e 7 calls for it to send a lander to a region near the Moon’s South Pole, in a location thought likely to contain ice in deep craters. The lander carries two other vehicles: a wheeled…",
-    "url": "https://www.theregister.com/science/2026/08/24/china-calls-off-ambitious-ice-hunting-moonshot-a-day-before-flight/5291536",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-24T07:11:04.000Z",
-    "category": "science",
-    "imageUrl": "https://image.theregister.com/?imageId=5291551&width=800",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "345f7fe69dfb24f4",
     "title": "Linux 7.3 Improving RAID 5/6 Benchmark-Based Algorithm Selection",
     "excerpt": "Following the main set of memory management \"MM\" changes submitted for Linux 7.3, Andrew Morton sent in his \"non-MM\" pull request of the other patches he's been collecting from various developers for this next Linux kernel release. Standing out there were some improvements to the RAID 5/6…",
@@ -2703,45 +2742,6 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-08-23T10:56:12.000Z",
     "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "6c288a790822cb95",
-    "title": "Linux 7.3 Introduces New AES Encryption APIs - Will Open Up More Performance",
-    "excerpt": "Eric Biggers of Google continues carrying out great work on the Linux kernel crypto code. For Linux 7.3 he's landed work on new library APIs for most of the AES encryption modes used within the kernel. Moving forward this will open the door to more performance optimizations, reducing code…",
-    "url": "https://www.phoronix.com/news/Linux-7.3-New-Crypto-AES-APIs",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-23T10:42:14.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "057aa0f6217c9c13",
-    "title": "Linux 7.3 Input Subsystem Updates Merged With Security Fixes, Other Improvements",
-    "excerpt": "The big set of input subsystem updates were merged earlier this week for the Linux 7.3 cycle. It's a random assortment of different improvements as well as bug/security fixes driven in part by the flow of AI/LLM generated discoveries...",
-    "url": "https://www.phoronix.com/news/Linux-7.3-Input",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-23T10:30:27.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ebe1b318f6f8aa75",
-    "title": "Longtime Linux CIFS/SMB3 Maintainer Passes Away",
-    "excerpt": "There is a changing of the guard with Linux 7.3 as the maintainer of the Common Internet File System (CIFS) / SMB3 code within the Linux kernel. Longtime maintainer, principal Linux CIFS author, and current Microsoft employee Steve French has stepped down due to health reasons...",
-    "url": "https://www.phoronix.com/news/SMB3-CIFS-Maintainer-Change",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-23T00:31:41.000Z",
-    "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
