@@ -1,5 +1,161 @@
 [
   {
+    "id": "0afaf701c133c499",
+    "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+    "excerpt": "Article URL: https://www.inventati.org/who/manifesto Comments URL: https://news.ycombinator.com/item?id=49487786 Points: 17 # Comments: 10",
+    "url": "https://www.inventati.org/who/manifesto",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "wise_blood",
+    "publishedAt": "2026-08-29T07:38:31.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "249935564c72aaf1",
+    "title": "Xbox respawns IKEA furniture with gaming range",
+    "excerpt": "Microsoft's latest Xbox merchandising deal means at least you can sit on an IKEA cushion while you wait for your PlayStation 5 to boot. IKEA has announced YXSTABY, a nine-piece collection of items aimed at the XBOX completist who has to have every possible piece of merchandise associated with their…",
+    "url": "https://www.theregister.com/offbeat/2026/08/29/xbox-respawns-ikea-furniture-with-gaming-range/5292911",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-29T07:28:00.000Z",
+    "category": "security",
+    "imageUrl": "https://image.theregister.com/?imageId=5292935&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d46eb33b9f2e781d",
+    "title": "Trump Creates a Space Academy and Honors the Artemis Astronauts",
+    "excerpt": "President Trump awarded the four-member Artemis II crew the Congressional Space Medal of Honor and signed an executive order directing the creation of a new U.S. Space Academy. The proposed academy would train engineers, scientists, technicians, operators, and astronauts for NASA, the Space Force,…",
+    "url": "https://science.slashdot.org/story/26/08/28/221237/trump-creates-a-space-academy-and-honors-the-artemis-astronauts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-08-29T07:00:00.000Z",
+    "category": "policy",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e9cdf5fcc909281d",
+    "title": "e is a customizable self-aware Emacs-like editor written in Chez Scheme",
+    "excerpt": "Article URL: https://github.com/paveluv/e Comments URL: https://news.ycombinator.com/item?id=49487506 Points: 13 # Comments: 9",
+    "url": "https://github.com/paveluv/e",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "p4bl0",
+    "publishedAt": "2026-08-29T06:35:28.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6c66c63ff1adf27b",
+    "title": "Samsung's Processing-in-Memory (PIM)",
+    "excerpt": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing Comments URL: https://news.ycombinator.com/item?id=49487341 Points: 41 # Comments: 7",
+    "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "ingve",
+    "publishedAt": "2026-08-29T06:06:51.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "956faf7a124e1480",
+    "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
+    "excerpt": "Six decade-old wallets moved $40 million this month, but Galaxy's data shows dormant coin activity at its lowest since 2022 and 2026 on pace for under half of last year's total.",
+    "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-08-29T04:30:00.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/70198f64252bcded39f90b505eb1a2f4f3b2fb92-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "64d8b2b50f2880b8",
+    "title": "Is China Secretly Fueling America's Data Center Rage?",
+    "excerpt": "alternative_right shares a report from Axios: Roughly 200 accounts from a suspected Chinese bot farm have quietly tried to influence Americans to oppose AI data centers on social media, X said Thursday night. The X Safety team probed suspected Chinese accounts involved in influence operations and…",
+    "url": "https://yro.slashdot.org/story/26/08/28/2115229/is-china-secretly-fueling-americas-data-center-rage?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-08-29T03:30:00.000Z",
+    "category": "software",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8907c990e5c7e6d0",
+    "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
+    "excerpt": "An Anthropic model cut the work needed to break a leading post-quantum signature candidate by a factor of 67 million last month, while Bitcoin and Ethereum published their own migration plans this week.",
+    "url": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-08-29T02:30:00.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/3fdb04bd3eb1c1413ad0d70e8d1e464ee4866ad9-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6fd2644d171d9462",
+    "title": "TurboKV: Insanely fast Rust key-value store",
+    "excerpt": "Article URL: https://github.com/kingroryg/turbokv Comments URL: https://news.ycombinator.com/item?id=49486334 Points: 87 # Comments: 30",
+    "url": "https://github.com/kingroryg/turbokv",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "rgbimbochamp",
+    "publishedAt": "2026-08-29T02:23:37.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "44629c2142e7f890",
+    "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
+    "excerpt": "Article URL: https://www.kumander.org/ Comments URL: https://news.ycombinator.com/item?id=49486176 Points: 45 # Comments: 19",
+    "url": "https://www.kumander.org/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "linuxkernal",
+    "publishedAt": "2026-08-29T01:48:15.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "dacd64b8ccca0019",
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "excerpt": "Article URL: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/ Comments URL: https://news.ycombinator.com/item?id=49486172 Points: 480 # Comments: 244",
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "meetpateltech",
+    "publishedAt": "2026-08-29T01:47:53.000Z",
+    "category": "policy",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f067a4ae268cdf65",
+    "title": "StemDeck, a free, open-source and local AI stem separator",
+    "excerpt": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 83 # Comments: 17",
+    "url": "https://github.com/stemdeckapp/stemdeck",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "thclpr",
+    "publishedAt": "2026-08-29T01:24:13.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "15f1ad77a08b1a6e",
     "title": "Debian Votes To Allow \"Responsible Use Of Generative AI\"",
     "excerpt": "The voting is over and there is a winner now known in the much-debated Debian General Resolution voting over an AI policy for the Linux distribution...",
@@ -15,7 +171,7 @@
   {
     "id": "7efce9f5b42084d8",
     "title": "Does the Sumerian King List Align with Paleoclimate Events?",
-    "excerpt": "Article URL: https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/ Comments URL: https://news.ycombinator.com/item?id=49485532 Points: 39 # Comments: 7",
+    "excerpt": "Article URL: https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/ Comments URL: https://news.ycombinator.com/item?id=49485532 Points: 95 # Comments: 38",
     "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -26,22 +182,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "f8cba35a80a0fe86",
-    "title": "PPWR lands another blow to an precarious tabletop industry",
-    "excerpt": "Article URL: https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/ Comments URL: https://news.ycombinator.com/item?id=49485504 Points: 15 # Comments: 7",
-    "url": "https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "healsdata",
-    "publishedAt": "2026-08-28T23:41:05.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "c6c03c6a260f5392",
     "title": "9th Circuit sides with states in Kalshi gambling fight",
-    "excerpt": "Article URL: https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/ Comments URL: https://news.ycombinator.com/item?id=49485452 Points: 15 # Comments: 7",
+    "excerpt": "Article URL: https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/ Comments URL: https://news.ycombinator.com/item?id=49485452 Points: 123 # Comments: 97",
     "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -54,7 +197,7 @@
   {
     "id": "d675ad5b276b0b10",
     "title": "I accidentally turned LLM memory into program analysis",
-    "excerpt": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 12 # Comments: 3",
+    "excerpt": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 124 # Comments: 25",
     "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -80,7 +223,7 @@
   {
     "id": "bd488c1cb70b7284",
     "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-    "excerpt": "Article URL: https://github.com/Lakr233/vphone-cli Comments URL: https://news.ycombinator.com/item?id=49485267 Points: 55 # Comments: 14",
+    "excerpt": "Article URL: https://github.com/Lakr233/vphone-cli Comments URL: https://news.ycombinator.com/item?id=49485267 Points: 241 # Comments: 70",
     "url": "https://github.com/Lakr233/vphone-cli",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -139,19 +282,6 @@
     "author": "Lucas Ropek",
     "publishedAt": "2026-08-28T22:42:48.000Z",
     "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4ffd2b68fb033f12",
-    "title": "Identifying fake cosmetics using AI",
-    "excerpt": "Article URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html Comments URL: https://news.ycombinator.com/item?id=49484925 Points: 28 # Comments: 12",
-    "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "wgrover",
-    "publishedAt": "2026-08-28T22:18:27.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -377,32 +507,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "f8ee97f988cf76cc",
-    "title": "Aspirational Clownmaxxing and Joey's cadillac todo list",
-    "excerpt": "Article URL: https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/ Comments URL: https://news.ycombinator.com/item?id=49483080 Points: 22 # Comments: 9",
-    "url": "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "farlight",
-    "publishedAt": "2026-08-28T19:18:22.000Z",
-    "category": "policy",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "eff17f29efac2e53",
-    "title": "Show HN: Sesame - a local-first, open-source password manager",
-    "excerpt": "I have been working on Sesame, an open-source password manager that keeps your vault local by default. You don't need an account to create or use a vault, and the hosted service never receives the vault itself. It's still early software and the independent security review isn't finished yet, so I…",
-    "url": "https://usesesame.app/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "d0mkaaa",
-    "publishedAt": "2026-08-28T19:14:14.000Z",
-    "category": "policy",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "7cf96af8dcbafa71",
     "title": "Linux 7.3 TPM Makes Cleanup Preparations For TrenchBoot",
     "excerpt": "The Trusted Platform Module (TPM) subsystem changes for the Linux 7.3 kernel are centered around code clean-ups and improvements being made as a precursor toward TrenchBoot support...",
@@ -574,26 +678,13 @@
   {
     "id": "de58f2f7593a3307",
     "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-    "excerpt": "Article URL: https://arxiv.org/abs/2608.23691 Comments URL: https://news.ycombinator.com/item?id=49481455 Points: 79 # Comments: 20",
+    "excerpt": "Article URL: https://arxiv.org/abs/2608.23691 Comments URL: https://news.ycombinator.com/item?id=49481455 Points: 101 # Comments: 25",
     "url": "https://arxiv.org/abs/2608.23691",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "stephenchung",
     "publishedAt": "2026-08-28T17:01:12.000Z",
     "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d3b3464d6b51ed0a",
-    "title": "Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research",
-    "excerpt": "Article URL: https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering Comments URL: https://news.ycombinator.com/item?id=49481423 Points: 0 # Comments: 0",
-    "url": "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "kbanothu",
-    "publishedAt": "2026-08-28T17:00:06.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -717,7 +808,7 @@
   {
     "id": "a3d40848cd03fefd",
     "title": "Just the rumour of a bug is enough to find an exploit these days",
-    "excerpt": "Article URL: https://anil.recoil.org/notes/rumour-is-the-exploit Comments URL: https://news.ycombinator.com/item?id=49480466 Points: 257 # Comments: 91",
+    "excerpt": "Article URL: https://anil.recoil.org/notes/rumour-is-the-exploit Comments URL: https://news.ycombinator.com/item?id=49480466 Points: 304 # Comments: 107",
     "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -821,7 +912,7 @@
   {
     "id": "9ffa6ba671380a43",
     "title": "EasyEffects can improve laptop speaker sound quality",
-    "excerpt": "Article URL: https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/ Comments URL: https://news.ycombinator.com/item?id=49479924 Points: 99 # Comments: 46",
+    "excerpt": "Article URL: https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/ Comments URL: https://news.ycombinator.com/item?id=49479924 Points: 140 # Comments: 53",
     "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -834,7 +925,7 @@
   {
     "id": "4424584ee706d4b4",
     "title": "GLM-5.3 is now open-weight",
-    "excerpt": "https://twitter.com/Zai_org/status/2093354097122455713 https://z.ai/blog/glm-5.3 Comments URL: https://news.ycombinator.com/item?id=49479878 Points: 585 # Comments: 205",
+    "excerpt": "https://twitter.com/Zai_org/status/2093354097122455713 https://z.ai/blog/glm-5.3 Comments URL: https://news.ycombinator.com/item?id=49479878 Points: 680 # Comments: 228",
     "url": "https://huggingface.co/zai-org/GLM-5.3",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -847,7 +938,7 @@
   {
     "id": "07aca43e12d4379f",
     "title": "GUIs should be fully keyboard-driven",
-    "excerpt": "Article URL: https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html Comments URL: https://news.ycombinator.com/item?id=49479837 Points: 603 # Comments: 300",
+    "excerpt": "Article URL: https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html Comments URL: https://news.ycombinator.com/item?id=49479837 Points: 769 # Comments: 390",
     "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -925,7 +1016,7 @@
   {
     "id": "5eaddba9a19fe946",
     "title": "Verschlimmbesserung: The Word Your Software Updates Need",
-    "excerpt": "Article URL: https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/ Comments URL: https://news.ycombinator.com/item?id=49479072 Points: 109 # Comments: 69",
+    "excerpt": "Article URL: https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/ Comments URL: https://news.ycombinator.com/item?id=49479072 Points: 128 # Comments: 87",
     "url": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -988,32 +1079,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "60a6227b5d803cd8",
-    "title": "State of the Map 2026",
-    "excerpt": "Article URL: https://2026.stateofthemap.org/ Comments URL: https://news.ycombinator.com/item?id=49478401 Points: 142 # Comments: 50",
-    "url": "https://2026.stateofthemap.org/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "lode",
-    "publishedAt": "2026-08-28T13:46:28.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d56369a9ec491bac",
-    "title": "Get your Windows license refund",
-    "excerpt": "Article URL: https://en.refund4freedom.org/ Comments URL: https://news.ycombinator.com/item?id=49478340 Points: 654 # Comments: 272",
-    "url": "https://en.refund4freedom.org/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "smartmic",
-    "publishedAt": "2026-08-28T13:42:40.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "81588e60d5c98ae8",
     "title": "Word 97's ghost in the machine: The crash that vanished the moment anyone looked at it",
     "excerpt": "Veteran Microsoft engineer Raymond Chen shared another fireside tale – one to strike fear into the hearts of engineers everywhere: the bug that can't be replicated in the debugger. The story begins near the end of the Word 97 release cycle, when a defect surfaced in the test labs but vanished the…",
@@ -1029,7 +1094,7 @@
   {
     "id": "6b67b7c843708761",
     "title": "Htmx 4.0",
-    "excerpt": "Article URL: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released Comments URL: https://news.ycombinator.com/item?id=49478178 Points: 528 # Comments: 126",
+    "excerpt": "Article URL: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released Comments URL: https://news.ycombinator.com/item?id=49478178 Points: 637 # Comments: 158",
     "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1131,19 +1196,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "3000911ccffc1f5a",
-    "title": "An investigation into the state of corvid–human relations",
-    "excerpt": "Article URL: https://www.audubon.org/magazine/are-crows-really-our-friends Comments URL: https://news.ycombinator.com/item?id=49477813 Points: 112 # Comments: 65",
-    "url": "https://www.audubon.org/magazine/are-crows-really-our-friends",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "speckx",
-    "publishedAt": "2026-08-28T12:53:42.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "ca50f3998f6e2919",
     "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
     "excerpt": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
@@ -1180,6 +1232,19 @@
     "publishedAt": "2026-08-28T12:30:57.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/c48dd32903d41ec222f4a093c9aefa108c259b98-2960x1665.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "c323c9b581192b7e",
+    "title": "Inception-style curved map for turn-by-turn directions",
+    "excerpt": "Article URL: https://www.orbify.eu/demo/ Comments URL: https://news.ycombinator.com/item?id=49477564 Points: 494 # Comments: 165",
+    "url": "https://www.orbify.eu/demo/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "smoser",
+    "publishedAt": "2026-08-28T12:29:05.000Z",
+    "category": "startups",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1885,19 +1950,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "ab625e97d93564b8",
-    "title": "OpenAI Is Developing a 'Persistent' AI Agent",
-    "excerpt": "Wired reports that OpenAI is testing a new \"Persistent mode\" for Codex that would let the agent keep working until explicitly \"put to sleep,\" proactively creating follow-up tasks for itself across sessions and using prior interactions and knowledge of the user to decide what to do next. Code…",
-    "url": "https://features.slashdot.org/story/26/08/27/224230/openai-is-developing-a-persistent-ai-agent?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-08-27T22:00:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "e352334ea1d43ce7",
     "title": "CRPx0 hacking service for dummies claims victim count more than quintupled",
     "excerpt": "CRPx0, a cybercrime crew that has rapidly evolved from a scam service to a ClickFix-delivered ransomware and crypto-theft business over the summer, claims its victim count jumped from fewer than 10 in June to 48 organizations on its clear-web leak site at the time of publication. Keep in mind:…",
@@ -1934,19 +1986,6 @@
     "publishedAt": "2026-08-27T21:00:00.000Z",
     "category": "startups",
     "imageUrl": "https://image.theregister.com/?imageId=5293085&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a5e2a6f69226a5a9",
-    "title": "Ring Says New Encryption Limits What It Can Give Police",
-    "excerpt": "Ring is rolling out a new default encryption system called TAKE, or \"Throw Away the Key Encryption,\" that rotates video keys every five minutes and permanently deletes Ring's copy after 24 hours. The system is designed to preserve cloud features such as smart alerts and AI video search while…",
-    "url": "https://it.slashdot.org/story/26/08/27/2014225/ring-says-new-encryption-limits-what-it-can-give-police?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-08-27T21:00:00.000Z",
-    "category": "security",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -2207,32 +2246,6 @@
     "publishedAt": "2026-08-27T16:25:07.000Z",
     "category": "ai",
     "imageUrl": "https://image.theregister.com/?imageId=5293032&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a8592666f928cc1c",
-    "title": "Polish Olympic chief arrested as prosecutors probe suspected crypto-linked bribe",
-    "excerpt": "Prosecutors are probing allegations that Zondacrypto's CEO gave Radosław Piesiewicz a 40,000 euro watch for help with regulatory hurdles.",
-    "url": "https://www.coindesk.com/business/2026/08/27/polish-olympic-chief-arrested-as-prosecutors-probe-suspected-crypto-linked-bribe",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Francisco Rodrigues",
-    "publishedAt": "2026-08-27T16:12:10.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/4ed493982c25f0c7c5b6d44b1e96e8041be44156-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "e70d5e6e83d13671",
-    "title": "MoonPay’s newest integration lets AI agents handle crypto lending on Solana",
-    "excerpt": "",
-    "url": "https://www.coindesk.com/business/2026/08/27/moonpay-s-newest-integration-lets-ai-agents-handle-crypto-lending-on-solana",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Francisco Rodrigues",
-    "publishedAt": "2026-08-27T15:52:21.000Z",
-    "category": "ai",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/bbf70cb1c1734c4293f3cde32f095ffb5a3c229f-1920x1281.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2701,19 +2714,6 @@
     "publishedAt": "2026-08-26T19:04:28.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=234409&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b7e9b3eba135a1bf",
-    "title": "GitHub Actions was down yet again",
-    "excerpt": "GitHub Actions stumbled again on Wednesday, days after the code host renewed its promises to improve reliability. Wednesday’s problem, as has so often been the case, hit Actions, GitHub’s CI/CD platform for automating software builds, tests, and deployments. According to the incident report GitHub…",
-    "url": "https://www.theregister.com/devops/2026/08/26/github-actions-was-down-yet-again/5292679",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-26T18:33:28.000Z",
-    "category": "software",
-    "imageUrl": "https://image.theregister.com/?imageId=257586&width=800",
     "readTimeMinutes": 1
   },
   {
