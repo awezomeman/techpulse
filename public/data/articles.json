@@ -1,5 +1,299 @@
 [
   {
+    "id": "959c37f7d2a1f569",
+    "title": "How to watch the 2026 US Open Tennis Championships",
+    "excerpt": "An ESPN Unlimited subscription seems like the easiest way to get into all the US Open action.",
+    "url": "https://www.engadget.com/2246659/how-to-watch-2026-us-open-streaming-tv-options/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Ian Carlos Campbell)",
+    "publishedAt": "2026-08-29T20:00:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/how-to-watch-the-2026-us-open-tennis-championships/l-intro-1787944923.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "66fd7e59e2887083",
+    "title": "Millions of Cars Recalled Over Danger of Bursting Into Flames. But They're Not EVs.",
+    "excerpt": "The Washington Post shares this tip for car buyers. Electric vehicles \"are not driving the recent growth in recalls warning that vehicles could erupt into flames at any time, even when parked and turned off.\" A Washington Post analysis of National Highway Traffic Safety Administration (NHTSA)…",
+    "url": "https://tech.slashdot.org/story/26/08/29/0033244/millions-of-cars-recalled-over-danger-of-bursting-into-flames-but-theyre-not-evs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-08-29T20:00:00.000Z",
+    "category": "science",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ba931cbc7c43f49f",
+    "title": "Alt-right troll Milo Yiannopoulos has been deported",
+    "excerpt": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but overstayed his visa. After he failed to appear in court…",
+    "url": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Terrence O’Brien",
+    "publishedAt": "2026-08-29T19:49:59.000Z",
+    "category": "software",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13604714/milopatreon.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7ccb97bb9a47c2f1",
+    "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+    "excerpt": "Article URL: https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/ Comments URL: https://news.ycombinator.com/item?id=49492632 Points: 18 # Comments: 2",
+    "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "shenli3514",
+    "publishedAt": "2026-08-29T19:33:23.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b3ea611c2245f40b",
+    "title": "Domain-Driven Agents",
+    "excerpt": "Article URL: https://coldtake.dev/blog/domain-driven-agents Comments URL: https://news.ycombinator.com/item?id=49492584 Points: 3 # Comments: 0",
+    "url": "https://coldtake.dev/blog/domain-driven-agents",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "AlarQ",
+    "publishedAt": "2026-08-29T19:28:28.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "aa6b4d26f5c6f7da",
+    "title": "The elementary school pickup incident and the road ahead",
+    "excerpt": "Article URL: https://shitposting.ai/pickup-incident/ Comments URL: https://news.ycombinator.com/item?id=49492554 Points: 4 # Comments: 0",
+    "url": "https://shitposting.ai/pickup-incident/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "mkeeter",
+    "publishedAt": "2026-08-29T19:25:01.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "13b1c7e027ad2814",
+    "title": "FreeBSD 14.5-RC1 Released With Several Security Fixes",
+    "excerpt": "Ahead of FreeBSD 14.5-RELEASE hopefully debuting on 8 September, FreeBSD 14.5-RC1 is out today as the final scheduled development release...",
+    "url": "https://www.phoronix.com/news/FreeBSD-14.5-RC1",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-29T19:16:11.000Z",
+    "category": "policy",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9e96ce557e8e0998",
+    "title": "Warp builds self-improving agents on Claude",
+    "excerpt": "Article URL: https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude Comments URL: https://news.ycombinator.com/item?id=49492432 Points: 36 # Comments: 24",
+    "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "shenli3514",
+    "publishedAt": "2026-08-29T19:09:33.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e76f11cd5ea83902",
+    "title": "Chatbot Conversations Can Become Evidence in Court",
+    "excerpt": "The Washington Post looks \"a growing number of Americans who have had their private conversations with AI chatbots made public in court,\" calling the chatbots \"custodians of a fast-growing trove of intimate data that can be sought by law enforcement, or companies or other opponents in civil…",
+    "url": "https://yro.slashdot.org/story/26/08/29/0539211/chatbot-conversations-can-become-evidence-in-court?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-08-29T19:00:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "be1ac0ba23c04877",
+    "title": "Sony and Warner sue Anthropic for 'blatant violation' of copyright law",
+    "excerpt": "The two music publishing groups claim thousands of instances of copyright infringement.",
+    "url": "https://www.engadget.com/2246997/sony-warner-sue-anthropic-for-blatant-violation-of-copyright-law/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Jackson Chen)",
+    "publishedAt": "2026-08-29T18:52:22.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/sony-and-warner-sue-anthropic-for-blatant-violation-of-copyright-law/l-intro-1788029514.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1282e87882e42b22",
+    "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+    "excerpt": "Article URL: https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits Comments URL: https://news.ycombinator.com/item?id=49492219 Points: 111 # Comments: 17",
+    "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "firefax",
+    "publishedAt": "2026-08-29T18:44:37.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d750556c657fba21",
+    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "excerpt": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Kirsten Korosec",
+    "publishedAt": "2026-08-29T18:41:59.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "95e904614cf15663",
+    "title": "The Internet Is Kind of a Predatory Cesspit Now",
+    "excerpt": "Article URL: https://www.stephendiehl.com/posts/internet_predatory_cesspit/ Comments URL: https://news.ycombinator.com/item?id=49492193 Points: 263 # Comments: 163",
+    "url": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "ibobev",
+    "publishedAt": "2026-08-29T18:40:56.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1e15ab7747a6c84c",
+    "title": "Why would you pay $359 for the most expensive Whoop membership?",
+    "excerpt": "Whoop Life is the highest tier of membership to the Whoop platform, and it does offer more data than the less expensive levels.",
+    "url": "https://www.engadget.com/2242774/most-expensive-whoop-membership-life-why-pay/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Anna Washenko)",
+    "publishedAt": "2026-08-29T18:30:00.000Z",
+    "category": "startups",
+    "imageUrl": "https://www.engadget.com/img/gallery/why-would-you-pay-359-for-the-most-expensive-whoop-membership/l-intro-1787317096.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "99ece13e787f3487",
+    "title": "vLLM v0.28.0",
+    "excerpt": "Article URL: https://github.com/vllm-project/vllm/releases/tag/v0.28.0 Comments URL: https://news.ycombinator.com/item?id=49492067 Points: 15 # Comments: 0",
+    "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "mrrrcs",
+    "publishedAt": "2026-08-29T18:22:00.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f593ff968abe8d62",
+    "title": "Sony Music and Warner Chappell are suing Anthropic",
+    "excerpt": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Terrence O’Brien",
+    "publishedAt": "2026-08-29T18:19:53.000Z",
+    "category": "ai",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "85d2bbd02b3351cf",
+    "title": "Why 1080p movies can look better than 4K movies on your TV",
+    "excerpt": "Resolution isn't the only thing that matters for a quality picture.",
+    "url": "https://www.engadget.com/2242760/why-1080p-movies-look-better-on-4k-screen/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Thomas Godwin)",
+    "publishedAt": "2026-08-29T18:00:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/why-1080p-movies-can-look-better-than-4k-movies-on-your-tv/l-intro-1787251270.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7143b3d9661eae4e",
+    "title": "The Linux Kernel Is Approaching 2,000 CVEs Per Release",
+    "excerpt": "Phoronix reports on Greg Kroah-Hartman's recent slide from his upcoming talk in Paris at Kernel Recipes 2026 (September 21 to 23): With the proliferation of AI/LLM models analyzing the Linux kernel's vast codebase, there has been a surge in the number of CVEs per kernel release. After typically…",
+    "url": "https://linux.slashdot.org/story/26/08/29/0547248/the-linux-kernel-is-approaching-2000-cves-per-release?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-08-29T18:00:00.000Z",
+    "category": "software",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1,
+    "alsoCoveredBy": [
+      {
+        "source": "Phoronix",
+        "sourceHomepage": "https://www.phoronix.com",
+        "url": "https://www.phoronix.com/news/Linux-Kernel-CVEs-Nearly-2000",
+        "publishedAt": "2026-08-28T13:02:16.000Z"
+      }
+    ]
+  },
+  {
+    "id": "39a325e33826f13b",
+    "title": "US appeals court sides with Nevada in legal fight with Kalshi",
+    "excerpt": "The ruling shoots down Kalshi's attempt to block the state from regulating its platform.",
+    "url": "https://www.engadget.com/2246988/us-appeals-court-sides-with-nevada-in-legal-fight-with-kalshi/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Jackson Chen)",
+    "publishedAt": "2026-08-29T17:55:00.000Z",
+    "category": "startups",
+    "imageUrl": "https://www.engadget.com/img/gallery/us-appeals-court-sides-with-nevada-in-legal-fight-with-kalshi/l-intro-1788025747.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b1084d73e30ce32d",
+    "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+    "excerpt": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+    "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Dominic-Madori Davis",
+    "publishedAt": "2026-08-29T17:51:10.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "91790d3c64eb6b84",
+    "title": "I hate how badly I want the Tamagotchi Ring",
+    "excerpt": "It's actually playable and it has a color screen.",
+    "url": "https://www.engadget.com/2246986/i-hate-how-badly-i-want-the-tamagotchi-ring/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Cheyenne MacDonald)",
+    "publishedAt": "2026-08-29T17:45:06.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/i-hate-how-badly-i-want-the-tamagotchi-ring/l-intro-1788025317.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a04fa0af80fb7692",
+    "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+    "excerpt": "Article URL: https://tucker.wales/writing/bias-towards-action/ Comments URL: https://news.ycombinator.com/item?id=49491714 Points: 41 # Comments: 13",
+    "url": "https://tucker.wales/writing/bias-towards-action/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "tuckerwales",
+    "publishedAt": "2026-08-29T17:39:18.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "1c359d226297b79b",
     "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
     "excerpt": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared…",
@@ -26,28 +320,28 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "2d37359263b703a2",
-    "title": "Claude Code is going reduce limits by 25% from September 14",
-    "excerpt": "Article URL: https://twitter.com/ClaudeDevs/status/2093742321473065266 Comments URL: https://news.ycombinator.com/item?id=49491631 Points: 11 # Comments: 3",
-    "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "myselfpraying",
-    "publishedAt": "2026-08-29T17:27:31.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "c9cf59b44a2d246e",
     "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-    "excerpt": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 4 # Comments: 0",
+    "excerpt": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 118 # Comments: 21",
     "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "gpi",
     "publishedAt": "2026-08-29T17:19:47.000Z",
     "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f75a685f443ee397",
+    "title": "A better SQL in 11 lines of code",
+    "excerpt": "Article URL: https://prela-lang.org/tutorial/ Comments URL: https://news.ycombinator.com/item?id=49491544 Points: 24 # Comments: 23",
+    "url": "https://prela-lang.org/tutorial/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "remywang",
+    "publishedAt": "2026-08-29T17:13:45.000Z",
+    "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -88,6 +382,19 @@
     "publishedAt": "2026-08-29T16:30:00.000Z",
     "category": "ai",
     "imageUrl": "https://www.engadget.com/img/gallery/how-to-reset-your-roku-tv/l-intro-1787257779.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8c00a2082c4c66db",
+    "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
+    "excerpt": "Article URL: https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest Comments URL: https://news.ycombinator.com/item?id=49491175 Points: 9 # Comments: 1",
+    "url": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "mooreds",
+    "publishedAt": "2026-08-29T16:24:21.000Z",
+    "category": "software",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -158,7 +465,7 @@
   {
     "id": "e00bbcbba8b9eb0f",
     "title": "Nancy Grace Roman Space Telescope",
-    "excerpt": "Article URL: https://science.nasa.gov/mission/roman-space-telescope/ Comments URL: https://news.ycombinator.com/item?id=49490870 Points: 46 # Comments: 8",
+    "excerpt": "Article URL: https://science.nasa.gov/mission/roman-space-telescope/ Comments URL: https://news.ycombinator.com/item?id=49490870 Points: 86 # Comments: 29",
     "url": "https://science.nasa.gov/mission/roman-space-telescope/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -171,25 +478,12 @@
   {
     "id": "d94657bf1d9c6a8b",
     "title": "Quantifying Colour",
-    "excerpt": "Article URL: https://ekunazanu.foo/lab/quantifying-colour/ Comments URL: https://news.ycombinator.com/item?id=49490832 Points: 13 # Comments: 0",
+    "excerpt": "Article URL: https://ekunazanu.foo/lab/quantifying-colour/ Comments URL: https://news.ycombinator.com/item?id=49490832 Points: 45 # Comments: 3",
     "url": "https://ekunazanu.foo/lab/quantifying-colour/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "vismit2000",
     "publishedAt": "2026-08-29T15:43:53.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "20f4b4384d6b21b2",
-    "title": "Parsing the Infamous Japanese Postal CSV",
-    "excerpt": "Article URL: https://www.dampfkraft.com/posuto.html Comments URL: https://news.ycombinator.com/item?id=49490826 Points: 25 # Comments: 1",
-    "url": "https://www.dampfkraft.com/posuto.html",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "birdculture",
-    "publishedAt": "2026-08-29T15:42:43.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -210,7 +504,7 @@
   {
     "id": "3623b6d02acbb35f",
     "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
-    "excerpt": "Article URL: https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e Comments URL: https://news.ycombinator.com/item?id=49490702 Points: 72 # Comments: 21",
+    "excerpt": "Article URL: https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e Comments URL: https://news.ycombinator.com/item?id=49490702 Points: 175 # Comments: 63",
     "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -327,7 +621,7 @@
   {
     "id": "de15af4cd39177b7",
     "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-    "excerpt": "Article URL: https://uecker.codeberg.page/2026-08-29.html Comments URL: https://news.ycombinator.com/item?id=49490138 Points: 39 # Comments: 9",
+    "excerpt": "Article URL: https://uecker.codeberg.page/2026-08-29.html Comments URL: https://news.ycombinator.com/item?id=49490138 Points: 55 # Comments: 29",
     "url": "https://uecker.codeberg.page/2026-08-29.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -336,27 +630,6 @@
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
-  },
-  {
-    "id": "61b2b9be2cd54ba2",
-    "title": "Debian votes to allow \"responsible use of generative AI\"",
-    "excerpt": "Article URL: https://lwn.net/Articles/1091231/ Comments URL: https://news.ycombinator.com/item?id=49489982 Points: 366 # Comments: 281",
-    "url": "https://lwn.net/Articles/1091231/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "pluc",
-    "publishedAt": "2026-08-29T14:02:10.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1,
-    "alsoCoveredBy": [
-      {
-        "source": "Phoronix",
-        "sourceHomepage": "https://www.phoronix.com",
-        "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
-        "publishedAt": "2026-08-29T00:43:52.000Z"
-      }
-    ]
   },
   {
     "id": "9c9f92960fda5895",
@@ -673,7 +946,7 @@
   {
     "id": "6c66c63ff1adf27b",
     "title": "Samsung's Processing-in-Memory (PIM)",
-    "excerpt": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing Comments URL: https://news.ycombinator.com/item?id=49487341 Points: 202 # Comments: 67",
+    "excerpt": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing Comments URL: https://news.ycombinator.com/item?id=49487341 Points: 223 # Comments: 77",
     "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -723,22 +996,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "6fd2644d171d9462",
-    "title": "TurboKV: Insanely fast Rust key-value store",
-    "excerpt": "Article URL: https://github.com/kingroryg/turbokv Comments URL: https://news.ycombinator.com/item?id=49486334 Points: 158 # Comments: 77",
-    "url": "https://github.com/kingroryg/turbokv",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "rgbimbochamp",
-    "publishedAt": "2026-08-29T02:23:37.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "f067a4ae268cdf65",
     "title": "StemDeck, a free, open-source and local AI stem separator",
-    "excerpt": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 174 # Comments: 47",
+    "excerpt": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 187 # Comments: 57",
     "url": "https://github.com/stemdeckapp/stemdeck",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -749,15 +1009,15 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "d675ad5b276b0b10",
-    "title": "I accidentally turned LLM memory into program analysis",
-    "excerpt": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 244 # Comments: 67",
-    "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "matt_d",
-    "publishedAt": "2026-08-28T23:27:45.000Z",
-    "category": "ai",
+    "id": "15f1ad77a08b1a6e",
+    "title": "Debian Votes To Allow \"Responsible Use Of Generative AI\"",
+    "excerpt": "The voting is over and there is a winner now known in the much-debated Debian General Resolution voting over an AI policy for the Linux distribution...",
+    "url": "https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-29T00:43:52.000Z",
+    "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -777,7 +1037,7 @@
   {
     "id": "bd488c1cb70b7284",
     "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-    "excerpt": "Article URL: https://github.com/Lakr233/vphone-cli Comments URL: https://news.ycombinator.com/item?id=49485267 Points: 349 # Comments: 94",
+    "excerpt": "Article URL: https://github.com/Lakr233/vphone-cli Comments URL: https://news.ycombinator.com/item?id=49485267 Points: 360 # Comments: 96",
     "url": "https://github.com/Lakr233/vphone-cli",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -785,19 +1045,6 @@
     "publishedAt": "2026-08-28T23:02:21.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3784f805ac180ac9",
-    "title": "How to use your old Android phone as a Wi-Fi extender",
-    "excerpt": "If your Wi-Fi signal is patchy at the far reaches of your house, this simple solution might be worth a try. Even better? It's completely free.",
-    "url": "https://www.engadget.com/2246379/how-to-use-old-android-phone-wifi-extender/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Gabriela Vătu)",
-    "publishedAt": "2026-08-28T23:00:00.000Z",
-    "category": "software",
-    "imageUrl": "https://www.engadget.com/img/gallery/how-to-use-your-old-android-phone-as-a-wi-fi-extender/l-intro-1787151742.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -853,19 +1100,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "5ce40e38f5f39bc5",
-    "title": "20+ things you may have missed in the GTA 6 extended look",
-    "excerpt": "The GTA VI extended-look trailer is full of clues, if you know where to look.",
-    "url": "https://www.engadget.com/2246846/things-you-may-have-missed-gta-6-extended-look/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Dave Meikleham)",
-    "publishedAt": "2026-08-28T22:08:08.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/things-you-may-have-missed-gta-6-extended-look/l-intro-1787955980.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "b7176f501527f63f",
     "title": "Xbox CEO calls Project Helix a ‘family of devices’",
     "excerpt": "Asha Sharma. | Image: The Verge, Microsoft According to Xbox CEO Asha Sharma, Project Helix, which she announced in March as a codename for Microsoft's \"next generation console\" - phrasing that seemingly implied a singular device - will actually be a \"family\" of devices.\" \"We've been hard at work…",
@@ -876,19 +1110,6 @@
     "publishedAt": "2026-08-28T22:03:13.000Z",
     "category": "startups",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d7e356f050c735e6",
-    "title": "What you need to build your own retro arcade cabinet",
-    "excerpt": "There are few things cooler to add to a gaming space than a retro arcade cabinet. But should you buy one or build one?",
-    "url": "https://www.engadget.com/2245480/diy-retro-arcade-cabinet-what-you-need/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Husain Parvez)",
-    "publishedAt": "2026-08-28T22:00:00.000Z",
-    "category": "policy",
-    "imageUrl": "https://www.engadget.com/img/gallery/what-you-need-to-build-your-own-retro-arcade-cabinet/l-intro-1787752946.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1048,19 +1269,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "db03ffa1f942f0e1",
-    "title": "Early leak of NVIDIA's DLSS 5 has an uncanny valley problem",
-    "excerpt": "People are grafting a pre-release version of DLSS 5 onto their favorite games with unspectacular results.",
-    "url": "https://www.engadget.com/2246658/early-leak-of-nvidia-dlss5-has-an-uncanny-valley-problem/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Will Shanklin)",
-    "publishedAt": "2026-08-28T19:20:33.000Z",
-    "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/nvidias-dlss-5-has-an-uncanny-valley-problem/l-intro-1787944651.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "7cf96af8dcbafa71",
     "title": "Linux 7.3 TPM Makes Cleanup Preparations For TrenchBoot",
     "excerpt": "The Trusted Platform Module (TPM) subsystem changes for the Linux 7.3 kernel are centered around code clean-ups and improvements being made as a precursor toward TrenchBoot support...",
@@ -1100,19 +1308,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "2a47a60f7e634df8",
-    "title": "How long is a new Fire TV Stick actually supposed to last?",
-    "excerpt": "Fire TV Sticks can last for years, but how many? Here's how to know when support ends for your device and when to upgrade.",
-    "url": "https://www.engadget.com/2245477/how-long-new-fire-tv-stick-last-lifespan/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Husain Parvez)",
-    "publishedAt": "2026-08-28T18:30:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/how-long-is-a-new-fire-tv-stick-actually-supposed-to-last/l-intro-1787772119.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "fea5f6e87ebd6823",
     "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
     "excerpt": "There's a lot of capital pouring into the business of giving models away.",
@@ -1136,19 +1331,6 @@
     "publishedAt": "2026-08-28T18:07:55.000Z",
     "category": "ai",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "9ead9ca739fca67b",
-    "title": "What's the difference between Dolby Atmos and lossless audio?",
-    "excerpt": "If you're seeing these labels in your music apps and wondering what they do, let this article walk you through how they work.",
-    "url": "https://www.engadget.com/2244161/dolby-atmos-and-lossless-audio-differences/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Adnan Ahmed)",
-    "publishedAt": "2026-08-28T18:00:00.000Z",
-    "category": "security",
-    "imageUrl": "https://www.engadget.com/img/gallery/whats-the-difference-between-dolby-atmos-and-lossless-audio/l-intro-1787247166.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1217,19 +1399,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "5fab1c2eab27e404",
-    "title": "Stripe and Advent Ditch $50 Billion PayPal Takeover Bid",
-    "excerpt": "Stripe and private equity firm Advent International have ditched their $53 billion pursuit of PayPal, ending a deal that would have been the largest fintech acquisition ever. \"Stripe last week agreed to pay $8 billion for AI model marketplace OpenRouter, but a source said that the OpenRouter and…",
-    "url": "https://news.slashdot.org/story/26/08/28/1633219/stripe-and-advent-ditch-50-billion-paypal-takeover-bid?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-08-28T17:00:00.000Z",
-    "category": "startups",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "945fc0934330548f",
     "title": "Our 10 favorite scenes from T2: Judgment Day",
     "excerpt": "I'm on record declaring James Cameron's Terminator 2: Judgment Day (1991) to be The Best Damn Sequel of All Time, and I stand by that assessment. August 29, the fictional date (in 1997) of the franchise's original nuclear holocaust, is fast approaching, and Judgment Day is celebrating its 35th…",
@@ -1269,19 +1438,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "3604ac0866f32847",
-    "title": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything",
-    "excerpt": "YouTube \" data-portal-copyright=\"Image: gabdeg via YouTube \" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-28-at-12.07.16-PM.png?quality=90&strip=all&crop=0,0,100,100\" /> The unofficial version of DLSS 5 makes Jesse Faden’s…",
-    "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Emma Roth",
-    "publishedAt": "2026-08-28T16:22:16.000Z",
-    "category": "ai",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-28-at-12.07.16-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "422985e45143b8ef",
     "title": "Solana vote to double disinflation passes by a hair in dramatic finish",
     "excerpt": "Solana's first network-wide vote went down to the wire, with Kraken and Galaxy-linked validators switching sides before the disinflation proposal narrowly passed.",
@@ -1292,32 +1448,6 @@
     "publishedAt": "2026-08-28T16:12:45.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "85d97c48f24c3214",
-    "title": "Roblox Is Cracking Down On Games That Reward Kids For Doomscrolling",
-    "excerpt": "Roblox is restricting games that reward younger players for endlessly consuming autoplaying media feeds. The new restrictions are specifically targeting Roblox experiences like \"Steal an Egg,\" which encouraged players to watch TikTok-style clips for in-game benefits. \"Roblox's official alert does…",
-    "url": "https://games.slashdot.org/story/26/08/28/0027222/roblox-is-cracking-down-on-games-that-reward-kids-for-doomscrolling?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-08-28T16:00:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a3d40848cd03fefd",
-    "title": "Just the rumour of a bug is enough to find an exploit these days",
-    "excerpt": "Article URL: https://anil.recoil.org/notes/rumour-is-the-exploit Comments URL: https://news.ycombinator.com/item?id=49480466 Points: 364 # Comments: 117",
-    "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "avsm",
-    "publishedAt": "2026-08-28T15:58:46.000Z",
-    "category": "security",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1386,32 +1516,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "5c7a0cb58779e3e8",
-    "title": "The iPhone Fold could make concerts even worse",
-    "excerpt": "You know the person blocking your view of the concert because their phone is swaying in the air, recording the entire thing? Get ready for the unfolded version of it. This week on The Vergecast , we dive right into the big week of Apple news. First, it's the refreshed Mac Mini and Mac Studio, as…",
-    "url": "https://www.theverge.com/podcast/986145/m6-mac-mini-meta-settlement-gta-6-vergecast",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Jacob Kastrenakes",
-    "publishedAt": "2026-08-28T15:26:19.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST_0828_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "07aca43e12d4379f",
-    "title": "GUIs should be fully keyboard-driven",
-    "excerpt": "Article URL: https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html Comments URL: https://news.ycombinator.com/item?id=49479837 Points: 971 # Comments: 477",
-    "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "ckardaris",
-    "publishedAt": "2026-08-28T15:17:09.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "eaccb76eb8426e8f",
     "title": "US government snitch-finder pleads guilty to leaking state secrets to foreign spies",
     "excerpt": "The former Defense Intelligence Agency (DIA) IT specialist previously accused of trying to pass secret and top-secret information to foreign spies has pleaded guilty following a successful FBI sting. Nathan Vilas Laatsch, then 28, and now 29, was arrested in May 2025 after an undercover FBI agent…",
@@ -1425,22 +1529,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "1035419c466e8d3a",
-    "title": "US Considers Fresh Round of Tariffs On Semiconductors",
-    "excerpt": "An anonymous reader quotes a report from CNBC: U.S. President Donald Trump's administration is reportedly considering new tariffs on semiconductors used in the U.S., as tech giants race to beat China in the artificial intelligence infrastructure build-out. The duties will be imposed on an expanded…",
-    "url": "https://yro.slashdot.org/story/26/08/28/009205/us-considers-fresh-round-of-tariffs-on-semiconductors?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-08-28T15:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "640915152d823c74",
     "title": "Creating the Aetheryte Radio",
-    "excerpt": "Article URL: https://haz.ee/posts/aetheryte-radio.html Comments URL: https://news.ycombinator.com/item?id=49479546 Points: 37 # Comments: 8",
+    "excerpt": "Article URL: https://haz.ee/posts/aetheryte-radio.html Comments URL: https://news.ycombinator.com/item?id=49479546 Points: 54 # Comments: 12",
     "url": "https://haz.ee/posts/aetheryte-radio.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1531,7 +1622,7 @@
   {
     "id": "6b67b7c843708761",
     "title": "Htmx 4.0",
-    "excerpt": "Article URL: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released Comments URL: https://news.ycombinator.com/item?id=49478178 Points: 758 # Comments: 190",
+    "excerpt": "Article URL: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released Comments URL: https://news.ycombinator.com/item?id=49478178 Points: 787 # Comments: 198",
     "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1551,19 +1642,6 @@
     "author": "Sean O'Kane",
     "publishedAt": "2026-08-28T13:24:43.000Z",
     "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "fe93add9327352d5",
-    "title": "The Linux Kernel Is Approaching 2,000 CVEs Per Release",
-    "excerpt": "With the proliferation of AI/LLM models analyzing the Linux kernel's vast codebase, there has been a surge in the number of CVEs per kernel release. After typically being around 500 CVEs fixed per release, we are now approaching 2,000 CVEs fixed per release and perhaps will break that threshold for…",
-    "url": "https://www.phoronix.com/news/Linux-Kernel-CVEs-Nearly-2000",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-28T13:02:16.000Z",
-    "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1591,19 +1669,6 @@
     "publishedAt": "2026-08-28T13:00:00.000Z",
     "category": "software",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/019c4dbbfffe197bf777aaea7b45c3fba72db330-6240x4160.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "0f50e8401ebe9e32",
-    "title": "U.S. sanctions against the A/I Collective",
-    "excerpt": "Earlier: US Government designates host of noblogs.org a \"global terrorist\" - https://news.ycombinator.com/item?id=49464391 - (131 comments) US sanctions Italian hosting provider Autistici Inventati - https://news.ycombinator.com/item?id=49451343 - (219 comments) Comments URL:…",
-    "url": "https://www.inventati.org/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "exiguus",
-    "publishedAt": "2026-08-28T12:58:53.000Z",
-    "category": "policy",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1643,19 +1708,6 @@
     "publishedAt": "2026-08-28T12:30:57.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/c48dd32903d41ec222f4a093c9aefa108c259b98-2960x1665.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c323c9b581192b7e",
-    "title": "Inception-style curved map for turn-by-turn directions",
-    "excerpt": "Article URL: https://www.orbify.eu/demo/ Comments URL: https://news.ycombinator.com/item?id=49477564 Points: 574 # Comments: 184",
-    "url": "https://www.orbify.eu/demo/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "smoser",
-    "publishedAt": "2026-08-28T12:29:05.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2075,19 +2127,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "14be0f889ee73b43",
-    "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
-    "excerpt": "A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven Parekh — covering AI, sports investing, community-building, venture economics, and politics, with cocktails, food, and networking…",
-    "url": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "TechCrunch Events",
-    "publishedAt": "2026-08-28T02:02:44.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "a547bae3af555c75",
     "title": "Sovereign Tech Agency Providing Massive Investment Into Flatpak",
     "excerpt": "The latest beneficiary of Germany's Sovereign Tech Agency is Flatpak where more than half a million Euros will be invested over the next two years to help with app sandboxing and other functionality...",
@@ -2124,19 +2163,6 @@
     "publishedAt": "2026-08-27T23:22:35.000Z",
     "category": "ai",
     "imageUrl": "https://image.theregister.com/?imageId=5293144&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "edabaffd84062cd2",
-    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-    "excerpt": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-    "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "TechCrunch Events",
-    "publishedAt": "2026-08-27T23:16:45.000Z",
-    "category": "ai",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2621,19 +2647,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "af2ecb98475dda23",
-    "title": "LLVM Improves Zen 1 / Zen 2 Support To Deal With \"Notoriously Bad\" PDEP/PEXT",
-    "excerpt": "The LLVM/Clang compiler toolchain merged overnight better support for the nearly decade-old AMD Zen 1 processors and also helps with Zen+ and Zen 2 processors too. This latest work thanks to the open-source community is for providing more informed instruction scheduling around PDEP and PEXT that…",
-    "url": "https://www.phoronix.com/news/LLVM-Improve-AMD-PDEP-PEXT",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-27T10:05:07.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "825cee90afd355cb",
     "title": "AROS, the FOSS recreation of AmigaOS, comes to Raspberry Pi",
     "excerpt": "AROS is an all-FOSS re-implementation of AmigaOS, and after years of effort, it now supports Arm kit – both 32-bit and 64-bit Raspberry Pi hardware, especially the Pi 3. The AROS project's nightly builds page has some interesting new offerings. Notably, there's raspi-aarch64-system for 64-bit…",
@@ -2722,19 +2735,6 @@
     "publishedAt": "2026-08-26T23:45:58.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=255325&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "dd7f6d928e357716",
-    "title": "Europe's last regular standard-gauge steam passenger service",
-    "excerpt": "Article URL: https://parowozowniawolsztyn.pl/?page_id=2141 Comments URL: https://news.ycombinator.com/item?id=49456819 Points: 92 # Comments: 24",
-    "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "GungulSurm",
-    "publishedAt": "2026-08-26T22:32:00.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
