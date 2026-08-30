@@ -1,5 +1,187 @@
 [
   {
+    "id": "66a440075593a133",
+    "title": "RTL8723BS Driver Continues Dominating The Staging Area Activity For Linux 7.3",
+    "excerpt": "Upstreamed back in 2017 for Linux 4.12 was the RTL8723BS driver in the kernel's staging area. Nine years later it remains in staging and remains a frequent target for clean-ups and code improvements as it tries to work its way out...",
+    "url": "https://www.phoronix.com/news/Linux-7.3-Staging",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-30T00:33:50.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "05502ae5938a9d5e",
+    "title": "Bug Blindness",
+    "excerpt": "Article URL: https://danluu.com/bug-blind/ Comments URL: https://news.ycombinator.com/item?id=49494520 Points: 17 # Comments: 2",
+    "url": "https://danluu.com/bug-blind/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "davidmckenna",
+    "publishedAt": "2026-08-30T00:21:40.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "34b6a1545bb54dc4",
+    "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
+    "excerpt": "The exploit caused the neobank's AVICI token to drop 49% from a 24-hour high, hitting a record low before paring some of the losses.",
+    "url": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Francisco Rodrigues",
+    "publishedAt": "2026-08-29T23:49:17.000Z",
+    "category": "security",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/da5caf65adc295012880cf200ddf9e937f2db11c-1920x1282.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a923dcdec37ebc13",
+    "title": "Highest-ever ocean temperature measured as powerful El Niño forms",
+    "excerpt": "Article URL: https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms Comments URL: https://news.ycombinator.com/item?id=49494231 Points: 70 # Comments: 39",
+    "url": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "measurablefunc",
+    "publishedAt": "2026-08-29T23:26:44.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f74cafbb38d402aa",
+    "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+    "excerpt": "Article URL: https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/ Comments URL: https://news.ycombinator.com/item?id=49494182 Points: 57 # Comments: 21",
+    "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "DeepLogin",
+    "publishedAt": "2026-08-29T23:17:17.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "be7d00ca37962b0c",
+    "title": "I co-founded Burning Man. The festival has lost its soul",
+    "excerpt": "Article URL: https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/ Comments URL: https://news.ycombinator.com/item?id=49494151 Points: 80 # Comments: 49",
+    "url": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "lisper",
+    "publishedAt": "2026-08-29T23:12:25.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6dcf5f9efcc81274",
+    "title": "How to save money on your phone bill with an MVNO",
+    "excerpt": "There are wireless providers offering plans at a fraction of the cost you'll find at major carriers like AT&T, T-Mobile and Verizon.",
+    "url": "https://www.engadget.com/2246399/how-to-save-money-phone-bill-with-mvno/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Ben Stegner)",
+    "publishedAt": "2026-08-29T23:00:00.000Z",
+    "category": "policy",
+    "imageUrl": "https://www.engadget.com/img/gallery/how-to-save-money-on-your-phone-bill-with-an-mvno/l-intro-1787851564.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ccff52adc9876069",
+    "title": "Anthropic Sued By Sony, Warner For Allegedly Stealing Tens of Thousands of Songs, Torrenting Copyrighted Works",
+    "excerpt": "Axios reports: Some of the world's largest music publishers filed a blockbuster lawsuit against Anthropic late Friday night, alleging \"one of the largest and most blatant ongoing thefts of intellectual property in history.\" The suit is the opening salvo in what is now likely to be a yearslong fight…",
+    "url": "https://yro.slashdot.org/story/26/08/29/2149242/anthropic-sued-by-sony-warner-for-allegedly-stealing-tens-of-thousands-of-songs-torrenting-copyrighted-works?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-08-29T23:00:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1668a9343b57629c",
+    "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
+    "excerpt": "Article URL: https://defrag98.com Comments URL: https://news.ycombinator.com/item?id=49494036 Points: 81 # Comments: 45",
+    "url": "https://defrag98.com",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "throw0101a",
+    "publishedAt": "2026-08-29T22:51:17.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1bd589160f9080fe",
+    "title": "The wildest video game budgets can't hold a candle to GTA 6",
+    "excerpt": "GTA 6 is thought to be the most expensive entertainment product ever made, eclipsing Hollywood movies and other video games by hundreds of millions of dollars.",
+    "url": "https://www.engadget.com/2246918/video-games-rival-gta-6-budget/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Calvin Wankhede)",
+    "publishedAt": "2026-08-29T22:30:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/the-wildest-video-game-budgets-cant-hold-a-candle-to-gta-6/l-intro-1787978932.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9d5080385e7180ab",
+    "title": "Why does your Kindle even have Bluetooth?",
+    "excerpt": "Why does your Kindle even have Bluetooth?",
+    "url": "https://www.engadget.com/2242764/why-does-your-kindle-even-have-bluetooth/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Antony Terence)",
+    "publishedAt": "2026-08-29T22:00:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/why-does-your-kindle-even-have-bluetooth/l-intro-1787161033.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "5e789b98a182bab7",
+    "title": "What's 88-year-old Ridley Scott Doing Now?",
+    "excerpt": "The Los Angeles Times first calls Ridley Scott's newest movie \"a postapocalyptic thriller that trades zombies for pandemics and asks whether hope can outlast catastrophe.\" But besides The Dog Stars, Scott is also working on an adaptation of Robert Louis Stevenson's \"Treasure Island\" starring Hugh…",
+    "url": "https://entertainment.slashdot.org/story/26/08/29/210256/whats-88-year-old-ridley-scott-doing-now?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-08-29T22:00:00.000Z",
+    "category": "security",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b221881b88bcc72b",
+    "title": "With the Snip of a Gene, Scientists Hope To Erase High Cholesterol For Life",
+    "excerpt": "CNN reports that \"A one-time snip of a key gene lowered heart-clogging cholesterol by about 50% over an entire year with no adverse effects, scientists have reported.\" The overwhelmingly positive results were found in four people who had taken the highest dose of the experimental treatment during a…",
+    "url": "https://science.slashdot.org/story/26/08/29/1942224/with-the-snip-of-a-gene-scientists-hope-to-erase-high-cholesterol-for-life?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-08-29T21:00:00.000Z",
+    "category": "software",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "94db180b35f01cb4",
+    "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+    "excerpt": "Inspired by Oregon Trail, but minus the dysentery. | Screenshot: Terrence O’Brien / The Verge I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children…",
+    "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Terrence O’Brien",
+    "publishedAt": "2026-08-29T20:59:26.000Z",
+    "category": "policy",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-29-at-4.57.57-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "959c37f7d2a1f569",
     "title": "How to watch the 2026 US Open Tennis Championships",
     "excerpt": "An ESPN Unlimited subscription seems like the easiest way to get into all the US Open action.",
@@ -40,8 +222,8 @@
   },
   {
     "id": "7ccb97bb9a47c2f1",
-    "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
-    "excerpt": "Article URL: https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/ Comments URL: https://news.ycombinator.com/item?id=49492632 Points: 18 # Comments: 2",
+    "title": "Hy4 preview",
+    "excerpt": "Article URL: https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/ Comments URL: https://news.ycombinator.com/item?id=49492632 Points: 186 # Comments: 118",
     "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -54,26 +236,13 @@
   {
     "id": "b3ea611c2245f40b",
     "title": "Domain-Driven Agents",
-    "excerpt": "Article URL: https://coldtake.dev/blog/domain-driven-agents Comments URL: https://news.ycombinator.com/item?id=49492584 Points: 3 # Comments: 0",
+    "excerpt": "Article URL: https://coldtake.dev/blog/domain-driven-agents Comments URL: https://news.ycombinator.com/item?id=49492584 Points: 48 # Comments: 6",
     "url": "https://coldtake.dev/blog/domain-driven-agents",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "AlarQ",
     "publishedAt": "2026-08-29T19:28:28.000Z",
     "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "aa6b4d26f5c6f7da",
-    "title": "The elementary school pickup incident and the road ahead",
-    "excerpt": "Article URL: https://shitposting.ai/pickup-incident/ Comments URL: https://news.ycombinator.com/item?id=49492554 Points: 4 # Comments: 0",
-    "url": "https://shitposting.ai/pickup-incident/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "mkeeter",
-    "publishedAt": "2026-08-29T19:25:01.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -91,15 +260,28 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "9e96ce557e8e0998",
-    "title": "Warp builds self-improving agents on Claude",
-    "excerpt": "Article URL: https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude Comments URL: https://news.ycombinator.com/item?id=49492432 Points: 36 # Comments: 24",
-    "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+    "id": "f4e69111852b3722",
+    "title": "A safe MySQL upgrade that wasn't so safe",
+    "excerpt": "Article URL: https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/ Comments URL: https://news.ycombinator.com/item?id=49492488 Points: 32 # Comments: 5",
+    "url": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
-    "author": "shenli3514",
-    "publishedAt": "2026-08-29T19:09:33.000Z",
-    "category": "ai",
+    "author": "el1s7",
+    "publishedAt": "2026-08-29T19:15:51.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "cd7d52023b5b1d5e",
+    "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+    "excerpt": "Article URL: https://dl.acm.org/doi/10.1145/3830438.3830958 Comments URL: https://news.ycombinator.com/item?id=49492368 Points: 44 # Comments: 7",
+    "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "matt_d",
+    "publishedAt": "2026-08-29T19:01:09.000Z",
+    "category": "crypto",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -132,7 +314,7 @@
   {
     "id": "1282e87882e42b22",
     "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
-    "excerpt": "Article URL: https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits Comments URL: https://news.ycombinator.com/item?id=49492219 Points: 111 # Comments: 17",
+    "excerpt": "Article URL: https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits Comments URL: https://news.ycombinator.com/item?id=49492219 Points: 291 # Comments: 44",
     "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -156,19 +338,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "95e904614cf15663",
-    "title": "The Internet Is Kind of a Predatory Cesspit Now",
-    "excerpt": "Article URL: https://www.stephendiehl.com/posts/internet_predatory_cesspit/ Comments URL: https://news.ycombinator.com/item?id=49492193 Points: 263 # Comments: 163",
-    "url": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "ibobev",
-    "publishedAt": "2026-08-29T18:40:56.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "1e15ab7747a6c84c",
     "title": "Why would you pay $359 for the most expensive Whoop membership?",
     "excerpt": "Whoop Life is the highest tier of membership to the Whoop platform, and it does offer more data than the less expensive levels.",
@@ -179,19 +348,6 @@
     "publishedAt": "2026-08-29T18:30:00.000Z",
     "category": "startups",
     "imageUrl": "https://www.engadget.com/img/gallery/why-would-you-pay-359-for-the-most-expensive-whoop-membership/l-intro-1787317096.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "99ece13e787f3487",
-    "title": "vLLM v0.28.0",
-    "excerpt": "Article URL: https://github.com/vllm-project/vllm/releases/tag/v0.28.0 Comments URL: https://news.ycombinator.com/item?id=49492067 Points: 15 # Comments: 0",
-    "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "mrrrcs",
-    "publishedAt": "2026-08-29T18:22:00.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -283,7 +439,7 @@
   {
     "id": "a04fa0af80fb7692",
     "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
-    "excerpt": "Article URL: https://tucker.wales/writing/bias-towards-action/ Comments URL: https://news.ycombinator.com/item?id=49491714 Points: 41 # Comments: 13",
+    "excerpt": "Article URL: https://tucker.wales/writing/bias-towards-action/ Comments URL: https://news.ycombinator.com/item?id=49491714 Points: 106 # Comments: 42",
     "url": "https://tucker.wales/writing/bias-towards-action/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -322,26 +478,13 @@
   {
     "id": "c9cf59b44a2d246e",
     "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-    "excerpt": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 118 # Comments: 21",
+    "excerpt": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 244 # Comments: 56",
     "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "gpi",
     "publishedAt": "2026-08-29T17:19:47.000Z",
     "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f75a685f443ee397",
-    "title": "A better SQL in 11 lines of code",
-    "excerpt": "Article URL: https://prela-lang.org/tutorial/ Comments URL: https://news.ycombinator.com/item?id=49491544 Points: 24 # Comments: 23",
-    "url": "https://prela-lang.org/tutorial/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "remywang",
-    "publishedAt": "2026-08-29T17:13:45.000Z",
-    "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -387,7 +530,7 @@
   {
     "id": "8c00a2082c4c66db",
     "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
-    "excerpt": "Article URL: https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest Comments URL: https://news.ycombinator.com/item?id=49491175 Points: 9 # Comments: 1",
+    "excerpt": "Article URL: https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest Comments URL: https://news.ycombinator.com/item?id=49491175 Points: 31 # Comments: 5",
     "url": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -465,7 +608,7 @@
   {
     "id": "e00bbcbba8b9eb0f",
     "title": "Nancy Grace Roman Space Telescope",
-    "excerpt": "Article URL: https://science.nasa.gov/mission/roman-space-telescope/ Comments URL: https://news.ycombinator.com/item?id=49490870 Points: 86 # Comments: 29",
+    "excerpt": "https://nextspaceflight.com/launches/details/6983/ https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grac... https://en.wikipedia.org/wiki/Nancy_Grace_Roman Comments URL: https://news.ycombinator.com/item?id=49490870 Points: 118 # Comments: 58",
     "url": "https://science.nasa.gov/mission/roman-space-telescope/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -478,7 +621,7 @@
   {
     "id": "d94657bf1d9c6a8b",
     "title": "Quantifying Colour",
-    "excerpt": "Article URL: https://ekunazanu.foo/lab/quantifying-colour/ Comments URL: https://news.ycombinator.com/item?id=49490832 Points: 45 # Comments: 3",
+    "excerpt": "Article URL: https://ekunazanu.foo/lab/quantifying-colour/ Comments URL: https://news.ycombinator.com/item?id=49490832 Points: 66 # Comments: 7",
     "url": "https://ekunazanu.foo/lab/quantifying-colour/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -499,19 +642,6 @@
     "publishedAt": "2026-08-29T15:30:00.000Z",
     "category": "software",
     "imageUrl": "https://www.engadget.com/img/gallery/dont-fall-for-this-digital-tv-antenna-myth/l-intro-1787250128.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3623b6d02acbb35f",
-    "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
-    "excerpt": "Article URL: https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e Comments URL: https://news.ycombinator.com/item?id=49490702 Points: 175 # Comments: 63",
-    "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "400thecat",
-    "publishedAt": "2026-08-29T15:26:28.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -555,7 +685,7 @@
   },
   {
     "id": "32d476484a3c5c33",
-    "title": "Swift’s $1.5 quadrillion network faces a blockchain test",
+    "title": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
     "excerpt": "Crypto executives say new blockchain payment infrastructure could make Swift obsolete. Bankers say its 11,500-institution network gives it the power to absorb the technology instead.",
     "url": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
     "source": "CoinDesk",
@@ -621,7 +751,7 @@
   {
     "id": "de15af4cd39177b7",
     "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-    "excerpt": "Article URL: https://uecker.codeberg.page/2026-08-29.html Comments URL: https://news.ycombinator.com/item?id=49490138 Points: 55 # Comments: 29",
+    "excerpt": "Article URL: https://uecker.codeberg.page/2026-08-29.html Comments URL: https://news.ycombinator.com/item?id=49490138 Points: 66 # Comments: 42",
     "url": "https://uecker.codeberg.page/2026-08-29.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -762,19 +892,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "edbc23bd09273ce4",
-    "title": "Xbox Project Helix is a 'family of devices,' CEO reveals",
-    "excerpt": "Asha Sharma said Xbox is developing a 'great family of devices' for Helix.",
-    "url": "https://www.engadget.com/2246956/xbox-project-helix-family-of-devices/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Mariella Moon)",
-    "publishedAt": "2026-08-29T12:15:12.000Z",
-    "category": "startups",
-    "imageUrl": "https://www.engadget.com/img/gallery/xbox-project-helix-is-apparently-a-family-of-devices/l-intro-1788005462.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "4ed9a280c24da513",
     "title": "Musicians-turned-detectives are hunting for AI grifters",
     "excerpt": "As audio-focused generative tools and platforms have gotten more sophisticated , the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content…",
@@ -785,32 +902,6 @@
     "publishedAt": "2026-08-29T12:00:00.000Z",
     "category": "startups",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,85.33125,89.314310632479",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "36d247d47a95aa2b",
-    "title": "Can All Android Phones Use Android Auto?",
-    "excerpt": "Unless you've put some custom software on your phone, Android Auto will work on nearly all modern phones.",
-    "url": "https://www.engadget.com/2245490/android-auto-compatibility-which-phones-cant-use/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Jack Whitcombe)",
-    "publishedAt": "2026-08-29T12:00:00.000Z",
-    "category": "software",
-    "imageUrl": "https://www.engadget.com/img/gallery/can-all-android-phone-use-android-auto/l-intro-1785768918.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "0d2d6e25ce92c2b2",
-    "title": "Pretty Metroidvanias, free Bomberman-style chaos and other new indie games worth checking out",
-    "excerpt": "Start your weekend by diving into our latest roundup of what's new in the indie gaming space.",
-    "url": "https://www.engadget.com/2246749/pretty-metroidvanias-free-bomberman-style-chaos-and-other-new-indie-games/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Kris Holt)",
-    "publishedAt": "2026-08-29T11:30:00.000Z",
-    "category": "policy",
-    "imageUrl": "https://www.engadget.com/img/gallery/pretty-metroidvanias-free-bomberman-style-chaos-and-other-new-indie-games-worth-checking-out/l-intro-1787948588.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -946,7 +1037,7 @@
   {
     "id": "6c66c63ff1adf27b",
     "title": "Samsung's Processing-in-Memory (PIM)",
-    "excerpt": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing Comments URL: https://news.ycombinator.com/item?id=49487341 Points: 223 # Comments: 77",
+    "excerpt": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing Comments URL: https://news.ycombinator.com/item?id=49487341 Points: 245 # Comments: 92",
     "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -958,7 +1049,7 @@
   },
   {
     "id": "956faf7a124e1480",
-    "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
+    "title": "Bitcoin wallets untouched for 10 years moved $40 million worth of coins",
     "excerpt": "Six decade-old wallets moved $40 million this month, but Galaxy's data shows dormant coin activity at its lowest since 2022 and 2026 on pace for under half of last year's total.",
     "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
     "source": "CoinDesk",
@@ -998,7 +1089,7 @@
   {
     "id": "f067a4ae268cdf65",
     "title": "StemDeck, a free, open-source and local AI stem separator",
-    "excerpt": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 187 # Comments: 57",
+    "excerpt": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 206 # Comments: 58",
     "url": "https://github.com/stemdeckapp/stemdeck",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1037,7 +1128,7 @@
   {
     "id": "bd488c1cb70b7284",
     "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-    "excerpt": "Article URL: https://github.com/Lakr233/vphone-cli Comments URL: https://news.ycombinator.com/item?id=49485267 Points: 360 # Comments: 96",
+    "excerpt": "Article URL: https://github.com/Lakr233/vphone-cli Comments URL: https://news.ycombinator.com/item?id=49485267 Points: 380 # Comments: 103",
     "url": "https://github.com/Lakr233/vphone-cli",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1230,19 +1321,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "f7918def6bd5def1",
-    "title": "Songs Created By AI Banned From Australia's Music Charts",
-    "excerpt": "Australia's official music charts will no longer accept songs that are largely or entirely AI-generated, requiring eligible releases to be \"substantially human made.\" The BBC reports: The Australian Recording Industry Association (ARIA) said the new code would help \"promote the human nature of…",
-    "url": "https://entertainment.slashdot.org/story/26/08/28/188217/songs-created-by-ai-banned-from-australias-music-charts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-08-28T20:00:00.000Z",
-    "category": "science",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "ed4ac743e94bc090",
     "title": "AWS Route 53 DNS service reimagined...as a file system?",
     "excerpt": "For years, Corey Quinn, chief cloud economist at Duckbill and occasional Reg columnist, has argued that Amazon's Route 53 DNS service is a database. While literally true in the sense that DNS records are stored key-value pairs, it's more of a provocation than an endorsement. Even so, the idea has…",
@@ -1282,19 +1360,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "916f44cf0587630d",
-    "title": "Apple TV and Apple One Subscription Prices Increase By Up To 20%",
-    "excerpt": "Apple is raising Apple TV's U.S. price to $14.99 per month, up from $12.99, while the annual plan jumps from $99 to $119. It's the service's fourth price hike in four years and means the monthly cost has now tripled from its $4.99 launch price in 2019. Apple One's Individual plan is also rising…",
-    "url": "https://news.slashdot.org/story/26/08/28/184210/apple-tv-and-apple-one-subscription-prices-increase-by-up-to-20?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-08-28T19:00:00.000Z",
-    "category": "Software",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "f74112f152d1467f",
     "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
     "excerpt": "The feature, announced this week, allows Brave's users to sign up for websites and other online services without having to share their personal email addresses.",
@@ -1331,19 +1396,6 @@
     "publishedAt": "2026-08-28T18:07:55.000Z",
     "category": "ai",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "06287b207c6352c5",
-    "title": "Pentagon's Blacklisting of Anthropic Was Unlawful, US Judge Rules",
-    "excerpt": "An anonymous reader quotes a report from The Guardian: A US judge ruled on Thursday that the Trump administration broke the law when it designated Anthropic as a supply chain risk earlier this year, finding that the government had unlawfully targeted the AI firm for refusing to comply with defense…",
-    "url": "https://yro.slashdot.org/story/26/08/28/1641254/pentagons-blacklisting-of-anthropic-was-unlawful-us-judge-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-08-28T18:00:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -1422,19 +1474,6 @@
     "publishedAt": "2026-08-28T16:33:22.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "7750fe415e7d78b5",
-    "title": "Trump’s EPA wants to let data centers hide their air pollution",
-    "excerpt": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Justine Calma",
-    "publishedAt": "2026-08-28T16:28:40.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -1531,7 +1570,7 @@
   {
     "id": "640915152d823c74",
     "title": "Creating the Aetheryte Radio",
-    "excerpt": "Article URL: https://haz.ee/posts/aetheryte-radio.html Comments URL: https://news.ycombinator.com/item?id=49479546 Points: 54 # Comments: 12",
+    "excerpt": "Article URL: https://haz.ee/posts/aetheryte-radio.html Comments URL: https://news.ycombinator.com/item?id=49479546 Points: 67 # Comments: 14",
     "url": "https://haz.ee/posts/aetheryte-radio.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1617,19 +1656,6 @@
     "publishedAt": "2026-08-28T13:34:00.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=262468&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "6b67b7c843708761",
-    "title": "Htmx 4.0",
-    "excerpt": "Article URL: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released Comments URL: https://news.ycombinator.com/item?id=49478178 Points: 787 # Comments: 198",
-    "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "rmsaksida",
-    "publishedAt": "2026-08-28T13:28:56.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2098,19 +2124,6 @@
     "publishedAt": "2026-08-28T05:02:22.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/7f9a8bf8731625906738faac957eee0f6ad99369-2315x1277.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d2357c4fba5de9c0",
-    "title": "Bitcoin under $80,000, solana leads majors higher before Warsh's Jackson Hole debut",
-    "excerpt": "Every major but HYPE gained over 24 hours, capping a week that added 9% to bitcoin and 20% to solana.",
-    "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-holds-usd80-000-solana-leads-majors-higher-before-warsh-s-jackson-hole-debut",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Shaurya Malwa",
-    "publishedAt": "2026-08-28T04:40:52.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/ab86a50845d3c0057248691a587f84732f2fc7b5-1498x840.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2631,19 +2644,6 @@
     "publishedAt": "2026-08-27T10:29:00.000Z",
     "category": "ai",
     "imageUrl": "https://image.theregister.com/?imageId=5240076&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "7fe8be3504fd86ce",
-    "title": "AppArmor In Linux 7.3 Adds Support For User-Space Compressed Policies",
-    "excerpt": "The AppArmor improvements have been merged for Linux 7.3 for this kernel security module providing per-program Linux application security controls around system resources. Most notable this cycle is being able to load user-space compressed policies...",
-    "url": "https://www.phoronix.com/news/Linux-7.3-AppArmor",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-27T10:18:39.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
