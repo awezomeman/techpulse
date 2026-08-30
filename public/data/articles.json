@@ -1,5 +1,83 @@
 [
   {
+    "id": "31f040498b907571",
+    "title": "Google's AI-Powered Lifestyle App 'Dreambeans' Now Free in the US",
+    "excerpt": "Google's AI assistant Gemini crawls your Google apps for \"more personalized suggestions,\" in a feature they call Personal Intelligence. Now when given permission, an Android/iOS app called Dreambeans \"uses Personal Intelligence to connect information from Google apps like Gmail, Calendar, Photos,…",
+    "url": "https://tech.slashdot.org/story/26/08/30/0422259/googles-ai-powered-lifestyle-app-dreambeans-now-free-in-the-us?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-08-30T04:34:00.000Z",
+    "category": "software",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "5e2393b3ea03b150",
+    "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+    "excerpt": "Article URL: https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt Comments URL: https://news.ycombinator.com/item?id=49495372 Points: 143 # Comments: 25",
+    "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "shscs911",
+    "publishedAt": "2026-08-30T03:15:36.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e10559e835d6d9ba",
+    "title": "Algorithmic rent-pricing litigation expands under new state and local laws",
+    "excerpt": "Article URL: https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws Comments URL: https://news.ycombinator.com/item?id=49495127 Points: 66 # Comments: 33",
+    "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "toomuchtodo",
+    "publishedAt": "2026-08-30T02:25:32.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "64601092ea704333",
+    "title": "Debian Decides: Contributors Can Use Generative AI 'Responsibly'",
+    "excerpt": "This week Debian voted on whether to ban AI-assisted contributions. The winning proposal? \"Debian neither endorses nor prohibits the use of generative AI tools\" in its projects, documentation, and packaging... Generative AI \"is neither exempt from nor subject to special rules beyond the standards…",
+    "url": "https://linux.slashdot.org/story/26/08/29/2223248/debian-decides-contributors-can-use-generative-ai-responsibly?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-08-30T01:34:00.000Z",
+    "category": "crypto",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "c22348ede2f35da5",
+    "title": "FreeCORE TrueNAS Core – Continued",
+    "excerpt": "Article URL: https://freecore.org/ Comments URL: https://news.ycombinator.com/item?id=49494856 Points: 78 # Comments: 47",
+    "url": "https://freecore.org/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "sashk",
+    "publishedAt": "2026-08-30T01:31:32.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f1373e34d2355a90",
+    "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
+    "excerpt": "Article URL: https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/ Comments URL: https://news.ycombinator.com/item?id=49494751 Points: 42 # Comments: 11",
+    "url": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "cisc",
+    "publishedAt": "2026-08-30T01:09:15.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "66a440075593a133",
     "title": "RTL8723BS Driver Continues Dominating The Staging Area Activity For Linux 7.3",
     "excerpt": "Upstreamed back in 2017 for Linux 4.12 was the RTL8723BS driver in the kernel's staging area. Nine years later it remains in staging and remains a frequent target for clean-ups and code improvements as it tries to work its way out...",
@@ -13,9 +91,22 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "d448ff464953c624",
+    "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+    "excerpt": "Article URL: https://github.com/mk6i/open-oscar-server Comments URL: https://news.ycombinator.com/item?id=49494571 Points: 25 # Comments: 8",
+    "url": "https://github.com/mk6i/open-oscar-server",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "gregsadetsky",
+    "publishedAt": "2026-08-30T00:33:35.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "05502ae5938a9d5e",
     "title": "Bug Blindness",
-    "excerpt": "Article URL: https://danluu.com/bug-blind/ Comments URL: https://news.ycombinator.com/item?id=49494520 Points: 17 # Comments: 2",
+    "excerpt": "Article URL: https://danluu.com/bug-blind/ Comments URL: https://news.ycombinator.com/item?id=49494520 Points: 191 # Comments: 90",
     "url": "https://danluu.com/bug-blind/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -39,40 +130,40 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "a923dcdec37ebc13",
-    "title": "Highest-ever ocean temperature measured as powerful El Niño forms",
-    "excerpt": "Article URL: https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms Comments URL: https://news.ycombinator.com/item?id=49494231 Points: 70 # Comments: 39",
-    "url": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
+    "id": "b74188c782fbd754",
+    "title": "The Rise and Fall of Agent Civilizations",
+    "excerpt": "Article URL: https://www.dwarkesh.com/p/openai-huggingface Comments URL: https://news.ycombinator.com/item?id=49494301 Points: 52 # Comments: 11",
+    "url": "https://www.dwarkesh.com/p/openai-huggingface",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
-    "author": "measurablefunc",
-    "publishedAt": "2026-08-29T23:26:44.000Z",
-    "category": "startups",
+    "author": "consumer451",
+    "publishedAt": "2026-08-29T23:43:24.000Z",
+    "category": "ai",
     "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "39fa42b851ceb42d",
+    "title": "Android Auto not working? Here's what to check first",
+    "excerpt": "Chances are there's a connection issue between your phone and car if Android auto isn't working.",
+    "url": "https://www.engadget.com/2242769/android-auto-not-working-check-first/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Jack Whitcombe)",
+    "publishedAt": "2026-08-29T23:30:00.000Z",
+    "category": "software",
+    "imageUrl": "https://www.engadget.com/img/gallery/android-auto-not-working-heres-what-to-check-first/l-intro-1787158524.jpg",
     "readTimeMinutes": 1
   },
   {
     "id": "f74cafbb38d402aa",
     "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-    "excerpt": "Article URL: https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/ Comments URL: https://news.ycombinator.com/item?id=49494182 Points: 57 # Comments: 21",
+    "excerpt": "Article URL: https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/ Comments URL: https://news.ycombinator.com/item?id=49494182 Points: 250 # Comments: 131",
     "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "DeepLogin",
     "publishedAt": "2026-08-29T23:17:17.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "be7d00ca37962b0c",
-    "title": "I co-founded Burning Man. The festival has lost its soul",
-    "excerpt": "Article URL: https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/ Comments URL: https://news.ycombinator.com/item?id=49494151 Points: 80 # Comments: 49",
-    "url": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "lisper",
-    "publishedAt": "2026-08-29T23:12:25.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -101,19 +192,6 @@
     "publishedAt": "2026-08-29T23:00:00.000Z",
     "category": "ai",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "1668a9343b57629c",
-    "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
-    "excerpt": "Article URL: https://defrag98.com Comments URL: https://news.ycombinator.com/item?id=49494036 Points: 81 # Comments: 45",
-    "url": "https://defrag98.com",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "throw0101a",
-    "publishedAt": "2026-08-29T22:51:17.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -223,7 +301,7 @@
   {
     "id": "7ccb97bb9a47c2f1",
     "title": "Hy4 preview",
-    "excerpt": "Article URL: https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/ Comments URL: https://news.ycombinator.com/item?id=49492632 Points: 186 # Comments: 118",
+    "excerpt": "Article URL: https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/ Comments URL: https://news.ycombinator.com/item?id=49492632 Points: 259 # Comments: 161",
     "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -236,7 +314,7 @@
   {
     "id": "b3ea611c2245f40b",
     "title": "Domain-Driven Agents",
-    "excerpt": "Article URL: https://coldtake.dev/blog/domain-driven-agents Comments URL: https://news.ycombinator.com/item?id=49492584 Points: 48 # Comments: 6",
+    "excerpt": "Article URL: https://coldtake.dev/blog/domain-driven-agents Comments URL: https://news.ycombinator.com/item?id=49492584 Points: 73 # Comments: 15",
     "url": "https://coldtake.dev/blog/domain-driven-agents",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -260,22 +338,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "f4e69111852b3722",
-    "title": "A safe MySQL upgrade that wasn't so safe",
-    "excerpt": "Article URL: https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/ Comments URL: https://news.ycombinator.com/item?id=49492488 Points: 32 # Comments: 5",
-    "url": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "el1s7",
-    "publishedAt": "2026-08-29T19:15:51.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "cd7d52023b5b1d5e",
     "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
-    "excerpt": "Article URL: https://dl.acm.org/doi/10.1145/3830438.3830958 Comments URL: https://news.ycombinator.com/item?id=49492368 Points: 44 # Comments: 7",
+    "excerpt": "Article URL: https://dl.acm.org/doi/10.1145/3830438.3830958 Comments URL: https://news.ycombinator.com/item?id=49492368 Points: 77 # Comments: 32",
     "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -314,7 +379,7 @@
   {
     "id": "1282e87882e42b22",
     "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
-    "excerpt": "Article URL: https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits Comments URL: https://news.ycombinator.com/item?id=49492219 Points: 291 # Comments: 44",
+    "excerpt": "Article URL: https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits Comments URL: https://news.ycombinator.com/item?id=49492219 Points: 383 # Comments: 76",
     "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -439,7 +504,7 @@
   {
     "id": "a04fa0af80fb7692",
     "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
-    "excerpt": "Article URL: https://tucker.wales/writing/bias-towards-action/ Comments URL: https://news.ycombinator.com/item?id=49491714 Points: 106 # Comments: 42",
+    "excerpt": "Article URL: https://tucker.wales/writing/bias-towards-action/ Comments URL: https://news.ycombinator.com/item?id=49491714 Points: 145 # Comments: 55",
     "url": "https://tucker.wales/writing/bias-towards-action/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -478,7 +543,7 @@
   {
     "id": "c9cf59b44a2d246e",
     "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-    "excerpt": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 244 # Comments: 56",
+    "excerpt": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points: 350 # Comments: 80",
     "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -530,7 +595,7 @@
   {
     "id": "8c00a2082c4c66db",
     "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
-    "excerpt": "Article URL: https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest Comments URL: https://news.ycombinator.com/item?id=49491175 Points: 31 # Comments: 5",
+    "excerpt": "Article URL: https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest Comments URL: https://news.ycombinator.com/item?id=49491175 Points: 49 # Comments: 7",
     "url": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -608,26 +673,13 @@
   {
     "id": "e00bbcbba8b9eb0f",
     "title": "Nancy Grace Roman Space Telescope",
-    "excerpt": "https://nextspaceflight.com/launches/details/6983/ https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grac... https://en.wikipedia.org/wiki/Nancy_Grace_Roman Comments URL: https://news.ycombinator.com/item?id=49490870 Points: 118 # Comments: 58",
+    "excerpt": "https://nextspaceflight.com/launches/details/6983/ https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grac... https://en.wikipedia.org/wiki/Nancy_Grace_Roman Comments URL: https://news.ycombinator.com/item?id=49490870 Points: 180 # Comments: 69",
     "url": "https://science.nasa.gov/mission/roman-space-telescope/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "JumpCrisscross",
     "publishedAt": "2026-08-29T15:48:02.000Z",
     "category": "science",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d94657bf1d9c6a8b",
-    "title": "Quantifying Colour",
-    "excerpt": "Article URL: https://ekunazanu.foo/lab/quantifying-colour/ Comments URL: https://news.ycombinator.com/item?id=49490832 Points: 66 # Comments: 7",
-    "url": "https://ekunazanu.foo/lab/quantifying-colour/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "vismit2000",
-    "publishedAt": "2026-08-29T15:43:53.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -749,19 +801,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "de15af4cd39177b7",
-    "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-    "excerpt": "Article URL: https://uecker.codeberg.page/2026-08-29.html Comments URL: https://news.ycombinator.com/item?id=49490138 Points: 66 # Comments: 42",
-    "url": "https://uecker.codeberg.page/2026-08-29.html",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "uecker",
-    "publishedAt": "2026-08-29T14:20:33.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "9c9f92960fda5895",
     "title": "The Theragun Sense makes everyday recovery surprisingly easy",
     "excerpt": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just…",
@@ -876,19 +915,6 @@
     "publishedAt": "2026-08-29T12:56:32.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4cd541935e6f3a98",
-    "title": "Want to speed up your MacBook? Do these things first",
-    "excerpt": "Any Mac will become slower over time, but slowdowns don't have to mean a new machine. Try these tricks to get your computer running faster again.",
-    "url": "https://www.engadget.com/2242747/how-to-speed-up-macbook/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Novak Božović)",
-    "publishedAt": "2026-08-29T12:30:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/want-to-speed-up-your-macbook-do-these-things-first/l-intro-1787582736.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1037,7 +1063,7 @@
   {
     "id": "6c66c63ff1adf27b",
     "title": "Samsung's Processing-in-Memory (PIM)",
-    "excerpt": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing Comments URL: https://news.ycombinator.com/item?id=49487341 Points: 245 # Comments: 92",
+    "excerpt": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing Comments URL: https://news.ycombinator.com/item?id=49487341 Points: 256 # Comments: 98",
     "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1087,19 +1113,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "f067a4ae268cdf65",
-    "title": "StemDeck, a free, open-source and local AI stem separator",
-    "excerpt": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 206 # Comments: 58",
-    "url": "https://github.com/stemdeckapp/stemdeck",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "thclpr",
-    "publishedAt": "2026-08-29T01:24:13.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "15f1ad77a08b1a6e",
     "title": "Debian Votes To Allow \"Responsible Use Of Generative AI\"",
     "excerpt": "The voting is over and there is a winner now known in the much-debated Debian General Resolution voting over an AI policy for the Linux distribution...",
@@ -1128,7 +1141,7 @@
   {
     "id": "bd488c1cb70b7284",
     "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-    "excerpt": "Article URL: https://github.com/Lakr233/vphone-cli Comments URL: https://news.ycombinator.com/item?id=49485267 Points: 380 # Comments: 103",
+    "excerpt": "Article URL: https://github.com/Lakr233/vphone-cli Comments URL: https://news.ycombinator.com/item?id=49485267 Points: 397 # Comments: 106",
     "url": "https://github.com/Lakr233/vphone-cli",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1204,16 +1217,16 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "75e41521fd84388e",
-    "title": "States Can Regulate Prediction Markets As Gambling, Federal Appeals Court Rules",
-    "excerpt": "A federal appeals court has ruled that states can regulate prediction markets like Kalshi as gambling, handing state regulators their biggest legal victory yet against the booming industry. \"There are still related lawsuits pending across the country, and legal experts believe the matter will…",
-    "url": "https://yro.slashdot.org/story/26/08/28/2152209/states-can-regulate-prediction-markets-as-gambling-federal-appeals-court-rules?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-08-28T22:00:00.000Z",
-    "category": "policy",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "id": "fdb747b2aadaf48f",
+    "title": "A few feral cats in an ALGOL trenchcoat.",
+    "excerpt": "Article URL: https://wiki.xxiivv.com/site/pop2.html Comments URL: https://news.ycombinator.com/item?id=49484520 Points: 12 # Comments: 1",
+    "url": "https://wiki.xxiivv.com/site/pop2.html",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "bmacho",
+    "publishedAt": "2026-08-28T21:36:33.000Z",
+    "category": "startups",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1253,19 +1266,6 @@
     "publishedAt": "2026-08-28T21:17:38.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2203339270-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a79eb576483002f0",
-    "title": "OpenAI, Anthropic, Google, and 100 Other Companies Call For Action To Defend Against Rogue AI",
-    "excerpt": "An anonymous reader quotes a report from TechCrunch: Over a hundred tech companies -- including OpenAI, Anthropic, Google, and Microsoft -- have signed an open letter urging both the private and public sectors to work together to defend themselves from AI-related cyber threats. The letter -- which…",
-    "url": "https://tech.slashdot.org/story/26/08/28/216235/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-08-28T21:10:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -1568,19 +1568,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "640915152d823c74",
-    "title": "Creating the Aetheryte Radio",
-    "excerpt": "Article URL: https://haz.ee/posts/aetheryte-radio.html Comments URL: https://news.ycombinator.com/item?id=49479546 Points: 67 # Comments: 14",
-    "url": "https://haz.ee/posts/aetheryte-radio.html",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "wonger_",
-    "publishedAt": "2026-08-28T14:59:15.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "6bdf60353cd6fcf8",
     "title": "BitGo to buy NYDIG trading arm for $42.5M in cash and stock plus $15M earnout",
     "excerpt": "The deal to buy NYDIG IF Holdings comprises $7 million in cash and around $35.5 million in stock, as well as the $15 earnout.",
@@ -1707,6 +1694,19 @@
     "author": "Rebecca Bellan",
     "publishedAt": "2026-08-28T12:46:12.000Z",
     "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "42b5bb0d4610c0fa",
+    "title": "Daycare Pseudoscience",
+    "excerpt": "Article URL: https://worksinprogress.co/issue/daycare-pseudoscience/ Comments URL: https://news.ycombinator.com/item?id=49477697 Points: 24 # Comments: 3",
+    "url": "https://worksinprogress.co/issue/daycare-pseudoscience/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "surprisetalk",
+    "publishedAt": "2026-08-28T12:42:02.000Z",
+    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
