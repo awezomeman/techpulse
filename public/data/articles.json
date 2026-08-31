@@ -1,5 +1,278 @@
 [
   {
+    "id": "f5ebab4c98f139cd",
+    "title": "The balkanization of virtualization will de-throne VMware, which doesn't mind a bit",
+    "excerpt": "ANALYSIS VMware is about to lose its status as the undoubted leader of the virtualization market after a 20-year reign – a result it doesn’t mind one bit, but which also signals an industry-wide end to significant innovation for traditional server virtualization. The end of VMware's reign will come…",
+    "url": "https://www.theregister.com/virtualization/2026/08/31/the-balkanization-of-virtualization-will-de-throne-vmware-which-doesnt-mind-a-bit/5292488",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-31T07:01:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://image.theregister.com/?imageId=243286&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "41cc93ec50c18df0",
+    "title": "September Fed rate hike fears look overblown as the probability stands at just 58%, not 90%",
+    "excerpt": "Odds of a rate hike in September remain below 60% despite Warsh's hawkish speech on Friday. Observers downplay fears of tightening.",
+    "url": "https://www.coindesk.com/markets/2026/08/31/september-fed-rate-hike-fears-appear-overblown-as-the-probability-is-just-58-not-90",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Omkar Godbole",
+    "publishedAt": "2026-08-31T06:42:45.000Z",
+    "category": "hardware",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/8e2b3d3280ff21f617ac48ec4a57ac45f5f2edb5-1080x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3eb8b8035a3e6c85",
+    "title": "Who, me? Techie with three months' experience was sent in as the Cisco expert and proceeded to blow everything up",
+    "excerpt": "WHO, ME? “Where to begin?” is a marvelous question. To get you going at the start of the working week, The Register thinks the answer is a new instalment of “Who, Me?” the column that shares your admissions of error. This week, meet a reader we’ll Regomize as “Martin” who told us about his very…",
+    "url": "https://www.theregister.com/networks/2026/08/31/who-me-techie-with-three-months-experience-was-sent-in-as-the-cisco-expert-and-proceeded-to-blow-everything-up/5293185",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-31T06:30:00.000Z",
+    "category": "Security",
+    "imageUrl": "https://image.theregister.com/?imageId=5293388&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1660597758cad688",
+    "title": "Zcash private transactions could go from three-second waits to under 200 milliseconds",
+    "excerpt": "Zakura says a new cryptography stack makes mobile proof generation more than 14 times faster, removing one of the biggest delays users face when sending private ZEC.",
+    "url": "https://www.coindesk.com/tech/2026/08/31/zcash-private-transactions-could-go-from-three-second-waits-to-under-200-milliseconds",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-08-31T05:23:57.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b4b8207998479a4d",
+    "title": "Cronos halts blockchain after $75 million lending exploit hits lending app Tectonic",
+    "excerpt": "An attacker allegedly pushed Tectonic’s thinly traded TONIC token up 100-fold, used it as collateral to borrow real assets and left most funds stranded when Cronos validators paused the network.",
+    "url": "https://www.coindesk.com/tech/2026/08/31/cronos-halts-blockchain-after-usd75-million-lending-exploit-hits-lending-app-tectonic",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-08-31T04:57:13.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/46896a614298dcf705810c12a113e9dab6ce84fb-4416x2488.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "5c6f4889e8b294c1",
+    "title": "Amazon's HR Lead Uses AI Tool to Write 100,000 Lines of Code - 25 Years After She Last Coded",
+    "excerpt": "In an Amazon News blog post, their HR leader describes using AI to write 100,000 lines of code — 25 years after she last coded. \"Do you know how empowering it is to realize that after 25 years away from coding, you can actually build again?\" First she built a calendar app for her family, but then…",
+    "url": "https://developers.slashdot.org/story/26/08/31/047227/amazons-hr-lead-uses-ai-tool-to-write-100000-lines-of-code---25-years-after-she-last-coded?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-08-31T04:34:00.000Z",
+    "category": "Software",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "c6aafd532a85f86d",
+    "title": "Bitcoin barely blinks as U.S. hits Iran, sending oil higher and stocks lower",
+    "excerpt": "BTC remains August's best-performing asset after the latest escalation in geopolitical tensions.",
+    "url": "https://www.coindesk.com/markets/2026/08/31/bitcoin-barely-blinks-as-u-s-hits-iran-sending-oil-higher-and-stocks-lower",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Omkar Godbole",
+    "publishedAt": "2026-08-31T04:29:10.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/536d7d5e6cfaca6de1f092a21de7b4cf4d742687-1500x750.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2d1b66aa667332ad",
+    "title": "OpenClaw 2.0, Accidentally",
+    "excerpt": "Article URL: https://openclaw.ai/blog/openclaw-2-accidentally Comments URL: https://news.ycombinator.com/item?id=49505310 Points: 66 # Comments: 60",
+    "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "doppp",
+    "publishedAt": "2026-08-31T03:38:02.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6afeeb679757001f",
+    "title": "P99 0 ms* autocomplete for 240M domain names",
+    "excerpt": "Article URL: https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names Comments URL: https://news.ycombinator.com/item?id=49505219 Points: 74 # Comments: 32",
+    "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "dbalatero",
+    "publishedAt": "2026-08-31T03:20:33.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "47941675bf8f72d9",
+    "title": "Transfer files over an Ethernet patch cable",
+    "excerpt": "Article URL: https://maurycyz.com/misc/etherfiles/ Comments URL: https://news.ycombinator.com/item?id=49505217 Points: 53 # Comments: 34",
+    "url": "https://maurycyz.com/misc/etherfiles/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "jllyhill",
+    "publishedAt": "2026-08-31T03:19:42.000Z",
+    "category": "security",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1837e2329ff67b6c",
+    "title": "Show HN: Prove your code produced your claims without making reviewers rerun it",
+    "excerpt": "Article URL: https://github.com/27-GROUP/kveritas-go/ Comments URL: https://news.ycombinator.com/item?id=49505043 Points: 9 # Comments: 4",
+    "url": "https://github.com/27-GROUP/kveritas-go/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "Mkld27",
+    "publishedAt": "2026-08-31T02:44:56.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "331406f38034f2c0",
+    "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+    "excerpt": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+    "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Kate Park",
+    "publishedAt": "2026-08-31T02:34:00.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "82186bf904741a2c",
+    "title": "Multikernel Linux Tree Released: Runs Multiple Kernels On Bare Metal Without a Hypervisor",
+    "excerpt": "\"Multikernel Technologies has put out mklinux v7.0-mk2, the first public release of the multikernel Linux tree it's been building since last year,\" reports the blog It's FOSS: The basic premise of the project is that one physical server can run several independent Linux kernels side by side, each…",
+    "url": "https://linux.slashdot.org/story/26/08/31/0222236/multikernel-linux-tree-released-runs-multiple-kernels-on-bare-metal-without-a-hypervisor?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-08-31T02:26:00.000Z",
+    "category": "software",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f8abdfcd34dcaeb4",
+    "title": "Internet centralization and the original sin of NAT",
+    "excerpt": "Article URL: https://dreamstation.systems/personal/ntppost.html Comments URL: https://news.ycombinator.com/item?id=49504905 Points: 46 # Comments: 24",
+    "url": "https://dreamstation.systems/personal/ntppost.html",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "robinpie",
+    "publishedAt": "2026-08-31T02:23:03.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "fcdf647822e072d0",
+    "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+    "excerpt": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and long-distance matchmaking are turning Grindr into the \"gayborhood in your pocket\" he's been…",
+    "url": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Connie Loizos",
+    "publishedAt": "2026-08-31T02:18:57.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ac6e7e3c37d7027f",
+    "title": "Understanding ChatGPT Work",
+    "excerpt": "Article URL: https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/ Comments URL: https://news.ycombinator.com/item?id=49504625 Points: 143 # Comments: 49",
+    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "gmays",
+    "publishedAt": "2026-08-31T01:28:22.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2e8d238ed137ffdd",
+    "title": "Gamescom Crime Spree? Three Exhibitors Report Their Laptops Were Stolen",
+    "excerpt": "From the gaming news site Aftermath\" Game developer and consultant Ryan Laley traveled to Cologne, Germany from Essex, England to showcase his upcoming horror social deduction game Mimic at the annual Gamescom event. He paid \"thousands of pounds\" to get a booth at the show, where other game…",
+    "url": "https://yro.slashdot.org/story/26/08/31/0043226/gamescom-crime-spree-three-exhibitors-report-their-laptops-were-stolen?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-08-31T00:38:00.000Z",
+    "category": "security",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9bb8e0553a89e5cc",
+    "title": "Linux 7.3-rc1 Close To 41 Million Lines, AMD Kernel Graphics Driver At 6.5 Million Lines",
+    "excerpt": "With Linus Torvalds remarking in the Linux 7.3-rc1 release announcement of the AMD kernel graphics driver changes for amounting around a third of the -rc1 changes due to the big AMD GPU register files for DCN 6.0 and other new IP additions, here are some fresh code stats at large...",
+    "url": "https://www.phoronix.com/news/Linux-7.3-rc1-Code-Stats",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-08-31T00:23:22.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b8a3b03dc19162cd",
+    "title": "How to build a diffusion language model",
+    "excerpt": "Article URL: https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/ Comments URL: https://news.ycombinator.com/item?id=49503956 Points: 62 # Comments: 4",
+    "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "volodia",
+    "publishedAt": "2026-08-30T23:41:32.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1eb9fb784b9d5dd8",
+    "title": "Matrox: Graphics for Professionals",
+    "excerpt": "Article URL: https://www.abortretry.fail/p/matrox Comments URL: https://news.ycombinator.com/item?id=49503934 Points: 86 # Comments: 25",
+    "url": "https://www.abortretry.fail/p/matrox",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "BirAdam",
+    "publishedAt": "2026-08-30T23:39:35.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ecb52b3b4768a774",
+    "title": "Why is the GameCube controller so loved by gamers?",
+    "excerpt": "People still swear by this quirky controller, leading to Nintendo supporting it for 25 years and counting.",
+    "url": "https://www.engadget.com/2242789/why-gamecube-controller-loved-by-gamers/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Ben Stegner)",
+    "publishedAt": "2026-08-30T23:30:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/why-is-the-gamecube-controller-so-loved-by-gamers/l-intro-1785440390.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "c93aed5e5d4f4d60",
     "title": "How to improve your audio quality on Apple CarPlay",
     "excerpt": "Apple CarPlay can sound great, but you have to make sure you're sending it high-quality audio. A few quick checks can boost your audio enjoyment on the road.",
@@ -14,26 +287,13 @@
   },
   {
     "id": "e6e8629f34d5778b",
-    "title": "\"I just chose words carefully.\"",
-    "excerpt": "Article URL: https://unsung.aresluna.org/i-just-chose-words-carefully/ Comments URL: https://news.ycombinator.com/item?id=49503601 Points: 8 # Comments: 0",
+    "title": "“I just chose words carefully”",
+    "excerpt": "Article URL: https://unsung.aresluna.org/i-just-chose-words-carefully/ Comments URL: https://news.ycombinator.com/item?id=49503601 Points: 639 # Comments: 157",
     "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "zdw",
     "publishedAt": "2026-08-30T22:49:48.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4e466ff40fbc6da8",
-    "title": "Thoughts on Pope Leo XIV's Magnifica Humanitas",
-    "excerpt": "Article URL: https://adropincalm.com/blog/thoughts-on-magnifica-humanitas/ Comments URL: https://news.ycombinator.com/item?id=49503587 Points: 8 # Comments: 2",
-    "url": "https://adropincalm.com/blog/thoughts-on-magnifica-humanitas/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "borracciaBlu",
-    "publishedAt": "2026-08-30T22:46:04.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -65,19 +325,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "f0478c26f7ebaa7a",
-    "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
-    "excerpt": "Hi HN, we are Sina Atalay and Abdullah Geduk, co-founders of Academa. We are both PhD students. We thought: what if lecture videos were written as code and compiled into video using computer graphics and TTS? Then LLMs could write them, and lectures could be fixed with code edits instead of video…",
-    "url": "https://academa.ai/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "sinaatalay",
-    "publishedAt": "2026-08-30T22:22:23.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "0ccd43ba690a141b",
     "title": "Getting an 'iPhone Unavailable' message? Here's how to fix it",
     "excerpt": "If you're having trouble getting into your iPhone, you'll need your old passcode or Apple Account password.",
@@ -104,19 +351,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "73561820b2b7618a",
-    "title": "Mark Zuckerberg's Social Reckoning",
-    "excerpt": "Article URL: https://www.newyorker.com/magazine/2026/09/07/mark-zuckerbergs-social-reckoning Comments URL: https://news.ycombinator.com/item?id=49503134 Points: 10 # Comments: 3",
-    "url": "https://www.newyorker.com/magazine/2026/09/07/mark-zuckerbergs-social-reckoning",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "fortran77",
-    "publishedAt": "2026-08-30T21:41:54.000Z",
-    "category": "security",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "a7d7c48c7b8f2b41",
     "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
     "excerpt": "Here at Ars, we're intimately familiar with data leaks surrounding Valve's games , hardware , and the workings of Steam itself . But nothing could have prepared us for this weekend's \"terarelease\" encompassing more than 12TB of content related to seemingly every title available on Steam between…",
@@ -127,7 +361,15 @@
     "publishedAt": "2026-08-30T21:40:56.000Z",
     "category": "Science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/teraweapon-1152x648-1788124932.jpg",
-    "readTimeMinutes": 1
+    "readTimeMinutes": 1,
+    "alsoCoveredBy": [
+      {
+        "source": "Hacker News",
+        "sourceHomepage": "https://news.ycombinator.com",
+        "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+        "publishedAt": "2026-08-31T06:10:44.000Z"
+      }
+    ]
   },
   {
     "id": "431ebf7a4d824629",
@@ -158,7 +400,7 @@
   {
     "id": "109065e30fac085c",
     "title": "Continuous Diffusion Language Models (CDLM's)",
-    "excerpt": "Article URL: https://sander.ai/2026/08/24/continuous-dlms.html Comments URL: https://news.ycombinator.com/item?id=49502611 Points: 37 # Comments: 8",
+    "excerpt": "Article URL: https://sander.ai/2026/08/24/continuous-dlms.html Comments URL: https://news.ycombinator.com/item?id=49502611 Points: 89 # Comments: 33",
     "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -184,7 +426,7 @@
   {
     "id": "3f71414c25405e71",
     "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
-    "excerpt": "Article URL: https://www.righto.com/2026/08/spacelab-core-memory.html Comments URL: https://news.ycombinator.com/item?id=49502214 Points: 50 # Comments: 8",
+    "excerpt": "Article URL: https://www.righto.com/2026/08/spacelab-core-memory.html Comments URL: https://news.ycombinator.com/item?id=49502214 Points: 101 # Comments: 17",
     "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -262,7 +504,7 @@
   {
     "id": "3d62fe2dc3622a9c",
     "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
-    "excerpt": "Article URL: https://github.com/KodeMunkie/sm750hdmifb Comments URL: https://news.ycombinator.com/item?id=49501611 Points: 54 # Comments: 29",
+    "excerpt": "Article URL: https://github.com/KodeMunkie/sm750hdmifb Comments URL: https://news.ycombinator.com/item?id=49501611 Points: 99 # Comments: 35",
     "url": "https://github.com/KodeMunkie/sm750hdmifb",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -364,19 +606,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "97194d7e25c30216",
-    "title": "Artie (YC S23) Is Hiring Technical AES",
-    "excerpt": "Article URL: https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1 Comments URL: https://news.ycombinator.com/item?id=49500471 Points: 0 # Comments: 0",
-    "url": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "j-cheong",
-    "publishedAt": "2026-08-30T17:01:56.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "a1c125ab1c9f5282",
     "title": "Musk’s faster path to more gas turbines comes with pollution problem",
     "excerpt": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
@@ -444,7 +673,7 @@
   {
     "id": "19d8c9b3512a380d",
     "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
-    "excerpt": "Article URL: https://komoroske.com/slime-mold/ Comments URL: https://news.ycombinator.com/item?id=49499891 Points: 113 # Comments: 38",
+    "excerpt": "Article URL: https://komoroske.com/slime-mold/ Comments URL: https://news.ycombinator.com/item?id=49499891 Points: 151 # Comments: 45",
     "url": "https://komoroske.com/slime-mold/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -470,7 +699,7 @@
   {
     "id": "ae7f02d03a5e1bb4",
     "title": "Haiku R1/beta6 has been released",
-    "excerpt": "Article URL: https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6 Comments URL: https://news.ycombinator.com/item?id=49499867 Points: 223 # Comments: 65",
+    "excerpt": "Article URL: https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6 Comments URL: https://news.ycombinator.com/item?id=49499867 Points: 304 # Comments: 88",
     "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -494,34 +723,8 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "7d7d969eaa8d2e74",
-    "title": "Omarchy: Any User Process Can Escalate to Root",
-    "excerpt": "Article URL: https://0xcc.io/posts/omarchy-root-creds/ Comments URL: https://news.ycombinator.com/item?id=49499854 Points: 348 # Comments: 351",
-    "url": "https://0xcc.io/posts/omarchy-root-creds/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "trap0xcc",
-    "publishedAt": "2026-08-30T15:59:49.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b0e62ea3c9d221e9",
-    "title": "Startup Anti-Patterns",
-    "excerpt": "Article URL: https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/ Comments URL: https://news.ycombinator.com/item?id=49499831 Points: 50 # Comments: 16",
-    "url": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "rzk",
-    "publishedAt": "2026-08-30T15:57:30.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "8084dd9b24931aa8",
-    "title": "Michael Saylor hints at first bitcoin purchase in two months as bitcoin nears $79,000",
+    "title": "Michael Saylor hints at first bitcoin purchase in two months",
     "excerpt": "Bitcoin rebounds from Friday’s low as Strategy’s valuation expands and bitcoin dominance climbs above 60%.",
     "url": "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months",
     "source": "CoinDesk",
@@ -572,19 +775,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "a072b325bc377db9",
-    "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
-    "excerpt": "Article URL: https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement Comments URL: https://news.ycombinator.com/item?id=49499394 Points: 323 # Comments: 132",
-    "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "nickslaughter02",
-    "publishedAt": "2026-08-30T15:12:40.000Z",
-    "category": "security",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "3642a3a40eeba35c",
     "title": "Linux 7.3 Lands More Audio Workarounds For Laptops & Other Devices",
     "excerpt": "Following last week's main set of sound subsystem updates for Linux 7.3 that brought a lot of new audio hardware support, a second round of sound updates were merged this weekend ahead of today's Linux 7.3-rc1 release...",
@@ -626,7 +816,7 @@
   {
     "id": "8e806d1c95429bcb",
     "title": "Zig: Pointer Stability for ArrayLists",
-    "excerpt": "Article URL: https://ziglang.org/devlog/2026/#2026-08-27 Comments URL: https://news.ycombinator.com/item?id=49499095 Points: 75 # Comments: 38",
+    "excerpt": "Article URL: https://ziglang.org/devlog/2026/#2026-08-27 Comments URL: https://news.ycombinator.com/item?id=49499095 Points: 103 # Comments: 65",
     "url": "https://ziglang.org/devlog/2026/#2026-08-27",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -686,19 +876,6 @@
     "publishedAt": "2026-08-30T14:26:31.000Z",
     "category": "Hardware",
     "imageUrl": "https://www.engadget.com/img/gallery/google-maps-has-changed-lake-ontario-to-lake-america-for-us-users/l-intro-1788099757.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "92830e6d697d5f8e",
-    "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-    "excerpt": "Article URL: https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/ Comments URL: https://news.ycombinator.com/item?id=49498787 Points: 205 # Comments: 140",
-    "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "catbird",
-    "publishedAt": "2026-08-30T14:06:54.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -819,22 +996,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "828552fcc01422ae",
-    "title": "Automating Immersive Reading",
-    "excerpt": "Article URL: https://smoores.dev/post/automating_immersive_reading/ Comments URL: https://news.ycombinator.com/item?id=49497854 Points: 86 # Comments: 30",
-    "url": "https://smoores.dev/post/automating_immersive_reading/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "smoores",
-    "publishedAt": "2026-08-30T11:46:23.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "354c125af4dfae7b",
     "title": "Hacking IKEA Furniture",
-    "excerpt": "Article URL: https://greenlightning.eu/diy/hacking-ikea-furniture/ Comments URL: https://news.ycombinator.com/item?id=49497810 Points: 245 # Comments: 154",
+    "excerpt": "Article URL: https://greenlightning.eu/diy/hacking-ikea-furniture/ Comments URL: https://news.ycombinator.com/item?id=49497810 Points: 302 # Comments: 208",
     "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -912,7 +1076,7 @@
   {
     "id": "d9340aeff2f228b5",
     "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-    "excerpt": "Article URL: https://www.qubes-os.org/news/2026/08/29/qsb-118/ Comments URL: https://news.ycombinator.com/item?id=49496918 Points: 193 # Comments: 80",
+    "excerpt": "Article URL: https://www.qubes-os.org/news/2026/08/29/qsb-118/ Comments URL: https://news.ycombinator.com/item?id=49496918 Points: 225 # Comments: 89",
     "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -938,7 +1102,7 @@
   {
     "id": "6d2ece70c0a3ce80",
     "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-    "excerpt": "Article URL: https://arxiv.org/abs/1804.07389 Comments URL: https://news.ycombinator.com/item?id=49496782 Points: 185 # Comments: 56",
+    "excerpt": "Article URL: https://arxiv.org/abs/1804.07389 Comments URL: https://news.ycombinator.com/item?id=49496782 Points: 202 # Comments: 58",
     "url": "https://arxiv.org/abs/1804.07389",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1014,19 +1178,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "39fa42b851ceb42d",
-    "title": "Android Auto not working? Here's what to check first",
-    "excerpt": "Chances are there's a connection issue between your phone and car if Android auto isn't working.",
-    "url": "https://www.engadget.com/2242769/android-auto-not-working-check-first/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Jack Whitcombe)",
-    "publishedAt": "2026-08-29T23:30:00.000Z",
-    "category": "software",
-    "imageUrl": "https://www.engadget.com/img/gallery/android-auto-not-working-heres-what-to-check-first/l-intro-1787158524.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "ccff52adc9876069",
     "title": "Anthropic Sued By Sony, Warner For Allegedly Stealing Tens of Thousands of Songs, Torrenting Copyrighted Works",
     "excerpt": "Axios reports: Some of the world's largest music publishers filed a blockbuster lawsuit against Anthropic late Friday night, alleging \"one of the largest and most blatant ongoing thefts of intellectual property in history.\" The suit is the opening salvo in what is now likely to be a yearslong fight…",
@@ -1036,32 +1187,6 @@
     "author": "EditorDavid",
     "publishedAt": "2026-08-29T23:00:00.000Z",
     "category": "ai",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "5e789b98a182bab7",
-    "title": "What's 88-year-old Ridley Scott Doing Now?",
-    "excerpt": "The Los Angeles Times first calls Ridley Scott's newest movie \"a postapocalyptic thriller that trades zombies for pandemics and asks whether hope can outlast catastrophe.\" But besides The Dog Stars, Scott is also working on an adaptation of Robert Louis Stevenson's \"Treasure Island\" starring Hugh…",
-    "url": "https://entertainment.slashdot.org/story/26/08/29/210256/whats-88-year-old-ridley-scott-doing-now?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-08-29T22:00:00.000Z",
-    "category": "security",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b221881b88bcc72b",
-    "title": "With the Snip of a Gene, Scientists Hope To Erase High Cholesterol For Life",
-    "excerpt": "CNN reports that \"A one-time snip of a key gene lowered heart-clogging cholesterol by about 50% over an entire year with no adverse effects, scientists have reported.\" The overwhelmingly positive results were found in four people who had taken the highest dose of the experimental treatment during a…",
-    "url": "https://science.slashdot.org/story/26/08/29/1942224/with-the-snip-of-a-gene-scientists-hope-to-erase-high-cholesterol-for-life?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-08-29T21:00:00.000Z",
-    "category": "software",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
@@ -1076,19 +1201,6 @@
     "publishedAt": "2026-08-29T20:59:26.000Z",
     "category": "policy",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-29-at-4.57.57-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "66fd7e59e2887083",
-    "title": "Millions of Cars Recalled Over Danger of Bursting Into Flames. But They're Not EVs.",
-    "excerpt": "The Washington Post shares this tip for car buyers. Electric vehicles \"are not driving the recent growth in recalls warning that vehicles could erupt into flames at any time, even when parked and turned off.\" A Washington Post analysis of National Highway Traffic Safety Administration (NHTSA)…",
-    "url": "https://tech.slashdot.org/story/26/08/29/0033244/millions-of-cars-recalled-over-danger-of-bursting-into-flames-but-theyre-not-evs?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-08-29T20:00:00.000Z",
-    "category": "science",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -1159,7 +1271,7 @@
   {
     "id": "50a1b279676ed29b",
     "title": "Creepy Crawlies",
-    "excerpt": "Article URL: https://people.kernel.org/monsieuricon/creepy-crawlies Comments URL: https://news.ycombinator.com/item?id=49491791 Points: 826 # Comments: 383",
+    "excerpt": "Article URL: https://people.kernel.org/monsieuricon/creepy-crawlies Comments URL: https://news.ycombinator.com/item?id=49491791 Points: 1074 # Comments: 529",
     "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1263,7 +1375,7 @@
   {
     "id": "9c9f92960fda5895",
     "title": "The Theragun Sense makes everyday recovery surprisingly easy",
-    "excerpt": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just…",
+    "excerpt": "The Theragun Sense, which retails for $299, is a wellness-focused massage gun that’s designed for everyday aches, muscle tension, relaxation, and soreness.",
     "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
     "source": "TechCrunch",
     "sourceHomepage": "https://techcrunch.com",
@@ -1794,19 +1906,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "f82484337d9991aa",
-    "title": "Friend-focused photo-sharing app Retro snags $21M",
-    "excerpt": "Retro, a friend-focused photo-sharing app built by former Instagram employees, has raised more than $21 million in Series A funding.",
-    "url": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Sarah Perez",
-    "publishedAt": "2026-08-28T15:35:03.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "358b56df92593f23",
     "title": "Green Party wants to slam the brakes on UK datacenter construction until water and energy use are sorted",
     "excerpt": "The Green Party of England and Wales wants the government to end the blanket designation of new bit barns as “critical infrastructure” and change planning rules to stop such facilities taking precedence over households for water and energy. The current UK government designated datacenters as…",
@@ -1843,19 +1942,6 @@
     "publishedAt": "2026-08-28T14:37:14.000Z",
     "category": "hardware",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/9b492aba5c4c42527c969f1362cd2bfddc02f6ee-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "048800215c44ffe8",
-    "title": "Apple TV is raising its subscription prices again",
-    "excerpt": "Now, Apple TV subscriptions will cost $14.99 per month, up from its previous price of $12.99 per month.",
-    "url": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Amanda Silberling",
-    "publishedAt": "2026-08-28T14:36:48.000Z",
-    "category": "ai",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2158,19 +2244,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "a3f3381ccc26f13f",
-    "title": "Visa doubles down on South Korea with Upbit operator Dunamu on stablecoin payments",
-    "excerpt": "Following a deal with Shinhan Financial, the global payments giant is widening its footprint in Asia’s major crypto hub through South Korea's largest exchange.",
-    "url": "https://www.coindesk.com/business/2026/08/28/visa-doubles-down-on-south-korea-with-upbit-operator-dunamu-on-stablecoin-payments",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Olivier Acuna",
-    "publishedAt": "2026-08-28T10:21:47.000Z",
-    "category": "ai",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/e400c51cc73487de1b2a87a882ce2955729b2d16-2204x1240.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "967b2c9458fba5b9",
     "title": "Linux 7.3 Will Begin Checking USB-C Cables For Alt-Mode Support",
     "excerpt": "The USB and Thunderbolt changes have been merged for Linux 7.3. Two changes stand out for me in the USB subsystem code with Linux 7.3. First, the kernel arguably being long overdue for checking USB-C cables capabilities whether they support alt-modes. Second, a new low-latency USB4STREAM option for…",
@@ -2220,45 +2293,6 @@
     "publishedAt": "2026-08-28T09:15:00.000Z",
     "category": "ai",
     "imageUrl": "https://image.theregister.com/?imageId=5282519&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b39e6bc6f3d5c0b1",
-    "title": "Kraken users briefly locked out after a flood of sanctioned crypto transactions",
-    "excerpt": "The activity, appearing to spread sanctioned funds to trigger account restrictions, occurred between Aug. 17 and Aug. 24.",
-    "url": "https://www.coindesk.com/business/2026/08/28/kraken-users-briefly-locked-out-after-a-flood-of-sanctioned-crypto-transactions",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Francisco Rodrigues",
-    "publishedAt": "2026-08-28T09:10:40.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/8c2d1d6c9e47c3db1e4becaf1739fb8dce590d3b-3600x2400.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "693f4bdeb2f00752",
-    "title": "Live updates: Bitcoin slides below $78,000 as markets digest Warsh's hawkish remarks",
-    "excerpt": "\"We have work to do,\" on prices, said Warsh in his highly anticipated keynote address at the Kansas City Fed's annual symposium.",
-    "url": "https://www.coindesk.com/business/2026/08/28/live-updates-bitcoin-options-worth-usd6-4-billion-just-expired-as-prices-hover-near-usd80-000",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Shaurya Malwa",
-    "publishedAt": "2026-08-28T09:09:07.000Z",
-    "category": "crypto",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4f4720edce8cd27a",
-    "title": "IREN shares fall 8% as costly AI transition weighs on earnings",
-    "excerpt": "Weakening profitability overshadowed a major milestone in IREN’s transformation into an AI cloud provider.",
-    "url": "https://www.coindesk.com/markets/2026/08/28/iren-shares-fall-8-as-costly-ai-transition-weighs-on-earnings",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "James Van Straten",
-    "publishedAt": "2026-08-28T09:07:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2322,19 +2356,6 @@
     "sourceHomepage": "https://www.phoronix.com",
     "author": "Michael Larabel",
     "publishedAt": "2026-08-28T00:38:03.000Z",
-    "category": "Hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "9caede897bc47cab",
-    "title": "Ubuntu 26.04.1 LTS Released With Initial Collection Of Fixes",
-    "excerpt": "Canonical today published Ubuntu 26.04.1 LTS as their first point release in the long-term support series for the \"Resolute Raccoon\"...",
-    "url": "https://www.phoronix.com/news/Ubuntu-26.04.1-LTS-Released",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-28T00:13:09.000Z",
     "category": "Hardware",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -2740,32 +2761,6 @@
     "publishedAt": "2026-08-27T05:21:19.000Z",
     "category": "ai",
     "imageUrl": "https://image.theregister.com/?imageId=5292828&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ef34881a148060fa",
-    "title": "FBI seizes hacking tools it says China used to attack NASA, DOE, US Senate and other critical networks",
-    "excerpt": "The FBI on Wednesday said it disrupted a botnet and seized two platforms that Chinese-government cyberoperatives used to hack NASA, the US Senate, the Department of Energy, and several other government agencies and critical networks. The Federal Reserve, Department of Justice, Department of Health…",
-    "url": "https://www.theregister.com/security/2026/08/27/fbi-seizes-hacking-tools-it-says-china-used-to-attack-nasa-doe-us-senate-and-other-critical-networks/5292742",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-27T00:06:03.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=261947&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "faaaec7faed36949",
-    "title": "OpenAI explains how its naughty AI agents attacked Hugging Face",
-    "excerpt": "OpenAI has published its technical report detailing \"the Hugging Face incident,\" the compromise of the eponymous LLM repository by unreleased, ill-supervised AI models. The incident, widely reported, has prompted concern among technical types, the public, and lawmakers about how automated software…",
-    "url": "https://www.theregister.com/security/2026/08/27/openai-explains-how-its-naughty-ai-agents-attacked-hugging-face/5292780",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-26T23:45:58.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=255325&width=800",
     "readTimeMinutes": 1
   },
   {
