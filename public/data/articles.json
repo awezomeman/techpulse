@@ -1,5 +1,507 @@
 [
   {
+    "id": "e44f58e7fe06455a",
+    "title": "The new Street Fighter movie trailer looks fun in all the right ways",
+    "excerpt": "The Street Fighter movie looks silly and campy and that's just fine!",
+    "url": "https://www.engadget.com/2248888/the-new-street-fighter-movie-trailer-looks-fun-in-all-the-right-ways/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Devindra Hardawar)",
+    "publishedAt": "2026-09-01T19:10:16.000Z",
+    "category": "policy",
+    "imageUrl": "https://www.engadget.com/img/gallery/the-new-street-fighter-movie-trailer-looks-fun-in-all-the-right-ways/l-intro-1788289751.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "416ae7affb4a5aa1",
+    "title": "The Sonos Ace Ultra headphones and Beam Ultra soundbar are smarter than I expected",
+    "excerpt": "Sonos' latest hardware is smarter than ever about how it fits into your home.",
+    "url": "https://www.engadget.com/2248883/sonos-ace-ultra-beam-ultra-hands-on-demos/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Nathan Ingraham)",
+    "publishedAt": "2026-09-01T19:03:10.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/the-sonos-ace-ultra-headphones-and-beam-ultra-soundbar-are-smarter-than-i-expected/l-intro-1788288109.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a255d15baf7d270c",
+    "title": "The TV vs projector value debate isn't close — here's why",
+    "excerpt": "If you want the largest image for the least amount of money, a projector is the only choice.",
+    "url": "https://www.engadget.com/2244158/why-projector-better-than-tv/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Steve Dent)",
+    "publishedAt": "2026-09-01T18:30:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/the-tv-vs-projector-value-debate-isnt-close-heres-why/l-intro-1787690468.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f5478112ed94937f",
+    "title": "CDC reported then deleted two measles deaths that were questioned by RFK Jr.",
+    "excerpt": "The Centers for Disease Control and Prevention is excluding two measles deaths reported by Pennsylvania health officials last week from its latest update of national measles data. The move publicly challenges the accuracy of the state's death determinations in an extraordinary move that breaks…",
+    "url": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Beth Mole",
+    "publishedAt": "2026-09-01T18:21:16.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/GettyImages-1207345894-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7680bcf78a62aeae",
+    "title": "Apple accuses OpenAI of destroying evidence",
+    "excerpt": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg . In a filing on Monday , Apple alleges OpenAI only just handed over a MacBook used by a former employee at the center of the…",
+    "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Emma Roth",
+    "publishedAt": "2026-09-01T18:19:26.000Z",
+    "category": "ai",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKS531_APPLE_V_OPEN_AI2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0f74d4ee410bcf02",
+    "title": "Who is John Ternus, the new Apple CEO?",
+    "excerpt": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
+    "url": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Amanda Silberling",
+    "publishedAt": "2026-09-01T18:02:00.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "352cd54edff47711",
+    "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
+    "excerpt": "Let's be frank: Some of Google's recent Android feature Drops have been duds, offering little more than an expansion of Gemini summaries and chat functions. The new September Drop does have some Gemini flavor, but there are non-AI goodies, too. Your messaging threads are getting prettier and more…",
+    "url": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Ryan Whitwam",
+    "publishedAt": "2026-09-01T18:00:02.000Z",
+    "category": "ai",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "baa2e5da7661fa6c",
+    "title": "Google Find Hub will soon help you locate things without a tracker",
+    "excerpt": "Google announced new features coming to Android devices as part of this month's feature drop update. Among the highlights are the introduction of Motion Assist - Android's version of Apple's Motion Cues feature, which tries to reduce motion sickness by overlaying dots on your screen that move in…",
+    "url": "https://www.theverge.com/tech/987339/google-september-android-drop-motion-assist-gemini-find-hub",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Andrew Liszewski",
+    "publishedAt": "2026-09-01T18:00:00.000Z",
+    "category": "software",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/findhub.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "819b7e0e5309d9db",
+    "title": "Should you remove the film from your CarPlay infotainment screen? It depends",
+    "excerpt": "Double-check before you accidentally remove a protective layer of your screen.",
+    "url": "https://www.engadget.com/2244171/should-you-remove-carplay-infotainment-screen-film/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Jack Whitcombe)",
+    "publishedAt": "2026-09-01T18:00:00.000Z",
+    "category": "crypto",
+    "imageUrl": "https://www.engadget.com/img/gallery/should-you-remove-the-film-from-your-carplay-infotainment-screen-it-depends/l-intro-1785858518.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0fd2a000754639b5",
+    "title": "A new Android Find Hub feature will help you remember where you put important things",
+    "excerpt": "Google also announced a new visual assistant for Gemini Live and Keep integration with Messages.",
+    "url": "https://www.engadget.com/2247151/new-android-find-hub-feature-will-help-you-remember-where-you-put-important-things/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Mariella Moon)",
+    "publishedAt": "2026-09-01T18:00:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/a-new-android-find-hub-feature-will-help-you-remember-where-you-put-important-things/l-intro-1788124421.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b371c1a7d70bb6d0",
+    "title": "OpenClaw 2.0 Is Here, Ushering In the Era of 'Multiplayer' AI Coding",
+    "excerpt": "An anonymous reader quotes a report from VentureBeat: The viral fervor we saw earlier this year around OpenClaw, the open source AI harness that turns powerful language models into autonomous workers the user can message via their favorite channels (Telegram, iMessage, WhatsApp, Discord etc), has…",
+    "url": "https://developers.slashdot.org/story/26/09/01/1733206/openclaw-20-is-here-ushering-in-the-era-of-multiplayer-ai-coding?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-09-01T18:00:00.000Z",
+    "category": "startups",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9e99b83f5c87ce1e",
+    "title": "UEFA's Champions League draw creates unfair clusters; a Cayley graph fixes it",
+    "excerpt": "Article URL: https://sariyuce.com/blog/2026/UEFA-Draw/ Comments URL: https://news.ycombinator.com/item?id=49525420 Points: 28 # Comments: 6",
+    "url": "https://sariyuce.com/blog/2026/UEFA-Draw/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "erdems",
+    "publishedAt": "2026-09-01T17:57:09.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e7232d52f37fd859",
+    "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+    "excerpt": "What's new in Claude Fable 5.1 – https://platform.claude.com/docs/en/models/fable-5-1/whats-n... System Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32... Comments URL: https://news.ycombinator.com/item?id=49525378 Points: 403 # Comments: 351",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "denysvitali",
+    "publishedAt": "2026-09-01T17:53:53.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4d63bf2c3468de16",
+    "title": "FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions",
+    "excerpt": "The Federal Trade Commission and 22 states sued Amazon yesterday, alleging that it has conducted a secret scheme to overcharge advertisers for seven years. \"Since 2019, Amazon.com, Inc. has secretly and systematically overcharged its approximately 1.2 million advertising customers by manipulating…",
+    "url": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Jon Brodkin",
+    "publishedAt": "2026-09-01T17:51:17.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/amazon-logo-1152x648-1788283693.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e31b0c181f45d02d",
+    "title": "The creator of Jujutsu has joined ERSC",
+    "excerpt": "Article URL: https://ersc.io/blog/martin-joins-ersc Comments URL: https://news.ycombinator.com/item?id=49525297 Points: 82 # Comments: 59",
+    "url": "https://ersc.io/blog/martin-joins-ersc",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "steveklabnik",
+    "publishedAt": "2026-09-01T17:46:21.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f504bbdd4a2e35d6",
+    "title": "'Reasonable' consumers know they don't own digital downloads, Sony says",
+    "excerpt": "The company was responding to a suit accusing it of violating California law.",
+    "url": "https://www.engadget.com/2248777/reasonable-consumers-know-they-dont-own-digital-downloads-sony-says/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Matt Tate)",
+    "publishedAt": "2026-09-01T17:37:44.000Z",
+    "category": "software",
+    "imageUrl": "https://www.engadget.com/img/gallery/reasonable-consumers-know-they-dont-own-digital-downloads-sony-says/l-intro-1788284206.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "555b86ad65509938",
+    "title": "Atlas: A World Model for Spatial Intelligence",
+    "excerpt": "Article URL: https://www.worldlabs.ai/blog/atlas Comments URL: https://news.ycombinator.com/item?id=49525160 Points: 42 # Comments: 0",
+    "url": "https://www.worldlabs.ai/blog/atlas",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "johnsutor",
+    "publishedAt": "2026-09-01T17:36:02.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "49d8f8bb06ff56af",
+    "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+    "excerpt": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+    "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Sarah Perez",
+    "publishedAt": "2026-09-01T17:35:37.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8ea18c332d43a872",
+    "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+    "excerpt": "Hey HN, I’m Antonio from Nori Robotics ( https://norirobotics.com ). We build a $1,688 bimanual mobile robot in San Francisco for robotics developers and researchers. I started working on Nori while doing robotics research at Columbia. I was teaching robots through human demonstrations, but getting…",
+    "url": "https://www.norirobotics.com/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "AntonioLi",
+    "publishedAt": "2026-09-01T17:35:10.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "906b4166d86c63f6",
+    "title": "This is what a supercar was like a century ago",
+    "excerpt": "Bentley provided flights from Washington, DC, to Monterey, California, and accommodation so Ars could drive the new Supersports and ride in a preproduction Torcal EV, which we wrote about last week. While we were there, we went for a ride in something quite old. Ars does not accept paid editorial…",
+    "url": "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Jonathan M. Gitlin",
+    "publishedAt": "2026-09-01T17:34:16.000Z",
+    "category": "Science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/1926-Bentley-Super-Sports-8-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a987d36d5c4357f8",
+    "title": "What more can you delete from your iPhone to free up space?",
+    "excerpt": "If you're running out of space on your iPhone, there might be unused data hiding in places you wouldn't expect.",
+    "url": "https://www.engadget.com/2244278/more-to-delete-from-iphone-free-up-space/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Ben Stegner)",
+    "publishedAt": "2026-09-01T17:30:00.000Z",
+    "category": "policy",
+    "imageUrl": "https://www.engadget.com/img/gallery/what-more-can-you-delete-from-your-iphone-to-free-up-space/l-intro-1787057155.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7a540cb85eb7dbb6",
+    "title": "Anthropic Signs $35 Billion Cloud Deal With Nvidia-Backed Lambda",
+    "excerpt": "Anthropic has reportedly signed a $35 billion cloud-computing deal with Nvidia-backed Lambda for a roughly 350-megawatt Texas data center being developed by Hut 8. \"Lambda will install Nvidia chips at the Hut 8 facility, with the arrangement designed to expand the pool of Nvidia computing resources…",
+    "url": "https://slashdot.org/story/26/09/01/177239/anthropic-signs-35-billion-cloud-deal-with-nvidia-backed-lambda?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-09-01T17:10:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4bddcfcfe940d695",
+    "title": "Quill (YC W20) Is Hiring a Fullstack SWE",
+    "excerpt": "Comments URL: https://news.ycombinator.com/item?id=49524704 Points: 0 # Comments: 0",
+    "url": "https://news.ycombinator.com/item?id=49524704",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "R_R",
+    "publishedAt": "2026-09-01T17:00:14.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "57158382d753eba0",
+    "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+    "excerpt": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+    "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Ivan Mehta",
+    "publishedAt": "2026-09-01T17:00:00.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "c7c71e6531c265be",
+    "title": "Homey just made the smart home controller I hoped Apple would build",
+    "excerpt": "Homey’s new tactile touchscreen controller has a rotary dial for controlling lights, climate, music and more. Smart homes have gotten really good at making things really complicated. Turning on a light can involve multiple steps, compared to just flipping a switch. Homey, the Dutch-based smart home…",
+    "url": "https://www.theverge.com/tech/987462/homey-lg-smart-portal-smart-home-controller-price-specs-release-date",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Jennifer Pattison Tuohy",
+    "publishedAt": "2026-09-01T17:00:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Homey-Portal--Home.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "257064c1046ad0ad",
+    "title": "BT's old copper network could be worth over $2 billion",
+    "excerpt": "Landlines are finding a second life as valuable scrap metal.",
+    "url": "https://www.engadget.com/2248735/bts-old-copper-network-could-be-worth-over-dollar2-billion/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Will Shanklin)",
+    "publishedAt": "2026-09-01T16:57:06.000Z",
+    "category": "policy",
+    "imageUrl": "https://www.engadget.com/img/gallery/bts-old-copper-network-could-be-worth-over-2-billion/l-intro-1788281771.jpg",
+    "readTimeMinutes": 1,
+    "alsoCoveredBy": [
+      {
+        "source": "Slashdot",
+        "sourceHomepage": "https://slashdot.org",
+        "url": "https://news.slashdot.org/story/26/09/01/1815258/bts-old-copper-landline-network-could-be-worth-over-2-billion?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "publishedAt": "2026-09-01T19:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "33fc2bbd289c81e4",
+    "title": "Razer just released a cute and teensy mobile game controller",
+    "excerpt": "It's called Prio and folds up when not in use, making it pocket-friendly.",
+    "url": "https://www.engadget.com/2248729/razer-just-released-a-cute-and-teensy-mobile-game-controller/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Lawrence Bonk)",
+    "publishedAt": "2026-09-01T16:50:34.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/razer-just-released-a-cute-and-teensy-mobile-game-controller/l-intro-1788281353.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "08ce711fdb2cec04",
+    "title": "Waymo goes on offense ahead of Tesla’s Cybercab launch",
+    "excerpt": "Waymo argued that fully autonomous vehicles aren't possible without using a mix of sensors and warned that pure end-to-end AI systems aren't safe enough.",
+    "url": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Sean O'Kane",
+    "publishedAt": "2026-09-01T16:49:12.000Z",
+    "category": "Startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b1e3e4b1d66580c5",
+    "title": "Samsung’s Galaxy Z Fold 8 Ultra hits its lowest price since launch",
+    "excerpt": "Samsung’s recently released Galaxy Z Fold 8 Ultra. | Image: The Verge If you missed the release promotions for the recent round of Samsung Galaxy phones, you’re in luck. The Samsung Galaxy Z Fold 8 Ultra is $300 off at Best Buy , the best deal we’ve seen since the phone launched last month . The…",
+    "url": "https://www.theverge.com/gadgets/987490/galaxy-z-fold-8-ultra-remarkable-paper-pro-move-deal-sale",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Brad Bourque",
+    "publishedAt": "2026-09-01T16:48:45.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Samsung-Galaxy-Z-Fold-8-Ultra-roundup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "da502e9d1fea5fb7",
+    "title": "GoPro has been acquired and is getting into ‘defense, government, robotics and aerospace’",
+    "excerpt": "GoPro suddenly looks like a very different company than it did just last week. First, YouTuber Mark \"Markiplier\" Fischbach became the company's single largest shareholder , without disclosing that in a sponsored review that came out a week later . Now, almost the entire company has been bought by…",
+    "url": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Sean Hollister",
+    "publishedAt": "2026-09-01T16:46:08.000Z",
+    "category": "policy",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/GoPro-Mission-1-Action-Camera-Lifestyle-Image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8b6bd4113e2b3368",
+    "title": "ReactOS 0.4.16 serves '90s Windows nostalgia with fewer bugs",
+    "excerpt": "If you're pining away for the days when Windows ran well on 64 MB of RAM, there's a new version of open source NT clone ReactOS promising easier installation and fewer bugs. ReactOS 0.4.16 was announced over the weekend after a year and a half of development, and its list of improvements is…",
+    "url": "https://www.theregister.com/os-platforms/2026/09/01/reactos-0416-serves-90s-windows-nostalgia-with-fewer-bugs/5293694",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-01T16:43:19.000Z",
+    "category": "software",
+    "imageUrl": "https://image.theregister.com/?imageId=5293722&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "fb0827c68cc0b5d0",
+    "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+    "excerpt": "I built slotstream, a way to run Qwen3.8-Flash-Next 4-bit on a low-memory mac starting from 16GB, a 125B parameter model that would need 100GB+ memory/RAM, thanks to expert-offloading/ssd-streaming. Easy to install/update, and mac-native using MLX and Swift. It ships with auto-mode, which makes a…",
+    "url": "https://github.com/carloslfu/slotstream",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "carloslfu",
+    "publishedAt": "2026-09-01T16:42:46.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "372a433b5951b2f5",
+    "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
+    "excerpt": "Article URL: https://moviescenemap.com/ Comments URL: https://news.ycombinator.com/item?id=49524320 Points: 50 # Comments: 19",
+    "url": "https://moviescenemap.com/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "Flightmussy",
+    "publishedAt": "2026-09-01T16:34:45.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "239e2a8c2c65f78d",
+    "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+    "excerpt": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+    "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Marina Temkin",
+    "publishedAt": "2026-09-01T16:31:04.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "82c38b38b181bae3",
+    "title": "QHD, WQHD, 4K, and 5K resolution: What do they mean and which is best for you?",
+    "excerpt": "QHD, 4K, 5K, and other resolutions quickly become confusing. Once you get past the marketing terms, you can choose what makes sense for your needs.",
+    "url": "https://www.engadget.com/2244279/qhd-wqhd-4k-5k-resolution-meaning-which-best/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Max Miller)",
+    "publishedAt": "2026-09-01T16:30:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/qhd-wqhd-4k-and-5k-resolution-what-do-they-mean-and-which-is-best-for-you/l-intro-1787589297.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a4d09b7e78638621",
+    "title": "Linux Gets A Reverse-Engineered Driver For ASUS ROG NVMe Enclosure RGB Lighting",
+    "excerpt": "If you are into RGB lighting, you can even find NVMe external enclosures these days with RGB LEDs like the ASUS ROG Strix Arion. Now thanks to reverse engineering there is a Linux driver for allowing the RGB lighting controls for the ASUS ROG Strix Arion NVMe enclosure...",
+    "url": "https://www.phoronix.com/news/ASUS-ROG-Strix-Arion-RGB-Linux",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-01T16:28:38.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "503b31c52b2f0748",
+    "title": "Waymo robotaxi rides are now open to the public in Denver, San Diego and Tampa",
+    "excerpt": "Waymo robotaxi rides are now open to the public in Denver, San Diego and Tampa.",
+    "url": "https://www.engadget.com/2248696/waymo-robotaxi-rides-are-now-open-to-the-public-in-denver-san-diego-and-tampa/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Kris Holt)",
+    "publishedAt": "2026-09-01T16:24:24.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/waymo-robotaxi-rides-are-now-open-to-the-public-in-denver-san-diego-and-tampa/l-intro-1788279807.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4e3078c1260ed8a1",
+    "title": "Oracle pins hopes on 'Star Wars' productivity jump to lightspeed from AI-assisted engineering",
+    "excerpt": "Oracle is betting that AI coding will deliver \"Star Wars\" levels of software engineering productivity, CEO Mike Sicilia told investors last week. With its shares sharply down over the past year, Big Red claims its engineers' productivity will skyrocket as the company mainlines the AI wonder drug it…",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/01/oracle-pins-hopes-on-star-wars-productivity-jump-to-lightspeed-from-ai-assisted-engineering-1/5293596",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-01T16:06:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://image.theregister.com/?imageId=255456&width=800",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "ef6608ff2871a404",
     "title": "John Deere launched an AI chatbot for farmers",
     "excerpt": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer questions on topics like equipment settings, fuel…",
@@ -39,19 +541,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "5a0d1ba559bfa08d",
-    "title": "Google brings its Pics image editor to AI Pro and Ultra subscribers",
-    "excerpt": "Google brings its Pics image editor to AI Pro and Ultra subscribers.",
-    "url": "https://www.engadget.com/2247619/google-brings-its-pics-image-editor-to-ai-pro-and-ultra-subscribers/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Igor Bonifacic)",
-    "publishedAt": "2026-09-01T16:00:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/google-brings-its-pics-image-editor-to-ai-pro-and-ultra-subscribers/l-intro-1788192230.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "2c41e517f946eab8",
     "title": "What is Dolby Atmos for Headphones and is it worth it for gamers?",
     "excerpt": "A look into whether Dolby Atmos for Headphones - with its free trial on both PC and Xbox - can unlock spatial audio on a normal pair of stereo headphones.",
@@ -75,6 +564,19 @@
     "publishedAt": "2026-09-01T16:00:00.000Z",
     "category": "Hardware",
     "imageUrl": "https://www.engadget.com/img/gallery/sonys-new-ult-tower-are-party-speakers-that-chain-together-with-auracast/l-intro-1788191777.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "5a0d1ba559bfa08d",
+    "title": "Google brings its Pics image editor to AI Pro and Ultra subscribers",
+    "excerpt": "Google brings its Pics image editor to AI Pro and Ultra subscribers.",
+    "url": "https://www.engadget.com/2247619/google-brings-its-pics-image-editor-to-ai-pro-and-ultra-subscribers/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Igor Bonifacic)",
+    "publishedAt": "2026-09-01T16:00:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/google-brings-its-pics-image-editor-to-ai-pro-and-ultra-subscribers/l-intro-1788192230.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -106,13 +608,26 @@
   {
     "id": "a268bc4bcd64aeba",
     "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
-    "excerpt": "Article URL: https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566 Comments URL: https://news.ycombinator.com/item?id=49523754 Points: 4 # Comments: 1",
+    "excerpt": "Article URL: https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566 Comments URL: https://news.ycombinator.com/item?id=49523754 Points: 326 # Comments: 120",
     "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "erikvanoosten",
     "publishedAt": "2026-09-01T15:55:53.000Z",
     "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f66bf5e5e154d98b",
+    "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+    "excerpt": "Article URL: https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49523720 Points: 118 # Comments: 96",
+    "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "Limb",
+    "publishedAt": "2026-09-01T15:53:42.000Z",
+    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -132,7 +647,7 @@
   {
     "id": "c6d1166e74facffc",
     "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-    "excerpt": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.",
+    "excerpt": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
     "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
     "source": "TechCrunch",
     "sourceHomepage": "https://techcrunch.com",
@@ -158,7 +673,7 @@
   {
     "id": "fd6b4062a749385a",
     "title": "Keenable SELECT: an agent that searches the web in SQL",
-    "excerpt": "Article URL: https://keenableai.github.io/select-showcase/ Comments URL: https://news.ycombinator.com/item?id=49523473 Points: 12 # Comments: 0",
+    "excerpt": "Article URL: https://keenableai.github.io/select-showcase/ Comments URL: https://news.ycombinator.com/item?id=49523473 Points: 38 # Comments: 11",
     "url": "https://keenableai.github.io/select-showcase/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -184,7 +699,7 @@
   {
     "id": "c337f3e90fc0f319",
     "title": "Ambient CSS v3 – Blender meets CSS",
-    "excerpt": "Article URL: https://ambientcss.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49523387 Points: 21 # Comments: 3",
+    "excerpt": "Article URL: https://ambientcss.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49523387 Points: 112 # Comments: 45",
     "url": "https://ambientcss.vercel.app/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -197,7 +712,7 @@
   {
     "id": "ab365fd4e35d6077",
     "title": "A browser-based viewer for Office Open XML documents",
-    "excerpt": "Article URL: https://ooxml.silurus.dev/ Comments URL: https://news.ycombinator.com/item?id=49523361 Points: 10 # Comments: 0",
+    "excerpt": "Article URL: https://ooxml.silurus.dev/ Comments URL: https://news.ycombinator.com/item?id=49523361 Points: 43 # Comments: 9",
     "url": "https://ooxml.silurus.dev/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -273,19 +788,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "dc0624aeda358453",
-    "title": "EFF to Governor Newsom: Veto California's AB 1709",
-    "excerpt": "Article URL: https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709 Comments URL: https://news.ycombinator.com/item?id=49522954 Points: 62 # Comments: 38",
-    "url": "https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "mdp2021",
-    "publishedAt": "2026-09-01T15:04:14.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "301560d42aaae136",
     "title": "Ask HN: Who is hiring? (September 2026)",
     "excerpt": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if you personally are part of the hiring company—no recruiting firms or job boards. One post per company. If it isn't a…",
@@ -295,6 +797,19 @@
     "author": "whoishiring",
     "publishedAt": "2026-09-01T15:01:17.000Z",
     "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "220d8db37e3c1fee",
+    "title": "Ask HN: Who wants to be hired? (September 2026)",
+    "excerpt": "Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé/CV: Email: Please only post if you are personally looking for work. Agencies, recruiters, job boards, and so on, are off topic here. Readers: please only email…",
+    "url": "https://news.ycombinator.com/item?id=49522896",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "whoishiring",
+    "publishedAt": "2026-09-01T15:01:17.000Z",
+    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -351,19 +866,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "bc290ba394fd0d91",
-    "title": "State of Open Models: Summer 2026 Observations",
-    "excerpt": "Article URL: https://huggingface.co/blog/state-of-open-models-summer-2026 Comments URL: https://news.ycombinator.com/item?id=49522816 Points: 20 # Comments: 2",
-    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "gmays",
-    "publishedAt": "2026-09-01T14:55:50.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "01cb483c1b612ea8",
     "title": "This startup is fuel-injecting hydrogen to make cargo ships more efficient",
     "excerpt": "Newlight has raised a $9 million seed round and completed an 8,500-nautical-mile test run from Singapore to Ghana.",
@@ -374,6 +876,19 @@
     "publishedAt": "2026-09-01T14:52:12.000Z",
     "category": "ai",
     "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "5a299e138f860b87",
+    "title": "It turns out that Orion's much-maligned heat shield performed really well",
+    "excerpt": "Perhaps the biggest question going into the Artemis II mission this spring was how the heat shield at the base of the spacecraft would perform during reentry through Earth's atmosphere. The ablative heat shield, designed to char upon reentry while keeping the crew safe, had experienced unexpected…",
+    "url": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Eric Berger",
+    "publishedAt": "2026-09-01T14:46:28.000Z",
+    "category": "science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/heat-shield-nasa-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -416,21 +931,8 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "ed5c8a3e8b944dd1",
-    "title": "How to organize and group your Safari tabs in macOS 27",
-    "excerpt": "Apple's latest desktop OS can make your tabs much neater, if you want it to.",
-    "url": "https://www.engadget.com/2244143/how-to-organize-group-safari-tabs-macos-27/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Filipe Espósito)",
-    "publishedAt": "2026-09-01T14:30:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/how-to-organize-and-group-your-safari-tabs-in-macos-27/l-intro-1787590868.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "ea3b588f08858af0",
-    "title": "Waymo accelerates robotaxi expansion with launches in Denver, San Diego and Tampa",
+    "title": "Waymo accelerates robotaxi expansion with launches in Denver, San Diego, and Tampa",
     "excerpt": "Waymo will begin inviting riders on a rolling basis and slowly ramp up access in the three cities, following its usual commercial playbook.",
     "url": "https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/",
     "source": "TechCrunch",
@@ -438,19 +940,6 @@
     "author": "Kirsten Korosec",
     "publishedAt": "2026-09-01T14:20:44.000Z",
     "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c95896462583d32a",
-    "title": "Saab Enters Collaborative Combat Aircraft Race with High-End Concept",
-    "excerpt": "Article URL: https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept Comments URL: https://news.ycombinator.com/item?id=49522374 Points: 56 # Comments: 27",
-    "url": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "rbanffy",
-    "publishedAt": "2026-09-01T14:19:30.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -491,19 +980,6 @@
     "publishedAt": "2026-09-01T14:00:00.000Z",
     "category": "policy",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sonos-ace-ultra-lifestyle.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "46c60af8a5a735bf",
-    "title": "Atlas' brain-monitoring wearable tells you how much you're in the moment",
-    "excerpt": "Atlas says its new wearable EEG will be able to tell you where your attention is through the day.",
-    "url": "https://www.engadget.com/2248372/atlas-wearable-eeg/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Daniel Cooper)",
-    "publishedAt": "2026-09-01T14:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/atlas-brain-monitoring-wearable-tells-you-how-much-youre-in-the-moment/l-intro-1788258749.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -559,22 +1035,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "b1f01d4d203bee98",
-    "title": "Tim Cook’s legacy isn’t just phones, it’s politics",
-    "excerpt": "As much as any Apple product released during his time as CEO, Tim Cook's tenure will be remembered for its ruthlessly efficient tight-rope walk between an autocrat in China and a would-be autocrat in the US. During his 15 years as CEO, Cook steered Apple through relations with both Chinese…",
-    "url": "https://www.theverge.com/policy/987356/tim-cook-apple-trump-xi",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Lauren Feiner",
-    "publishedAt": "2026-09-01T13:51:02.000Z",
-    "category": "startups",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25345071/STK468_APPLE_ANTITRUST_CVIRGINIA_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "72ac859d4cec0b90",
     "title": "Introducing Ad Blocker for Firefox on iOS",
-    "excerpt": "Article URL: https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/ Comments URL: https://news.ycombinator.com/item?id=49521973 Points: 85 # Comments: 37",
+    "excerpt": "Article URL: https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/ Comments URL: https://news.ycombinator.com/item?id=49521973 Points: 175 # Comments: 70",
     "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -598,35 +1061,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "0efcf5722192a57a",
-    "title": "The pros and cons of using a TV as your computer monitor",
-    "excerpt": "In the age‑old debate over whether a TV can truly replace a computer monitor, several important differences in design and performance set the two apart.",
-    "url": "https://www.engadget.com/2244148/tv-as-computer-monitor-pros-cons/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Filipe Espósito)",
-    "publishedAt": "2026-09-01T13:30:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-a-tv-as-your-computer-monitor/l-intro-1787650779.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c7ff8577b1fe5444",
-    "title": "John Ternus takes over as Apple’s new CEO",
-    "excerpt": "John Ternus and Tim Cook | Image: Apple The multitrillion-dollar home of the iPhone, Mac, and so many other tech gadgets has a new leaader, as Tim Cook has been replaced as CEO as of September 1st by former hardware boss John Ternus . How will we look back on Cook’s legacy, and what will Apple look…",
-    "url": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Richard Lawler",
-    "publishedAt": "2026-09-01T13:28:43.000Z",
-    "category": "startups",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Apple-John-Ternus-Tim-Cook.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "2248824e36b5054c",
     "title": "Io_uring Without Readahead",
-    "excerpt": "Article URL: https://frn.sh/io-uring/ Comments URL: https://news.ycombinator.com/item?id=49521623 Points: 60 # Comments: 11",
+    "excerpt": "Article URL: https://frn.sh/io-uring/ Comments URL: https://news.ycombinator.com/item?id=49521623 Points: 88 # Comments: 27",
     "url": "https://frn.sh/io-uring/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -634,19 +1071,6 @@
     "publishedAt": "2026-09-01T13:19:12.000Z",
     "category": "startups",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "975675e72e48e11d",
-    "title": "Florida blocks Flock cams on state highways",
-    "excerpt": "Florida is banning Flock cameras and other automated license plate readers across state highways, as reported earlier by NBC News and local news outlet WUSF . In a memo on Monday , Florida's Department of Transportation says it's revoking permits for all license plate readers, adding that they must…",
-    "url": "https://www.theverge.com/tech/987353/florida-flock-cam-ban-state-highways",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Emma Roth",
-    "publishedAt": "2026-09-01T13:17:36.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -660,110 +1084,6 @@
     "publishedAt": "2026-09-01T13:15:35.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/c48dd32903d41ec222f4a093c9aefa108c259b98-2960x1665.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "7115b649f218ab58",
-    "title": "Get ready for a really busy month of smartphones",
-    "excerpt": "At what point are there simply too many phones? | Image: Cath Virginia / The Verge We're not even half a day into September, and two new smartphones have already launched: the Poco F9 Pro and F9 Ultra . We're expecting more this week, as the IFA trade show kicks off in Berlin, before we get new…",
-    "url": "https://www.theverge.com/tech/986236/smartphones-september-ifa-apple-iphone-oppo-vivo-xiaomi",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Dominic Preston",
-    "publishedAt": "2026-09-01T13:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25642174/247288_Phone_Buying_Guides_2B_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a9cc7a6dadebb10f",
-    "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-    "excerpt": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX 50-series desktop…",
-    "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Jay Peters",
-    "publishedAt": "2026-09-01T13:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/nba-2k-image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "2396937b2d2e16ea",
-    "title": "NVIDIA's DLSS 5 launches with NBA 2K27 on September 3, but there's little reason for excitement",
-    "excerpt": "NVIDIA's controversial DLSS 5 finally arrives this week, but there's little reason to celebrate it.",
-    "url": "https://www.engadget.com/2248399/nvidia-dlss-5-launches-nba-2k27-september-3/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Devindra Hardawar)",
-    "publishedAt": "2026-09-01T13:00:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/nvidias-dlss-5-launches-with-nba-2k27-on-september-3-but-theres-little-reason-for-excitement/l-intro-1788263990.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f5ffa235630854d0",
-    "title": "Roku is expanding its premium TV lineup with its first OLEDs",
-    "excerpt": "Roku has announced its first OLED TVs, available this fall from Amazon starting at $999.",
-    "url": "https://www.engadget.com/2246818/roku-is-expanding-its-premium-tv-lineup-with-its-first-oleds/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Ian Carlos Campbell)",
-    "publishedAt": "2026-09-01T13:00:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/roku-is-expanding-its-premium-tv-lineup-with-its-first-oleds/l-intro-1787953247.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c4c04b0304b00059",
-    "title": "Sonos Open House: Live updates from the Sonos 27 product launch",
-    "excerpt": "Are you ready for some speakers and some AI?",
-    "url": "https://www.engadget.com/2248277/sonos-product-launch-live-blog-september-2026/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Cherlynn Low)",
-    "publishedAt": "2026-09-01T13:00:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/sonos-product-launch-live-blog-september-2026/l-intro-1788273544.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "5b520c7f3739f535",
-    "title": "You can use your phone as a Roku remote (and it's free)",
-    "excerpt": "If you've lost your Roku remote but would still like to watch something on TV, the Roku mobile app is the answer.",
-    "url": "https://www.engadget.com/2244167/use-phone-as-roku-remote-free-app/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Gabriela Vătu)",
-    "publishedAt": "2026-09-01T13:00:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/you-can-use-your-phone-as-a-roku-remote-and-its-free/l-intro-1786718485.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "872af8c194d3ce35",
-    "title": "Sony Bravia Theater Trio review: The three-piece soundbar alternative",
-    "excerpt": "The Bravia Theater Trio is a capable three-piece option for larger TVs, but you'll need additional gear for truly immersive sound and adequate bass.",
-    "url": "https://www.engadget.com/2248082/sony-bravia-theater-trio-review/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Billy Steele)",
-    "publishedAt": "2026-09-01T12:45:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/sony-bravia-theater-trio-review-the-three-piece-soundbar-alternative/l-intro-1788206406.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "59cbada5b254c478",
-    "title": "Poco's F9 Ultra is a midrange phone with a flagship processor and a 185Hz display",
-    "excerpt": "Poco's newest smartphone isn't headed to the US, but you might want it to.",
-    "url": "https://www.engadget.com/2243520/poco-f9-ultra-is-a-midrange-phone-with-a-flagship-processor-and-185hz-display/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Mat Smith)",
-    "publishedAt": "2026-09-01T12:45:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/pocos-f9-ultra-is-a-midrange-phone-with-a-flagship-processor-and-a-185hz-display/l-intro-1787661643.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -790,19 +1110,6 @@
     "publishedAt": "2026-09-01T12:37:10.000Z",
     "category": "ai",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/f83af3e1f9b72ee0573ad1e521ae3f0dc0501639-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "28a48983211b805c",
-    "title": "What Android looked like in 2008 vs. today",
-    "excerpt": "Early Androids were the tech equivalent of alternative rock. iPhones were far too mainstream for some of us, and Android felt like home.",
-    "url": "https://www.engadget.com/2244166/what-android-looked-like-2008-vs-today/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Max Miller)",
-    "publishedAt": "2026-09-01T12:30:00.000Z",
-    "category": "software",
-    "imageUrl": "https://www.engadget.com/img/gallery/what-android-looked-like-in-2008-vs-today/l-intro-1787592158.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -842,19 +1149,6 @@
     "publishedAt": "2026-09-01T12:04:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=5277788&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "282647264c7548fb",
-    "title": "United will now let you join standby lists for earlier flights through its mobile app",
-    "excerpt": "You can add yourself to standby lists without speaking to agents through United's mobile app.",
-    "url": "https://www.engadget.com/2248384/united-app-join-multiple-standby-lists/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Mariella Moon)",
-    "publishedAt": "2026-09-01T12:00:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/united-will-now-let-you-join-standby-lists-for-earlier-flights-through-its-mobile-app/l-intro-1788261435.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -977,7 +1271,7 @@
   {
     "id": "509d3421298856d6",
     "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
-    "excerpt": "Article URL: https://github.com/ankidroid/Anki-Android/issues/21656 Comments URL: https://news.ycombinator.com/item?id=49520022 Points: 551 # Comments: 150",
+    "excerpt": "Article URL: https://github.com/ankidroid/Anki-Android/issues/21656 Comments URL: https://news.ycombinator.com/item?id=49520022 Points: 721 # Comments: 201",
     "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1041,14 +1335,14 @@
   },
   {
     "id": "2e7d0fb45461c661",
-    "title": "44% on ARC-AGI-1 in 67 cents",
-    "excerpt": "Article URL: https://mvakde.github.io/blog/44-on-arc-1/ Comments URL: https://news.ycombinator.com/item?id=49519939 Points: 253 # Comments: 72",
+    "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+    "excerpt": "Article URL: https://mvakde.github.io/blog/44-on-arc-1/ Comments URL: https://news.ycombinator.com/item?id=49519939 Points: 406 # Comments: 119",
     "url": "https://mvakde.github.io/blog/44-on-arc-1/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "porridgeraisin",
     "publishedAt": "2026-09-01T09:52:45.000Z",
-    "category": "software",
+    "category": "ai",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1093,7 +1387,7 @@
   },
   {
     "id": "85297bf4bb7e798e",
-    "title": "Live updates: Bitcoin trades around $78,000 as crude surges, global bond sell-off deepens",
+    "title": "Live updates: Bitcoin slumps as oil surges to three-month high on new Iran strikes",
     "excerpt": "Bitcoin ETFs took in $217 million on Monday, one session after an outflow ended their nine-day run. Ether ETFs have not had net outflows since mid-August.",
     "url": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days",
     "source": "CoinDesk",
@@ -1101,7 +1395,7 @@
     "author": "Shaurya Malwa",
     "publishedAt": "2026-09-01T08:35:57.000Z",
     "category": "crypto",
-    "imageUrl": null,
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/de00c24e6ba094ec4ae423a8f8c04a3f71ab6b2c-1920x1070.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -1128,19 +1422,6 @@
     "publishedAt": "2026-09-01T07:49:16.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/e02406bce2b87ba004fa28bcfc12c3ae039a12c9-1200x675.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f4d6559ee8db7d36",
-    "title": "CollectWise (YC F24) Is Hiring",
-    "excerpt": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer Comments URL: https://news.ycombinator.com/item?id=49518877 Points: 0 # Comments: 0",
-    "url": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "OBrien_1107",
-    "publishedAt": "2026-09-01T07:01:49.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1237,51 +1518,12 @@
   {
     "id": "b8d00bb7f83a7930",
     "title": "Restroom Archive",
-    "excerpt": "Article URL: https://restroomarchive.com Comments URL: https://news.ycombinator.com/item?id=49517624 Points: 274 # Comments: 64",
+    "excerpt": "Article URL: https://restroomarchive.com Comments URL: https://news.ycombinator.com/item?id=49517624 Points: 327 # Comments: 77",
     "url": "https://restroomarchive.com",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "jcalx",
     "publishedAt": "2026-09-01T03:23:48.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "da38740894257e67",
-    "title": "GPU World",
-    "excerpt": "Article URL: https://www.gpuworld.org/ Comments URL: https://news.ycombinator.com/item?id=49517584 Points: 350 # Comments: 209",
-    "url": "https://www.gpuworld.org/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "simonpure",
-    "publishedAt": "2026-09-01T03:16:36.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "89e5df783443a9e3",
-    "title": "Fastpotify",
-    "excerpt": "Article URL: https://fastpotify.rocks/ Comments URL: https://news.ycombinator.com/item?id=49517448 Points: 675 # Comments: 435",
-    "url": "https://fastpotify.rocks/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "nreece",
-    "publishedAt": "2026-09-01T02:52:14.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "87aadcd4ed8bf0b5",
-    "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
-    "excerpt": "Article URL: https://github.com/fregacmols/RotaryCell Comments URL: https://news.ycombinator.com/item?id=49517297 Points: 132 # Comments: 37",
-    "url": "https://github.com/fregacmols/RotaryCell",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "jombib",
-    "publishedAt": "2026-09-01T02:29:23.000Z",
     "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -1352,19 +1594,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "e05624b4fab6a40d",
-    "title": "A Genealogy of Freudenthal's Lincos",
-    "excerpt": "Article URL: https://www.shellsandpebbles.com/2026/01/19/a-genealogy-of-freudenthals-lincos-part-i-looking-up-from-the-ruins-of-babel/ Comments URL: https://news.ycombinator.com/item?id=49516184 Points: 3 # Comments: 0",
-    "url": "https://www.shellsandpebbles.com/2026/01/19/a-genealogy-of-freudenthals-lincos-part-i-looking-up-from-the-ruins-of-babel/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "akkartik",
-    "publishedAt": "2026-08-31T23:43:26.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "f9a57d60257673f8",
     "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
     "excerpt": "The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.",
@@ -1374,32 +1603,6 @@
     "author": "Lucas Ropek",
     "publishedAt": "2026-08-31T23:41:10.000Z",
     "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "99ad58ffb7a758f2",
-    "title": "Tmp.0ut Volume 5",
-    "excerpt": "Article URL: https://tmpout.sh/5/ Comments URL: https://news.ycombinator.com/item?id=49516059 Points: 157 # Comments: 34",
-    "url": "https://tmpout.sh/5/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "ghuntley",
-    "publishedAt": "2026-08-31T23:26:08.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3b0d49ff062c8cdf",
-    "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
-    "excerpt": "Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.",
-    "url": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Julie Bort",
-    "publishedAt": "2026-08-31T23:14:14.000Z",
-    "category": "policy",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1440,19 +1643,6 @@
     "publishedAt": "2026-08-31T22:54:24.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=262815&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "591ca98d87dd0116",
-    "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
-    "excerpt": "Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.",
-    "url": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Julie Bort",
-    "publishedAt": "2026-08-31T22:14:05.000Z",
-    "category": "policy",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1560,32 +1750,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "ee8df0805e07cd5d",
-    "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
-    "excerpt": "Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses more for advertising.",
-    "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Lauren Forristal",
-    "publishedAt": "2026-08-31T20:20:25.000Z",
-    "category": "policy",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "77e651c0246f9df1",
-    "title": "The Pentagon now has its own version of ChatGPT and Grok",
-    "excerpt": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-    "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Kirsten Korosec",
-    "publishedAt": "2026-08-31T20:13:45.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "2b3d5e5320644439",
     "title": "Review: Coyote vs. Acme is an unabashed love letter to Looney Tunes",
     "excerpt": "It took three years, but Coyote vs. Acme is finally in theaters and delighting audiences of all ages with its irresistible blend of slapstick humor, pointed satire, and even a warm fuzzy here and there. We're happy to report that the film was worth the wait. (Some spoilers below but no major…",
@@ -1634,19 +1798,6 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-08-31T19:39:10.000Z",
     "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f268d203aa147f97",
-    "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
-    "excerpt": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.",
-    "url": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "TechCrunch Events",
-    "publishedAt": "2026-08-31T19:32:21.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1721,19 +1872,6 @@
     "publishedAt": "2026-08-31T18:26:03.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=1684475&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c63d155c4f4411a8",
-    "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-    "excerpt": "ASCII City: Traffic and Detail Update - https://www.youtube.com/watch?v=DSRooHo_HSI ASCII City Update: Interiors, Elevation and Skyscrapers - https://www.youtube.com/watch?v=UCKEDWowc0o Comments URL: https://news.ycombinator.com/item?id=49512975 Points: 374 # Comments: 55",
-    "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "keithcarolus",
-    "publishedAt": "2026-08-31T18:21:33.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1888,19 +2026,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "6a23871c244b0933",
-    "title": "Berlin Is Being Blackmailed By Hackers",
-    "excerpt": "An anonymous reader quotes a report from the BBC: Berlin is being blackmailed by hackers who were able to compromise city systems and steal data earlier this month, its mayor has said. Kai Wegner said officials would not cave in to the ransom demand, which came on Thursday evening. He did not say…",
-    "url": "https://it.slashdot.org/story/26/08/31/0229251/berlin-is-being-blackmailed-by-hackers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-08-31T15:00:00.000Z",
-    "category": "security",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "66fb28a2b68ac83e",
     "title": "NYSE owner ICE taps tZERO for tokenized securities push, takes stake in firm",
     "excerpt": "The deal adds transfer-agent and settlement infrastructure to ICE's plans for an NYSE-affiliated market for tokenized stocks, tZERO said.",
@@ -2028,19 +2153,6 @@
     "publishedAt": "2026-08-31T11:53:56.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/420b7f8ce090d7bdf4a04ea5fa1495a09ff9ce29-6889x4593.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c9d497a0f02f60c2",
-    "title": "California's Age Verification Bill Passes with Linux Exemption Intact",
-    "excerpt": "California's age-verification bill has passed in its legislature — but with its open-source carve-out intact, reports the blog Linuxiac: Back in May, we reported that California lawmakers amended Assembly Bill 1856 to carve open-source operating systems out of the state's upcoming age verification…",
-    "url": "https://yro.slashdot.org/story/26/08/31/0549210/californias-age-verification-bill-passes-with-linux-exemption-intact?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-08-31T11:34:00.000Z",
-    "category": "software",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -2174,27 +2286,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "a7d7c48c7b8f2b41",
-    "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
-    "excerpt": "Here at Ars, we're intimately familiar with data leaks surrounding Valve's games , hardware , and the workings of Steam itself . But nothing could have prepared us for this weekend's \"terarelease\" encompassing more than 12TB of content related to seemingly every title available on Steam between…",
-    "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Kyle Orland",
-    "publishedAt": "2026-08-30T21:40:56.000Z",
-    "category": "Science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/teraweapon-1152x648-1788124932.jpg",
-    "readTimeMinutes": 1,
-    "alsoCoveredBy": [
-      {
-        "source": "Slashdot",
-        "sourceHomepage": "https://slashdot.org",
-        "url": "https://games.slashdot.org/story/26/08/31/0247220/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "publishedAt": "2026-08-31T16:00:00.000Z"
-      }
-    ]
-  },
-  {
     "id": "ba15b64c9539b2b9",
     "title": "Debian votes to let contributors code with AI",
     "excerpt": "The Debian community has voted to allow members to use generative AI when creating their contributions, with the caveat that developers remain responsible for code quality. The Linux distro’s community recently decided to develop a policy on use of AI-assisted coding tools, and asked participants…",
@@ -2218,19 +2309,6 @@
     "publishedAt": "2026-08-30T19:55:27.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b5e3604607ddbd34",
-    "title": "Why it matters that President Trump just dialed in to a NASA news conference",
-    "excerpt": "As is standard procedure for major NASA missions, the US space agency held a post-launch news conference on Sunday morning at Kennedy Space Center in Florida to provide information about how the Nancy Grace Roman Space Telescope was faring during its initial maneuvers. What was not standard,…",
-    "url": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Eric Berger",
-    "publishedAt": "2026-08-30T17:40:30.000Z",
-    "category": "science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/NHQ20260828_admin_0045large-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2270,19 +2348,6 @@
     "publishedAt": "2026-08-30T13:39:52.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "022402303394d12b",
-    "title": "Inside Meta’s push to put robots to work in data centers",
-    "excerpt": "Meta is testing robots that can plug in cables, reset servers, and handle other tasks inside its data centers , according to several current and former workers familiar with the projects. The ongoing effort, which has not been previously reported, may eventually allow Meta to operate its rapidly…",
-    "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Paresh Dave, WIRED.com",
-    "publishedAt": "2026-08-30T11:03:47.000Z",
-    "category": "ai",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2377,19 +2442,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "411d07a86701646c",
-    "title": "KDE Plasma 6.8 Improving Performance & Efficiency For Some Full Screen Content",
-    "excerpt": "In addition to the Union QtWidgets initial release happening this week, a number of other improvements also landed in the past few days in making Plasma 6.8 all the more exciting...",
-    "url": "https://www.phoronix.com/news/Plasma-6.8-Full-Screen-Perf",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-29T14:48:28.000Z",
-    "category": "Hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "a8022df9822f237c",
     "title": "A lot of datacenter networks are run by absolute clowns. Not Amazon's",
     "excerpt": "Last month I sat in a networking lab with AWS VP of Global Network Engineering Matt Rehder and cracked a joke about cage nuts cutting your hands to ribbons. I wasn't prepared for the blank stare I got in response, but I really should have been. Mind you, not because the joke wasn't funny (my jokes…",
@@ -2400,19 +2452,6 @@
     "publishedAt": "2026-08-29T13:30:00.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=5293383&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a54298b3ae5181a4",
-    "title": "I asked 100 companies for my data. Some deleted it instead.",
-    "excerpt": "I filed a request with McDonald’s earlier this month to access all of the personal data the fast food company collected about me, and I received a stunning 515-page report a few days later that detailed my app interactions in granular detail and predicted I would never stop eating there. Under the…",
-    "url": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Reece Rodgers, wired.com",
-    "publishedAt": "2026-08-29T10:50:31.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/personaldata-1024x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2439,19 +2478,6 @@
     "publishedAt": "2026-08-29T07:28:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=5292935&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "7854036fdce61884",
-    "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
-    "excerpt": "Kalshi today lost a major ruling over whether it can evade state gambling laws, as a federal appeals court found that Nevada can stop the prediction market from allowing sports bets. While the Trump administration is trying to help prediction markets avoid state regulation, a panel of three…",
-    "url": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Jon Brodkin",
-    "publishedAt": "2026-08-28T22:14:52.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2712,32 +2738,6 @@
     "publishedAt": "2026-08-28T03:33:54.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=5293164&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "9bb26c771f02342c",
-    "title": "Anthropic proposes plumbing spec to link AI agents to lab kit and robots",
-    "excerpt": "Anthropic on Thursday teased a protocol for allowing AI agents \"to safely operate physical devices,\" a somewhat optimistic ambition given it cannot reliably anticipate how its models behave. The as-yet-unpublished protocol, dubbed the Model Hardware Standard (MHS), is similar in concept to the…",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/28/anthropic-proposes-plumbing-spec-to-link-ai-agents-to-lab-kit-and-robots/5293135",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-27T23:22:35.000Z",
-    "category": "ai",
-    "imageUrl": "https://image.theregister.com/?imageId=5293144&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b4d5558348e5b0e9",
-    "title": "Nvidia and Cerebras are selling performance their customers will (probably) never see",
-    "excerpt": "Shots were fired at the Hot Chips conference in California this week as Nvidia announced its new Groq-3-based LPX racks had entered production, with early tests showing the systems churning an eye-watering 3,400 tokens a second in Gemma 4 31B. That's four times faster than rival Cerebras. A day…",
-    "url": "https://www.theregister.com/systems/2026/08/27/nvidia-and-cerebras-are-selling-performance-their-customers-will-probably-never-see/5293117",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-27T22:57:43.000Z",
-    "category": "hardware",
-    "imageUrl": "https://image.theregister.com/?imageId=251642&width=800",
     "readTimeMinutes": 1
   },
   {
