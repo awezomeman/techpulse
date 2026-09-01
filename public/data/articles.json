@@ -1,5 +1,200 @@
 [
   {
+    "id": "0c63343e1c7054fa",
+    "title": "Samsung's new Galaxy Book 6 model is a budget-friendly $799 laptop",
+    "excerpt": "Samsung has released a more accessible and affordable Galaxy Book 6 laptop.",
+    "url": "https://www.engadget.com/2248309/samsung-galaxy-book-6-model-budget-friendly-799-laptop/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Mariella Moon)",
+    "publishedAt": "2026-09-01T05:01:49.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/samsungs-new-galaxy-book-6-model-is-a-budget-friendly-799-laptop/l-intro-1788238900.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8ad1fa4dc098ab5b",
+    "title": "Magna increases bet on battery swapping in India with $35M for Yuma",
+    "excerpt": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm.",
+    "url": "https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Jagmeet Singh",
+    "publishedAt": "2026-09-01T05:00:00.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b07ec3d049830f0e",
+    "title": "Vermell – Minimal, dependency-free C++ web framework using epoll",
+    "excerpt": "Article URL: https://github.com/vermellcc/vermell Comments URL: https://news.ycombinator.com/item?id=49518121 Points: 13 # Comments: 4",
+    "url": "https://github.com/vermellcc/vermell",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "standar-donkey",
+    "publishedAt": "2026-09-01T04:56:11.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0c080f600cadb8a8",
+    "title": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
+    "excerpt": "Ether, solana, tron and dogecoin all shed ground over 24 hours while HYPE added about 4%, leaving bitcoin flat on the week after August's 24% run.",
+    "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-09-01T04:30:28.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/f72b7ecc3a290457595e8410af4c1bbf7d8f1e64-1508x848.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "17b3de777f03c70c",
+    "title": "Trump Jr's firm leads $1 billion Polymarket raise at $21 billion value: Report",
+    "excerpt": "1789 Capital is putting in about $300 million, adding to a roughly $200 million stake, as the prediction market's valuation rises from $15 billion.",
+    "url": "https://www.coindesk.com/business/2026/09/01/trump-jr-s-firm-leads-usd1-billion-polymarket-raise-at-usd21-billion-value-report",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-09-01T04:19:54.000Z",
+    "category": "software",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/017ae420df17014d529112047b085c51b85faf81-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d46769a4d9eac46c",
+    "title": "JBL just introduced a trio of Wi-Fi speakers for whole-home audio",
+    "excerpt": "The Cove series is a major departure for JBL.",
+    "url": "https://www.engadget.com/2247954/jbl-just-introduced-a-trio-of-wi-fi-speakers-for-whole-home-audio/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Lawrence Bonk)",
+    "publishedAt": "2026-09-01T04:01:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/jbl-just-introduced-a-trio-of-wi-fi-speakers-for-whole-home-audio/l-intro-1788203276.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f035b47deeda0233",
+    "title": "CME’s share of XRP futures jumps as token rallies 40% in a week",
+    "excerpt": "Outstanding XRP futures positions outside CME fell by more than 500 million tokens in two weeks, while exposure on the regulated U.S. exchange climbed about 36% as XRP rallied toward $1.40.",
+    "url": "https://www.coindesk.com/markets/2026/09/01/xrp-futures-are-shifting-toward-cme-as-institutional-participation-grows",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-09-01T03:49:39.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/b119fde813835a73b12fcb4cb0e3a811abe61149-1500x1021.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b8d00bb7f83a7930",
+    "title": "Restroom Archive",
+    "excerpt": "Article URL: https://restroomarchive.com Comments URL: https://news.ycombinator.com/item?id=49517624 Points: 59 # Comments: 4",
+    "url": "https://restroomarchive.com",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "jcalx",
+    "publishedAt": "2026-09-01T03:23:48.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "da38740894257e67",
+    "title": "GPU World",
+    "excerpt": "Article URL: https://www.gpuworld.org/ Comments URL: https://news.ycombinator.com/item?id=49517584 Points: 57 # Comments: 13",
+    "url": "https://www.gpuworld.org/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "simonpure",
+    "publishedAt": "2026-09-01T03:16:36.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a1042d5ada06e242",
+    "title": "Google Antigravity introduces Boost deep reasoning (/boost)",
+    "excerpt": "Article URL: https://antigravity.google/docs/boost/ Comments URL: https://news.ycombinator.com/item?id=49517537 Points: 61 # Comments: 43",
+    "url": "https://antigravity.google/docs/boost/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "simonpure",
+    "publishedAt": "2026-09-01T03:05:55.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "89e5df783443a9e3",
+    "title": "Fastpotify",
+    "excerpt": "Article URL: https://fastpotify.rocks/ Comments URL: https://news.ycombinator.com/item?id=49517448 Points: 168 # Comments: 68",
+    "url": "https://fastpotify.rocks/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "nreece",
+    "publishedAt": "2026-09-01T02:52:14.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "87aadcd4ed8bf0b5",
+    "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
+    "excerpt": "Article URL: https://github.com/fregacmols/RotaryCell Comments URL: https://news.ycombinator.com/item?id=49517297 Points: 23 # Comments: 3",
+    "url": "https://github.com/fregacmols/RotaryCell",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "jombib",
+    "publishedAt": "2026-09-01T02:29:23.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8dadbbaf0669e852",
+    "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
+    "excerpt": "Article URL: https://www.dolthub.com/blog/2026-08-31-doltlite-beta/ Comments URL: https://news.ycombinator.com/item?id=49516848 Points: 23 # Comments: 4",
+    "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "lbw1215",
+    "publishedAt": "2026-09-01T01:25:40.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0c586c869fc4aae0",
+    "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up",
+    "excerpt": "Article URL: https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/ Comments URL: https://news.ycombinator.com/item?id=49516699 Points: 83 # Comments: 44",
+    "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "fagnerbrack",
+    "publishedAt": "2026-09-01T01:01:08.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d827545de94d50af",
+    "title": "KDE Linux Now Providing Automatic Btrfs Snapshots For All User Files",
+    "excerpt": "With the end of the month comes a new monthly status report from the KDE Linux project as their in-house distribution project...",
+    "url": "https://www.phoronix.com/news/KDE-Linux-August-2026",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-01T00:49:02.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "6a81feffb651ecba",
     "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
     "excerpt": "Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.",
@@ -41,7 +236,7 @@
   {
     "id": "e8910025a49bba7b",
     "title": "Evidence of Fraud in an Influential Study About Procrastination",
-    "excerpt": "Article URL: https://datacolada.org/138 Comments URL: https://news.ycombinator.com/item?id=49516199 Points: 31 # Comments: 6",
+    "excerpt": "Article URL: https://datacolada.org/138 Comments URL: https://news.ycombinator.com/item?id=49516199 Points: 159 # Comments: 105",
     "url": "https://datacolada.org/138",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -49,6 +244,19 @@
     "publishedAt": "2026-08-31T23:45:56.000Z",
     "category": "science",
     "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3ef63bf365e0c397",
+    "title": "AI adoption at work is broad but shallow",
+    "excerpt": "Economists have taken another stab at assessing the impact of generative AI adoption on different occupations and have found that adoption is broad but not very deep. While generative AI reaches 80 percent of occupations and more than 40 percent of tasks, in most of these occupations fewer than…",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/01/ai-adoption-at-work-is-broad-but-shallow/5293545",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-31T23:43:37.000Z",
+    "category": "ai",
+    "imageUrl": "https://image.theregister.com/?imageId=5293556&width=800",
     "readTimeMinutes": 1
   },
   {
@@ -130,9 +338,22 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "9fb68b7c99caf1a7",
+    "title": "Nvidia is building an IP licensing empire on the back of NVLink",
+    "excerpt": "The proliferation of custom AI ASICs, or XPUs, from OpenAI, Meta, Microsoft, and others has led many to question Nvidia's grip on the market. After all, if everybody's building their own, who needs the GPUs the AI arms dealer has made its fortune on? But Nvidia isn't concerned in the least and has…",
+    "url": "https://www.theregister.com/systems/2026/08/31/nvidia-is-building-an-ip-licensing-empire-on-the-back-of-nvlink/5293530",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-31T22:54:24.000Z",
+    "category": "hardware",
+    "imageUrl": "https://image.theregister.com/?imageId=262815&width=800",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "8aebacaf4f828b95",
     "title": "Run macOS Software on Linux",
-    "excerpt": "Article URL: https://www.darlinghq.org/ Comments URL: https://news.ycombinator.com/item?id=49515830 Points: 59 # Comments: 17",
+    "excerpt": "Article URL: https://www.darlinghq.org/ Comments URL: https://news.ycombinator.com/item?id=49515830 Points: 191 # Comments: 62",
     "url": "https://www.darlinghq.org/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -171,7 +392,7 @@
   {
     "id": "f78eb1363193e754",
     "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
-    "excerpt": "Article URL: https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide Comments URL: https://news.ycombinator.com/item?id=49515662 Points: 23 # Comments: 11",
+    "excerpt": "Article URL: https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide Comments URL: https://news.ycombinator.com/item?id=49515662 Points: 86 # Comments: 40",
     "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -205,6 +426,19 @@
     "publishedAt": "2026-08-31T22:14:05.000Z",
     "category": "policy",
     "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1bf6c1282fd1a43a",
+    "title": "Healthcare cyberattacks hit pacemakers and millions of patient records",
+    "excerpt": "Two major healthcare businesses, Boston Scientific and McKesson, disclosed more details over the weekend about separate cyberattacks that disrupted global operations and resulted in stolen patient data, respectively. Medical-device maker Boston Scientific, whose IT systems were hacked by unknown…",
+    "url": "https://www.theregister.com/cyber-crime/2026/08/31/healthcare-cyberattacks-hit-pacemakers-and-millions-of-patient-records/5293537",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-31T22:10:38.000Z",
+    "category": "policy",
+    "imageUrl": "https://image.theregister.com/?imageId=259951&width=800",
     "readTimeMinutes": 1
   },
   {
@@ -307,19 +541,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "b638c78a358968e5",
-    "title": "How we configured OpenTelemetry logs in Rails",
-    "excerpt": "Article URL: https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails Comments URL: https://news.ycombinator.com/item?id=49514895 Points: 16 # Comments: 3",
-    "url": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "__vivek",
-    "publishedAt": "2026-08-31T21:12:22.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "df105c069a049a34",
     "title": "Get in on the Ars community that doesn’t fit beneath an article",
     "excerpt": "If you’re like many of our readers, you’ve got Ars Technica bookmarked and hit the front page a few times a day. But for others, a compelling story is what brings them here for the first time. And the discussions sometimes keep them coming back. Since its launch in 1998, Ars Technica has been known…",
@@ -330,19 +551,6 @@
     "publishedAt": "2026-08-31T21:12:01.000Z",
     "category": "Science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ars-sub-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "787a450800c9abd3",
-    "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-    "excerpt": "Article URL: https://webiterate.dev/google-removed-extensions-ublock-origin-108/ Comments URL: https://news.ycombinator.com/item?id=49514878 Points: 418 # Comments: 336",
-    "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "twapi",
-    "publishedAt": "2026-08-31T21:10:58.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -382,6 +590,19 @@
     "publishedAt": "2026-08-31T20:48:40.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/c6906ffe314f6cc214b35551286f61a093e5f8fd-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "978bdef4b4278c80",
+    "title": "VMware uses Nvidia-favored 'AI factory' brand to build something with rival AMD",
+    "excerpt": "Nvidia has for years advanced the idea of an “AI Factory,” and now its partner VMware has created a product with the same name that does most of the same things, but with one vastly important difference: it uses AMD hardware. VMware was an early supporter of Nvidia in the enterprise and long ago…",
+    "url": "https://www.theregister.com/virtualization/2026/08/31/vmware-uses-nvidia-favored-ai-factory-brand-to-build-something-with-rival-amd/5293520",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-08-31T20:48:35.000Z",
+    "category": "hardware",
+    "imageUrl": "https://image.theregister.com/?imageId=5293527&width=800",
     "readTimeMinutes": 1
   },
   {
@@ -603,7 +824,15 @@
     "publishedAt": "2026-08-31T18:39:25.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-media-1152x648-1788199474.jpg",
-    "readTimeMinutes": 1
+    "readTimeMinutes": 1,
+    "alsoCoveredBy": [
+      {
+        "source": "Slashdot",
+        "sourceHomepage": "https://slashdot.org",
+        "url": "https://yro.slashdot.org/story/26/09/01/0034252/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "publishedAt": "2026-09-01T03:30:00.000Z"
+      }
+    ]
   },
   {
     "id": "1a0e767ddab65902",
@@ -660,25 +889,12 @@
   {
     "id": "c63d155c4f4411a8",
     "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-    "excerpt": "ASCII City: Traffic and Detail Update - https://www.youtube.com/watch?v=DSRooHo_HSI ASCII City Update: Interiors, Elevation and Skyscrapers - https://www.youtube.com/watch?v=UCKEDWowc0o Comments URL: https://news.ycombinator.com/item?id=49512975 Points: 189 # Comments: 28",
+    "excerpt": "ASCII City: Traffic and Detail Update - https://www.youtube.com/watch?v=DSRooHo_HSI ASCII City Update: Interiors, Elevation and Skyscrapers - https://www.youtube.com/watch?v=UCKEDWowc0o Comments URL: https://news.ycombinator.com/item?id=49512975 Points: 287 # Comments: 35",
     "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "keithcarolus",
     "publishedAt": "2026-08-31T18:21:33.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "fa5adf43eec2fe00",
-    "title": "The safest job from AI may be writing",
-    "excerpt": "Article URL: http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html Comments URL: https://news.ycombinator.com/item?id=49512856 Points: 91 # Comments: 129",
-    "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "ilreb",
-    "publishedAt": "2026-08-31T18:12:20.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -842,7 +1058,7 @@
   {
     "id": "001d0ddadc404193",
     "title": "I turned my security cameras into an automatic bird identification system",
-    "excerpt": "Article URL: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/ Comments URL: https://news.ycombinator.com/item?id=49511856 Points: 351 # Comments: 91",
+    "excerpt": "Article URL: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/ Comments URL: https://news.ycombinator.com/item?id=49511856 Points: 440 # Comments: 102",
     "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -927,8 +1143,8 @@
   },
   {
     "id": "30cbe227f51e3fd3",
-    "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
-    "excerpt": "Article URL: https://ravynos.com/ Comments URL: https://news.ycombinator.com/item?id=49511534 Points: 157 # Comments: 98",
+    "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+    "excerpt": "Article URL: https://ravynos.com/ Comments URL: https://news.ycombinator.com/item?id=49511534 Points: 188 # Comments: 107",
     "url": "https://ravynos.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1051,19 +1267,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "dc4741c62467685f",
-    "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-    "excerpt": "Hi HN, I'm Kushagra, one of three founders of Almanac, a Hermes with a brain that knows everything about your company. We started our journey with setting up Hermes for our company, thinking it must be easy. We wanted an agent that would know every context about our company, so we could ask…",
-    "url": "https://usealmanac.com/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "kushagrchitkar",
-    "publishedAt": "2026-08-31T15:34:34.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "302b3984048cea5c",
     "title": "Google Maps renames \"Lake Ontario\" to \"Lake America\" even faster than US government",
     "excerpt": "Trade talks between the US and Canada broke down last week, leading to a wave of tariffs and retaliatory tariffs. US President Donald Trump also fell back on an old favorite to needle his opponents, signing an executive order on Thursday to rename Lake Ontario to \"Lake America.\" The body of water,…",
@@ -1116,32 +1319,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "493a177a82af08d6",
-    "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-    "excerpt": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
-    "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Rebecca Bellan",
-    "publishedAt": "2026-08-31T15:15:25.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c5d31b731e2b133d",
-    "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-    "excerpt": "Hi HN, we’re Brandon and Kingston, the founders of Hebbian Robotics. We built HFlow ( https://github.com/Hebbian-Robotics/hflow ), an SDK that turns multimodal recordings from robots and human operators into standardized, quality-checked episodes and queryable dataset manifests. A recording can…",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "kstonekuan",
-    "publishedAt": "2026-08-31T15:02:41.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "5d6e69ed337694bc",
     "title": "Honor Robot Phone hands-on: A gimbal phone experiment with promising results",
     "excerpt": "Honor crammed a gimbal camera into a phone in a promising hardware experiment.",
@@ -1183,7 +1360,7 @@
   {
     "id": "63994c0b6655e700",
     "title": "Playa Phone",
-    "excerpt": "Article URL: https://playaphone.com/ Comments URL: https://news.ycombinator.com/item?id=49510514 Points: 476 # Comments: 177",
+    "excerpt": "Article URL: https://playaphone.com/ Comments URL: https://news.ycombinator.com/item?id=49510514 Points: 577 # Comments: 204",
     "url": "https://playaphone.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1207,22 +1384,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "2a9b406504b6dc24",
-    "title": "How to disable absolute Bluetooth volume on Android (and why you might want to)",
-    "excerpt": "Sometimes the volume control on a Bluetooth device behaves unpredictably. This quick fix in your Android phone's settings is a good troubleshooting step.",
-    "url": "https://www.engadget.com/2240704/android-disable-absolute-bluetooth-volume-how-to-guide/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Gabriela Vătu)",
-    "publishedAt": "2026-08-31T14:30:00.000Z",
-    "category": "software",
-    "imageUrl": "https://www.engadget.com/img/gallery/how-to-disable-absolute-bluetooth-volume-on-android-and-why-you-might-want-to/l-intro-1787232381.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "a3f40d92ed89c939",
     "title": "ChatGPT Work Tool and Skill Reference",
-    "excerpt": "Article URL: https://codex-tool-reference.simonw.chatgpt.site/ Comments URL: https://news.ycombinator.com/item?id=49510000 Points: 176 # Comments: 50",
+    "excerpt": "Article URL: https://codex-tool-reference.simonw.chatgpt.site/ Comments URL: https://news.ycombinator.com/item?id=49510000 Points: 207 # Comments: 53",
     "url": "https://codex-tool-reference.simonw.chatgpt.site/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1230,19 +1394,6 @@
     "publishedAt": "2026-08-31T14:07:15.000Z",
     "category": "ai",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "250afd9d27e49b61",
-    "title": "Garmin Cirqa review: A fine but utterly inessential smart band",
-    "excerpt": "Garmin's Cirqa band lacks the software and AI insights to make it a true Whoop rival.",
-    "url": "https://www.engadget.com/2246325/garmin-cirqa-review/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Daniel Cooper)",
-    "publishedAt": "2026-08-31T14:00:00.000Z",
-    "category": "policy",
-    "imageUrl": "https://www.engadget.com/img/gallery/garmin-cirqa-review-a-fine-but-utterly-inessential-smart-band/l-intro-1787917010.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1365,7 +1516,7 @@
   {
     "id": "c1b0b4a70d7f1b0a",
     "title": "I think the military commissary's freezers were hacked",
-    "excerpt": "Article URL: https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary Comments URL: https://news.ycombinator.com/item?id=49508506 Points: 237 # Comments: 137",
+    "excerpt": "Article URL: https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary Comments URL: https://news.ycombinator.com/item?id=49508506 Points: 310 # Comments: 167",
     "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1597,19 +1748,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "60061a058ea1f70f",
-    "title": "Since it was stripped of planetary status, Pluto’s defenders have been fighting",
-    "excerpt": "Article URL: https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake Comments URL: https://news.ycombinator.com/item?id=49506148 Points: 48 # Comments: 136",
-    "url": "https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "ziofill",
-    "publishedAt": "2026-08-31T06:05:07.000Z",
-    "category": "science",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "1660597758cad688",
     "title": "Zcash private transactions could go from three-second waits to under 200 milliseconds",
     "excerpt": "Zakura says a new cryptography stack makes mobile proof generation more than 14 times faster, removing one of the biggest delays users face when sending private ZEC.",
@@ -1675,19 +1813,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "f8abdfcd34dcaeb4",
-    "title": "Internet centralization and the original sin of NAT",
-    "excerpt": "Article URL: https://dreamstation.systems/personal/ntppost.html Comments URL: https://news.ycombinator.com/item?id=49504905 Points: 169 # Comments: 130",
-    "url": "https://dreamstation.systems/personal/ntppost.html",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "robinpie",
-    "publishedAt": "2026-08-31T02:23:03.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "2e8d238ed137ffdd",
     "title": "Gamescom Crime Spree? Three Exhibitors Report Their Laptops Were Stolen",
     "excerpt": "From the gaming news site Aftermath\" Game developer and consultant Ryan Laley traveled to Cologne, Germany from Essex, England to showcase his upcoming horror social deduction game Mimic at the annual Gamescom event. He paid \"thousands of pounds\" to get a booth at the show, where other game…",
@@ -1714,22 +1839,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "cbab311de1f11c5a",
-    "title": "AI's 'Creepy' Crawlers Criticized by Linux Foundation's IT Infrastructure Director",
-    "excerpt": "The Linux Foundation's director of IT infrastructure says they now spend more CPU cycles \"rendering commits for scrapers than we spend on all other kinds of legitimate access.\" At any one time, across 5 geo-distributed nodes, there are 14 CPU cores doing nothing but rendering git commits as…",
-    "url": "https://linux.slashdot.org/story/26/08/30/2235224/ais-creepy-crawlers-criticized-by-linux-foundations-it-infrastructure-director?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-08-30T22:38:00.000Z",
-    "category": "software",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "023f3b1c7757d941",
     "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-    "excerpt": "Article URL: https://www.youtube.com/watch?v=OOMx2BHHWtE Comments URL: https://news.ycombinator.com/item?id=49503521 Points: 184 # Comments: 22",
+    "excerpt": "Article URL: https://www.youtube.com/watch?v=OOMx2BHHWtE Comments URL: https://news.ycombinator.com/item?id=49503521 Points: 339 # Comments: 40",
     "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1956,19 +2068,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "f58920fa9c7d1f3f",
-    "title": "Smartphone LED detects hidden cameras with AI",
-    "excerpt": "Article URL: https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/ Comments URL: https://news.ycombinator.com/item?id=49496292 Points: 138 # Comments: 36",
-    "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "geox",
-    "publishedAt": "2026-08-30T06:52:04.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "66a440075593a133",
     "title": "RTL8723BS Driver Continues Dominating The Staging Area Activity For Linux 7.3",
     "excerpt": "Upstreamed back in 2017 for Linux 4.12 was the RTL8723BS driver in the kernel's staging area. Nine years later it remains in staging and remains a frequent target for clean-ups and code improvements as it tries to work its way out...",
@@ -2034,32 +2133,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "32d476484a3c5c33",
-    "title": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
-    "excerpt": "Crypto executives say new blockchain payment infrastructure could make Swift obsolete. Bankers say its 11,500-institution network gives it the power to absorb the technology instead.",
-    "url": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Olivier Acuna",
-    "publishedAt": "2026-08-29T15:00:00.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/508c78185616861e76dfe16cc9d55787a0ff9c41-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "8d94242d7cb445ed",
-    "title": "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
-    "excerpt": "AI agents are coming. They will need to pay each other. Crypto executives agree on the problem but disagree sharply on the solution, and one thinks the answer has not been invented yet.",
-    "url": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Olivier Acuna",
-    "publishedAt": "2026-08-29T15:00:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/486b2136ce091f05ce9e6f0e16a7660ee1fabe27-3840x2160.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "411d07a86701646c",
     "title": "KDE Plasma 6.8 Improving Performance & Efficiency For Some Full Screen Content",
     "excerpt": "In addition to the Union QtWidgets initial release happening this week, a number of other improvements also landed in the past few days in making Plasma 6.8 all the more exciting...",
@@ -2083,19 +2156,6 @@
     "publishedAt": "2026-08-29T13:30:00.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=5293383&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "78b70cdbe29c64da",
-    "title": "Tokenized assets are busier than the data shows",
-    "excerpt": "When you strip out what was never mobile, correct for who's holding what and why, add back what works off-contract, the utilization of tokenized assets looks close to 20%, argues Katana’s Matthew Fisher.",
-    "url": "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Matthew Fisher",
-    "publishedAt": "2026-08-29T13:00:00.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/8063c00aa61892be74b3d456dde16b88df485efc-8000x4099.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2173,19 +2233,6 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-08-29T10:35:03.000Z",
     "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "fef176b91c9baa4d",
-    "title": "Linux 7.3 UBI Adds Support For Per-Device Wear-Leveling Thresholds",
-    "excerpt": "The Unsorted Block Images \"UBI\" layer in the Linux kernel for NAND flash memory tracking and wear leveling finally has the notion of per-device wear-leveling thresholds...",
-    "url": "https://www.phoronix.com/news/Linux-7.3-UBI",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-29T10:21:57.000Z",
-    "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -2681,58 +2728,6 @@
     "publishedAt": "2026-08-27T14:37:34.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=5241136&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "9f7fd52557b5be57",
-    "title": "Salesforce boasts: 50% of bookings were from 'customers refilling the tank... they consume Flex Credits, they want more'",
-    "excerpt": "Announcing upbeat financials and a new offering with AI posterchild Anthropic, Salesforce has begun to drip-feed plans for how it might get customers to spend more as they deploy AI. The CRM giant has been among the victims of the so-called SaaSpocalypse, which sees widespread business application…",
-    "url": "https://www.theregister.com/software/2026/08/27/salesforce-boasts-50-of-bookings-were-from-customers-refilling-the-tank-they-consume-flex-credits-they-want-more/5292927",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-27T13:56:54.000Z",
-    "category": "software",
-    "imageUrl": "https://image.theregister.com/?imageId=5292961&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c3f0f43b802e2333",
-    "title": "Cybercrooks jet off with Manchester Airports Group customer data",
-    "excerpt": "The company behind three of the UK’s busiest airports says “a quantity” of data was stolen by an extortion group during a recent “cybersecurity incident.\" Manchester Airports Group (MAG), which operates Manchester Airport in the North West of England, Essex’s Stansted Airport, and East Midlands…",
-    "url": "https://www.theregister.com/security/2026/08/27/cybercrooks-jet-off-with-manchester-airports-group-customer-data/5292943",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-27T12:52:36.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=5228864&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "714bdd55cdfec585",
-    "title": "HP has a solution to expensive AI tokens: Buy a more expensive PC",
-    "excerpt": "HP reckons enterprises fretting about the spiraling cost of AI tokens have an obvious alternative: run the models locally and spend the money on a more expensive PC instead. The pitch emerged during HP's third-quarter earnings call on Wednesday, where executives repeatedly pointed to cloud AI costs…",
-    "url": "https://www.theregister.com/personal-tech/2026/08/27/hp-has-a-solution-to-expensive-ai-tokens-buy-a-more-expensive-pc/5292922",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-27T12:23:19.000Z",
-    "category": "policy",
-    "imageUrl": "https://image.theregister.com/?imageId=5248544&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d7eba4cfb9093527",
-    "title": "Microsoft slaps a fresh coat of AI paint on the Microsoft 365 Roadmap",
-    "excerpt": "Microsoft is dusting off the rebrandogun again, and this time it's aimed at the Microsoft 365 Roadmap. The list of hopes and dreams will henceforth be called the AI at Work roadmap. The notification popped up in the Microsoft 365 admin center earlier this week with the words \"The AI at Work Roadmap…",
-    "url": "https://www.theregister.com/software/2026/08/27/microsoft-slaps-a-fresh-coat-of-ai-paint-on-the-microsoft-365-roadmap/5292865",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-27T11:43:00.000Z",
-    "category": "software",
-    "imageUrl": "https://image.theregister.com/?imageId=133415&width=800",
     "readTimeMinutes": 1
   },
   {
