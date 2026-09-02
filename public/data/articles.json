@@ -1,5 +1,96 @@
 [
   {
+    "id": "eb2920341205aedc",
+    "title": "WebFPGA",
+    "excerpt": "Article URL: https://webfpga.io/ Comments URL: https://news.ycombinator.com/item?id=49531525 Points: 3 # Comments: 1",
+    "url": "https://webfpga.io/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "gurjeet",
+    "publishedAt": "2026-09-02T03:54:58.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4cb3764f834c912b",
+    "title": "LZ Experiment Sees Surprising Result In Search For Dark Matter",
+    "excerpt": "New submitter greytree shares a report from Brown University: LUX-ZEPLIN, an experiment co-led by Brown University faculty and students, observed a particle interaction that could be interpreted as a signal from WIMPs, a dark matter candidate -- but researchers need more data to confirm. [...] The…",
+    "url": "https://science.slashdot.org/story/26/09/02/0018212/lz-experiment-sees-surprising-result-in-search-for-dark-matter?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-09-02T03:30:00.000Z",
+    "category": "science",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ee291c57af5cafc6",
+    "title": "True Rate of Unemployment",
+    "excerpt": "Article URL: https://www.lisep.org/tru Comments URL: https://news.ycombinator.com/item?id=49530989 Points: 22 # Comments: 1",
+    "url": "https://www.lisep.org/tru",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "ptrhvns",
+    "publishedAt": "2026-09-02T02:21:10.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6d0b9fa3d7399ffb",
+    "title": "Tape still isn’t dead, but shipments slipped by 16 exabytes in 2025",
+    "excerpt": "Tape is still not dead, but it’s not in rude health either after shipments slipped by 16 exabytes in 2025. That number comes from the LTO Program – the alliance of HPE, IBM, and Quantum Corp, that together tends the Linear Tape-Open (LTO) Format that accounts for around 85 percent of all tape…",
+    "url": "https://www.theregister.com/storage/2026/09/02/tape-still-isnt-dead-but-shipments-slipped-by-16-exabytes-in-2025/5293813",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-02T01:34:45.000Z",
+    "category": "science",
+    "imageUrl": "https://image.theregister.com/?imageId=261646&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3264c98175b16638",
+    "title": "Anthropic banned me for \"suspicious signals\"",
+    "excerpt": "Article URL: https://kix.codes/anthropic-banned-me-for-suspicious-signals/ Comments URL: https://news.ycombinator.com/item?id=49530298 Points: 25 # Comments: 13",
+    "url": "https://kix.codes/anthropic-banned-me-for-suspicious-signals/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "kixpanganiban",
+    "publishedAt": "2026-09-02T00:38:49.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "403c97250e67be78",
+    "title": "Steam On Linux Dips Below 4% For August",
+    "excerpt": "Valve just published the Steam Survey results for August 2026. After jumping above 4% in July, in August it fell back below that threshold. Meanwhile CachyOS continues gaining ground among Linux gamers...",
+    "url": "https://www.phoronix.com/news/Steam-Survey-August-2026",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-02T00:19:13.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ffc449473df13c9b",
+    "title": "Larry Page’s flying car company Pivotal loses its CEO",
+    "excerpt": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025.",
+    "url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Sean O'Kane",
+    "publishedAt": "2026-09-01T23:59:59.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "0e6561070c755fbc",
     "title": "SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading",
     "excerpt": "The U.S. Securities and Exchange Commission issued an agenda for its 24-trading roundtable and proposed a new transfer-agent rule with blockchain implications.",
@@ -10,6 +101,45 @@
     "publishedAt": "2026-09-01T23:55:46.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/f5e51d142f4aa8a9a66d07435fa821e33f12872b-4858x2733.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b2115860adde15fc",
+    "title": "Cops, CrowdStrike disrupt Sality botnet by poisoning the network and diverting into sinkholes",
+    "excerpt": "International law enforcement agencies, working with CrowdStrike and Shadowserver Foundation, have disrupted Sality, a 23-year-old peer-to-peer botnet used to deliver malware to more than 15,000 machines worldwide. The botnet has operated since 2003 and distributed all types of malicious code to…",
+    "url": "https://www.theregister.com/cyber-crime/2026/09/02/cops-crowdstrike-disrupt-sality-botnet-by-poisoning-the-network-and-diverting-into-sinkholes/5293795",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-01T23:54:07.000Z",
+    "category": "security",
+    "imageUrl": "https://image.theregister.com/?imageId=247072&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f30ff19dd7ec348d",
+    "title": "The efficient frontier of LLM inference",
+    "excerpt": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=49529898 Points: 62 # Comments: 10",
+    "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "philipkiely",
+    "publishedAt": "2026-09-01T23:48:05.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "06a9b16186b5ec6c",
+    "title": "Anthropic promises zero data retention – but customers must check it worked",
+    "excerpt": "Anthropic will provide zero data retention to enterprise customers who have been promised the perk, subject to approval, when using the company's Fable model. With the arrival of new versions of its high-end models, Fable 5.1 and Mythos 5.1, the Claudefather has announced a service called…",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/02/anthropic-promises-zero-data-retention-but-customers-must-check-it-worked/5293789",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-01T23:37:46.000Z",
+    "category": "ai",
+    "imageUrl": "https://image.theregister.com/?imageId=5293799&width=800",
     "readTimeMinutes": 1
   },
   {
@@ -26,16 +156,16 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "8ed1599eb95bc766",
-    "title": "Improving our alignment and security efforts",
-    "excerpt": "Article URL: https://www.anthropic.com/news/improving-alignment-security-efforts Comments URL: https://news.ycombinator.com/item?id=49529567 Points: 3 # Comments: 0",
-    "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "reasonableklout",
-    "publishedAt": "2026-09-01T23:12:45.000Z",
-    "category": "ai",
-    "imageUrl": null,
+    "id": "4c92c47948e369ec",
+    "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
+    "excerpt": "Jaguar Land Rover provided flights from Washington, DC, to London and accommodation so Ars could visit its factory and drive the Range Rover Electric. Ars does not accept paid editorial content. Jaguar Land Rover was one of the first automakers to announce a transition away from combustion engines.…",
+    "url": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Jonathan M. Gitlin",
+    "publishedAt": "2026-09-01T23:01:52.000Z",
+    "category": "startups",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/RANGE-ROVER-ELECTRIC-AND-CLASSIC-02_09_26-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -127,12 +257,31 @@
     "publishedAt": "2026-09-01T22:40:28.000Z",
     "category": "software",
     "imageUrl": "https://krebsonsecurity.com/wp-content/uploads/2026/09/nexus-phegseth.png",
-    "readTimeMinutes": 1
+    "readTimeMinutes": 1,
+    "alsoCoveredBy": [
+      {
+        "id": "6df08faed0b3ab6a",
+        "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+        "excerpt": "Article URL: https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/ Comments URL: https://news.ycombinator.com/item?id=49529621 Points: 71 # Comments: 16",
+        "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+        "source": "Hacker News",
+        "sourceHomepage": "https://news.ycombinator.com",
+        "author": "tatersolid",
+        "publishedAt": "2026-09-01T23:17:43.000Z",
+        "category": "software",
+        "imageUrl": null,
+        "readTimeMinutes": 1,
+        "rawCategories": [],
+        "_rawTitle": "FBI Probes Service Selling 153M+ Drivers Licenses",
+        "_sourceUrl": "https://hnrss.org/frontpage",
+        "alsoCoveredBy": []
+      }
+    ]
   },
   {
     "id": "401e6bb8407c67a2",
     "title": "My local model setup on an M4 Pro Mac Mini",
-    "excerpt": "Article URL: https://lws.io/blog/my-local-model-setup/ Comments URL: https://news.ycombinator.com/item?id=49529132 Points: 21 # Comments: 1",
+    "excerpt": "Article URL: https://lws.io/blog/my-local-model-setup/ Comments URL: https://news.ycombinator.com/item?id=49529132 Points: 100 # Comments: 50",
     "url": "https://lws.io/blog/my-local-model-setup/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -260,19 +409,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "6b171074831fcafb",
-    "title": "Fluorescent lamps (don't) have ears",
-    "excerpt": "Article URL: https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears Comments URL: https://news.ycombinator.com/item?id=49528366 Points: 19 # Comments: 3",
-    "url": "https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "zdw",
-    "publishedAt": "2026-09-01T21:19:10.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "11e7c4e73d4260d3",
     "title": "Another Artifactory CVE under attack by AI agents or humans",
     "excerpt": "Security researchers reported that someone is exploiting CVE-2026-82329, a critical JFrog Artifactory authentication-bypass bug, just days after the vendor patched the 9.8-rated flaw. And we don't know if that someone is human. Artifactory is a widely used tool for managing software artifacts,…",
@@ -287,7 +423,7 @@
   },
   {
     "id": "c53867e1e8c8a5e6",
-    "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+    "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
     "excerpt": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
     "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
     "source": "TechCrunch",
@@ -403,22 +539,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "cfad4f83475895dc",
-    "title": "Hang on to Your Firefox",
-    "excerpt": "Article URL: https://www.newsonaut.com/articles/hang-on-to-your-firefox Comments URL: https://news.ycombinator.com/item?id=49527748 Points: 239 # Comments: 129",
-    "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "speckx",
-    "publishedAt": "2026-09-01T20:30:51.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "7734742dd6a220cc",
     "title": "Path to Astra: critical capabilities and frontier safeguards",
-    "excerpt": "Article URL: https://openai.com/index/path-to-astra/ Comments URL: https://news.ycombinator.com/item?id=49527595 Points: 70 # Comments: 28",
+    "excerpt": "Article URL: https://openai.com/index/path-to-astra/ Comments URL: https://news.ycombinator.com/item?id=49527595 Points: 104 # Comments: 48",
     "url": "https://openai.com/index/path-to-astra/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -457,7 +580,7 @@
   {
     "id": "86d3bc7092b6e9c6",
     "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-    "excerpt": "Article URL: https://simonwillison.net/2026/Sep/1/codex-libreoffice/ Comments URL: https://news.ycombinator.com/item?id=49527396 Points: 212 # Comments: 106",
+    "excerpt": "Article URL: https://simonwillison.net/2026/Sep/1/codex-libreoffice/ Comments URL: https://news.ycombinator.com/item?id=49527396 Points: 290 # Comments: 128",
     "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -496,7 +619,7 @@
   {
     "id": "5187852a48139a8d",
     "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
-    "excerpt": "Article URL: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html Comments URL: https://news.ycombinator.com/item?id=49527232 Points: 71 # Comments: 34",
+    "excerpt": "Article URL: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html Comments URL: https://news.ycombinator.com/item?id=49527232 Points: 100 # Comments: 48",
     "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -585,6 +708,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "50b911db8ed83a24",
+    "title": "Research roundup: 7 cool science stories we almost missed",
+    "excerpt": "It’s a regrettable reality that there is never enough time to cover all the interesting scientific stories we come across. So every month, we highlight a handful of the best stories that nearly slipped through the cracks. August’s list includes the discovery of a new celestial object astronomers…",
+    "url": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Jennifer Ouellette",
+    "publishedAt": "2026-09-01T19:06:10.000Z",
+    "category": "science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/blackholestar1-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "416ae7affb4a5aa1",
     "title": "The Sonos Ace Ultra headphones and Beam Ultra soundbar are smarter than I expected",
     "excerpt": "Sonos' latest hardware is smarter than ever about how it fits into your home.",
@@ -613,7 +749,7 @@
   {
     "id": "e82667920f5ed02b",
     "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-    "excerpt": "Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 338 # Comments: 398",
+    "excerpt": "Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 507 # Comments: 595",
     "url": "https://danluu.com/zitron/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -651,7 +787,7 @@
   },
   {
     "id": "f5478112ed94937f",
-    "title": "CDC reported then deleted two measles deaths that were questioned by RFK Jr.",
+    "title": "A newborn and child reportedly died of measles; CDC isn't counting them",
     "excerpt": "The Centers for Disease Control and Prevention is excluding two measles deaths reported by Pennsylvania health officials last week from its latest update of national measles data. The move publicly challenges the accuracy of the state's death determinations in an extraordinary move that breaks…",
     "url": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
     "source": "Ars Technica",
@@ -751,7 +887,7 @@
   {
     "id": "e7232d52f37fd859",
     "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-    "excerpt": "What's new in Claude Fable 5.1 – https://platform.claude.com/docs/en/models/fable-5-1/whats-n... System Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32... Comments URL: https://news.ycombinator.com/item?id=49525378 Points: 849 # Comments: 812",
+    "excerpt": "What's new in Claude Fable 5.1 – https://platform.claude.com/docs/en/models/fable-5-1/whats-n... System Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32... Comments URL: https://news.ycombinator.com/item?id=49525378 Points: 1005 # Comments: 939",
     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -777,7 +913,7 @@
   {
     "id": "e31b0c181f45d02d",
     "title": "The creator of Jujutsu has joined ERSC",
-    "excerpt": "Article URL: https://ersc.io/blog/martin-joins-ersc Comments URL: https://news.ycombinator.com/item?id=49525297 Points: 168 # Comments: 135",
+    "excerpt": "Article URL: https://ersc.io/blog/martin-joins-ersc Comments URL: https://news.ycombinator.com/item?id=49525297 Points: 203 # Comments: 155",
     "url": "https://ersc.io/blog/martin-joins-ersc",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -803,7 +939,7 @@
   {
     "id": "555b86ad65509938",
     "title": "Atlas: A World Model for Spatial Intelligence",
-    "excerpt": "Article URL: https://www.worldlabs.ai/blog/atlas Comments URL: https://news.ycombinator.com/item?id=49525160 Points: 132 # Comments: 25",
+    "excerpt": "Article URL: https://www.worldlabs.ai/blog/atlas Comments URL: https://news.ycombinator.com/item?id=49525160 Points: 173 # Comments: 42",
     "url": "https://www.worldlabs.ai/blog/atlas",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -863,6 +999,19 @@
     "publishedAt": "2026-09-01T17:30:00.000Z",
     "category": "policy",
     "imageUrl": "https://www.engadget.com/img/gallery/what-more-can-you-delete-from-your-iphone-to-free-up-space/l-intro-1787057155.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4be7e146957381bd",
+    "title": "Fine, I'll build my own text editor",
+    "excerpt": "Article URL: https://dbushell.com/2026/09/01/text-editor/ Comments URL: https://news.ycombinator.com/item?id=49524863 Points: 6 # Comments: 1",
+    "url": "https://dbushell.com/2026/09/01/text-editor/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "Alephinitesimal",
+    "publishedAt": "2026-09-01T17:12:15.000Z",
+    "category": "policy",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -952,19 +1101,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "3183480d0778c8c3",
-    "title": "Show HN: Newton's Orchard – Browser-based space/gravity playground",
-    "excerpt": "Hi HN! My son spent a lot of time in 5th grade playing with the 2-dimensional PhET gravity/space sims[1]. His STEM class uses it, and he was playing with it at home, and has been looking for more. I found several space sims/playgrounds online, including NASA's Eyes on the Solar System[2], but…",
-    "url": "https://newtonsorchard.app",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "andrewchilds",
-    "publishedAt": "2026-09-01T16:43:40.000Z",
-    "category": "science",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "8b6bd4113e2b3368",
     "title": "ReactOS 0.4.16 serves '90s Windows nostalgia with fewer bugs",
     "excerpt": "If you're pining away for the days when Windows ran well on 64 MB of RAM, there's a new version of open source NT clone ReactOS promising easier installation and fewer bugs. ReactOS 0.4.16 was announced over the weekend after a year and a half of development, and its list of improvements is…",
@@ -993,7 +1129,7 @@
   {
     "id": "372a433b5951b2f5",
     "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
-    "excerpt": "Article URL: https://moviescenemap.com/ Comments URL: https://news.ycombinator.com/item?id=49524320 Points: 142 # Comments: 28",
+    "excerpt": "Article URL: https://moviescenemap.com/ Comments URL: https://news.ycombinator.com/item?id=49524320 Points: 174 # Comments: 29",
     "url": "https://moviescenemap.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1108,19 +1244,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "a268bc4bcd64aeba",
-    "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
-    "excerpt": "Article URL: https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566 Comments URL: https://news.ycombinator.com/item?id=49523754 Points: 454 # Comments: 197",
-    "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "erikvanoosten",
-    "publishedAt": "2026-09-01T15:55:53.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "05fa97c1383e94c1",
     "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
     "excerpt": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
@@ -1160,19 +1283,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "c337f3e90fc0f319",
-    "title": "Ambient CSS v3 – Blender meets CSS",
-    "excerpt": "Article URL: https://ambientcss.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49523387 Points: 184 # Comments: 67",
-    "url": "https://ambientcss.vercel.app/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "kikkupico",
-    "publishedAt": "2026-09-01T15:35:11.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "29151c06dec04166",
     "title": "Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring",
     "excerpt": "Revenue on Robinhood Chain hit a 24-hour record of $1.9 million, driving a 30% rally in ARB as traders chased downstream gains.",
@@ -1208,19 +1318,6 @@
     "author": "Sarah Perez",
     "publishedAt": "2026-09-01T15:10:58.000Z",
     "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b753a035f61dd06d",
-    "title": "Florida and Texas move to block Flock cameras over privacy concerns",
-    "excerpt": "Flock's searchable network of 130,000 license plate cameras around the U.S. have sparked bipartisan privacy and civil liberties concerns.",
-    "url": "https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Zack Whittaker",
-    "publishedAt": "2026-09-01T15:00:10.000Z",
-    "category": "security",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -2049,15 +2146,7 @@
     "publishedAt": "2026-08-31T16:32:00.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=5258559&width=800",
-    "readTimeMinutes": 1,
-    "alsoCoveredBy": [
-      {
-        "source": "Slashdot",
-        "sourceHomepage": "https://slashdot.org",
-        "url": "https://it.slashdot.org/story/26/08/31/2047247/broadcom-pledges-to-lock-down-open-source-python-java-libraries?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "publishedAt": "2026-08-31T21:00:00.000Z"
-      }
-    ]
+    "readTimeMinutes": 1
   },
   {
     "id": "2aecd6b9e21b2c2c",
@@ -2177,19 +2266,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "32d15f632656f580",
-    "title": "NASA's next \"great observatory\" begins mission to widen our view of the Universe",
-    "excerpt": "NASA's $4.3 billion Nancy Grace Roman Space Telescope, equipped with a 300-megapixel camera sighted through a refurbished spy mirror, launched Sunday from Kennedy Space Center in Florida on a mission to reveal the mysterious forces driving the Universe. The new mission will extend the vision of…",
-    "url": "https://arstechnica.com/space/2026/08/nasas-next-great-observatory-begins-mission-to-widen-our-view-of-the-universe/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Stephen Clark",
-    "publishedAt": "2026-08-31T13:01:09.000Z",
-    "category": "science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/HRAzV1dXYAEXjHy-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "b175cc4cf64bbee4",
     "title": "Linux Kernel Patches Out For Review To Enable USB4/Thunderbolt For Apple M1 / M2 / M3",
     "excerpt": "There is a set of 19 patches out for review on the Linux kernel mailing list that would finally allow the mainline kernel running on Apple Silicon M1 / M2 / M3 SoCs to enjoy USB4/Thunderbolt support...",
@@ -2278,19 +2354,6 @@
     "publishedAt": "2026-08-31T10:07:13.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "0eca9e056acddd67",
-    "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
-    "excerpt": "The relatively recent rise of AI-assisted coding tools and the whole concept of \"vibe coding\" have effectively upended entire software development workflows. While these tools have been available to novice coders willing to put in the work to set them up , those with little to no coding experience…",
-    "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Kyle Orland",
-    "publishedAt": "2026-08-31T10:00:34.000Z",
-    "category": "ai",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/pocketsling-1152x648-1787932298.png",
     "readTimeMinutes": 1
   },
   {
@@ -2486,19 +2549,6 @@
     "publishedAt": "2026-08-30T08:34:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=255047&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "66a440075593a133",
-    "title": "RTL8723BS Driver Continues Dominating The Staging Area Activity For Linux 7.3",
-    "excerpt": "Upstreamed back in 2017 for Linux 4.12 was the RTL8723BS driver in the kernel's staging area. Nine years later it remains in staging and remains a frequent target for clean-ups and code improvements as it tries to work its way out...",
-    "url": "https://www.phoronix.com/news/Linux-7.3-Staging",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-30T00:33:50.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2707,45 +2757,6 @@
     "publishedAt": "2026-08-28T11:01:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=1682740&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "246fedd10063237a",
-    "title": "Microsoft's virtual intern Teams Facilitator will be late for the meeting",
-    "excerpt": "Microsoft has pushed back detection and question answering by the Teams Facilitator to November, after initially scheduling General Availability for June. Teams Facilitator is an AI assistant that joins meetings. It tracks agendas and can take notes, if enabled. The next stage in its development is…",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/28/microsofts-virtual-intern-teams-facilitator-will-be-late-for-the-meeting/5293045",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-28T10:29:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://image.theregister.com/?imageId=5287779&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4adc7e9d4221394a",
-    "title": "Unsafe at any speed: AI optimists are turning cautious as safety concerns mount",
-    "excerpt": "OPINION It wasn't that long ago, like earlier this year, that AI leaders were doing their usual pie-in-the-sky proclamations of how everything would be so wonderful with AI. Anthropic CEO Dario Amodei tweeted that AI \"will actually be possible to cure most human diseases in ~5-10 years.\" While on a…",
-    "url": "https://www.theregister.com/columnists/2026/08/28/unsafe-at-any-speed-ai-optimists-are-turning-cautious-as-safety-concerns-mount/5292853",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-28T10:00:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://image.theregister.com/?imageId=5292864&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "9456b4b707e257e0",
-    "title": "Big Tech market power will cause UK to lose AI race, think tank warns",
-    "excerpt": "UK businesses say the market power of Big Tech is stifling competition, and will hinder the UK’s ability to reap the benefits from AI, a key part of the government’s plans for economic recovery. A report [PDF] from the Institute for Public Policy Research (IPPR) points out that a handful of…",
-    "url": "https://www.theregister.com/ai-and-ml/2026/08/28/big-tech-market-power-will-cause-uk-to-lose-ai-race-think-tank-warns/5292918",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-28T09:15:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://image.theregister.com/?imageId=5282519&width=800",
     "readTimeMinutes": 1
   },
   {
