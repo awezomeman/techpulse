@@ -1,8 +1,190 @@
 [
   {
+    "id": "e4726225f63792db",
+    "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
+    "excerpt": "Article URL: https://careers.telli.com/ Comments URL: https://news.ycombinator.com/item?id=49533557 Points: 0 # Comments: 0",
+    "url": "https://careers.telli.com/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "sebselassie",
+    "publishedAt": "2026-09-02T08:43:49.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "fe393e52b3018402",
+    "title": "Live updates: BlackRock's IBIT drives $236 million bitcoin ETF outflow",
+    "excerpt": "Bitcoin slipped below $77,500 and every major is red on the day. The smaller crypto ETFs kept taking money while the bitcoin funds gave some back.",
+    "url": "https://www.coindesk.com/business/2026/09/02/live-updates-blackrock-s-ibit-drives-usd236-million-bitcoin-etf-outflow",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-09-02T08:31:00.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/2e7f7708703aa832a09975915095e15a92b84cc6-1394x852.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1cf26f7ce911d4a8",
+    "title": "XRP ETFs pull in $170 million over eleven days. Goldman tops institutional holders",
+    "excerpt": "Spot XRP funds have logged nine straight sessions of inflows, while Q2 filings show Goldman Sachs, Jane Street and Millennium among their biggest professional holders.",
+    "url": "https://www.coindesk.com/markets/2026/09/02/xrp-etfs-pull-in-usd160-million-over-nine-days-as-goldman-tops-institutional-holders",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-09-02T07:20:03.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/93f3474dccf04b68a7729dea48459237f95b7758-1400x766.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9ac5ab881dd0ce9a",
+    "title": "Dell’s newest laptop sounds a lot like a MacBook Neo",
+    "excerpt": "That’s a bold color, especially for a Dell. | Image: Dell Dell's new Dell 14S laptop sounds a lot like a MacBook Neo: it comes in four colors, is aimed at students, and it starts with 8GB of RAM and 256GB of storage. Announced at IFA 2026, the 14S is meant to sit below the recently launched XPS 13…",
+    "url": "https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Antonio G. Di Benedetto",
+    "publishedAt": "2026-09-02T07:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dell-14S_Velvet-Green_Lifestyle.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6b7595351ce9f321",
+    "title": "The Dell 14S is yet another cheap laptop chasing the MacBook Neo",
+    "excerpt": "Dell's latest attempt to match the MacBook Neo looks like a solid contender.",
+    "url": "https://www.engadget.com/2243741/dell-14s-is-yet-another-cheap-laptop-chasing-the-macbook-neo/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Lawrence Bonk)",
+    "publishedAt": "2026-09-02T07:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/the-dell-14s-is-yet-another-cheap-pc-chasing-the-macbook-neo/l-intro-1787672543.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "fdca3559ff9b15f0",
+    "title": "NASA Selects Blue Origin As Mars Telecommunications Network Provider",
+    "excerpt": "NASA has awarded Blue Origin a contract worth up to $700 million to build and operate a dedicated Mars telecommunications network for current and future missions to the Red Planet. Blue Origin is expected to deliver the spacecraft by the end of 2028, with the network targeted to become operational…",
+    "url": "https://science.slashdot.org/story/26/09/02/0527234/nasa-selects-blue-origin-as-mars-telecommunications-network-provider?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-09-02T07:00:00.000Z",
+    "category": "science",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a93a69b3e49fb25b",
+    "title": "A China indicator that supports risk-taking in stocks and bitcoin is flashing red",
+    "excerpt": "China's \"credit impulse\" is flashing red for risk assets.So far, bitcoin has mostly shrugged it off.",
+    "url": "https://www.coindesk.com/markets/2026/09/02/a-china-indicator-that-greases-risk-taking-in-stocks-and-bitcoin-is-flashing-red",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Omkar Godbole",
+    "publishedAt": "2026-09-02T06:53:22.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/e0bd1a5c4aa4165f5e1f072ecae009bea2cf1aea-1080x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1462c172f654f556",
+    "title": "GTA VI extended look got 31 million views on Netflix despite six-hour exclusivity window",
+    "excerpt": "GTA VI extended look took the top spot on Netflix's movie rankings for the last week of August.",
+    "url": "https://www.engadget.com/2249261/gta-vi-extended-31-million-views-netflix-top-movie/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Mariella Moon)",
+    "publishedAt": "2026-09-02T06:16:37.000Z",
+    "category": "crypto",
+    "imageUrl": "https://www.engadget.com/img/gallery/gta-vi-extended-look-got-31-million-views-on-netflix-despite-six-hour-exclusivity-window/l-intro-1788329629.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2b643aa21aec3022",
+    "title": "Arm in the enterprise is at least three years away, says Broadcom software boss",
+    "excerpt": "Arm servers won’t have significant market share in the enterprise for at least three to five years, according to Ram Velaga, the recently installed leader of Broadcom’s software business. That’s unwelcome news for hardware vendors contemplating Arm servers, because buyers will be less interested in…",
+    "url": "https://www.theregister.com/virtualization/2026/09/02/arm-in-the-enterprise-is-at-least-three-years-away-says-broadcom-software-boss/5293804",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-02T06:11:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://image.theregister.com/?imageId=228743&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7a1f559cd03eba3f",
+    "title": "This new Roomba seals itself to your carpet",
+    "excerpt": "The Roomba Max 875 Combo is iRobot’s latest flagship robot vacuum mop. | Image: iRobot iRobot has announced a new flagship robot vacuum, which it will showcase at IFA in Berlin this week, the company's first big tech trade show in years. The Roomba maker will be exhibiting under its new owner,…",
+    "url": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Jennifer Pattison Tuohy",
+    "publishedAt": "2026-09-02T06:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Roomba_Max_875_Combo_Email_Onboarding_Touch1_Hero_Mobile_425x300.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "c3a2d37588ccc8eb",
+    "title": "OpenAI says its new 'Astra' AI can build attacks without human help",
+    "excerpt": "Astra is the first OpenAI model to reach its “Critical” cybersecurity threshold, meaning it can find previously unknown vulnerabilities and develop ways to exploit them across hardened systems.",
+    "url": "https://www.coindesk.com/tech/2026/09/02/openai-says-its-new-astra-ai-can-build-attacks-without-human-help",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-09-02T05:28:51.000Z",
+    "category": "ai",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/d2b4b82edc6ff0637b37466e20cadf90ebe36839-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6b5dad7921915d4c",
+    "title": "Solana, ether, xrp lead majors slide as Iran strikes drive a broad risk selloff",
+    "excerpt": "Every large-cap token fell over the past 24 hours, and the high-beta majors gave up roughly triple what bitcoin did.",
+    "url": "https://www.coindesk.com/markets/2026/09/02/solana-ether-xrp-lead-majors-slide-as-iran-strikes-drive-a-broad-risk-selloff",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-09-02T05:01:25.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/568b23cc993b293ccf5b727a8a9b95bc5e457598-1518x838.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "dc652698a32a1416",
+    "title": "Bitcoin withstands $90 oil and rising yields while gold slides. A firm dollar is the catch",
+    "excerpt": "BTC trades choppy as $90 oil and rising bond yields weigh on stocks and gold.",
+    "url": "https://www.coindesk.com/markets/2026/09/02/bitcoin-withstands-usd90-oil-and-rising-yields-as-gold-slides-a-firm-dollar-is-the-catch",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Omkar Godbole",
+    "publishedAt": "2026-09-02T04:40:36.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/b5c969ee70de7444f1035edf7701cc88d16ae253-3000x2001.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f2e4326ec6899d86",
+    "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+    "excerpt": "Article URL: https://arxiv.org/abs/2608.29530 Comments URL: https://news.ycombinator.com/item?id=49531651 Points: 121 # Comments: 38",
+    "url": "https://arxiv.org/abs/2608.29530",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "schmuhblaster",
+    "publishedAt": "2026-09-02T04:15:56.000Z",
+    "category": "science",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "eb2920341205aedc",
     "title": "WebFPGA",
-    "excerpt": "Article URL: https://webfpga.io/ Comments URL: https://news.ycombinator.com/item?id=49531525 Points: 3 # Comments: 1",
+    "excerpt": "Article URL: https://webfpga.io/ Comments URL: https://news.ycombinator.com/item?id=49531525 Points: 65 # Comments: 30",
     "url": "https://webfpga.io/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -28,7 +210,7 @@
   {
     "id": "ee291c57af5cafc6",
     "title": "True Rate of Unemployment",
-    "excerpt": "Article URL: https://www.lisep.org/tru Comments URL: https://news.ycombinator.com/item?id=49530989 Points: 22 # Comments: 1",
+    "excerpt": "Article URL: https://www.lisep.org/tru Comments URL: https://news.ycombinator.com/item?id=49530989 Points: 208 # Comments: 165",
     "url": "https://www.lisep.org/tru",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -52,19 +234,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "3264c98175b16638",
-    "title": "Anthropic banned me for \"suspicious signals\"",
-    "excerpt": "Article URL: https://kix.codes/anthropic-banned-me-for-suspicious-signals/ Comments URL: https://news.ycombinator.com/item?id=49530298 Points: 25 # Comments: 13",
-    "url": "https://kix.codes/anthropic-banned-me-for-suspicious-signals/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "kixpanganiban",
-    "publishedAt": "2026-09-02T00:38:49.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "403c97250e67be78",
     "title": "Steam On Linux Dips Below 4% For August",
     "excerpt": "Valve just published the Steam Survey results for August 2026. After jumping above 4% in July, in August it fell back below that threshold. Meanwhile CachyOS continues gaining ground among Linux gamers...",
@@ -75,6 +244,19 @@
     "publishedAt": "2026-09-02T00:19:13.000Z",
     "category": "software",
     "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6b17b86bddd4beb2",
+    "title": "This is the best setting and placement for your Dolby Atmos soundbar",
+    "excerpt": "Take the proper steps to fully experience Dolby Atmos sound.",
+    "url": "https://www.engadget.com/2245484/dolby-atmos-soundbar-best-setting-and-placement/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Yoni Yardeni)",
+    "publishedAt": "2026-09-02T00:00:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/this-is-the-best-setting-and-placement-for-your-dolby-atmos-soundbar/l-intro-1786568749.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -119,7 +301,7 @@
   {
     "id": "f30ff19dd7ec348d",
     "title": "The efficient frontier of LLM inference",
-    "excerpt": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=49529898 Points: 62 # Comments: 10",
+    "excerpt": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=49529898 Points: 114 # Comments: 29",
     "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -262,7 +444,7 @@
       {
         "id": "6df08faed0b3ab6a",
         "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-        "excerpt": "Article URL: https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/ Comments URL: https://news.ycombinator.com/item?id=49529621 Points: 71 # Comments: 16",
+        "excerpt": "Article URL: https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/ Comments URL: https://news.ycombinator.com/item?id=49529621 Points: 194 # Comments: 75",
         "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
         "source": "Hacker News",
         "sourceHomepage": "https://news.ycombinator.com",
@@ -281,7 +463,7 @@
   {
     "id": "401e6bb8407c67a2",
     "title": "My local model setup on an M4 Pro Mac Mini",
-    "excerpt": "Article URL: https://lws.io/blog/my-local-model-setup/ Comments URL: https://news.ycombinator.com/item?id=49529132 Points: 100 # Comments: 50",
+    "excerpt": "Article URL: https://lws.io/blog/my-local-model-setup/ Comments URL: https://news.ycombinator.com/item?id=49529132 Points: 185 # Comments: 102",
     "url": "https://lws.io/blog/my-local-model-setup/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -541,7 +723,7 @@
   {
     "id": "7734742dd6a220cc",
     "title": "Path to Astra: critical capabilities and frontier safeguards",
-    "excerpt": "Article URL: https://openai.com/index/path-to-astra/ Comments URL: https://news.ycombinator.com/item?id=49527595 Points: 104 # Comments: 48",
+    "excerpt": "Article URL: https://openai.com/index/path-to-astra/ Comments URL: https://news.ycombinator.com/item?id=49527595 Points: 149 # Comments: 62",
     "url": "https://openai.com/index/path-to-astra/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -580,7 +762,7 @@
   {
     "id": "86d3bc7092b6e9c6",
     "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-    "excerpt": "Article URL: https://simonwillison.net/2026/Sep/1/codex-libreoffice/ Comments URL: https://news.ycombinator.com/item?id=49527396 Points: 290 # Comments: 128",
+    "excerpt": "Article URL: https://simonwillison.net/2026/Sep/1/codex-libreoffice/ Comments URL: https://news.ycombinator.com/item?id=49527396 Points: 395 # Comments: 184",
     "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -619,7 +801,7 @@
   {
     "id": "5187852a48139a8d",
     "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
-    "excerpt": "Article URL: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html Comments URL: https://news.ycombinator.com/item?id=49527232 Points: 100 # Comments: 48",
+    "excerpt": "Article URL: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html Comments URL: https://news.ycombinator.com/item?id=49527232 Points: 121 # Comments: 55",
     "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -749,7 +931,7 @@
   {
     "id": "e82667920f5ed02b",
     "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-    "excerpt": "Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 507 # Comments: 595",
+    "excerpt": "Article URL: https://danluu.com/zitron/ Comments URL: https://news.ycombinator.com/item?id=49526069 Points: 678 # Comments: 738",
     "url": "https://danluu.com/zitron/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -773,19 +955,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "e33897e5f778cdd6",
-    "title": "John Ternus sends first memo as Apple CEO teasing a ‘huge launch next week’",
-    "excerpt": "New Apple CEO John Ternus sent out his first staff memo, thanking his predecessor Tim Cook , and quickly turning to what the company will do next, reports Bloomberg . \"We have a huge launch next week that's going to be phenomenal. Thanks for everything you've all done to make it possible,\" writes…",
-    "url": "https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Stevie Bonifield",
-    "publishedAt": "2026-09-01T18:24:16.000Z",
-    "category": "startups",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2287305192.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "f5478112ed94937f",
     "title": "A newborn and child reportedly died of measles; CDC isn't counting them",
     "excerpt": "The Centers for Disease Control and Prevention is excluding two measles deaths reported by Pennsylvania health officials last week from its latest update of national measles data. The move publicly challenges the accuracy of the state's death determinations in an extraordinary move that breaks…",
@@ -796,19 +965,6 @@
     "publishedAt": "2026-09-01T18:21:16.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/GettyImages-1207345894-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "7680bcf78a62aeae",
-    "title": "Apple accuses OpenAI of destroying evidence",
-    "excerpt": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg . In a filing on Monday , Apple alleges OpenAI only just handed over a MacBook used by a former employee at the center of the…",
-    "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Emma Roth",
-    "publishedAt": "2026-09-01T18:19:26.000Z",
-    "category": "ai",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKS531_APPLE_V_OPEN_AI2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -887,7 +1043,7 @@
   {
     "id": "e7232d52f37fd859",
     "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-    "excerpt": "What's new in Claude Fable 5.1 – https://platform.claude.com/docs/en/models/fable-5-1/whats-n... System Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32... Comments URL: https://news.ycombinator.com/item?id=49525378 Points: 1005 # Comments: 939",
+    "excerpt": "What's new in Claude Fable 5.1 – https://platform.claude.com/docs/en/models/fable-5-1/whats-n... System Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32... Comments URL: https://news.ycombinator.com/item?id=49525378 Points: 1215 # Comments: 1136",
     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -913,7 +1069,7 @@
   {
     "id": "e31b0c181f45d02d",
     "title": "The creator of Jujutsu has joined ERSC",
-    "excerpt": "Article URL: https://ersc.io/blog/martin-joins-ersc Comments URL: https://news.ycombinator.com/item?id=49525297 Points: 203 # Comments: 155",
+    "excerpt": "Article URL: https://ersc.io/blog/martin-joins-ersc Comments URL: https://news.ycombinator.com/item?id=49525297 Points: 230 # Comments: 173",
     "url": "https://ersc.io/blog/martin-joins-ersc",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -939,7 +1095,7 @@
   {
     "id": "555b86ad65509938",
     "title": "Atlas: A World Model for Spatial Intelligence",
-    "excerpt": "Article URL: https://www.worldlabs.ai/blog/atlas Comments URL: https://news.ycombinator.com/item?id=49525160 Points: 173 # Comments: 42",
+    "excerpt": "Article URL: https://www.worldlabs.ai/blog/atlas Comments URL: https://news.ycombinator.com/item?id=49525160 Points: 216 # Comments: 52",
     "url": "https://www.worldlabs.ai/blog/atlas",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1004,7 +1160,7 @@
   {
     "id": "4be7e146957381bd",
     "title": "Fine, I'll build my own text editor",
-    "excerpt": "Article URL: https://dbushell.com/2026/09/01/text-editor/ Comments URL: https://news.ycombinator.com/item?id=49524863 Points: 6 # Comments: 1",
+    "excerpt": "Article URL: https://dbushell.com/2026/09/01/text-editor/ Comments URL: https://news.ycombinator.com/item?id=49524863 Points: 91 # Comments: 86",
     "url": "https://dbushell.com/2026/09/01/text-editor/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1025,19 +1181,6 @@
     "publishedAt": "2026-09-01T17:10:00.000Z",
     "category": "ai",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4bddcfcfe940d695",
-    "title": "Quill (YC W20) Is Hiring a Fullstack SWE",
-    "excerpt": "Comments URL: https://news.ycombinator.com/item?id=49524704 Points: 0 # Comments: 0",
-    "url": "https://news.ycombinator.com/item?id=49524704",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "R_R",
-    "publishedAt": "2026-09-01T17:00:14.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1129,7 +1272,7 @@
   {
     "id": "372a433b5951b2f5",
     "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
-    "excerpt": "Article URL: https://moviescenemap.com/ Comments URL: https://news.ycombinator.com/item?id=49524320 Points: 174 # Comments: 29",
+    "excerpt": "Article URL: https://moviescenemap.com/ Comments URL: https://news.ycombinator.com/item?id=49524320 Points: 243 # Comments: 37",
     "url": "https://moviescenemap.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1153,19 +1296,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "82c38b38b181bae3",
-    "title": "QHD, WQHD, 4K, and 5K resolution: What do they mean and which is best for you?",
-    "excerpt": "QHD, 4K, 5K, and other resolutions quickly become confusing. Once you get past the marketing terms, you can choose what makes sense for your needs.",
-    "url": "https://www.engadget.com/2244279/qhd-wqhd-4k-5k-resolution-meaning-which-best/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Max Miller)",
-    "publishedAt": "2026-09-01T16:30:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/qhd-wqhd-4k-and-5k-resolution-what-do-they-mean-and-which-is-best-for-you/l-intro-1787589297.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "a4d09b7e78638621",
     "title": "Linux Gets A Reverse-Engineered Driver For ASUS ROG NVMe Enclosure RGB Lighting",
     "excerpt": "If you are into RGB lighting, you can even find NVMe external enclosures these days with RGB LEDs like the ASUS ROG Strix Arion. Now thanks to reverse engineering there is a Linux driver for allowing the RGB lighting controls for the ASUS ROG Strix Arion NVMe enclosure...",
@@ -1179,19 +1309,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "503b31c52b2f0748",
-    "title": "Waymo robotaxi rides are now open to the public in Denver, San Diego and Tampa",
-    "excerpt": "Waymo robotaxi rides are now open to the public in Denver, San Diego and Tampa.",
-    "url": "https://www.engadget.com/2248696/waymo-robotaxi-rides-are-now-open-to-the-public-in-denver-san-diego-and-tampa/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Kris Holt)",
-    "publishedAt": "2026-09-01T16:24:24.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/waymo-robotaxi-rides-are-now-open-to-the-public-in-denver-san-diego-and-tampa/l-intro-1788279807.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "4e3078c1260ed8a1",
     "title": "Oracle pins hopes on 'Star Wars' productivity jump to lightspeed from AI-assisted engineering",
     "excerpt": "Oracle is betting that AI coding will deliver \"Star Wars\" levels of software engineering productivity, CEO Mike Sicilia told investors last week. With its shares sharply down over the past year, Big Red claims its engineers' productivity will skyrocket as the company mainlines the AI wonder drug it…",
@@ -1201,20 +1318,7 @@
     "author": null,
     "publishedAt": "2026-09-01T16:06:00.000Z",
     "category": "ai",
-    "imageUrl": "https://image.theregister.com/?imageId=255456&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "2c41e517f946eab8",
-    "title": "What is Dolby Atmos for Headphones and is it worth it for gamers?",
-    "excerpt": "A look into whether Dolby Atmos for Headphones - with its free trial on both PC and Xbox - can unlock spatial audio on a normal pair of stereo headphones.",
-    "url": "https://www.engadget.com/2246413/what-is-dolby-atmos-for-headphones-worth-it-gamers/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Dave Meikleham)",
-    "publishedAt": "2026-09-01T16:00:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/what-is-dolby-atmos-for-headphones-and-is-it-worth-it-for-gamers/l-intro-1787587641.jpg",
+    "imageUrl": "https://image.theregister.com/?imageId=2607118&width=800",
     "readTimeMinutes": 1
   },
   {
@@ -1907,19 +2011,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "d33993932cf841ca",
-    "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-    "excerpt": "According to The Information (paywalled), Apple reportedly moved up the release of new Mac mini and Mac Studio models after unexpectedly strong enterprise demand for Macs capable of running AI workloads. MacRumors reports: Apple normally releases new Mac models in the autumn, closer to October or…",
-    "url": "https://hardware.slashdot.org/story/26/08/31/2133202/apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac-studio?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-08-31T22:00:00.000Z",
-    "category": "startups",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "d36bb2807f5c572e",
     "title": "Trump admin shelves Cyclospora research despite record-breaking outbreak",
     "excerpt": "The Trump administration is halting vital federal research on the foodborne parasite Cyclospora, despite the record-breaking, nationwide outbreak of the diarrheal pathogen, according to Politico . Of the three research programs that represent nearly all of the Cyclospora work at the US Department…",
@@ -1956,19 +2047,6 @@
     "publishedAt": "2026-08-31T21:03:00.000Z",
     "category": "crypto",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "997db6dfc1754262",
-    "title": "North Korean hackers are moving tens of millions on Hyperliquid as Trump pushes to onshore the crypto platform",
-    "excerpt": "Blockchain data reviewed by CoinDesk shows wallets tied to North Korea’s Lazarus Group sold more than $30 million in bitcoin on the platform in the last three weeks alone.",
-    "url": "https://www.coindesk.com/business/2026/08/31/north-korean-hackers-are-moving-tens-of-millions-on-hyperliquid-as-trump-pushes-to-onshore-the-crypto-platform",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Will Canny",
-    "publishedAt": "2026-08-31T20:48:40.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/c6906ffe314f6cc214b35551286f61a093e5f8fd-5760x3840.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2201,32 +2279,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "b8647efede913144",
-    "title": "Kalshi lays down first lifetime ban for ex-member of Congress George Santos",
-    "excerpt": "The prediction market platform banned Santos for manipulation as part of the industry's ongoing efforts to show it's dealing with bad behavior.",
-    "url": "https://www.coindesk.com/policy/2026/08/31/kalshi-lays-down-first-lifetime-ban-for-ex-member-of-congress-george-santos",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Jesse Hamilton",
-    "publishedAt": "2026-08-31T15:33:14.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/7811376536bd7e0a18011d88543caf1418cf7f29-6000x4002.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "66fb28a2b68ac83e",
-    "title": "NYSE owner ICE taps tZERO for tokenized securities push, takes stake in firm",
-    "excerpt": "The deal adds transfer-agent and settlement infrastructure to ICE's plans for an NYSE-affiliated market for tokenized stocks, tZERO said.",
-    "url": "https://www.coindesk.com/business/2026/08/31/nyse-owner-ice-taps-tzero-for-tokenized-securities-push-takes-stake-in-firm",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Krisztian Sandor",
-    "publishedAt": "2026-08-31T14:44:26.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/903e318acd6dff33bc9b0083d0f98e3ea9edf92b-1420x916.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "d8517a2411964544",
     "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
     "excerpt": "OpenAI’s ChatGPT will have to comply with tougher EU rules such as removing illegal content or face potential fines, the European Commission said on Monday, as Brussels grapples with how its existing digital regulation applies to rapidly evolving AI services. The Commission said the chatbot, social…",
@@ -2253,19 +2305,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "362b9fe58ba1e2a3",
-    "title": "Ireland bars crypto from new tax-advantaged investment accounts",
-    "excerpt": "Eligible assets for the new accounts include listed stocks, bonds, and ETFs, with providers handling tax reporting to simplify investor compliance.",
-    "url": "https://www.coindesk.com/business/2026/08/31/ireland-bars-crypto-from-new-tax-advantaged-investment-accounts",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Francisco Rodrigues",
-    "publishedAt": "2026-08-31T13:29:56.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/1f36f4b6075554c7a225b5bdef6b7d0bb9142a62-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "b175cc4cf64bbee4",
     "title": "Linux Kernel Patches Out For Review To Enable USB4/Thunderbolt For Apple M1 / M2 / M3",
     "excerpt": "There is a set of 19 patches out for review on the Linux kernel mailing list that would finally allow the mainline kernel running on Apple Silicon M1 / M2 / M3 SoCs to enjoy USB4/Thunderbolt support...",
@@ -2279,19 +2318,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "446465be6f565f3c",
-    "title": "Bitmine makes largest ether purchase since June as Tom Lee points to crypto's strong Q3",
-    "excerpt": "Company Chairman Lee said crypto’s recent outperformance could draw more institutional investors.",
-    "url": "https://www.coindesk.com/business/2026/08/31/bitmine-makes-largest-ether-purchase-since-june-as-tom-lee-points-to-crypto-s-strong-q3",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Krisztian Sandor",
-    "publishedAt": "2026-08-31T12:53:17.000Z",
-    "category": "Crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/83de81f28e582745c3329978c86006afe80011b2-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "264468487b74ed6e",
     "title": "From watches to passwords on paper, everything that's old is new again",
     "excerpt": "KETTLE Windows XP is turning 25, and with AI still causing a memory crunch we're really missing the days of low-overhead OSes from Microsoft that just worked. You can listen to the latest episode of The Kettle right here on this page, as well as on Spotify, Apple Music, or YouTube. Those platforms…",
@@ -2302,19 +2328,6 @@
     "publishedAt": "2026-08-31T12:33:42.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=240382&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "2dab5797cfa75cec",
-    "title": "Strategy returns to bitcoin buys, adding $370 million of BTC last week",
-    "excerpt": "It's the first week of bitcoin purchases for the Michael Saylor-led company in about two months.",
-    "url": "https://www.coindesk.com/markets/2026/08/31/strategy-returns-to-bitcoin-buys-adding-usd370-million-worth-last-week",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Stephen Alpher",
-    "publishedAt": "2026-08-31T12:11:04.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/7fae1cfbe73c3113bf12a5687036ae3b35807841-1920x1100.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2744,19 +2757,6 @@
     "publishedAt": "2026-08-28T11:29:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=246588&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "af2d80a91e96f20e",
-    "title": "Industry that built the problem offers to sell you the solution",
-    "excerpt": "OpenAI has gathered more than 100 of the world's biggest tech and infosec companies to warn that cyber defense is in trouble - a reassuring development given quite a few of them helped build the technology involved. The open letter has more than 100 names attached to it, including many of the…",
-    "url": "https://www.theregister.com/security/2026/08/28/industry-that-built-the-problem-offers-to-sell-you-the-solution/5293207",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-08-28T11:01:00.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=1682740&width=800",
     "readTimeMinutes": 1
   },
   {
