@@ -1,5 +1,226 @@
 [
   {
+    "id": "6379e22bcefbb3cd",
+    "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+    "excerpt": "Article URL: https://armature.tech/blog/which-tools-coding-agents-install Comments URL: https://news.ycombinator.com/item?id=49557206 Points: 7 # Comments: 1",
+    "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "screm",
+    "publishedAt": "2026-09-03T21:20:34.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "40c4a4d311caf3f5",
+    "title": "The Apple Vision Pro was used for a successful hip surgery",
+    "excerpt": "Stryker says its SportSuite Vision software for the headset received De Novo authorization from the FDA in July.",
+    "url": "https://www.engadget.com/2250758/stryker-apple-vision-pro-sportsuite-app-in-hip-arthroscopy/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Anna Washenko)",
+    "publishedAt": "2026-09-03T21:14:11.000Z",
+    "category": "science",
+    "imageUrl": "https://www.engadget.com/img/gallery/apple-vision-pro-was-used-for-a-successful-hip-surgery/l-intro-1788469479.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "662d4a18a74f04c0",
+    "title": "Amazon Linux 2027 Now in Preview: Powered By Linux 7.1, x86-64-v3 & Built With LTO",
+    "excerpt": "AWS announced today the public preview of Amazon Linux 2027. Given the time since Amazon Linux 2023, Amazon Linux 2027 comes with a heavy arsenal of software updates as well as many performance optimizations and other tuning for better running workloads geared for the AWS cloud...",
+    "url": "https://www.phoronix.com/news/Amazon-Linux-2027-Preview",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-03T21:13:55.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "382d0e7773967fd4",
+    "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+    "excerpt": "Article URL: https://tasklet.ai/careers/customer-success-engineer Comments URL: https://news.ycombinator.com/item?id=49556922 Points: 0 # Comments: 0",
+    "url": "https://tasklet.ai/careers/customer-success-engineer",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "mayop100",
+    "publishedAt": "2026-09-03T21:01:10.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "eb61f98a05a1a322",
+    "title": "Xbox Cloud Gaming Switches to Monthly Hour Limits",
+    "excerpt": "Microsoft is imposing monthly limits on Xbox Cloud Gaming starting in November, with Game Pass Ultimate, Premium, and Essential subscribers getting 15, 10, and 5 hours respectively before they have to buy additional playtime. \"Currently, Game Pass subscribers can stream without these monthly hour…",
+    "url": "https://games.slashdot.org/story/26/09/03/1943208/xbox-cloud-gaming-switches-to-monthly-hour-limits?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-09-03T21:00:00.000Z",
+    "category": "Software",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b267dcd4ed4ee8b0",
+    "title": "Startup ARR is less secure than ever, new research shows",
+    "excerpt": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
+    "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Julie Bort",
+    "publishedAt": "2026-09-03T20:59:23.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "bba2a5a72cc25994",
+    "title": "Dungeons & Dragons is getting a ‘Ravenloft’ live-action Netflix series",
+    "excerpt": "Wizards of the Coast \" data-portal-copyright=\"Image: Wizards of the Coast \" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ravenloft-horrors-within-cover-strahd.jpg?quality=90&strip=all&crop=0,0,100,100\" /> Strahd returned earlier this year in…",
+    "url": "https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Stevie Bonifield",
+    "publishedAt": "2026-09-03T20:48:05.000Z",
+    "category": "startups",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ravenloft-horrors-within-cover-strahd.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9f462ca0a50a7801",
+    "title": "'Welcome to the AGI Era,' OpenAI Says As GPT-6 Astra Debuts",
+    "excerpt": "OpenAI has released GPT-6 Astra, a new model that president Greg Brockman called a \"generational leap\" and suggested may represent the arrival of AGI. \"I think it might be about this model,\" Brockman said in a briefing with reporters. He ended the briefing by saying: \"Welcome to the AGI era.\" Axios…",
+    "url": "https://slashdot.org/story/26/09/03/1932255/welcome-to-the-agi-era-openai-says-as-gpt-6-astra-debuts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-09-03T20:00:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2a34ff0c17369ed6",
+    "title": "Google's new AI weather model uses live satellite data for higher-resolution forecasts",
+    "excerpt": "WeatherNext 3 is also supposed to be much better at predicting precipitation.",
+    "url": "https://www.engadget.com/2250687/googles-new-ai-weather-model-uses-live-satellite-data-for-higher-resolution-forecasts/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Ian Carlos Campbell)",
+    "publishedAt": "2026-09-03T19:56:03.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/googles-new-ai-weather-model-uses-live-satellite-data-for-higher-resolution-forecasts/l-intro-1788464884.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d3a992165f8c90ea",
+    "title": "US senator calls on the NSA to give guidance for use of VPNs",
+    "excerpt": "A prominent US senator is asking the National Security Agency to provide guidance to the general public on best practices for using virtual private networks to secure their communications from spying by foreign adversaries. VPNs funnel all of a user’s Internet traffic through an encrypted…",
+    "url": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Dan Goodin",
+    "publishedAt": "2026-09-03T19:52:06.000Z",
+    "category": "security",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/vpn-tunnel-1000x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4cb8da5c57173e48",
+    "title": "Utah won't enforce VPN age-verification law until legal challenge resolves",
+    "excerpt": "The state was the first to target VPN usage in the wake of age verification laws, but an ongoing court case has put things on ice.",
+    "url": "https://www.engadget.com/2250679/utah-wont-enforce-vpn-age-verification-law-legal-challenge-resolves/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Karissa Bell)",
+    "publishedAt": "2026-09-03T19:45:15.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/utah-wont-enforce-vpn-age-verification-law-until-legal-challenge-resolves/l-intro-1788464280.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e3da911f76180810",
+    "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+    "excerpt": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 96 # Comments: 45",
+    "url": "https://arcprize.org/blog/astra",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "vignesh_warar",
+    "publishedAt": "2026-09-03T19:45:00.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2ab721c67c9c2528",
+    "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
+    "excerpt": "The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.",
+    "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Sean O'Kane",
+    "publishedAt": "2026-09-03T19:42:48.000Z",
+    "category": "crypto",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "77574cbd5c512881",
+    "title": "NJ urges SCOTUS to rule that Kalshi sports bets are gambling, not \"swaps\"",
+    "excerpt": "New Jersey yesterday asked the Supreme Court to rule on whether states can regulate sports betting on prediction markets such as Kalshi. “Companies like Kalshi claim to offer legal sports betting in all 50 states, but they refuse to follow the gambling laws of any state,\" New Jersey Attorney…",
+    "url": "https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Jon Brodkin",
+    "publishedAt": "2026-09-03T19:42:02.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ff1868da76fb0ed8",
+    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+    "excerpt": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+    "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Marina Temkin",
+    "publishedAt": "2026-09-03T19:36:29.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4106ca3c45782743",
+    "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
+    "excerpt": "The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups.",
+    "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Tim De Chant",
+    "publishedAt": "2026-09-03T19:29:16.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ce01ffa2ae76baf8",
+    "title": "The asteroid currently hitting front end web development",
+    "excerpt": "Article URL: https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/ Comments URL: https://news.ycombinator.com/item?id=49555233 Points: 39 # Comments: 31",
+    "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "codechicago277",
+    "publishedAt": "2026-09-03T19:17:24.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "1e1cbc7349068e5e",
     "title": "Epic Games brings cross-platform voice chat to Fortnite and its services",
     "excerpt": "Game and yap from across Epic's ecosystem.",
@@ -26,6 +247,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "afff3046a6e75b56",
+    "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
+    "excerpt": "Tottenham Hotspur, a professional soccer team that’s part of the Premier League, has saved over 85 percent in licensing fees by replacing its stadium's VMware instance with Hewlett-Packard Enterprise’s (HPE’s) Morpheus VM Essentials (VME) virtualization software. Tottenham hasn’t disclosed which…",
+    "url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Scharon Harding",
+    "publishedAt": "2026-09-03T18:58:31.000Z",
+    "category": "security",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Tottenham-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "4477447cbc9c2548",
     "title": "Beyerdynamic's new Aventho Y headphones last up to 90 hours per charge",
     "excerpt": "This is especially noteworthy, as the cans cost just $150.",
@@ -36,6 +270,19 @@
     "publishedAt": "2026-09-03T18:49:59.000Z",
     "category": "Hardware",
     "imageUrl": "https://www.engadget.com/img/gallery/beyerdynamics-new-aventho-y-headphones-last-up-to-90-hours-per-charge/l-intro-1788460691.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ea74e2fffbc50210",
+    "title": "GPT-6 Astra",
+    "excerpt": "System Card: https://deploymentsafety.openai.com/gpt-6-astra Related ongoing threads: OpenAI's GPT-6 Astra on ARC-AGI-3 - https://news.ycombinator.com/item?id=49555691 GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index - https://news.ycombinator.com/item?id=49556147…",
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "kibae",
+    "publishedAt": "2026-09-03T18:41:05.000Z",
+    "category": "ai",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -67,7 +314,7 @@
   {
     "id": "45a86641ba677818",
     "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-    "excerpt": "Article URL: https://inference-docs.cerebras.ai/models/overview Comments URL: https://news.ycombinator.com/item?id=49554520 Points: 124 # Comments: 36",
+    "excerpt": "Article URL: https://inference-docs.cerebras.ai/models/overview Comments URL: https://news.ycombinator.com/item?id=49554520 Points: 332 # Comments: 108",
     "url": "https://inference-docs.cerebras.ai/models/overview",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -75,6 +322,19 @@
     "publishedAt": "2026-09-03T18:32:13.000Z",
     "category": "ai",
     "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "fd1917b2fe5c48b3",
+    "title": "Just like a fruit fly, a new algorithm never forgets old scents",
+    "excerpt": "Fruit flies aren't exactly famous for their brainpower; you've probably drowned more than one in a wine glass left too long on the patio table. And yet, working with roughly 140,000 neurons—a brain smaller than a poppy seed— Drosophila can sort through a huge range of smells in a fraction of a…",
+    "url": "https://arstechnica.com/science/2026/09/just-like-a-fruit-fly-a-new-algorithm-never-forgets-old-scents/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Federica Sgorbissa",
+    "publishedAt": "2026-09-03T18:22:52.000Z",
+    "category": "science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1168455519-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -86,19 +346,6 @@
     "sourceHomepage": "https://techcrunch.com",
     "author": "Tim Fernholz",
     "publishedAt": "2026-09-03T18:19:56.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b0e46c0d689ae709",
-    "title": "OpenAI begins rolling out GPT-6 Astra",
-    "excerpt": "https://thenewstack.io/openai-gpt6-astra-benchmarks/ , image: https://cdn.thenewstack.io/media/2026/09/358eb84a-screenshot... https://venturebeat.com/technology/welcome-to-the-agi-era-op... https://www.theverge.com/ai-artificial-intelligence/988334/o...…",
-    "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "maskil",
-    "publishedAt": "2026-09-03T18:18:22.000Z",
     "category": "ai",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -130,6 +377,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "b9059bbeee027ae8",
+    "title": "Four major AI models suffer rare overlapping downtime",
+    "excerpt": "Cloud-based AI models operated by OpenAI, Anthropic, xAI, and Google suffered a rare and overlapping set of significant service interruptions over a period of hours Thursday morning. Anthropic first reported a \"partial outage\" related to \"elevated errors on requests to Claude Mythos 5.1, Claude…",
+    "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Kyle Orland",
+    "publishedAt": "2026-09-03T18:10:19.000Z",
+    "category": "ai",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2197730159-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "7fc9b24c449dfabb",
     "title": "Apple has been sued for $2.7 billion over App Tracking Transparency rules",
     "excerpt": "A lawsuit claims the policy was stricter on third-party developers than Apple itself.",
@@ -140,19 +400,6 @@
     "publishedAt": "2026-09-03T18:10:00.000Z",
     "category": "policy",
     "imageUrl": "https://www.engadget.com/img/gallery/apple-has-been-sued-for-2-7-billion-over-app-tracking-transparency-rules/l-intro-1788458252.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f6b11ee196776105",
-    "title": "The Double Matthew Walker Knot by Fable 5.1",
-    "excerpt": "Article URL: https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c Comments URL: https://news.ycombinator.com/item?id=49554154 Points: 11 # Comments: 7",
-    "url": "https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "nemesis17",
-    "publishedAt": "2026-09-03T18:09:37.000Z",
-    "category": "ai",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -192,6 +439,19 @@
     "publishedAt": "2026-09-03T18:00:00.000Z",
     "category": "ai",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "5205b7f7102b7044",
+    "title": "OpenAI's New Reasoning Technique Alarms AI Safety Experts",
+    "excerpt": "An anonymous reader quotes a report from TechCrunch: OpenAI's new Astra model will use a reasoning technique called \"recurrent depth\" that allows it to operate outside of the sequential thinking that characterizes most reasoning models, The Information reported on Tuesday. This technique, also…",
+    "url": "https://it.slashdot.org/story/26/09/03/174254/openais-new-reasoning-technique-alarms-ai-safety-experts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-09-03T18:00:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -236,7 +496,7 @@
   {
     "id": "f4fefbf4381ea645",
     "title": "How concerned should we be about Astra's recurrent architecture?",
-    "excerpt": "Article URL: https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent Comments URL: https://news.ycombinator.com/item?id=49553321 Points: 16 # Comments: 5",
+    "excerpt": "Article URL: https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent Comments URL: https://news.ycombinator.com/item?id=49553321 Points: 46 # Comments: 27",
     "url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -247,16 +507,16 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "b9ccddc4fde4dd61",
-    "title": "Usbsid-Pico: Bridging Real Commodore 64 Sound to Modern USB",
-    "excerpt": "Article URL: https://smallrun.net/blog/loud/usbsid-pico-sids-on-usb Comments URL: https://news.ycombinator.com/item?id=49553303 Points: 12 # Comments: 2",
-    "url": "https://smallrun.net/blog/loud/usbsid-pico-sids-on-usb",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "LouDNL",
-    "publishedAt": "2026-09-03T17:09:04.000Z",
-    "category": "startups",
-    "imageUrl": null,
+    "id": "b63d406c8246ce9b",
+    "title": "Trump’s 100% tariff on drones will be disaster for the US, critics warn",
+    "excerpt": "On Thursday, the Trump administration imposed a 100 percent tariff on foreign-made drones, alarming critics who warn that high tariffs would harm public safety and devastate thousands of US businesses. Guidance posted by US Customs and Border Protection says that starting Thursday, a 100 percent…",
+    "url": "https://arstechnica.com/tech-policy/2026/09/trumps-100-drone-tariff-has-cops-and-firefighters-panicking/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Ashley Belanger",
+    "publishedAt": "2026-09-03T17:08:09.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2255920263-1024x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -270,19 +530,6 @@
     "publishedAt": "2026-09-03T17:00:37.000Z",
     "category": "science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ignobel6-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a76c5ea67d1ef261",
-    "title": "Gooseworks (YC W23) Is Hiring – Founding Creative Engineer",
-    "excerpt": "Article URL: https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer Comments URL: https://news.ycombinator.com/item?id=49553173 Points: 0 # Comments: 0",
-    "url": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "shivsak",
-    "publishedAt": "2026-09-03T17:00:16.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -392,7 +639,7 @@
   {
     "id": "d42fb809241ff067",
     "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-    "excerpt": "Article URL: https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california Comments URL: https://news.ycombinator.com/item?id=49552572 Points: 29 # Comments: 0",
+    "excerpt": "Article URL: https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california Comments URL: https://news.ycombinator.com/item?id=49552572 Points: 95 # Comments: 24",
     "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -520,19 +767,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "b67973ef8c5160e2",
-    "title": "This ultra-thin Lenovo laptop concept uses solid-state cooling",
-    "excerpt": "A laptop we’ll hopefully see but never hear. Lenovo is announcing a new concept laptop for IFA 2026 that uses solid-state cooling instead of traditional fans, making it incredibly thin and super light. The 14-inch Project AeroBlade concept laptop is less than 10mm thick and weighs under 1.8 pounds…",
-    "url": "https://www.theverge.com/tech/988882/lenovo-project-aeroblade-concept-frore-airjet-silent-cooling",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Antonio G. Di Benedetto",
-    "publishedAt": "2026-09-03T16:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268683_Lenovo_ThinkBook_Ultra_Concept_Frore_IFA_2026_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "a426f6080dba590b",
     "title": "Google rolls out AI-powered voice capabilities for Gmail, Docs and Keep",
     "excerpt": "Google makes its suite of voice tools available for Gmail, Docs and Live - at least if you're a paying customer.",
@@ -624,19 +858,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "7036b1cae2f17d84",
-    "title": "VC isn't VC anymore",
-    "excerpt": "Article URL: https://www.anildash.com/2026/09/02/cancer-capital/ Comments URL: https://news.ycombinator.com/item?id=49552055 Points: 170 # Comments: 72",
-    "url": "https://www.anildash.com/2026/09/02/cancer-capital/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "tlhunter",
-    "publishedAt": "2026-09-03T15:51:53.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "9d31398cb05b94cc",
     "title": "LLVM Developers Begin Debate Over AGENTS.md For Helping AI Agents",
     "excerpt": "LLVM developers have begun a discussion on whether the project should host an AGENTS.md file (and CLAUDE.md) in their Git repository for helping to guide AI agents...",
@@ -665,7 +886,7 @@
   {
     "id": "519991c639b3b5bf",
     "title": "K2 Horizon: A connected fleet of six open models",
-    "excerpt": "Article URL: https://ifm.ai/blog/k2/ Comments URL: https://news.ycombinator.com/item?id=49551760 Points: 167 # Comments: 58",
+    "excerpt": "Article URL: https://ifm.ai/blog/k2/ Comments URL: https://news.ycombinator.com/item?id=49551760 Points: 217 # Comments: 72",
     "url": "https://ifm.ai/blog/k2/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -715,19 +936,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "36baedcdfce0b522",
-    "title": "Dyson's new gigantic air purifier looks like a sandworm from Dune",
-    "excerpt": "Dyson just announced three new robovacs, but the most eye-catching launch is the giant air purifier.",
-    "url": "https://www.engadget.com/2250186/dyson-air-purifier-robovac-launch-late-2026/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Mat Smith)",
-    "publishedAt": "2026-09-03T15:00:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/dysons-new-gigantic-air-purifier-looks-like-a-sandworm-from-dune/l-intro-1788436600.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "0fe83eed86825cb0",
     "title": "Drowning in CVEs and thirsty for answers? Try CTEM",
     "excerpt": "A decade or two ago, board executives asked \"why should I care about cybersecurity?\" Five years ago, they were asking \"Are you patching our software vulnerabilities?\" Now, they're starting to ask: \"Are we actually secure?\" They might want a simple 'yes' or 'no' initially, but eventually they'll say…",
@@ -769,7 +977,7 @@
   {
     "id": "b837590e8bc38616",
     "title": ".name Termination",
-    "excerpt": "Article URL: https://neil.fraser.name/news/2026/09/03/ Comments URL: https://news.ycombinator.com/item?id=49550772 Points: 854 # Comments: 225",
+    "excerpt": "Article URL: https://neil.fraser.name/news/2026/09/03/ Comments URL: https://news.ycombinator.com/item?id=49550772 Points: 1112 # Comments: 329",
     "url": "https://neil.fraser.name/news/2026/09/03/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -795,7 +1003,7 @@
   {
     "id": "debf643f0294e072",
     "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
-    "excerpt": "Article URL: https://anyhumanever.com/ Comments URL: https://news.ycombinator.com/item?id=49550698 Points: 252 # Comments: 113",
+    "excerpt": "Article URL: https://anyhumanever.com/ Comments URL: https://news.ycombinator.com/item?id=49550698 Points: 382 # Comments: 177",
     "url": "https://anyhumanever.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -845,35 +1053,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "34646e62d7f796f6",
-    "title": "Lego's near 1:1 PlayStation set launches on October 1",
-    "excerpt": "The detailed Lego replica of the first PlayStation console also features two miniature dioramas of classic PlayStation games.",
-    "url": "https://www.engadget.com/2250292/lego-playstation-set-launches-on-october-1/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Matt Tate)",
-    "publishedAt": "2026-09-03T14:10:12.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/legos-near-11-playstation-set-launches-on-october-1/l-intro-1788444273.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "99815720c897313c",
-    "title": "Final Fantasy Resonance hands-on: A love letter to classic 2D turn-based RPGs",
-    "excerpt": "The story might be loosely based on the mobile game Brave Exvius, but it's so much bigger than that.",
-    "url": "https://www.engadget.com/2249943/final-fantasy-resonance-hands-on-a-love-letter-to-classic-2d-turn-based-rpgs/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Sam Rutherford)",
-    "publishedAt": "2026-09-03T14:00:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/final-fantasy-resonance-hands-on-a-love-letter-to-classic-2d-turn-based-rpgs/l-intro-1788381992.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "f9adae7a3a13f579",
     "title": "Astronomers Detect a 10-Sided Structure in Saturn's Atmosphere",
-    "excerpt": "Article URL: https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere Comments URL: https://news.ycombinator.com/item?id=49549877 Points: 60 # Comments: 20",
+    "excerpt": "Article URL: https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere Comments URL: https://news.ycombinator.com/item?id=49549877 Points: 78 # Comments: 31",
     "url": "https://www.sciencealert.com/astronomers-spot-an-uncannily-geometric-10-sided-structure-in-saturns-atmosphere",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1027,19 +1209,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "bec25165c52bf034",
-    "title": "Nvidia to acquire Hugging Face",
-    "excerpt": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face... Comments URL: https://news.ycombinator.com/item?id=49548952 Points: 277 # Comments: 88",
-    "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "tosh",
-    "publishedAt": "2026-09-03T12:10:33.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "4f77c4aa5a31317f",
     "title": "'Uber rapture' leaves passengers and drivers behind in Nigeria and Uganda",
     "excerpt": "UPDATED In what some are dubbing the \"Uber rapture,\" the ride-hailing pioneer has abruptly quit Nigeria and Uganda. Far from drivers and their cars ascending to some surge-priced afterlife, users reported the service shutting down while rides were still underway. \"A friend of mine said they were on…",
@@ -1107,7 +1276,7 @@
   {
     "id": "f519b6f605b220ae",
     "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
-    "excerpt": "Article URL: https://twitter.com/GergelyOrosz/status/2095453567955968398 Comments URL: https://news.ycombinator.com/item?id=49548452 Points: 193 # Comments: 130",
+    "excerpt": "Article URL: https://twitter.com/GergelyOrosz/status/2095453567955968398 Comments URL: https://news.ycombinator.com/item?id=49548452 Points: 231 # Comments: 168",
     "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1133,7 +1302,7 @@
   {
     "id": "b9197b873957814a",
     "title": "Audacity 4.0",
-    "excerpt": "Article URL: https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0 Comments URL: https://news.ycombinator.com/item?id=49548395 Points: 906 # Comments: 203",
+    "excerpt": "Article URL: https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0 Comments URL: https://news.ycombinator.com/item?id=49548395 Points: 982 # Comments: 221",
     "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1166,6 +1335,19 @@
     "author": "Shaurya Malwa",
     "publishedAt": "2026-09-03T10:42:15.000Z",
     "category": "crypto",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b5557b71094c2a70",
+    "title": "Gloria Steinem has died",
+    "excerpt": "https://www.nytimes.com/2026/09/03/us/politics/gloria-steine... , https://archive.ph/cfC1K Comments URL: https://news.ycombinator.com/item?id=49548256 Points: 89 # Comments: 32",
+    "url": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "mellosouls",
+    "publishedAt": "2026-09-03T10:31:18.000Z",
+    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1354,7 +1536,7 @@
   {
     "id": "5725b766800de7c4",
     "title": "Pre-Release of Polars 2.0",
-    "excerpt": "Article URL: https://pola.rs/posts/announcing-polars-2/ Comments URL: https://news.ycombinator.com/item?id=49546753 Points: 360 # Comments: 117",
+    "excerpt": "Article URL: https://pola.rs/posts/announcing-polars-2/ Comments URL: https://news.ycombinator.com/item?id=49546753 Points: 371 # Comments: 125",
     "url": "https://pola.rs/posts/announcing-polars-2/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1419,7 +1601,7 @@
   {
     "id": "5e8d258a0f8644bf",
     "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-    "excerpt": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 53 # Comments: 9",
+    "excerpt": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 115 # Comments: 26",
     "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1638,40 +1820,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "ca0a2fc927923c81",
-    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-    "excerpt": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-    "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Russell Brandom",
-    "publishedAt": "2026-09-02T20:19:14.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1,
-    "alsoCoveredBy": [
-      {
-        "source": "Slashdot",
-        "sourceHomepage": "https://slashdot.org",
-        "url": "https://it.slashdot.org/story/26/09/03/174254/openais-new-reasoning-technique-alarms-ai-safety-experts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "publishedAt": "2026-09-03T18:00:00.000Z"
-      }
-    ]
-  },
-  {
-    "id": "4b102d53a74e004c",
-    "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
-    "excerpt": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.",
-    "url": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Sarah Perez",
-    "publishedAt": "2026-09-02T20:12:41.000Z",
-    "category": "Startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "8a8f3580b599f1c6",
     "title": "Kraken parent Payward delays IPO to second quarter of 2027 at earliest",
     "excerpt": "The crypto exchange operator, which confidentially filed for a U.S. listing last November, had already put its IPO plans on hold amid difficult market conditions.",
@@ -1745,32 +1893,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "d34de67c90ce72dd",
-    "title": "It sure looks like hackers breached a major ID card verification service",
-    "excerpt": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.",
-    "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Zack Whittaker",
-    "publishedAt": "2026-09-02T19:35:09.000Z",
-    "category": "security",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "8975b89887806bff",
-    "title": "Delivery Hero board backs Uber’s $15B takeover bid",
-    "excerpt": "If approved, the combined company would become one of the largest food delivery platforms in the world.",
-    "url": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Kirsten Korosec",
-    "publishedAt": "2026-09-02T19:25:35.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "6b680fac6eb1f599",
     "title": "NYC Public Schools Ban AI Use Through Middle School",
     "excerpt": "New York City Public Schools is banning generative AI for students from pre-K through eighth grade for the 2026-27 school year, affecting more than half a million students in the nation's largest school district. ABC News reports: In a statement to ABC News, New York City Mayor Zohran Mamdani said…",
@@ -1829,19 +1951,6 @@
         "publishedAt": "2026-09-03T16:00:00.000Z"
       }
     ]
-  },
-  {
-    "id": "2201522b538e2070",
-    "title": "Google Defeats US Bid to Force Ad Tech Sale",
-    "excerpt": "An anonymous reader quotes a report from Reuters: Alphabet's Google escaped a breakup of its advertising technology business on Wednesday, when a judge in Virginia rejected U.S. antitrust enforcers' bid to force a sale of Google's online advertising exchange. While the ad exchange is a small part…",
-    "url": "https://yro.slashdot.org/story/26/09/02/1755251/google-defeats-us-bid-to-force-ad-tech-sale?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-09-02T18:00:00.000Z",
-    "category": "policy",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
   },
   {
     "id": "552acf6b4dd4ac1e",
@@ -1919,19 +2028,6 @@
     "publishedAt": "2026-09-02T17:05:41.000Z",
     "category": "hardware",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c6612b7d3bdccb54",
-    "title": "Uber Is Laying Off 10% of Its Workforce",
-    "excerpt": "Uber is laying off about 3,300 employees, or roughly 10% of its workforce, as part of a restructuring aimed at cutting management layers and redirecting investment toward ridesharing, delivery, and robotaxis. CEO Dara Khosrowshahi announced the changes in an internal email that was also published…",
-    "url": "https://tech.slashdot.org/story/26/09/02/161253/uber-is-laying-off-10-of-its-workforce?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-09-02T17:00:00.000Z",
-    "category": "startups",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -2546,71 +2642,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "50b911db8ed83a24",
-    "title": "Research roundup: 7 cool science stories we almost missed",
-    "excerpt": "It’s a regrettable reality that there is never enough time to cover all the interesting scientific stories we come across. So every month, we highlight a handful of the best stories that nearly slipped through the cracks. August’s list includes the discovery of a new celestial object astronomers…",
-    "url": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Jennifer Ouellette",
-    "publishedAt": "2026-09-01T19:06:10.000Z",
-    "category": "science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/blackholestar1-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f5478112ed94937f",
-    "title": "A newborn and child reportedly died of measles; CDC isn't counting them",
-    "excerpt": "The Centers for Disease Control and Prevention is excluding two measles deaths reported by Pennsylvania health officials last week from its latest update of national measles data. The move publicly challenges the accuracy of the state's death determinations in an extraordinary move that breaks…",
-    "url": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Beth Mole",
-    "publishedAt": "2026-09-01T18:21:16.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/GettyImages-1207345894-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "352cd54edff47711",
-    "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
-    "excerpt": "Let's be frank: Some of Google's recent Android feature Drops have been duds, offering little more than an expansion of Gemini summaries and chat functions. The new September Drop does have some Gemini flavor, but there are non-AI goodies, too. Your messaging threads are getting prettier and more…",
-    "url": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Ryan Whitwam",
-    "publishedAt": "2026-09-01T18:00:02.000Z",
-    "category": "ai",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4d63bf2c3468de16",
-    "title": "FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions",
-    "excerpt": "The Federal Trade Commission and 22 states sued Amazon yesterday, alleging that it has conducted a secret scheme to overcharge advertisers for seven years. \"Since 2019, Amazon.com, Inc. has secretly and systematically overcharged its approximately 1.2 million advertising customers by manipulating…",
-    "url": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Jon Brodkin",
-    "publishedAt": "2026-09-01T17:51:17.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/amazon-logo-1152x648-1788283693.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "906b4166d86c63f6",
-    "title": "This is what a supercar was like a century ago",
-    "excerpt": "Bentley provided flights from Washington, DC, to Monterey, California, and accommodation so Ars could drive the new Supersports and ride in a preproduction Torcal EV, which we wrote about last week. While we were there, we went for a ride in something quite old. Ars does not accept paid editorial…",
-    "url": "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Jonathan M. Gitlin",
-    "publishedAt": "2026-09-01T17:34:16.000Z",
-    "category": "Science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/1926-Bentley-Super-Sports-8-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "8b6bd4113e2b3368",
     "title": "ReactOS 0.4.16 serves '90s Windows nostalgia with fewer bugs",
     "excerpt": "If you're pining away for the days when Windows ran well on 64 MB of RAM, there's a new version of open source NT clone ReactOS promising easier installation and fewer bugs. ReactOS 0.4.16 was announced over the weekend after a year and a half of development, and its list of improvements is…",
@@ -2647,19 +2678,6 @@
     "publishedAt": "2026-09-01T16:06:00.000Z",
     "category": "ai",
     "imageUrl": "https://image.theregister.com/?imageId=2607118&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "5a299e138f860b87",
-    "title": "It turns out that Orion's much-maligned heat shield performed really well",
-    "excerpt": "Perhaps the biggest question going into the Artemis II mission this spring was how the heat shield at the base of the spacecraft would perform during reentry through Earth's atmosphere. The ablative heat shield, designed to char upon reentry while keeping the crew safe, had experienced unexpected…",
-    "url": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Eric Berger",
-    "publishedAt": "2026-09-01T14:46:28.000Z",
-    "category": "science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/heat-shield-nasa-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2736,19 +2754,6 @@
     "sourceHomepage": "https://www.phoronix.com",
     "author": "Michael Larabel",
     "publishedAt": "2026-09-01T10:01:31.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "2f73e20ce37a52ef",
-    "title": "EDAC Changes Merged For Linux 7.3 After Being Forgotten About During The Merge Window",
-    "excerpt": "While the Linux 7.3 merge window officially closed on Sunday with the Linux 7.3-rc1 release, the Error Detection And Correction \"EDAC\" subsystem changes were mistakenly forgotten about during the two week window. The pull request ended up being sent out on Monday evening and the late feature…",
-    "url": "https://www.phoronix.com/news/Linux-7.3-EDAC",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-01T09:52:03.000Z",
     "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1

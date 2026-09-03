@@ -1,24 +1,22 @@
 {
-  "lastBuild": "2026-09-03T19:22:13.478Z",
+  "lastBuild": "2026-09-03T21:50:20.024Z",
   "feedCount": 10,
   "successCount": 10,
   "failureCount": 0,
-  "articleCount": 214,
+  "articleCount": 215,
   "failures": [],
-  "duplicatesFound": 3,
+  "duplicatesFound": 2,
   "categories": {
-    "startups": 24,
-    "ai": 45,
-    "Hardware": 12,
-    "policy": 15,
+    "ai": 48,
     "science": 13,
-    "hardware": 26,
     "software": 29,
-    "Security": 3,
-    "security": 22,
+    "startups": 25,
+    "Software": 2,
+    "security": 23,
+    "hardware": 25,
     "crypto": 22,
-    "Software": 1,
-    "Startups": 1,
-    "Science": 1
+    "policy": 15,
+    "Hardware": 10,
+    "Security": 3
   }
 }
