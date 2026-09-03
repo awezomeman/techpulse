@@ -1,5 +1,44 @@
 [
   {
+    "id": "9f684fa4dde6c19b",
+    "title": "Dogecoin becomes only losing bet for Japan-listed firm as it sells altcoins for bitcoin",
+    "excerpt": "Remixpoint booked gains on ether, solana and XRP, but sold DOGE below its fiscal-year opening value as it concentrated its crypto holdings in bitcoin.",
+    "url": "https://www.coindesk.com/markets/2026/09/03/dogecoin-becomes-losing-bet-for-japan-listed-firm-remixpoint-as-it-sells-altcoins-for-bitcoin",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-09-03T04:58:05.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/04fb152863c85674cd150948d378fd8da5c2b2dc-1398x764.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "af64071cae598773",
+    "title": "Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%",
+    "excerpt": "Every major token is green over 24 hours, though only zcash and hyperliquid are holding gains on the week.",
+    "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-back-above-usd77-500-xrp-leads-majors-as-fed-hike-odds-near-66",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-09-03T04:22:40.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/5eaf572aba58a6d719b59cf2540c1075ac613d50-1512x840.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f905948665845927",
+    "title": "Global Heating Will Hit At Least 1.8C, UN Warns, and There Are 'No Good Outcomes'",
+    "excerpt": "An anonymous reader quotes a report from The Guardian: Global heating will reach at least 1.8C under even the most optimistic future, well beyond the Paris agreement goal of 1.5C, according to a UN report that warns every fraction of temperature rise intensifies destructive extreme weather, glacier…",
+    "url": "https://news.slashdot.org/story/26/09/02/2228245/global-heating-will-hit-at-least-18c-un-warns-and-there-are-no-good-outcomes?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-09-03T03:30:00.000Z",
+    "category": "Software",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "0e888144e0db7e3a",
     "title": "Lemonade 11.9 Local AI Server Released With Super Exciting AMD ROCm HRX Backend",
     "excerpt": "Lemonade 11.9 is out today as the newest feature release to this AMD-backed, open-source local AI server solution across Linux, Windows, and macOS. Lemonade has long been focused on offering \"100% free and private\" AI use with local hardware whether it be GPUs, CPUs, or NPUs. With Lemonade 11.9's…",
@@ -23,19 +62,6 @@
     "publishedAt": "2026-09-03T00:10:45.000Z",
     "category": "Hardware",
     "imageUrl": "https://www.engadget.com/img/gallery/adobe-brings-70-tools-from-photoshop-illustrator-and-more-to-slack/l-intro-1788393296.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d88dfbb9d82a9afb",
-    "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
-    "excerpt": "Article URL: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident Comments URL: https://news.ycombinator.com/item?id=49543841 Points: 77 # Comments: 63",
-    "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "stikit",
-    "publishedAt": "2026-09-02T23:08:47.000Z",
-    "category": "ai",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -104,10 +130,10 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "b49d955c085f9824",
+    "id": "6e96c111f32d0712",
     "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-    "excerpt": "Hi HN, I’m Lloyd, one of two founders of RonanRx. We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides. The path to RonanRx is fairly unconventional. During the…",
-    "url": "https://ronanrx.com/",
+    "excerpt": "Hi HN, I’m Lloyd, one of two founders of RonanRx ( https://ronanrx.com/ ). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides. The path to RonanRx is fairly…",
+    "url": "https://news.ycombinator.com/item?id=49543530",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "lloydarmbrust",
@@ -145,7 +171,7 @@
   {
     "id": "ae11cbdb1ce95a4b",
     "title": "Reasons robotics is hard",
-    "excerpt": "Article URL: https://secondthoughts.ai/p/14-reasons-robotics-is-hard Comments URL: https://news.ycombinator.com/item?id=49543191 Points: 27 # Comments: 5",
+    "excerpt": "Article URL: https://secondthoughts.ai/p/14-reasons-robotics-is-hard Comments URL: https://news.ycombinator.com/item?id=49543191 Points: 71 # Comments: 36",
     "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -166,19 +192,6 @@
     "publishedAt": "2026-09-02T21:49:26.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=247020&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "6e9b0d79af0faff4",
-    "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
-    "excerpt": "Article URL: https://www.bbc.com/news/articles/c86xpv8l9y9o Comments URL: https://news.ycombinator.com/item?id=49543007 Points: 89 # Comments: 43",
-    "url": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "yakkomajuri",
-    "publishedAt": "2026-09-02T21:46:33.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -379,7 +392,7 @@
   {
     "id": "413599201807f3fa",
     "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
-    "excerpt": "Article URL: https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf Comments URL: https://news.ycombinator.com/item?id=49541754 Points: 39 # Comments: 15",
+    "excerpt": "Article URL: https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf Comments URL: https://news.ycombinator.com/item?id=49541754 Points: 53 # Comments: 33",
     "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -450,22 +463,9 @@
     ]
   },
   {
-    "id": "9c1cae2e856a603a",
-    "title": "I wanna live an NPC life",
-    "excerpt": "Article URL: https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/ Comments URL: https://news.ycombinator.com/item?id=49541519 Points: 178 # Comments: 174",
-    "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "conferza",
-    "publishedAt": "2026-09-02T19:52:53.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "b90745bb976c0508",
     "title": "Fable 5.1 World Modeling",
-    "excerpt": "Article URL: https://github.com/PhiloLabs/fable51-worlds Comments URL: https://news.ycombinator.com/item?id=49541458 Points: 137 # Comments: 45",
+    "excerpt": "Article URL: https://github.com/PhiloLabs/fable51-worlds Comments URL: https://news.ycombinator.com/item?id=49541458 Points: 192 # Comments: 57",
     "url": "https://github.com/PhiloLabs/fable51-worlds",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -504,7 +504,7 @@
   {
     "id": "8aa10573a59369c8",
     "title": "Muse Spark 1.3",
-    "excerpt": "https://research.meta.ai/blog/introducing-muse-spark-1-3 Comments URL: https://news.ycombinator.com/item?id=49541256 Points: 374 # Comments: 247",
+    "excerpt": "https://research.meta.ai/blog/introducing-muse-spark-1-3 Comments URL: https://news.ycombinator.com/item?id=49541256 Points: 500 # Comments: 336",
     "url": "https://developer.meta.com/ai/models/muse-spark/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -590,7 +590,7 @@
   {
     "id": "f770f179ead4633f",
     "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
-    "excerpt": "Article URL: https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7 Comments URL: https://news.ycombinator.com/item?id=49540565 Points: 76 # Comments: 43",
+    "excerpt": "Article URL: https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7 Comments URL: https://news.ycombinator.com/item?id=49540565 Points: 111 # Comments: 67",
     "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -615,8 +615,8 @@
   },
   {
     "id": "1daec64550a440b4",
-    "title": "Embedded Rust RTOS vs. C RTOS",
-    "excerpt": "Article URL: https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/ Comments URL: https://news.ycombinator.com/item?id=49540415 Points: 54 # Comments: 24",
+    "title": "Async Rust vs RTOS showdown (2022)",
+    "excerpt": "Article URL: https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/ Comments URL: https://news.ycombinator.com/item?id=49540415 Points: 71 # Comments: 39",
     "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1066,7 +1066,7 @@
   {
     "id": "1e5b8618d900b42a",
     "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-    "excerpt": "https://deepmind.google/models/model-cards/gemini-3-8-flash/ Comments URL: https://news.ycombinator.com/item?id=49537553 Points: 813 # Comments: 478",
+    "excerpt": "https://deepmind.google/models/model-cards/gemini-3-8-flash/ Comments URL: https://news.ycombinator.com/item?id=49537553 Points: 944 # Comments: 534",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1170,7 +1170,7 @@
   {
     "id": "94851e28049dfa13",
     "title": "Google avoids a breakup of its ad tech business",
-    "excerpt": "https://archive.ph/rlAbY https://www.reuters.com/legal/litigation/google-defeats-us-b... Comments URL: https://news.ycombinator.com/item?id=49537131 Points: 252 # Comments: 168",
+    "excerpt": "https://archive.ph/rlAbY https://www.reuters.com/legal/litigation/google-defeats-us-b... Comments URL: https://news.ycombinator.com/item?id=49537131 Points: 335 # Comments: 245",
     "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1196,7 +1196,7 @@
   {
     "id": "7ba86f7b1ce262d8",
     "title": "Exit the Cave",
-    "excerpt": "Article URL: https://turtlespace.blog/p/exit-the-cave Comments URL: https://news.ycombinator.com/item?id=49536606 Points: 208 # Comments: 72",
+    "excerpt": "Article URL: https://turtlespace.blog/p/exit-the-cave Comments URL: https://news.ycombinator.com/item?id=49536606 Points: 237 # Comments: 84",
     "url": "https://turtlespace.blog/p/exit-the-cave",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1222,7 +1222,7 @@
   {
     "id": "e21378f22db2cf25",
     "title": "WebLLM: high-performance in-browser LLM inference engine",
-    "excerpt": "Article URL: https://github.com/mlc-ai/web-llm Comments URL: https://news.ycombinator.com/item?id=49536411 Points: 86 # Comments: 17",
+    "excerpt": "Article URL: https://github.com/mlc-ai/web-llm Comments URL: https://news.ycombinator.com/item?id=49536411 Points: 104 # Comments: 17",
     "url": "https://github.com/mlc-ai/web-llm",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1235,7 +1235,7 @@
   {
     "id": "b3e7eee395813d61",
     "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-    "excerpt": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 300 # Comments: 137",
+    "excerpt": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 363 # Comments: 168",
     "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1261,7 +1261,7 @@
   {
     "id": "0d4cf45aafbbfaab",
     "title": "Poisson Disk Sampling",
-    "excerpt": "Article URL: https://stripeacross.com/posts/poisson-disk-sampling/ Comments URL: https://news.ycombinator.com/item?id=49536177 Points: 125 # Comments: 18",
+    "excerpt": "Article URL: https://stripeacross.com/posts/poisson-disk-sampling/ Comments URL: https://news.ycombinator.com/item?id=49536177 Points: 144 # Comments: 19",
     "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1274,7 +1274,7 @@
   {
     "id": "2c6e9bf7a10d30c5",
     "title": "Biggest dark matter detector spots a single weird particle",
-    "excerpt": "Article URL: https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle Comments URL: https://news.ycombinator.com/item?id=49536079 Points: 243 # Comments: 82",
+    "excerpt": "Article URL: https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle Comments URL: https://news.ycombinator.com/item?id=49536079 Points: 271 # Comments: 90",
     "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1307,19 +1307,6 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-09-02T13:20:11.000Z",
     "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4c7cb9ef483ad182",
-    "title": "A note on subscription prices from LWN",
-    "excerpt": "Article URL: https://lwn.net/Articles/1090585/ Comments URL: https://news.ycombinator.com/item?id=49535752 Points: 675 # Comments: 133",
-    "url": "https://lwn.net/Articles/1090585/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "rwky",
-    "publishedAt": "2026-09-02T13:17:12.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1443,13 +1430,26 @@
   {
     "id": "ea0a1172a1f34237",
     "title": "Aging brains blend memories together instead of just forgetting them",
-    "excerpt": "Article URL: https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49535548 Points: 206 # Comments: 91",
+    "excerpt": "Article URL: https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49535548 Points: 248 # Comments: 113",
     "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "mdp2021",
     "publishedAt": "2026-09-02T12:59:09.000Z",
     "category": "science",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6da48b386c4af04e",
+    "title": "Can I opt out of my input or output data being used for training?",
+    "excerpt": "Article URL: https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training Comments URL: https://news.ycombinator.com/item?id=49535284 Points: 412 # Comments: 177",
+    "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "teekert",
+    "publishedAt": "2026-09-02T12:30:39.000Z",
+    "category": "ai",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -2052,6 +2052,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "ac538e395cadbf6e",
+    "title": "Show HN: OwnTime – a chess clock for your day's priorities",
+    "excerpt": "I made OwnTime to balance between competing priorities in my life. The idea is based on two main influences: the concept of \"roles\" from \"The 5 Choices\" (2015), and my repeated failure to effectively implement time blocking due to the necessary flexibility in my role. The app allows you to define…",
+    "url": "https://owntime.app/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "fmos",
+    "publishedAt": "2026-09-01T21:29:24.000Z",
+    "category": "policy",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "11e7c4e73d4260d3",
     "title": "Another Artifactory CVE under attack by AI agents or humans",
     "excerpt": "Security researchers reported that someone is exploiting CVE-2026-82329, a critical JFrog Artifactory authentication-bypass bug, just days after the vendor patched the 9.8-rated flaw. And we don't know if that someone is human. Artifactory is a widely used tool for managing software artifacts,…",
@@ -2062,19 +2075,6 @@
     "publishedAt": "2026-09-01T21:07:13.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=230216&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d37e1bc51c502638",
-    "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 Arrive With a 75% Cost Reduction For Fable Cache Reads",
-    "excerpt": "Anthropic has released Claude Fable 5.1 and Mythos 5.1, two versions of the same underlying model aimed at longer-running agentic work. \"For enterprise buyers, however, the release is about more than another round of benchmark gains,\" reports VentureBeat. \"Anthropic is simultaneously changing the…",
-    "url": "https://it.slashdot.org/story/26/09/01/2037255/anthropics-claude-fable-51-and-mythos-51-arrive-with-a-75-cost-reduction-for-fable-cache-reads?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-09-01T21:00:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -2208,6 +2208,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "67606d10dd450133",
+    "title": "Whistleblower warns Postal Service mail ballot system has catastrophic problems",
+    "excerpt": "Article URL: https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/ Comments URL: https://news.ycombinator.com/item?id=49524428 Points: 220 # Comments: 158",
+    "url": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "ck2",
+    "publishedAt": "2026-09-01T16:41:13.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "a4d09b7e78638621",
     "title": "Linux Gets A Reverse-Engineered Driver For ASUS ROG NVMe Enclosure RGB Lighting",
     "excerpt": "If you are into RGB lighting, you can even find NVMe external enclosures these days with RGB LEDs like the ASUS ROG Strix Arion. Now thanks to reverse engineering there is a Linux driver for allowing the RGB lighting controls for the ASUS ROG Strix Arion NVMe enclosure...",
@@ -2299,19 +2312,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "19052af5dc6eb3d3",
-    "title": "Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs",
-    "excerpt": "The protocol aims to give fintechs and investors a faster way to recover losses from DeFi hacks, while letting XRP, bitcoin and XLM holders earn yield by backing that protection.",
-    "url": "https://www.coindesk.com/business/2026/08/31/firelight-raises-usd8-million-expands-beyond-xrp-as-it-aims-to-make-defi-less-scary-for-fintechs",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Krisztian Sandor",
-    "publishedAt": "2026-09-01T13:56:44.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/88b0247a20e283b64794175f63ff7a428b202fc4-1674x974.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "6b53f4da027449a6",
     "title": "Lekuo SouthBridge Max Puts An AMD B650 Chipset Onto A PCIe Card For More I/O",
     "excerpt": "For those looking at expanding the SATA, NVMe, and/or the USB/USB-C capabilities of your system, the Lekuo SouthBridge Max PB65MX3 is an interesting creation that I have been trying out. The Lekuo SouthBridge Max puts an AMD B650 chipset onto a low-profile PCIe add-in card to provide all of the…",
@@ -2325,16 +2325,16 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "539189c12fbb3c66",
-    "title": "Bitcoin enters ‘Rektember’ as rate-hike risk combines with seasonality to threaten rally",
-    "excerpt": "September has historically been a poor month for risk assets in general, and bitcoin, in particular.",
-    "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-enters-rektember-as-rate-hike-risks-threaten-its-august-rally",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "James Van Straten",
-    "publishedAt": "2026-09-01T13:55:26.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/4e5448765db1f69c5f0ecf3ade14cd0e458f28f6-1362x868.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "id": "3358acf7c0040137",
+    "title": "We could save petabytes of cache storage with Zstandard and Pingora",
+    "excerpt": "Article URL: https://blog.cloudflare.com/cache-transcoding/ Comments URL: https://news.ycombinator.com/item?id=49521909 Points: 92 # Comments: 34",
+    "url": "https://blog.cloudflare.com/cache-transcoding/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "torutofu",
+    "publishedAt": "2026-09-01T13:41:11.000Z",
+    "category": "startups",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
