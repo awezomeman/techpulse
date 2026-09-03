@@ -1,5 +1,44 @@
 [
   {
+    "id": "0e888144e0db7e3a",
+    "title": "Lemonade 11.9 Local AI Server Released With Super Exciting AMD ROCm HRX Backend",
+    "excerpt": "Lemonade 11.9 is out today as the newest feature release to this AMD-backed, open-source local AI server solution across Linux, Windows, and macOS. Lemonade has long been focused on offering \"100% free and private\" AI use with local hardware whether it be GPUs, CPUs, or NPUs. With Lemonade 11.9's…",
+    "url": "https://www.phoronix.com/news/Lemonade-11.9-ROCm-HRX",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-03T00:32:40.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f36aef483f2c1b3d",
+    "title": "Adobe brings 70+ tools from Photoshop, Illustrator and more to Slack",
+    "excerpt": "Adobe added dozens of tools from its creative apps like Illustrator and Premiere Pro into Slack, allowing you to ask Slackbot to do the Photoshopping for you.",
+    "url": "https://www.engadget.com/2250051/adobe-slack-over-70-tools-added/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Anna Washenko)",
+    "publishedAt": "2026-09-03T00:10:45.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/adobe-brings-70-tools-from-photoshop-illustrator-and-more-to-slack/l-intro-1788393296.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d88dfbb9d82a9afb",
+    "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+    "excerpt": "Article URL: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident Comments URL: https://news.ycombinator.com/item?id=49543841 Points: 77 # Comments: 63",
+    "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "stikit",
+    "publishedAt": "2026-09-02T23:08:47.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "a3db9b4efb8993e9",
     "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
     "excerpt": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
@@ -10,6 +49,19 @@
     "publishedAt": "2026-09-02T23:01:00.000Z",
     "category": "ai",
     "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a54a8dca955e6cef",
+    "title": "Uber beats Waymo as first to launch robotaxis in London",
+    "excerpt": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve , a UK-based startup, and will initially feature safety drivers behind the wheel. The launch is a milestone for Uber, which has been plotting a UK…",
+    "url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Andrew J. Hawkins",
+    "publishedAt": "2026-09-02T23:00:00.000Z",
+    "category": "startups",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Photo-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -91,6 +143,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "ae11cbdb1ce95a4b",
+    "title": "Reasons robotics is hard",
+    "excerpt": "Article URL: https://secondthoughts.ai/p/14-reasons-robotics-is-hard Comments URL: https://news.ycombinator.com/item?id=49543191 Points: 27 # Comments: 5",
+    "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "ddp26",
+    "publishedAt": "2026-09-02T22:02:30.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "fcf2571bda784fc4",
     "title": "VMware swings its focus back to low-end server virt, promises vSphere Standard upgrade",
     "excerpt": "EXCLUSIVE What's old is new again as VMware will soon release an updated version of vSphere Standard, the low-end server virtualization bundle that it hasn’t significantly changed for years and has scarcely promoted since its 2023 acquisition by Broadcom. VMware’s hero product for the last three…",
@@ -106,7 +171,7 @@
   {
     "id": "6e9b0d79af0faff4",
     "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
-    "excerpt": "Article URL: https://www.bbc.com/news/articles/c86xpv8l9y9o Comments URL: https://news.ycombinator.com/item?id=49543007 Points: 18 # Comments: 2",
+    "excerpt": "Article URL: https://www.bbc.com/news/articles/c86xpv8l9y9o Comments URL: https://news.ycombinator.com/item?id=49543007 Points: 89 # Comments: 43",
     "url": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -192,19 +257,6 @@
     "publishedAt": "2026-09-02T21:00:00.000Z",
     "category": "startups",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "e528b34d60566bdf",
-    "title": "Mamdani Bans AI in NYC Schools",
-    "excerpt": "Article URL: https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html Comments URL: https://news.ycombinator.com/item?id=49542443 Points: 104 # Comments: 62",
-    "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "handfuloflight",
-    "publishedAt": "2026-09-02T20:57:04.000Z",
-    "category": "hardware",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -327,7 +379,7 @@
   {
     "id": "413599201807f3fa",
     "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
-    "excerpt": "Article URL: https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf Comments URL: https://news.ycombinator.com/item?id=49541754 Points: 33 # Comments: 11",
+    "excerpt": "Article URL: https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf Comments URL: https://news.ycombinator.com/item?id=49541754 Points: 39 # Comments: 15",
     "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -400,7 +452,7 @@
   {
     "id": "9c1cae2e856a603a",
     "title": "I wanna live an NPC life",
-    "excerpt": "Article URL: https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/ Comments URL: https://news.ycombinator.com/item?id=49541519 Points: 153 # Comments: 146",
+    "excerpt": "Article URL: https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/ Comments URL: https://news.ycombinator.com/item?id=49541519 Points: 178 # Comments: 174",
     "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -413,7 +465,7 @@
   {
     "id": "b90745bb976c0508",
     "title": "Fable 5.1 World Modeling",
-    "excerpt": "Article URL: https://github.com/PhiloLabs/fable51-worlds Comments URL: https://news.ycombinator.com/item?id=49541458 Points: 93 # Comments: 34",
+    "excerpt": "Article URL: https://github.com/PhiloLabs/fable51-worlds Comments URL: https://news.ycombinator.com/item?id=49541458 Points: 137 # Comments: 45",
     "url": "https://github.com/PhiloLabs/fable51-worlds",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -452,7 +504,7 @@
   {
     "id": "8aa10573a59369c8",
     "title": "Muse Spark 1.3",
-    "excerpt": "https://research.meta.ai/blog/introducing-muse-spark-1-3 Comments URL: https://news.ycombinator.com/item?id=49541256 Points: 291 # Comments: 203",
+    "excerpt": "https://research.meta.ai/blog/introducing-muse-spark-1-3 Comments URL: https://news.ycombinator.com/item?id=49541256 Points: 374 # Comments: 247",
     "url": "https://developer.meta.com/ai/models/muse-spark/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -538,7 +590,7 @@
   {
     "id": "f770f179ead4633f",
     "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
-    "excerpt": "Article URL: https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7 Comments URL: https://news.ycombinator.com/item?id=49540565 Points: 61 # Comments: 33",
+    "excerpt": "Article URL: https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7 Comments URL: https://news.ycombinator.com/item?id=49540565 Points: 76 # Comments: 43",
     "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -564,7 +616,7 @@
   {
     "id": "1daec64550a440b4",
     "title": "Embedded Rust RTOS vs. C RTOS",
-    "excerpt": "Article URL: https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/ Comments URL: https://news.ycombinator.com/item?id=49540415 Points: 47 # Comments: 21",
+    "excerpt": "Article URL: https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/ Comments URL: https://news.ycombinator.com/item?id=49540415 Points: 54 # Comments: 24",
     "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -662,19 +714,6 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-09-02T17:51:36.000Z",
     "category": "Hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "06de302643a6f016",
-    "title": "Earth's organisms developed via evolution. What if the cosmos did, too?",
-    "excerpt": "Last year, I wrote a speculative cosmology piece called Blowtorch Theory. It rather cheekily extended the American theoretical physicist Lee Smolin's wonderful, powerful, oddly neglected theory of cosmological natural selection; the idea that universes reproduce, with variation, leading to…",
-    "url": "https://www.smithsonianmag.com/science-nature/earths-organisms-developed-via-evolution-some-theorists-wonder-what-if-the-entire-cosmos-did-too-180989338/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "JulianPGough",
-    "publishedAt": "2026-09-02T17:46:42.000Z",
-    "category": "science",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -844,7 +883,7 @@
     "author": "Andrew Liszewski",
     "publishedAt": "2026-09-02T16:43:50.000Z",
     "category": "Hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -986,19 +1025,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "4e8e73255e4ec59c",
-    "title": "Google dodges another breakup attempt",
-    "excerpt": "US District Court Judge Leonie Brinkema declined the Justice Department's request to make Google sell off parts of its ad tech business, accepting milder remedies to restore competition to markets it illegally monopolized for years. Brinkema said she would adopt most of the behavioral changes…",
-    "url": "https://www.theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Lauren Feiner",
-    "publishedAt": "2026-09-02T15:42:17.000Z",
-    "category": "software",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/236780_Google_AntiTrust_Trial_Custom_Art_CVirginia__0000_4.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "9957457a839c27ca",
     "title": "Microsoft will stop finishing your sentences in Word and Outlook",
     "excerpt": "Microsoft is switching off text predictions by default in Word and Outlook after acknowledging that unwanted suggestions can interrupt rather than assist some users. The change is coming to Word for Windows, the web, iOS, and Android, as well as classic Outlook for Windows and Outlook for Mac. The…",
@@ -1040,7 +1066,7 @@
   {
     "id": "1e5b8618d900b42a",
     "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-    "excerpt": "https://deepmind.google/models/model-cards/gemini-3-8-flash/ Comments URL: https://news.ycombinator.com/item?id=49537553 Points: 755 # Comments: 452",
+    "excerpt": "https://deepmind.google/models/model-cards/gemini-3-8-flash/ Comments URL: https://news.ycombinator.com/item?id=49537553 Points: 813 # Comments: 478",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1144,7 +1170,7 @@
   {
     "id": "94851e28049dfa13",
     "title": "Google avoids a breakup of its ad tech business",
-    "excerpt": "https://archive.ph/rlAbY https://www.reuters.com/legal/litigation/google-defeats-us-b... Comments URL: https://news.ycombinator.com/item?id=49537131 Points: 187 # Comments: 105",
+    "excerpt": "https://archive.ph/rlAbY https://www.reuters.com/legal/litigation/google-defeats-us-b... Comments URL: https://news.ycombinator.com/item?id=49537131 Points: 252 # Comments: 168",
     "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1170,7 +1196,7 @@
   {
     "id": "7ba86f7b1ce262d8",
     "title": "Exit the Cave",
-    "excerpt": "Article URL: https://turtlespace.blog/p/exit-the-cave Comments URL: https://news.ycombinator.com/item?id=49536606 Points: 195 # Comments: 61",
+    "excerpt": "Article URL: https://turtlespace.blog/p/exit-the-cave Comments URL: https://news.ycombinator.com/item?id=49536606 Points: 208 # Comments: 72",
     "url": "https://turtlespace.blog/p/exit-the-cave",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1196,7 +1222,7 @@
   {
     "id": "e21378f22db2cf25",
     "title": "WebLLM: high-performance in-browser LLM inference engine",
-    "excerpt": "Article URL: https://github.com/mlc-ai/web-llm Comments URL: https://news.ycombinator.com/item?id=49536411 Points: 79 # Comments: 17",
+    "excerpt": "Article URL: https://github.com/mlc-ai/web-llm Comments URL: https://news.ycombinator.com/item?id=49536411 Points: 86 # Comments: 17",
     "url": "https://github.com/mlc-ai/web-llm",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1209,7 +1235,7 @@
   {
     "id": "b3e7eee395813d61",
     "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-    "excerpt": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 269 # Comments: 121",
+    "excerpt": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 300 # Comments: 137",
     "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1235,7 +1261,7 @@
   {
     "id": "0d4cf45aafbbfaab",
     "title": "Poisson Disk Sampling",
-    "excerpt": "Article URL: https://stripeacross.com/posts/poisson-disk-sampling/ Comments URL: https://news.ycombinator.com/item?id=49536177 Points: 115 # Comments: 17",
+    "excerpt": "Article URL: https://stripeacross.com/posts/poisson-disk-sampling/ Comments URL: https://news.ycombinator.com/item?id=49536177 Points: 125 # Comments: 18",
     "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1248,7 +1274,7 @@
   {
     "id": "2c6e9bf7a10d30c5",
     "title": "Biggest dark matter detector spots a single weird particle",
-    "excerpt": "Article URL: https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle Comments URL: https://news.ycombinator.com/item?id=49536079 Points: 221 # Comments: 69",
+    "excerpt": "Article URL: https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle Comments URL: https://news.ycombinator.com/item?id=49536079 Points: 243 # Comments: 82",
     "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1281,6 +1307,19 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-09-02T13:20:11.000Z",
     "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4c7cb9ef483ad182",
+    "title": "A note on subscription prices from LWN",
+    "excerpt": "Article URL: https://lwn.net/Articles/1090585/ Comments URL: https://news.ycombinator.com/item?id=49535752 Points: 675 # Comments: 133",
+    "url": "https://lwn.net/Articles/1090585/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "rwky",
+    "publishedAt": "2026-09-02T13:17:12.000Z",
+    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1403,27 +1442,14 @@
   },
   {
     "id": "ea0a1172a1f34237",
-    "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
-    "excerpt": "Article URL: https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49535548 Points: 175 # Comments: 81",
+    "title": "Aging brains blend memories together instead of just forgetting them",
+    "excerpt": "Article URL: https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/ Comments URL: https://news.ycombinator.com/item?id=49535548 Points: 206 # Comments: 91",
     "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "mdp2021",
     "publishedAt": "2026-09-02T12:59:09.000Z",
     "category": "science",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "6da48b386c4af04e",
-    "title": "Can I opt out of my input or output data being used for training?",
-    "excerpt": "Article URL: https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training Comments URL: https://news.ycombinator.com/item?id=49535284 Points: 350 # Comments: 152",
-    "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "teekert",
-    "publishedAt": "2026-09-02T12:30:39.000Z",
-    "category": "ai",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1776,19 +1802,6 @@
     "publishedAt": "2026-09-02T09:30:00.000Z",
     "category": "hardware",
     "imageUrl": "https://www.engadget.com/img/gallery/acer-shows-off-its-ai-desktop-future-with-its-rtx-spark-design/l-intro-1788285235.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "37750816c1adeb9a",
-    "title": "Acer's Project DualPlay Mini is a gaming handheld that becomes a tiny laptop",
-    "excerpt": "Acer's Project DualPlay Mini is gaming handheld that becomes a tiny laptop.",
-    "url": "https://www.engadget.com/2248576/acers-project-dualplay-mini-is-gaming-handheld-that-becomes-a-tiny-laptop/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Matt Tate)",
-    "publishedAt": "2026-09-02T09:30:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/acers-project-dualplay-mini-is-gaming-handheld-that-becomes-a-tiny-laptop/l-intro-1788275125.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2737,19 +2750,6 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-08-31T12:55:11.000Z",
     "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "87eb7deb664c4258",
-    "title": "Servo 0.5 Released: DuckDuckGo Properly Rendering, Up To 10x Faster Text Rendering",
-    "excerpt": "Servo 0.5 is out today as the newest monthly update to this open-source, Rust-based browser engine. Servo 0.5 ships many notable enhancements for benefiting those running the Servoshell example browser or looking at Servo as an opportunity for embedded use...",
-    "url": "https://www.phoronix.com/news/Servo-0.5-Released",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-08-31T10:36:28.000Z",
-    "category": "crypto",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
