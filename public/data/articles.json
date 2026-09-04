@@ -1,5 +1,135 @@
 [
   {
+    "id": "14f6a8bdb67188bd",
+    "title": "Bernie Sanders Proposes Artificial Superintelligence Ban Amid Rogue AI Hackings",
+    "excerpt": "An anonymous reader quotes a report from The Hill: Sen. Bernie Sanders (I-Vt.) and Rep. Greg Casar (D-Texas) are calling for a permanent ban on the development and deployment of artificial superintelligence, citing a series of recent hackings involving \"rogue\" models. The bicameral duo announced…",
+    "url": "https://yro.slashdot.org/story/26/09/03/2222247/bernie-sanders-proposes-artificial-superintelligence-ban-amid-rogue-ai-hackings?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-09-04T03:30:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "18fc929e8be10ee1",
+    "title": "U.S. banking agency gives blockchain bank OpenReserve initial OK to operate",
+    "excerpt": "The Office of the Comptroller of the Currency granted a provisional charter to the new full-service bank, adding it to the growing mix of crypto-native institutions.",
+    "url": "https://www.coindesk.com/policy/2026/09/03/u-s-banking-agency-gives-blockchain-bank-openreserve-initial-ok-to-operate",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Jesse Hamilton",
+    "publishedAt": "2026-09-04T03:26:50.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/7150e9147434709d0f26c49d26f21b2219558bef-2803x1577.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "acffa6a1d39d13e9",
+    "title": "AMC CEO blasts Robinhood for stock token, putting synthetic shares in spotlight",
+    "excerpt": "Adam Aron said AMC has no connection to Robinhood’s tokenized shares, reviving questions around how stocks are brought onchain.",
+    "url": "https://www.coindesk.com/business/2026/09/03/amc-ceo-blasts-robinhood-for-stock-token-putting-synthetic-shares-in-spotlight",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Krisztian Sandor",
+    "publishedAt": "2026-09-04T03:03:25.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/38cd2b70cdca484bd9ec02cc2f08f9f8d4a1c857-2560x1707.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "67562a87e5cc91a9",
+    "title": "A Mysterious Kidney Disease Has Arrived in Texas",
+    "excerpt": "Article URL: https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/ Comments URL: https://news.ycombinator.com/item?id=49559992 Points: 5 # Comments: 1",
+    "url": "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "johntfella",
+    "publishedAt": "2026-09-04T02:54:16.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a3c20ed006a0acf3",
+    "title": "From Hookswitch to Grave",
+    "excerpt": "Article URL: https://computer.rip/2026-06-14-hookswitch-to-grave.html Comments URL: https://news.ycombinator.com/item?id=49559901 Points: 6 # Comments: 0",
+    "url": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "Sniffnoy",
+    "publishedAt": "2026-09-04T02:40:12.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e61fe5cf9b6ea9ea",
+    "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
+    "excerpt": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game , only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision. But unofficially, modders have already ported a leaked version of DLSS 5 to run on…",
+    "url": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Sean Hollister",
+    "publishedAt": "2026-09-04T01:49:25.000Z",
+    "category": "hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25256536/246993_Nvidia_RTX_4080_Super_TWarren_0002.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "19e537a600a96799",
+    "title": "Project Xanadu: Even More Hindsight",
+    "excerpt": "Article URL: https://gwern.net/xanadu Comments URL: https://news.ycombinator.com/item?id=49559522 Points: 22 # Comments: 2",
+    "url": "https://gwern.net/xanadu",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "andsoitis",
+    "publishedAt": "2026-09-04T01:45:23.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "920440924028e140",
+    "title": "Crusoe reportedly raises $3B at a $30B valuation",
+    "excerpt": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+    "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Marina Temkin",
+    "publishedAt": "2026-09-04T00:48:42.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ee6369b53b1f9569",
+    "title": "The unusually muted Tesla Cybercab launch",
+    "excerpt": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles,…",
+    "url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Andrew J. Hawkins",
+    "publishedAt": "2026-09-04T00:25:06.000Z",
+    "category": "software",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2265246421.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "c1b9ba1dae4e6e8f",
+    "title": "Ubuntu 26.10 Snapshot 3 Monthly ISOs Released For Testing",
+    "excerpt": "Released tonight is Ubuntu 26.10 \"Stonking Stingray\" Snapshot 3 as the newest monthly ISO candidates for Ubuntu Linux...",
+    "url": "https://www.phoronix.com/news/Ubuntu-26.10-Snapshot-3",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-04T00:15:30.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "486cb54304989c42",
     "title": "Audacity's new look is finally here, along with its largest feature update in years",
     "excerpt": "The popular free audio editor gets a colorful dark mode and granular editing tools.",
@@ -15,7 +145,7 @@
   {
     "id": "a3bc47ca52858483",
     "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
-    "excerpt": "INGLEWOOD, CA - JULY 19: A view of Halo Board inside the Intuit Dome, the Los Angeles Clippers new arena, during a press preview on July 19, 2024 in Inglewood, California. (Photo by Jevone Moore/Icon Sportswire via Getty Images) | Icon Sportswire via Getty Images Last September, Steve Ballmer…",
+    "excerpt": "A view of the Halo Board inside the Intuit Dome in 2024 | Icon Sportswire via Getty Images Last September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 million endorsement deal for his star player, Kawhi Leonard, that involved no actual…",
     "url": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
     "source": "The Verge",
     "sourceHomepage": "https://www.theverge.com",
@@ -23,19 +153,6 @@
     "publishedAt": "2026-09-03T23:37:37.000Z",
     "category": "startups",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2166198274.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "924d8db64ded3b7d",
-    "title": "Protecting Engineers' Skills in the AI Era",
-    "excerpt": "Article URL: https://spectrum.ieee.org/ai-engineer-skills Comments URL: https://news.ycombinator.com/item?id=49558302 Points: 17 # Comments: 7",
-    "url": "https://spectrum.ieee.org/ai-engineer-skills",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "rbanffy",
-    "publishedAt": "2026-09-03T23:00:04.000Z",
-    "category": "policy",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -79,8 +196,8 @@
   },
   {
     "id": "2486248b32503615",
-    "title": "GLP-1s Are Being Linked to Fewer Serious Infections, Including TB",
-    "excerpt": "Article URL: https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796 Comments URL: https://news.ycombinator.com/item?id=49558086 Points: 19 # Comments: 9",
+    "title": "GLP-1s are being linked to fewer serious infections, including TB",
+    "excerpt": "https://web.archive.org/web/20260903235256/https://gizmodo.c... Comments URL: https://news.ycombinator.com/item?id=49558086 Points: 74 # Comments: 41",
     "url": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -197,7 +314,7 @@
   {
     "id": "6379e22bcefbb3cd",
     "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-    "excerpt": "Article URL: https://armature.tech/blog/which-tools-coding-agents-install Comments URL: https://news.ycombinator.com/item?id=49557206 Points: 63 # Comments: 17",
+    "excerpt": "Article URL: https://armature.tech/blog/which-tools-coding-agents-install Comments URL: https://news.ycombinator.com/item?id=49557206 Points: 123 # Comments: 45",
     "url": "https://armature.tech/blog/which-tools-coding-agents-install",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -366,7 +483,7 @@
   {
     "id": "e3da911f76180810",
     "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-    "excerpt": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 148 # Comments: 81",
+    "excerpt": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 176 # Comments: 110",
     "url": "https://arcprize.org/blog/astra",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -431,7 +548,7 @@
   {
     "id": "ce01ffa2ae76baf8",
     "title": "The asteroid currently hitting front end web development",
-    "excerpt": "Article URL: https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/ Comments URL: https://news.ycombinator.com/item?id=49555233 Points: 61 # Comments: 57",
+    "excerpt": "Article URL: https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/ Comments URL: https://news.ycombinator.com/item?id=49555233 Points: 93 # Comments: 109",
     "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -535,7 +652,7 @@
   {
     "id": "45a86641ba677818",
     "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-    "excerpt": "Article URL: https://inference-docs.cerebras.ai/models/overview Comments URL: https://news.ycombinator.com/item?id=49554520 Points: 403 # Comments: 123",
+    "excerpt": "Article URL: https://inference-docs.cerebras.ai/models/overview Comments URL: https://news.ycombinator.com/item?id=49554520 Points: 473 # Comments: 143",
     "url": "https://inference-docs.cerebras.ai/models/overview",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -785,7 +902,7 @@
   {
     "id": "f4fefbf4381ea645",
     "title": "How concerned should we be about Astra's recurrent architecture?",
-    "excerpt": "Article URL: https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent Comments URL: https://news.ycombinator.com/item?id=49553321 Points: 77 # Comments: 38",
+    "excerpt": "Article URL: https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent Comments URL: https://news.ycombinator.com/item?id=49553321 Points: 102 # Comments: 59",
     "url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -915,7 +1032,7 @@
   {
     "id": "d42fb809241ff067",
     "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-    "excerpt": "Article URL: https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california Comments URL: https://news.ycombinator.com/item?id=49552572 Points: 122 # Comments: 35",
+    "excerpt": "Article URL: https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california Comments URL: https://news.ycombinator.com/item?id=49552572 Points: 181 # Comments: 60",
     "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -991,32 +1108,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "e6740316048d6706",
-    "title": "I held the first truly bezel-free phone",
-    "excerpt": "Cast your mind back a decade or so, and smartphone makers were obsessed with shrinking the bezel on phones. Screens got bigger, the black bars around them got smaller, and for a while it looked like truly edge-to-edge displays were imminent. Then, progress just stopped. The bezel shrunk down until…",
-    "url": "https://www.theverge.com/tech/985009/tecno-bezelless-concept-phone-ifa",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Dominic Preston",
-    "publishedAt": "2026-09-03T16:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/tecno-bezelless-concept-01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "93de9e831209bccd",
-    "title": "Circular’s new smart rings add contactless payments and vibrating alerts",
-    "excerpt": "Circular announced its new Ring 3 Series today as a follow-up to the Ring 2 that debuted at CES 2025 with upgraded sensors and FDA-cleared atrial fibrillation detection. The new Ring 3 collection consists of both a Pro model that carries forward those same health-tracking features, and a smaller…",
-    "url": "https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Andrew Liszewski",
-    "publishedAt": "2026-09-03T16:00:00.000Z",
-    "category": "startups",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/circular1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "a426f6080dba590b",
     "title": "Google rolls out AI-powered voice capabilities for Gmail, Docs and Keep",
     "excerpt": "Google makes its suite of voice tools available for Gmail, Docs and Live - at least if you're a paying customer.",
@@ -1071,7 +1162,7 @@
   {
     "id": "519991c639b3b5bf",
     "title": "K2 Horizon: A connected fleet of six open models",
-    "excerpt": "Article URL: https://ifm.ai/blog/k2/ Comments URL: https://news.ycombinator.com/item?id=49551760 Points: 238 # Comments: 78",
+    "excerpt": "Article URL: https://ifm.ai/blog/k2/ Comments URL: https://news.ycombinator.com/item?id=49551760 Points: 269 # Comments: 86",
     "url": "https://ifm.ai/blog/k2/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1149,7 +1240,7 @@
   {
     "id": "b837590e8bc38616",
     "title": ".name Termination",
-    "excerpt": "Article URL: https://neil.fraser.name/news/2026/09/03/ Comments URL: https://news.ycombinator.com/item?id=49550772 Points: 1246 # Comments: 355",
+    "excerpt": "Article URL: https://neil.fraser.name/news/2026/09/03/ Comments URL: https://news.ycombinator.com/item?id=49550772 Points: 1457 # Comments: 398",
     "url": "https://neil.fraser.name/news/2026/09/03/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1175,7 +1266,7 @@
   {
     "id": "debf643f0294e072",
     "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
-    "excerpt": "Article URL: https://anyhumanever.com/ Comments URL: https://news.ycombinator.com/item?id=49550698 Points: 439 # Comments: 217",
+    "excerpt": "Article URL: https://anyhumanever.com/ Comments URL: https://news.ycombinator.com/item?id=49550698 Points: 490 # Comments: 247",
     "url": "https://anyhumanever.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1407,6 +1498,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "0f5780a3c608314d",
+    "title": "Ask HN: Who is using MCP in production?",
+    "excerpt": "I’ve been following MCP since it first came out. It got a lot of attention early on, but I haven’t come across many people using it in production. I may simply have missed them. If you’re using MCP in production, what are you using it for? What advantages have you found over a normal API or direct…",
+    "url": "https://news.ycombinator.com/item?id=49548600",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "sukit",
+    "publishedAt": "2026-09-03T11:21:18.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "6d39c853464cf350",
     "title": "The yen is surging and it’s helping bitcoin, for now",
     "excerpt": "Yen's rise has led to a broad-based USD weakness, driving the Dollar Index lower. BTC and gold are loving it, for now.",
@@ -1435,7 +1539,7 @@
   {
     "id": "f519b6f605b220ae",
     "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
-    "excerpt": "Article URL: https://twitter.com/GergelyOrosz/status/2095453567955968398 Comments URL: https://news.ycombinator.com/item?id=49548452 Points: 264 # Comments: 180",
+    "excerpt": "Article URL: https://twitter.com/GergelyOrosz/status/2095453567955968398 Comments URL: https://news.ycombinator.com/item?id=49548452 Points: 290 # Comments: 200",
     "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1456,19 +1560,6 @@
     "publishedAt": "2026-09-03T11:00:00.000Z",
     "category": "crypto",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b9197b873957814a",
-    "title": "Audacity 4.0",
-    "excerpt": "Article URL: https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0 Comments URL: https://news.ycombinator.com/item?id=49548395 Points: 1028 # Comments: 226",
-    "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "ClydeN",
-    "publishedAt": "2026-09-03T10:53:08.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1494,19 +1585,6 @@
     "author": "Shaurya Malwa",
     "publishedAt": "2026-09-03T10:42:15.000Z",
     "category": "crypto",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b5557b71094c2a70",
-    "title": "Gloria Steinem has died",
-    "excerpt": "https://www.nytimes.com/2026/09/03/us/politics/gloria-steine... , https://archive.ph/cfC1K Comments URL: https://news.ycombinator.com/item?id=49548256 Points: 126 # Comments: 51",
-    "url": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "mellosouls",
-    "publishedAt": "2026-09-03T10:31:18.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1747,26 +1825,13 @@
   {
     "id": "5e8d258a0f8644bf",
     "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-    "excerpt": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 166 # Comments: 45",
+    "excerpt": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007 Comments URL: https://news.ycombinator.com/item?id=49544762 Points: 213 # Comments: 63",
     "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "gmays",
     "publishedAt": "2026-09-03T01:11:22.000Z",
     "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "001199a44a810ddf",
-    "title": "GPS glitched across the US by as much as 33 feet",
-    "excerpt": "Article URL: https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before Comments URL: https://news.ycombinator.com/item?id=49544618 Points: 96 # Comments: 35",
-    "url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "thread_id",
-    "publishedAt": "2026-09-03T00:49:07.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1792,19 +1857,6 @@
     "sourceHomepage": "https://techcrunch.com",
     "author": "TechCrunch Events",
     "publishedAt": "2026-09-02T23:01:00.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ca24c75ccec25c13",
-    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-    "excerpt": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-    "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Marina Temkin",
-    "publishedAt": "2026-09-02T22:44:56.000Z",
     "category": "ai",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -1885,19 +1937,6 @@
     "publishedAt": "2026-09-02T21:20:03.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/us-capitol-1152x648-1777657457.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "e139f9c30f78dc15",
-    "title": "CERN Transitioning From RHEL To Debian",
-    "excerpt": "Longtime Slashdot reader Microsplat: CERN plans to have all 2,200+ industrial computers and embedded systems in its accelerator-control infrastructure running Debian 13 by the end of 2026. These are systems used for accelerator control, laboratory equipment and other operational functions ... They…",
-    "url": "https://linux.slashdot.org/story/26/09/02/2041220/cern-transitioning-from-rhel-to-debian?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-09-02T21:00:00.000Z",
-    "category": "startups",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -2411,19 +2450,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "f7730551b0141dfc",
-    "title": "Capital B aims to add 376 BTC to bitcoin treasury following $8.8 million Adam Back investment",
-    "excerpt": "The Euronext Growth Paris-listed firm issued 13,181,030 shares with four warrants each at 58 euro cents per share, according to a filing on Wednesday.",
-    "url": "https://www.coindesk.com/business/2026/08/29/capital-b-aims-to-add-376-btc-to-bitcoin-treasury-following-usd8-8-million-adam-back-investment",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Francisco Rodrigues",
-    "publishedAt": "2026-09-02T11:45:16.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/eb1213d697ee4f34dc50df438335bf53f4cf7d50-4498x3000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "401d3758d0c6c1aa",
     "title": "London Tube closes the 5G gap with streets above",
     "excerpt": "Mobile coverage on parts of London's Underground now rivals the streets above for 5G availability and signal strength, according to analysis by network intelligence biz Ookla. Cellular support has been rolling out across the Tube since Mayor Sadiq Khan promised in 2021 to connect all stations and…",
@@ -2434,19 +2460,6 @@
     "publishedAt": "2026-09-02T11:19:30.000Z",
     "category": "ai",
     "imageUrl": "https://image.theregister.com/?imageId=249452&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "86226bb10d7f458a",
-    "title": "A Fed rate increase would be a mistake, some observers say as bitcoin, gold, stocks fall",
-    "excerpt": "Your day-ahead look for Sept. 2, 2026",
-    "url": "https://www.coindesk.com/daybook-us/2026/09/02/a-fed-rate-increase-would-be-a-mistake-some-observers-say-as-bitcoin-gold-stocks-fall",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Omkar Godbole",
-    "publishedAt": "2026-09-02T11:14:58.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/86094ea78f944f140cc21b29434392b1d1380382-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2731,19 +2744,6 @@
     "sourceHomepage": "https://www.phoronix.com",
     "author": "Michael Larabel",
     "publishedAt": "2026-09-01T10:15:20.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "497c87796d7af762",
-    "title": "The Linux Kernel AI Flood, Linux 7.2 Release & Other August Highlights",
-    "excerpt": "It was a very busy month of August with the Linux kernel developers continue to be flooded with AI/LLM-generated patches and bug reports. Plus there was the general resolution on AI usage within the Debian project and other open-source projects now evolving in the AI era. With the Linux 7.2 stable…",
-    "url": "https://www.phoronix.com/news/August-2026-Highlights",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-01T10:01:31.000Z",
     "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
