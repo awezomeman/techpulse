@@ -1,5 +1,148 @@
 [
   {
+    "id": "234d1f722727c86c",
+    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "excerpt": "The round is being raised just months after the robot data startup exited from stealth.",
+    "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Marina Temkin",
+    "publishedAt": "2026-09-04T23:36:14.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "c7bac135042a53c6",
+    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+    "excerpt": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+    "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Rebecca Bellan",
+    "publishedAt": "2026-09-04T23:15:11.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "11cb31cdc9cbd100",
+    "title": "How to see what's taking up space on your Windows PC",
+    "excerpt": "Use a methodical approach to see what's using the most space on your PC and easily clean it up.",
+    "url": "https://www.engadget.com/2247848/how-to-see-whats-taking-up-space-windows/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Ben Stegner)",
+    "publishedAt": "2026-09-04T23:00:00.000Z",
+    "category": "policy",
+    "imageUrl": "https://www.engadget.com/img/gallery/how-to-see-whats-taking-up-space-on-your-windows-pc/l-intro-1787945949.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "38195d6e89a3d6f2",
+    "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
+    "excerpt": "The BepiColombo mission cleared a major milestone this week in the final stretch of an eight-year interplanetary voyage to Mercury, the hard-to-reach, scorching hot iron world at the Solar System's innermost frontier. The robotic science mission, with a price tag of nearly $2 billion, is led by the…",
+    "url": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Stephen Clark",
+    "publishedAt": "2026-09-04T22:49:17.000Z",
+    "category": "science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Mercury_Transfer_Module_separation-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "96676fa55b7e84a2",
+    "title": "Can guitar frets perform multiplication?",
+    "excerpt": "Article URL: https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html Comments URL: https://news.ycombinator.com/item?id=49571047 Points: 4 # Comments: 0",
+    "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "wibbily",
+    "publishedAt": "2026-09-04T22:40:30.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "742cf6e98adedcf1",
+    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+    "excerpt": "Self-identifying OpenAI agents posted 18,000 messages to a public wiki that discussed ways for other agents to bypass security sandbox restrictions during what was likely internal testing designed to gauge the agents’ hacking abilities, researchers said Friday . In all, agents with 3,700 distinct…",
+    "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Dan Goodin",
+    "publishedAt": "2026-09-04T22:17:36.000Z",
+    "category": "ai",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "969cb59a59bd8182",
+    "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+    "excerpt": "Article URL: https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx Comments URL: https://news.ycombinator.com/item?id=49570772 Points: 74 # Comments: 31",
+    "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "karakoram",
+    "publishedAt": "2026-09-04T22:03:16.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ac08d0012bb6deb6",
+    "title": "The Tetris Company wants nothing to do with the White House's new copycat game",
+    "excerpt": "Tetris knockoff 'Build the Wall' is one of six new games hosted on the White House website, and The Tetris Company is not happy.",
+    "url": "https://www.engadget.com/2251585/the-tetris-company-wants-nothing-to-do-with-the-white-house-s-new-copycat-game/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Ian Carlos Campbell)",
+    "publishedAt": "2026-09-04T22:01:12.000Z",
+    "category": "policy",
+    "imageUrl": "https://www.engadget.com/img/gallery/the-tetris-company-wants-nothing-to-do-with-the-white-houses-new-copycat-game/l-intro-1788559067.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6a5cb4a438703700",
+    "title": "Actively exploited sandbox RCE in all Chromium versions",
+    "excerpt": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046 Comments URL: https://news.ycombinator.com/item?id=49570669 Points: 90 # Comments: 34",
+    "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "negura",
+    "publishedAt": "2026-09-04T21:52:01.000Z",
+    "category": "security",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f1a9d0f7fd014aee",
+    "title": "Icons as a Service",
+    "excerpt": "Article URL: https://nravic.com/blog/images/ Comments URL: https://news.ycombinator.com/item?id=49570597 Points: 8 # Comments: 0",
+    "url": "https://nravic.com/blog/images/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "nravic",
+    "publishedAt": "2026-09-04T21:44:59.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0c6009cf40693d37",
+    "title": "GPT-6 Astra on OpenRouter",
+    "excerpt": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 67 # Comments: 29",
+    "url": "https://openrouter.ai/openai/gpt-6-astra",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "Topfi",
+    "publishedAt": "2026-09-04T21:39:19.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "15d18e641db586c8",
     "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
     "excerpt": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulating last October. But more importantly, all the…",
@@ -10,6 +153,19 @@
     "publishedAt": "2026-09-04T21:23:50.000Z",
     "category": "startups",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Audacity-4.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d75d03363ebffae1",
+    "title": "Updates on HEIR, the Homomorphic Encryption Compiler Project",
+    "excerpt": "Article URL: https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49570328 Points: 14 # Comments: 0",
+    "url": "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "turtleyacht",
+    "publishedAt": "2026-09-04T21:16:16.000Z",
+    "category": "security",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -39,22 +195,22 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "68c7c29da3232ed5",
-    "title": "Fermat's Last Theorem: Anthropic has beaten me to it",
-    "excerpt": "Article URL: https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/ Comments URL: https://news.ycombinator.com/item?id=49570133 Points: 22 # Comments: 2",
-    "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "ravenical",
-    "publishedAt": "2026-09-04T21:00:02.000Z",
+    "id": "fc5efc895a1308e3",
+    "title": "Anthropic lays groundwork for bots that shop for you",
+    "excerpt": "Anthropic has blueprints for building e-commerce bots that shop on behalf of clients. That's not something many consumers want at the moment, but the AI biz this week published a set of templates for Claude-based shopping agents and merchant agents in the hope of encouraging more e-commerce…",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/04/anthropic-lays-groundwork-for-bots-that-shop-for-you/5294621",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-04T20:36:07.000Z",
     "category": "ai",
-    "imageUrl": null,
+    "imageUrl": "https://image.theregister.com/?imageId=5294637&width=800",
     "readTimeMinutes": 1
   },
   {
     "id": "5553f4409f200ed4",
-    "title": "Statichost.eu – 100% European static site hosting",
-    "excerpt": "Article URL: https://www.statichost.eu/ Comments URL: https://news.ycombinator.com/item?id=49569896 Points: 30 # Comments: 6",
+    "title": "Statichost.eu – European static site hosting",
+    "excerpt": "Article URL: https://www.statichost.eu/ Comments URL: https://news.ycombinator.com/item?id=49569896 Points: 132 # Comments: 42",
     "url": "https://www.statichost.eu/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -67,7 +223,7 @@
   {
     "id": "7629c6c86939f891",
     "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
-    "excerpt": "A six-week-old baby girl in Lancaster, Pennsylvania, died from measles, the county coroner confirmed to local press Friday. Stephen Diamantoni, a Republican first elected coroner in 2007, told Lancaster Online that the baby died at home. \"I believe it was the 18th of August,\" he said. He also noted…",
+    "excerpt": "A six-week-old baby girl in Lancaster, Pennsylvania, died from measles, the county coroner confirmed to local press on Friday. Stephen Diamantoni, a Republican elected coroner in 2007, told Lancaster Online that the baby died at home. \"I believe it was the 18th of August,\" he said. He also noted…",
     "url": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
     "source": "Ars Technica",
     "sourceHomepage": "https://arstechnica.com",
@@ -79,8 +235,8 @@
   },
   {
     "id": "d277c91cddfb6b60",
-    "title": "How to Create a Tor Exit Node",
-    "excerpt": "Article URL: https://madpsy.uk/how-to-create-a-tor-exit-node/ Comments URL: https://news.ycombinator.com/item?id=49569702 Points: 13 # Comments: 9",
+    "title": "How to Create a Tor Exit Node (2015)",
+    "excerpt": "Article URL: https://madpsy.uk/how-to-create-a-tor-exit-node/ Comments URL: https://news.ycombinator.com/item?id=49569702 Points: 31 # Comments: 18",
     "url": "https://madpsy.uk/how-to-create-a-tor-exit-node/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -93,7 +249,7 @@
   {
     "id": "ecddddcc43702dbb",
     "title": "An open DNS recursive service for free security and high privacy",
-    "excerpt": "Article URL: https://quad9.net/ Comments URL: https://news.ycombinator.com/item?id=49569663 Points: 17 # Comments: 4",
+    "excerpt": "Article URL: https://quad9.net/ Comments URL: https://news.ycombinator.com/item?id=49569663 Points: 48 # Comments: 9",
     "url": "https://quad9.net/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -101,6 +257,19 @@
     "publishedAt": "2026-09-04T20:13:08.000Z",
     "category": "policy",
     "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "43068f7201e79432",
+    "title": "AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets",
+    "excerpt": "Machine learning researchers have a new and expensive option for doing local AI. AMD just raided its spare parts bin and cobbled together a DGX Station rival boasting up to 576 GB of HBM3e memory that it’s calling the Threadripper Halo. Announced at IFA 2026, the system, which is set to launch next…",
+    "url": "https://www.theregister.com/on-prem/2026/09/04/amds-threadripper-halo-is-a-local-ai-workstation-for-researchers-with-deep-pockets/5294616",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-04T20:12:11.000Z",
+    "category": "hardware",
+    "imageUrl": "https://image.theregister.com/?imageId=5294624&width=800",
     "readTimeMinutes": 1
   },
   {
@@ -132,7 +301,7 @@
   {
     "id": "fc8b777bd4955741",
     "title": "Can AI design circuit boards yet?",
-    "excerpt": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 64 # Comments: 49",
+    "excerpt": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 128 # Comments: 72",
     "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -169,9 +338,22 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "23c040b7e11ea91f",
+    "title": "ASCII smuggling isn't just an AI security risk",
+    "excerpt": "Fraudsters have found a new use for ASCII smuggling, typically used to hide malicious prompts intended for AI models, in an old-school attack method: email phishing. Microsoft uncovered a massive phishing campaign using invisible Unicode tag characters that peaked at more than 2.37 million messages…",
+    "url": "https://www.theregister.com/security/2026/09/04/ascii-smuggling-isnt-just-an-ai-security-risk/5294595",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-04T19:23:25.000Z",
+    "category": "security",
+    "imageUrl": "https://image.theregister.com/?imageId=258480&width=800",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "2fb0f70549546b1e",
     "title": "Government Rails Site Hit Hours After CVE Patch",
-    "excerpt": "Article URL: https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/ Comments URL: https://news.ycombinator.com/item?id=49568828 Points: 43 # Comments: 12",
+    "excerpt": "Article URL: https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/ Comments URL: https://news.ycombinator.com/item?id=49568828 Points: 63 # Comments: 14",
     "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -197,7 +379,7 @@
   {
     "id": "2b4381bb13faabd5",
     "title": "Fermat's Last Theorem in Lean 4",
-    "excerpt": "Article URL: https://github.com/anthropics/fermats-last-theorem Comments URL: https://news.ycombinator.com/item?id=49568697 Points: 19 # Comments: 3",
+    "excerpt": "Article URL: https://github.com/anthropics/fermats-last-theorem Comments URL: https://news.ycombinator.com/item?id=49568697 Points: 47 # Comments: 10",
     "url": "https://github.com/anthropics/fermats-last-theorem",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -210,7 +392,7 @@
   {
     "id": "fd4e0b99ad940433",
     "title": "Shutting down our public encrypted DNS",
-    "excerpt": "Article URL: https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead Comments URL: https://news.ycombinator.com/item?id=49568579 Points: 152 # Comments: 51",
+    "excerpt": "Article URL: https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead Comments URL: https://news.ycombinator.com/item?id=49568579 Points: 209 # Comments: 76",
     "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -223,7 +405,7 @@
   {
     "id": "e94fc2f0f03f5691",
     "title": "Formalizing Fermat's Last Theorem",
-    "excerpt": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h... Comments URL: https://news.ycombinator.com/item?id=49568506 Points: 293 # Comments: 176",
+    "excerpt": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h... Comments URL: https://news.ycombinator.com/item?id=49568506 Points: 422 # Comments: 273",
     "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -275,7 +457,7 @@
   {
     "id": "96d714b5e5dc11b9",
     "title": "The Rust React Compiler is now native in Vite",
-    "excerpt": "Article URL: https://blog.master.dev/react-now-rusted-all-the-way-out/ Comments URL: https://news.ycombinator.com/item?id=49567873 Points: 75 # Comments: 13",
+    "excerpt": "Article URL: https://blog.master.dev/react-now-rusted-all-the-way-out/ Comments URL: https://news.ycombinator.com/item?id=49567873 Points: 101 # Comments: 19",
     "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -353,7 +535,7 @@
   {
     "id": "9c82c07570c3e559",
     "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
-    "excerpt": "Article URL: https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html Comments URL: https://news.ycombinator.com/item?id=49567310 Points: 35 # Comments: 79",
+    "excerpt": "Article URL: https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html Comments URL: https://news.ycombinator.com/item?id=49567310 Points: 59 # Comments: 146",
     "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -392,7 +574,7 @@
   {
     "id": "efb32cf2a2d830f1",
     "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
-    "excerpt": "Article URL: https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/ Comments URL: https://news.ycombinator.com/item?id=49567053 Points: 244 # Comments: 138",
+    "excerpt": "Article URL: https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/ Comments URL: https://news.ycombinator.com/item?id=49567053 Points: 303 # Comments: 187",
     "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -418,7 +600,7 @@
   {
     "id": "f811cada5ee199e3",
     "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-    "excerpt": "Article URL: https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/ Comments URL: https://news.ycombinator.com/item?id=49566788 Points: 46 # Comments: 27",
+    "excerpt": "Article URL: https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/ Comments URL: https://news.ycombinator.com/item?id=49566788 Points: 58 # Comments: 29",
     "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -535,26 +717,13 @@
   {
     "id": "b9d9e17ac142a3f5",
     "title": "deSEC – Free Secure DNS",
-    "excerpt": "Article URL: https://desec.io/ Comments URL: https://news.ycombinator.com/item?id=49566193 Points: 84 # Comments: 31",
+    "excerpt": "Article URL: https://desec.io/ Comments URL: https://news.ycombinator.com/item?id=49566193 Points: 98 # Comments: 39",
     "url": "https://desec.io/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "gurjeet",
     "publishedAt": "2026-09-04T15:38:58.000Z",
     "category": "policy",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a7a3a65935fc9627",
-    "title": "Corporate America is getting hooked on open-source AI",
-    "excerpt": "https://archive.is/kmOqm Comments URL: https://news.ycombinator.com/item?id=49566137 Points: 227 # Comments: 212",
-    "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "aaraujo002",
-    "publishedAt": "2026-09-04T15:33:45.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -871,19 +1040,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "4ac59570d769a269",
-    "title": "IBM Bob",
-    "excerpt": "Article URL: https://bob.ibm.com/ Comments URL: https://news.ycombinator.com/item?id=49563851 Points: 193 # Comments: 231",
-    "url": "https://bob.ibm.com/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "artpar",
-    "publishedAt": "2026-09-04T12:50:29.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "8fa8744371d5c8c4",
     "title": "Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO",
     "excerpt": "Welcome to Edition 9.09 of the Rocket Report! This edition includes an update from Blue Origin on the groundbreaking of a new Payload Processing Facility in Florida. It has been about a month since the company offered any meaningful news on its heavy-lift New Glenn rocket, which remains grounded…",
@@ -894,19 +1050,6 @@
     "publishedAt": "2026-09-04T12:48:36.000Z",
     "category": "science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/KSC-20260901-PH-RCR02_0049orig-1152x648-1788507222.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ed98eec534543a90",
-    "title": "Ok, but does it scale?",
-    "excerpt": "Article URL: https://spacetimedb.com/blog/how-does-spacetime-scale Comments URL: https://news.ycombinator.com/item?id=49563772 Points: 100 # Comments: 62",
-    "url": "https://spacetimedb.com/blog/how-does-spacetime-scale",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "theanonymousone",
-    "publishedAt": "2026-09-04T12:42:08.000Z",
-    "category": "policy",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -975,19 +1118,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "7c8c3cd2d97dacc8",
-    "title": "SubImage (YC W25) Is Hiring a Founding Engineer in SF",
-    "excerpt": "Article URL: https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer Comments URL: https://news.ycombinator.com/item?id=49563415 Points: 0 # Comments: 0",
-    "url": "https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "alexchantavy",
-    "publishedAt": "2026-09-04T12:01:07.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "0aa536ede10af966",
     "title": "How to edit Claude's memory",
     "excerpt": "Claude has the ability to use past chats with you as context for current and future prompts, so it's important that they are accurate.",
@@ -1011,19 +1141,6 @@
     "publishedAt": "2026-09-04T11:56:53.000Z",
     "category": "Hardware",
     "imageUrl": "https://www.engadget.com/img/gallery/i-flossed-fake-teeth-with-dysons-tech-riddled-toothbrush/l-intro-1788522450.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "6d216f06400d8d58",
-    "title": "Discovery of a new OpenAI agent message board",
-    "excerpt": "https://www.reuters.com/world/europe/openai-agents-hijacked-... Comments URL: https://news.ycombinator.com/item?id=49563355 Points: 1322 # Comments: 1073",
-    "url": "https://collusion.wiki/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "moultano",
-    "publishedAt": "2026-09-04T11:54:53.000Z",
-    "category": "ai",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1742,19 +1859,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "2a34ff0c17369ed6",
-    "title": "Google's new AI weather model uses live satellite data for higher-resolution forecasts",
-    "excerpt": "WeatherNext 3 is also supposed to be much better at predicting precipitation.",
-    "url": "https://www.engadget.com/2250687/googles-new-ai-weather-model-uses-live-satellite-data-for-higher-resolution-forecasts/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Ian Carlos Campbell)",
-    "publishedAt": "2026-09-03T19:56:03.000Z",
-    "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/googles-new-ai-weather-model-uses-live-satellite-data-for-higher-resolution-forecasts/l-intro-1788464884.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "d3a992165f8c90ea",
     "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
     "excerpt": "A prominent US senator is asking the National Security Agency to provide guidance to the general public on best practices for using virtual private networks to secure their communications from spying by foreign adversaries. VPNs funnel all of a user’s Internet traffic through an encrypted…",
@@ -1765,19 +1869,6 @@
     "publishedAt": "2026-09-03T19:52:06.000Z",
     "category": "security",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/vpn-tunnel-1000x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4cb8da5c57173e48",
-    "title": "Utah won't enforce VPN age-verification law until legal challenge resolves",
-    "excerpt": "The state was the first to target VPN usage in the wake of age verification laws, but an ongoing court case has put things on ice.",
-    "url": "https://www.engadget.com/2250679/utah-wont-enforce-vpn-age-verification-law-legal-challenge-resolves/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Karissa Bell)",
-    "publishedAt": "2026-09-03T19:45:15.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/utah-wont-enforce-vpn-age-verification-law-until-legal-challenge-resolves/l-intro-1788464280.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1820,19 +1911,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "4106ca3c45782743",
-    "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
-    "excerpt": "The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups.",
-    "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Tim De Chant",
-    "publishedAt": "2026-09-03T19:29:16.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "ecbe562b6725c4a4",
     "title": "Nvidia Launches Free Tool That Links Idle Computers Into a Personal AI Data Center",
     "excerpt": "Nvidia has launched PAIR, a free open-source tool that links compatible computers on a home network so they can pool idle processing power for local AI inference and agentic workloads. \"While the compatible devices are mostly Nvidia GeForce GPUs (PAIR works with RTX 20-series cards and newer, as…",
@@ -1846,32 +1924,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "afff3046a6e75b56",
-    "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
-    "excerpt": "Tottenham Hotspur, a professional soccer team that’s part of the Premier League, has saved over 85 percent in licensing fees by replacing its stadium's VMware instance with Hewlett-Packard Enterprise’s (HPE’s) Morpheus VM Essentials (VME) virtualization software. Tottenham hasn’t disclosed which…",
-    "url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Scharon Harding",
-    "publishedAt": "2026-09-03T18:58:31.000Z",
-    "category": "security",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Tottenham-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "6ab8f88b9ec43ec8",
-    "title": "Abliteration.ai is making a business out of removing AI guardrails",
-    "excerpt": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Rebecca Bellan",
-    "publishedAt": "2026-09-03T18:37:57.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "3c29bb5f7bc7f046",
     "title": "True AI-pocalypse as ChatGPT, Claude, and Grok all go down at once",
     "excerpt": "OpenAI says its ChatGPT service is recovering from a limited outage this morning amid similar problems affecting SpaceX's Grok and Anthropic's Claude. It might not be a good time for a chat. \"A routing error starting around 7:43 am PT on Thursday, September 3 made ChatGPT and Codex unavailable for…",
@@ -1882,19 +1934,6 @@
     "publishedAt": "2026-09-03T18:24:55.000Z",
     "category": "ai",
     "imageUrl": "https://image.theregister.com/?imageId=5294336&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "fd1917b2fe5c48b3",
-    "title": "Just like a fruit fly, a new algorithm never forgets old scents",
-    "excerpt": "Fruit flies aren't exactly famous for their brainpower; you've probably drowned more than one in a wine glass left too long on the patio table. And yet, working with roughly 140,000 neurons—a brain smaller than a poppy seed— Drosophila can sort through a huge range of smells in a fraction of a…",
-    "url": "https://arstechnica.com/science/2026/09/just-like-a-fruit-fly-a-new-algorithm-never-forgets-old-scents/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Federica Sgorbissa",
-    "publishedAt": "2026-09-03T18:22:52.000Z",
-    "category": "science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1168455519-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2639,19 +2678,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "fd568622f6744f83",
-    "title": "SonicWall's SMA1000 boxes under active attack again",
-    "excerpt": "SonicWall says attackers are actively exploiting two chained zero-days to take over Secure Mobile Access (SMA) Series 1000 boxes. Aimed at midsize and large enterprises, SMA1000 gateways secure remote access and VPN connections. Compromising one can therefore provide attackers with a valuable route…",
-    "url": "https://www.theregister.com/security/2026/09/02/sonicwalls-sma1000-boxes-under-active-attack-again/5293969",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-02T16:05:00.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=5239796&width=800",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "137665ab0a58c94d",
     "title": "Early Benchmarks Of AMD EPYC On Linux 7.3 Show Some Performance Gains On The Horizon",
     "excerpt": "With Linux 7.3-rc1 out this week and marking the end of the merge window, it's onto a lot of Linux 7.3 performance testing at Phoronix and looking at all the new features of Linux 7.3. In today's article is a first look at the AMD EPYC Turin server performance on Linux 7.3-rc1 compared to Linux 7.2…",
@@ -2665,19 +2691,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "9957457a839c27ca",
-    "title": "Microsoft will stop finishing your sentences in Word and Outlook",
-    "excerpt": "Microsoft is switching off text predictions by default in Word and Outlook after acknowledging that unwanted suggestions can interrupt rather than assist some users. The change is coming to Word for Windows, the web, iOS, and Android, as well as classic Outlook for Windows and Outlook for Mac. The…",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/02/microsoft-will-stop-finishing-your-sentences-in-word-and-outlook/5293860",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-02T15:31:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://image.theregister.com/?imageId=246713&width=800",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "e22ed1379a69c6e3",
     "title": "CERN Transitioning Industrial Computers To Debian After Being A Longtime RHEL Institution",
     "excerpt": "CERN, the European Organization for Nuclear Research, besides being well known for its Large Hadron Collider (LHC) is known among longtime Linux users as a RHEL/CentOS shop. CERN formally even co-maintained the Scientific Linux RHEL derivative with other educational/research institutions in the…",
@@ -2688,19 +2701,6 @@
     "publishedAt": "2026-09-02T15:17:21.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3e10e20432ca8aea",
-    "title": "NASA's Swift shortens orbital lifetime for the sake of science",
-    "excerpt": "NASA's Neil Gehrels Swift Observatory may now be beyond rescue, but the team behind the spacecraft has reactivated its instruments to eke out a final few months of science data before it reenters Earth's atmosphere. The Ultraviolet/Optical and X-ray telescopes were reactivated last week, and the…",
-    "url": "https://www.theregister.com/science/2026/09/02/nasas-swift-shortens-orbital-lifetime-for-the-sake-of-science/5293911",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-02T15:00:00.000Z",
-    "category": "science",
-    "imageUrl": "https://image.theregister.com/?imageId=5237915&width=800",
     "readTimeMinutes": 1
   },
   {
