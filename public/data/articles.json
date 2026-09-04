@@ -1,5 +1,187 @@
 [
   {
+    "id": "15d18e641db586c8",
+    "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
+    "excerpt": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulating last October. But more importantly, all the…",
+    "url": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Terrence O’Brien",
+    "publishedAt": "2026-09-04T21:23:50.000Z",
+    "category": "startups",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Audacity-4.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ac4ec989a2a725db",
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "excerpt": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Lucas Ropek",
+    "publishedAt": "2026-09-04T21:12:11.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1f7937a303534fce",
+    "title": "KDE Plasma 6.8 Lands Windows-Like Auto-Scrolling, Lower vRAM Usage For Breeze Theme",
+    "excerpt": "It's been an exciting start to the month of September for KDE Plasma developers with continuing to land last minute improvements for Plasma 6.8 ahead of its official release in mid-October...",
+    "url": "https://www.phoronix.com/news/KDE-Plasma-6.8-Autoscroll",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-04T21:00:04.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "68c7c29da3232ed5",
+    "title": "Fermat's Last Theorem: Anthropic has beaten me to it",
+    "excerpt": "Article URL: https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/ Comments URL: https://news.ycombinator.com/item?id=49570133 Points: 22 # Comments: 2",
+    "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "ravenical",
+    "publishedAt": "2026-09-04T21:00:02.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "5553f4409f200ed4",
+    "title": "Statichost.eu – 100% European static site hosting",
+    "excerpt": "Article URL: https://www.statichost.eu/ Comments URL: https://news.ycombinator.com/item?id=49569896 Points: 30 # Comments: 6",
+    "url": "https://www.statichost.eu/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "p4bl0",
+    "publishedAt": "2026-09-04T20:34:49.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7629c6c86939f891",
+    "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
+    "excerpt": "A six-week-old baby girl in Lancaster, Pennsylvania, died from measles, the county coroner confirmed to local press Friday. Stephen Diamantoni, a Republican first elected coroner in 2007, told Lancaster Online that the baby died at home. \"I believe it was the 18th of August,\" he said. He also noted…",
+    "url": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Beth Mole",
+    "publishedAt": "2026-09-04T20:22:41.000Z",
+    "category": "Science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-1152x648-1729196833.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d277c91cddfb6b60",
+    "title": "How to Create a Tor Exit Node",
+    "excerpt": "Article URL: https://madpsy.uk/how-to-create-a-tor-exit-node/ Comments URL: https://news.ycombinator.com/item?id=49569702 Points: 13 # Comments: 9",
+    "url": "https://madpsy.uk/how-to-create-a-tor-exit-node/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "Eridanus2",
+    "publishedAt": "2026-09-04T20:16:22.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ecddddcc43702dbb",
+    "title": "An open DNS recursive service for free security and high privacy",
+    "excerpt": "Article URL: https://quad9.net/ Comments URL: https://news.ycombinator.com/item?id=49569663 Points: 17 # Comments: 4",
+    "url": "https://quad9.net/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "mooreds",
+    "publishedAt": "2026-09-04T20:13:08.000Z",
+    "category": "policy",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "83f809cee0eee45d",
+    "title": "Wine 11.17 Released With Initial Support For Display Mode Emulation",
+    "excerpt": "Wine 11.17 is out today as the newest bi-weekly feature development release for this software enabling Windows games and apps to run on Linux...",
+    "url": "https://www.phoronix.com/news/Wine-11.17-Released",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-04T20:11:12.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "76eceaaf9441af12",
+    "title": "Flock cameras are officially banned on state roads in Florida",
+    "excerpt": "Florida joins a growing list of cities and states responding to the license plate reader backlash.",
+    "url": "https://www.engadget.com/2251480/flock-camera-license-plate-reader-state-road-ban-florida/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Ian Carlos Campbell)",
+    "publishedAt": "2026-09-04T20:10:41.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/flock-cameras-are-officially-banned-on-state-roads-in-florida/l-intro-1788551976.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "fc8b777bd4955741",
+    "title": "Can AI design circuit boards yet?",
+    "excerpt": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 64 # Comments: 49",
+    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "iopapa",
+    "publishedAt": "2026-09-04T19:48:29.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1df4cba185985c6e",
+    "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
+    "excerpt": "The Federal Communications Commission yesterday urged a court to dismiss a Disney lawsuit and let the FCC continue a proceeding that could end in the nonrenewal of ABC's broadcast licenses. Meanwhile, two watchdog groups and individual viewers of ABC stations are trying to intervene in the lawsuit,…",
+    "url": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Jon Brodkin",
+    "publishedAt": "2026-09-04T19:46:34.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/disney-logo-1152x648-1788549990.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "84cc6f131818be7c",
+    "title": "The White House is making arcade games racist",
+    "excerpt": "Trump’s racist new “Build the Wall” game. | Image: The White House The PR masterminds at the White House just released a series of vaguely policy-themed \"arcade\" games, some of which are racist - and modeled on real games whose copyright holders may not be too happy to be associated with the MAGA…",
+    "url": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Gaby Del Valle",
+    "publishedAt": "2026-09-04T19:42:54.000Z",
+    "category": "policy",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-04-at-3.23.13-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2fb0f70549546b1e",
+    "title": "Government Rails Site Hit Hours After CVE Patch",
+    "excerpt": "Article URL: https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/ Comments URL: https://news.ycombinator.com/item?id=49568828 Points: 43 # Comments: 12",
+    "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "rietta",
+    "publishedAt": "2026-09-04T19:06:39.000Z",
+    "category": "security",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "d8ed3343f8a79c6c",
     "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
     "excerpt": "Sheeppox is a highly contagious, often fatal viral disease that was largely eradicated from much of European livestock in the 20th century. But there is still the occasional regional outbreak, such as the one that afflicted many flocks of sheep in Greece last year . In order to reconstruct how the…",
@@ -13,9 +195,22 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "2b4381bb13faabd5",
+    "title": "Fermat's Last Theorem in Lean 4",
+    "excerpt": "Article URL: https://github.com/anthropics/fermats-last-theorem Comments URL: https://news.ycombinator.com/item?id=49568697 Points: 19 # Comments: 3",
+    "url": "https://github.com/anthropics/fermats-last-theorem",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "aaraujo002",
+    "publishedAt": "2026-09-04T18:57:32.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "fd4e0b99ad940433",
     "title": "Shutting down our public encrypted DNS",
-    "excerpt": "Article URL: https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead Comments URL: https://news.ycombinator.com/item?id=49568579 Points: 28 # Comments: 3",
+    "excerpt": "Article URL: https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead Comments URL: https://news.ycombinator.com/item?id=49568579 Points: 152 # Comments: 51",
     "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -28,7 +223,7 @@
   {
     "id": "e94fc2f0f03f5691",
     "title": "Formalizing Fermat's Last Theorem",
-    "excerpt": "Article URL: https://www.anthropic.com/research/formalizing-fermats-last-theorem Comments URL: https://news.ycombinator.com/item?id=49568506 Points: 67 # Comments: 19",
+    "excerpt": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h... Comments URL: https://news.ycombinator.com/item?id=49568506 Points: 293 # Comments: 176",
     "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -49,19 +244,6 @@
     "publishedAt": "2026-09-04T18:00:45.000Z",
     "category": "policy",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/09-4-mission1-pro-pdp-desktop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "16329ba041160588",
-    "title": "Hayes AT command set",
-    "excerpt": "Article URL: https://en.wikipedia.org/wiki/Hayes_AT_command_set Comments URL: https://news.ycombinator.com/item?id=49567961 Points: 16 # Comments: 2",
-    "url": "https://en.wikipedia.org/wiki/Hayes_AT_command_set",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "0xbadcafebee",
-    "publishedAt": "2026-09-04T17:56:14.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -93,7 +275,7 @@
   {
     "id": "96d714b5e5dc11b9",
     "title": "The Rust React Compiler is now native in Vite",
-    "excerpt": "Article URL: https://blog.master.dev/react-now-rusted-all-the-way-out/ Comments URL: https://news.ycombinator.com/item?id=49567873 Points: 17 # Comments: 3",
+    "excerpt": "Article URL: https://blog.master.dev/react-now-rusted-all-the-way-out/ Comments URL: https://news.ycombinator.com/item?id=49567873 Points: 75 # Comments: 13",
     "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -114,19 +296,6 @@
     "publishedAt": "2026-09-04T17:35:02.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "2b69b213c5cac724",
-    "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
-    "excerpt": "https://archive.ph/3zcMG Comments URL: https://news.ycombinator.com/item?id=49567594 Points: 117 # Comments: 84",
-    "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "jslakro",
-    "publishedAt": "2026-09-04T17:29:22.000Z",
-    "category": "ai",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -182,22 +351,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "f67de06531482de9",
-    "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
-    "excerpt": "Article URL: https://twitter.com/ggerganov/status/2095897173376618881 Comments URL: https://news.ycombinator.com/item?id=49567357 Points: 39 # Comments: 11",
-    "url": "https://twitter.com/ggerganov/status/2095897173376618881",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "theanonymousone",
-    "publishedAt": "2026-09-04T17:12:22.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "9c82c07570c3e559",
-    "title": "Stop Thinking of LLMs as Next-Token Predictors",
-    "excerpt": "Article URL: https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html Comments URL: https://news.ycombinator.com/item?id=49567310 Points: 9 # Comments: 5",
+    "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
+    "excerpt": "Article URL: https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html Comments URL: https://news.ycombinator.com/item?id=49567310 Points: 35 # Comments: 79",
     "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -236,7 +392,7 @@
   {
     "id": "efb32cf2a2d830f1",
     "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
-    "excerpt": "Article URL: https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/ Comments URL: https://news.ycombinator.com/item?id=49567053 Points: 118 # Comments: 59",
+    "excerpt": "Article URL: https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/ Comments URL: https://news.ycombinator.com/item?id=49567053 Points: 244 # Comments: 138",
     "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -262,7 +418,7 @@
   {
     "id": "f811cada5ee199e3",
     "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-    "excerpt": "Article URL: https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/ Comments URL: https://news.ycombinator.com/item?id=49566788 Points: 39 # Comments: 16",
+    "excerpt": "Article URL: https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/ Comments URL: https://news.ycombinator.com/item?id=49566788 Points: 46 # Comments: 27",
     "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -379,7 +535,7 @@
   {
     "id": "b9d9e17ac142a3f5",
     "title": "deSEC – Free Secure DNS",
-    "excerpt": "Article URL: https://desec.io/ Comments URL: https://news.ycombinator.com/item?id=49566193 Points: 43 # Comments: 21",
+    "excerpt": "Article URL: https://desec.io/ Comments URL: https://news.ycombinator.com/item?id=49566193 Points: 84 # Comments: 31",
     "url": "https://desec.io/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -392,13 +548,13 @@
   {
     "id": "a7a3a65935fc9627",
     "title": "Corporate America is getting hooked on open-source AI",
-    "excerpt": "Article URL: https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html Comments URL: https://news.ycombinator.com/item?id=49566137 Points: 182 # Comments: 162",
+    "excerpt": "https://archive.is/kmOqm Comments URL: https://news.ycombinator.com/item?id=49566137 Points: 227 # Comments: 212",
     "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "aaraujo002",
     "publishedAt": "2026-09-04T15:33:45.000Z",
-    "category": "ai",
+    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -663,19 +819,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "da3a8c2ed66e3865",
-    "title": "US Military disables ad trackers on troops' phones",
-    "excerpt": "Article URL: https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers Comments URL: https://news.ycombinator.com/item?id=49564555 Points: 136 # Comments: 72",
-    "url": "https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "tencentshill",
-    "publishedAt": "2026-09-04T13:44:14.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "d02e2855d0258f55",
     "title": "Microsoft to bounce mail from outdated Exchange servers",
     "excerpt": "Microsoft is upping the ante on Exchange Server security, warning that outdated on-premises systems will soon be blocked from sending email to Exchange Online. From the second week of September, Exchange Server 2016 and 2019 machines that send email to Exchange Online through an inbound connector…",
@@ -686,32 +829,6 @@
     "publishedAt": "2026-09-04T13:43:00.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=246612&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f60d7bb6db5c87d1",
-    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-    "excerpt": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Robert Hart",
-    "publishedAt": "2026-09-04T13:34:12.000Z",
-    "category": "ai",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "70ef2457bd3564df",
-    "title": "Tesla Cybercab is barely on the road and it’s already under investigation",
-    "excerpt": "Elon Musk's gilded robot car barely made it on public roads before federal regulators launched an investigation into the vehicle's lack of traditional features - many of which are required by law. The National Highway Traffic Safety Administration said it was opening an audit query (AQ) into the…",
-    "url": "https://www.theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Andrew J. Hawkins",
-    "publishedAt": "2026-09-04T13:33:38.000Z",
-    "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292811784.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -756,26 +873,13 @@
   {
     "id": "4ac59570d769a269",
     "title": "IBM Bob",
-    "excerpt": "Article URL: https://bob.ibm.com/ Comments URL: https://news.ycombinator.com/item?id=49563851 Points: 155 # Comments: 188",
+    "excerpt": "Article URL: https://bob.ibm.com/ Comments URL: https://news.ycombinator.com/item?id=49563851 Points: 193 # Comments: 231",
     "url": "https://bob.ibm.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "artpar",
     "publishedAt": "2026-09-04T12:50:29.000Z",
     "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "cd60cac6b9b84a54",
-    "title": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region",
-    "excerpt": "Article URL: https://github.com/hawshemi/lg-c5-webos25-region-change Comments URL: https://news.ycombinator.com/item?id=49563839 Points: 45 # Comments: 58",
-    "url": "https://github.com/hawshemi/lg-c5-webos25-region-change",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "hawshemi",
-    "publishedAt": "2026-09-04T12:49:44.000Z",
-    "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -790,6 +894,19 @@
     "publishedAt": "2026-09-04T12:48:36.000Z",
     "category": "science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/KSC-20260901-PH-RCR02_0049orig-1152x648-1788507222.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ed98eec534543a90",
+    "title": "Ok, but does it scale?",
+    "excerpt": "Article URL: https://spacetimedb.com/blog/how-does-spacetime-scale Comments URL: https://news.ycombinator.com/item?id=49563772 Points: 100 # Comments: 62",
+    "url": "https://spacetimedb.com/blog/how-does-spacetime-scale",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "theanonymousone",
+    "publishedAt": "2026-09-04T12:42:08.000Z",
+    "category": "policy",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -884,19 +1001,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "d26be4db00d9b182",
-    "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-    "excerpt": "Article URL: https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products Comments URL: https://news.ycombinator.com/item?id=49563386 Points: 327 # Comments: 64",
-    "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "DeepLogin",
-    "publishedAt": "2026-09-04T11:59:15.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "494385c9f460b3bf",
     "title": "I flossed fake teeth with Dyson's tech-riddled CameraJet toothbrush",
     "excerpt": "Don't worry, we didn't share $500 CameraJet toothbrush.",
@@ -912,7 +1016,7 @@
   {
     "id": "6d216f06400d8d58",
     "title": "Discovery of a new OpenAI agent message board",
-    "excerpt": "https://www.reuters.com/world/europe/openai-agents-hijacked-... Comments URL: https://news.ycombinator.com/item?id=49563355 Points: 1130 # Comments: 899",
+    "excerpt": "https://www.reuters.com/world/europe/openai-agents-hijacked-... Comments URL: https://news.ycombinator.com/item?id=49563355 Points: 1322 # Comments: 1073",
     "url": "https://collusion.wiki/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -972,15 +1076,7 @@
     "publishedAt": "2026-09-04T11:00:05.000Z",
     "category": "ai",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Fairphone-6-8-1152x648.jpg",
-    "readTimeMinutes": 1,
-    "alsoCoveredBy": [
-      {
-        "source": "Hacker News",
-        "sourceHomepage": "https://news.ycombinator.com",
-        "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
-        "publishedAt": "2026-09-04T12:43:49.000Z"
-      }
-    ]
+    "readTimeMinutes": 1
   },
   {
     "id": "1f2eddba93ca2d2e",
@@ -1044,19 +1140,6 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-09-04T10:20:57.000Z",
     "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "656e675460d44f88",
-    "title": "Solving the Jane Street reverse engineering challenge",
-    "excerpt": "Article URL: https://jestoph.com/2026/09/04/jane-street-challenge.html Comments URL: https://news.ycombinator.com/item?id=49562657 Points: 326 # Comments: 76",
-    "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "anitil",
-    "publishedAt": "2026-09-04T10:17:01.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1425,6 +1508,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "d8942d6f39181a4e",
+    "title": "Four Major AI Models Suffer Rare Overlapping Downtime",
+    "excerpt": "ChatGPT, Claude, Grok, and Gemini all suffered significant service disruptions within roughly the same few-hour window Thursday morning. OpenAI and Anthropic reported elevated errors and later restored service, while Grok remained impaired and third-party monitoring indicated a likely Gemini outage…",
+    "url": "https://tech.slashdot.org/story/26/09/03/2023242/four-major-ai-models-suffer-rare-overlapping-downtime?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-09-03T23:00:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "012fff6f64ba59fa",
     "title": "OpenAI says GPT-6 Astra is 'the most intelligent and aligned model in the world'",
     "excerpt": "The new frontier model is particularly competent at agentic, computer-use tasks.",
@@ -1737,19 +1833,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "1e1cbc7349068e5e",
-    "title": "Epic Games brings cross-platform voice chat to Fortnite and its services",
-    "excerpt": "Game and yap from across Epic's ecosystem.",
-    "url": "https://www.engadget.com/2250634/epic-games-brings-cross-platform-voice-chat-to-fortnite-and-its-services/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Anna Washenko)",
-    "publishedAt": "2026-09-03T19:10:00.000Z",
-    "category": "startups",
-    "imageUrl": "https://www.engadget.com/img/gallery/epic-games-brings-cross-platform-voice-chat-to-fortnite-and-its-services/l-intro-1788461713.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "ecbe562b6725c4a4",
     "title": "Nvidia Launches Free Tool That Links Idle Computers Into a Personal AI Data Center",
     "excerpt": "Nvidia has launched PAIR, a free open-source tool that links compatible computers on a home network so they can pool idle processing power for local AI inference and agentic workloads. \"While the compatible devices are mostly Nvidia GeForce GPUs (PAIR works with RTX 20-series cards and newer, as…",
@@ -1813,40 +1896,6 @@
     "category": "science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1168455519-1152x648.jpg",
     "readTimeMinutes": 1
-  },
-  {
-    "id": "82c75f7fe9e11b8f",
-    "title": "Meta is paying to peek at how you use their latest AI model",
-    "excerpt": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
-    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Tim Fernholz",
-    "publishedAt": "2026-09-03T18:19:56.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b9059bbeee027ae8",
-    "title": "Four major AI models suffer rare overlapping downtime",
-    "excerpt": "Cloud-based AI models operated by OpenAI, Anthropic, xAI, and Google suffered a rare and overlapping set of significant service interruptions over a period of hours Thursday morning. Anthropic first reported a \"partial outage\" related to \"elevated errors on requests to Claude Mythos 5.1, Claude…",
-    "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Kyle Orland",
-    "publishedAt": "2026-09-03T18:10:19.000Z",
-    "category": "ai",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2197730159-1152x648.jpg",
-    "readTimeMinutes": 1,
-    "alsoCoveredBy": [
-      {
-        "source": "Slashdot",
-        "sourceHomepage": "https://slashdot.org",
-        "url": "https://tech.slashdot.org/story/26/09/03/2023242/four-major-ai-models-suffer-rare-overlapping-downtime?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "publishedAt": "2026-09-03T23:00:00.000Z"
-      }
-    ]
   },
   {
     "id": "bc73d9a5342ed400",
@@ -1924,19 +1973,6 @@
     "publishedAt": "2026-09-03T17:18:12.000Z",
     "category": "ai",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b63d406c8246ce9b",
-    "title": "Trump’s 100% tariff on drones will be disaster for the US, critics warn",
-    "excerpt": "On Thursday, the Trump administration imposed a 100 percent tariff on foreign-made drones, alarming critics who warn that high tariffs would harm public safety and devastate thousands of US businesses. Guidance posted by US Customs and Border Protection says that starting Thursday, a 100 percent…",
-    "url": "https://arstechnica.com/tech-policy/2026/09/trumps-100-drone-tariff-has-cops-and-firefighters-panicking/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Ashley Belanger",
-    "publishedAt": "2026-09-03T17:08:09.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2255920263-1024x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2715,32 +2751,6 @@
     "sourceHomepage": "https://www.phoronix.com",
     "author": "Michael Larabel",
     "publishedAt": "2026-09-02T10:22:21.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "612130309b760040",
-    "title": "FreeDesktop SDK 26.08 Released With Snap Support Dropped, Bootstrap Changes",
-    "excerpt": "The newest FreeDesktop SDK is now available for this collection of components used for Flatpak runtimes as well as for building out of containers and other software stacks...",
-    "url": "https://www.phoronix.com/news/FreeDesktop-SDK-26.08",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-02T10:08:30.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "9f7b756362cc8f9c",
-    "title": "Intel Updates LLM-Scaler-vLLM Build For vLLM 0.26 & Other Improvements",
-    "excerpt": "For those looking for the smoothest experience to get vLLM up and running on Intel Arc (Pro) graphics hardware, out today is the newest beta of Intel's LLM-Scaler-vLLM project for a Docker-based setup of vLLM ready to go on Intel GPUs...",
-    "url": "https://www.phoronix.com/news/Intel-LLM-Scaler-vLLM-0.26.0-b1",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-02T09:50:00.000Z",
     "category": "hardware",
     "imageUrl": null,
     "readTimeMinutes": 1
