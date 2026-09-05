@@ -1,5 +1,135 @@
 [
   {
+    "id": "6df0f5d81c2b28a3",
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "excerpt": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+    "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Anthony Ha",
+    "publishedAt": "2026-09-05T22:49:55.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "db752fe713ba8bfe",
+    "title": "FSF is Now on Bluesky - But Won't Advocate Signing Up Due to Nonfree JavaScript",
+    "excerpt": "The Free Software Foundation (FSF) is now on Bluesky, they announced this week. But \"We can't advocate that you sign up for a Bluesky account like we do with Mastodon or PeerTube since signing up for Bluesky means loading the registration page's nonfree JavaScript...\" While federated, Bluesky is…",
+    "url": "https://news.slashdot.org/story/26/09/05/0452205/fsf-is-now-on-bluesky---but-wont-advocate-signing-up-due-to-nonfree-javascript?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-09-05T22:34:00.000Z",
+    "category": "Software",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0b166caf3c482188",
+    "title": "Is the Steam Deck still worth it in 2026?",
+    "excerpt": "The Steam Deck is a solid gaming handheld, but after the arrival of several competitors and higher prices, is it still worth picking one up?",
+    "url": "https://www.engadget.com/2248094/is-steam-deck-still-worth-it/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Deven McClure)",
+    "publishedAt": "2026-09-05T22:30:00.000Z",
+    "category": "startups",
+    "imageUrl": "https://www.engadget.com/img/gallery/is-the-steam-deck-still-worth-it-in-2026/l-intro-1788208373.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0f96be69a4444ac8",
+    "title": "Slackware-Based Zenwalk ISOs Updated With Linux 7.1, Flatpak Integrated + Xfce 4.20",
+    "excerpt": "It's been over four years since the original release of Zenwalk 15.0 while released today is a new Zenwalk Current Milestone snapshot. This Slackware-based Linux distribution with a long history has an exciting update out for testing this weekend...",
+    "url": "https://www.phoronix.com/news/Zenwalk-2026-Current",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-05T22:27:47.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "44a795850e3c5a06",
+    "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+    "excerpt": "Article URL: https://github.com/okf-memory/okf-agent-memory Comments URL: https://news.ycombinator.com/item?id=49581240 Points: 5 # Comments: 0",
+    "url": "https://github.com/okf-memory/okf-agent-memory",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "okf_memory",
+    "publishedAt": "2026-09-05T22:15:52.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d6f4c5c66551ebd7",
+    "title": "Falsehoods Programmers Believe About LANs",
+    "excerpt": "Article URL: https://dreamstation.systems/personal/lanfalsehoods.html Comments URL: https://news.ycombinator.com/item?id=49581179 Points: 24 # Comments: 22",
+    "url": "https://dreamstation.systems/personal/lanfalsehoods.html",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "robinpie",
+    "publishedAt": "2026-09-05T22:08:16.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4f767d7c992ba40c",
+    "title": "How to find your MacBook's diagnostic menu",
+    "excerpt": "Apple Diagnostics is a hidden menu you hopefully won't need to access often. When your Mac gets into hardware trouble, it helps find what's wrong.",
+    "url": "https://www.engadget.com/2247996/how-to-find-macbook-diagnostic-menu/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Novak Božović)",
+    "publishedAt": "2026-09-05T22:00:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/how-to-find-your-macbooks-diagnostic-menu/l-intro-1788204727.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "496e1a600c321d9a",
+    "title": "America's two largest school districts impose AI moratoriums",
+    "excerpt": "Article URL: https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/ Comments URL: https://news.ycombinator.com/item?id=49580980 Points: 28 # Comments: 17",
+    "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "cdrnsf",
+    "publishedAt": "2026-09-05T21:43:22.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6403f7898e7b10c2",
+    "title": "The revolt of the reader",
+    "excerpt": "Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/ Comments URL: https://news.ycombinator.com/item?id=49580939 Points: 11 # Comments: 1",
+    "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "chmaynard",
+    "publishedAt": "2026-09-05T21:37:49.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1fdfa6bf0e2f0ff7",
+    "title": "Explore the globe in field recordings",
+    "excerpt": "Around the world in 80 WAVs. | Screenshot: Terrence O’Brien / The Verge I love field recordings. I love making them. I love them when they're incorporated into my ambient music . They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the…",
+    "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Terrence O’Brien",
+    "publishedAt": "2026-09-05T21:31:34.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-at-5.23.38-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "8554e220ce3016c4",
     "title": "OpenAI responds after report exposed another incident in which its AI agents went rogue",
     "excerpt": "Reuters reported earlier this week that the agents hijacked a German wiki forum in an incident OpenAI did not disclose.",
@@ -10,6 +140,32 @@
     "publishedAt": "2026-09-05T21:17:18.000Z",
     "category": "ai",
     "imageUrl": "https://www.engadget.com/img/gallery/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue/l-intro-1788642295.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b628a940a3de5ecb",
+    "title": "South African diamond mines are closing due to weak sales and lab-grown stones",
+    "excerpt": "Article URL: https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf Comments URL: https://news.ycombinator.com/item?id=49580778 Points: 36 # Comments: 13",
+    "url": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "bookofjoe",
+    "publishedAt": "2026-09-05T21:17:00.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b8c4ba81c6d799bb",
+    "title": "How AI is breaking the British state",
+    "excerpt": "Article URL: https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state Comments URL: https://news.ycombinator.com/item?id=49580687 Points: 13 # Comments: 9",
+    "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "tchalla",
+    "publishedAt": "2026-09-05T21:05:35.000Z",
+    "category": "startups",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -41,7 +197,7 @@
   {
     "id": "630bf109ed96599c",
     "title": "Private German rocket makes history, reaches orbit from European soil",
-    "excerpt": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket Comments URL: https://news.ycombinator.com/item?id=49580369 Points: 104 # Comments: 25",
+    "excerpt": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket Comments URL: https://news.ycombinator.com/item?id=49580369 Points: 255 # Comments: 121",
     "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -53,8 +209,8 @@
   },
   {
     "id": "2eed77dc269ac9b7",
-    "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation",
-    "excerpt": "Article URL: https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/ Comments URL: https://news.ycombinator.com/item?id=49580329 Points: 27 # Comments: 7",
+    "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
+    "excerpt": "Article URL: https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/ Comments URL: https://news.ycombinator.com/item?id=49580329 Points: 49 # Comments: 20",
     "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -67,7 +223,7 @@
   {
     "id": "1c68fdd9ba79922f",
     "title": "Isar Aerospace launch into orbit [video]",
-    "excerpt": "Article URL: https://www.youtube.com/watch?v=Ss1DUqLjecc Comments URL: https://news.ycombinator.com/item?id=49580325 Points: 38 # Comments: 5",
+    "excerpt": "Article URL: https://www.youtube.com/watch?v=Ss1DUqLjecc Comments URL: https://news.ycombinator.com/item?id=49580325 Points: 70 # Comments: 18",
     "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -78,22 +234,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "06a304af6a160458",
-    "title": "Space industry lacks workers needed to rebuild satellites lost in war: report",
-    "excerpt": "Article URL: https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/ Comments URL: https://news.ycombinator.com/item?id=49580248 Points: 26 # Comments: 29",
-    "url": "https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "billybuckwheat",
-    "publishedAt": "2026-09-05T20:14:25.000Z",
-    "category": "science",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "c38ef34fb76c3cc3",
     "title": "LLMs as a Cognitive Virus",
-    "excerpt": "Article URL: https://arxiv.org/abs/2609.03344 Comments URL: https://news.ycombinator.com/item?id=49580164 Points: 39 # Comments: 4",
+    "excerpt": "Article URL: https://arxiv.org/abs/2609.03344 Comments URL: https://news.ycombinator.com/item?id=49580164 Points: 136 # Comments: 114",
     "url": "https://arxiv.org/abs/2609.03344",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -114,6 +257,19 @@
     "publishedAt": "2026-09-05T20:00:00.000Z",
     "category": "security",
     "imageUrl": "https://www.engadget.com/img/gallery/the-reasons-rugged-laptops-are-rarely-bought-by-consumers/l-intro-1787944974.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "42b8b02f9aa60396",
+    "title": "ISAR Aerospace 5 Sept Mission Onward and Upward",
+    "excerpt": "Article URL: https://isaraerospace.com/mission-updates-overview Comments URL: https://news.ycombinator.com/item?id=49579956 Points: 9 # Comments: 1",
+    "url": "https://isaraerospace.com/mission-updates-overview",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "t43562",
+    "publishedAt": "2026-09-05T19:41:27.000Z",
+    "category": "policy",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -208,19 +364,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "415884a72ea16d83",
-    "title": "The Real Luxuries In Life",
-    "excerpt": "Article URL: https://feld.com/archives/2026/09/the-real-luxuries-in-life/ Comments URL: https://news.ycombinator.com/item?id=49578866 Points: 296 # Comments: 117",
-    "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "tosh",
-    "publishedAt": "2026-09-05T17:46:16.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "ea68be0b3961146c",
     "title": "What makes IMAX theaters different from normal ones?",
     "excerpt": "In the case of IMAX, bigger really is better.",
@@ -275,7 +418,7 @@
   {
     "id": "83d3effa43049b37",
     "title": "Learn Programming with OCaml",
-    "excerpt": "Article URL: https://usr.lmf.cnrs.fr/lpo/ Comments URL: https://news.ycombinator.com/item?id=49578280 Points: 111 # Comments: 43",
+    "excerpt": "Article URL: https://usr.lmf.cnrs.fr/lpo/ Comments URL: https://news.ycombinator.com/item?id=49578280 Points: 142 # Comments: 66",
     "url": "https://usr.lmf.cnrs.fr/lpo/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -309,19 +452,6 @@
     "publishedAt": "2026-09-05T16:30:00.000Z",
     "category": "security",
     "imageUrl": "https://www.engadget.com/img/gallery/why-its-important-to-regularly-restart-your-router/l-intro-1788194698.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4504384f56413873",
-    "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
-    "excerpt": "Article URL: https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/ Comments URL: https://news.ycombinator.com/item?id=49577975 Points: 225 # Comments: 94",
-    "url": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "robin_reala",
-    "publishedAt": "2026-09-05T16:13:57.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -496,7 +626,7 @@
   {
     "id": "388819ff9e6f9d10",
     "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-    "excerpt": "Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/ Comments URL: https://news.ycombinator.com/item?id=49576386 Points: 217 # Comments: 71",
+    "excerpt": "Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/ Comments URL: https://news.ycombinator.com/item?id=49576386 Points: 254 # Comments: 76",
     "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -509,7 +639,7 @@
   {
     "id": "ba6adf512cf88905",
     "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-    "excerpt": "Article URL: https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/ Comments URL: https://news.ycombinator.com/item?id=49576343 Points: 85 # Comments: 7",
+    "excerpt": "Article URL: https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/ Comments URL: https://news.ycombinator.com/item?id=49576343 Points: 115 # Comments: 14",
     "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -535,7 +665,7 @@
   {
     "id": "3ac5aa3d33cb417a",
     "title": ".gitignore Everything by Default",
-    "excerpt": "Article URL: https://packagemain.tech/p/gitignore-everything-by-default Comments URL: https://news.ycombinator.com/item?id=49576258 Points: 121 # Comments: 136",
+    "excerpt": "Article URL: https://packagemain.tech/p/gitignore-everything-by-default Comments URL: https://news.ycombinator.com/item?id=49576258 Points: 143 # Comments: 146",
     "url": "https://packagemain.tech/p/gitignore-everything-by-default",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -587,7 +717,7 @@
   {
     "id": "fcdf2b1a952243df",
     "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
-    "excerpt": "Article URL: https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/ Comments URL: https://news.ycombinator.com/item?id=49575859 Points: 61 # Comments: 3",
+    "excerpt": "Article URL: https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/ Comments URL: https://news.ycombinator.com/item?id=49575859 Points: 72 # Comments: 9",
     "url": "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -608,32 +738,6 @@
     "publishedAt": "2026-09-05T12:20:00.000Z",
     "category": "hardware",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "869ce984c155e8fd",
-    "title": "10 products Apple is leaving behind in 2026",
-    "excerpt": "As Apple continues to upgrade its operating system and line of smartphones, smartwatches, displays, and computers, it's leaving plenty behind in 2026.",
-    "url": "https://www.engadget.com/2249734/apple-products-being-discontinued-left-behind-2026/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Ben Stegner)",
-    "publishedAt": "2026-09-05T12:15:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/10-products-apple-is-leaving-behind-in-2026/l-intro-1784824676.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ca601ed32ee67857",
-    "title": "What happens when you run the Windows Memory Diagnostic tool?",
-    "excerpt": "Memory issues could be behind your PC's performance problems, app crashes and random restarts. A Windows tool could help you understand what's going wrong.",
-    "url": "https://www.engadget.com/2247700/what-happens-when-run-windows-memory-diagnostic-tool/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Adnan Ahmed)",
-    "publishedAt": "2026-09-05T12:00:00.000Z",
-    "category": "software",
-    "imageUrl": "https://www.engadget.com/img/gallery/what-happens-when-you-run-the-windows-memory-diagnostic-tool/l-intro-1788192399.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -717,7 +821,7 @@
   {
     "id": "58a1a0703a5c73e5",
     "title": "Terpstra Keyboard",
-    "excerpt": "Article URL: http://terpstrakeyboard.com/ Comments URL: https://news.ycombinator.com/item?id=49575150 Points: 102 # Comments: 48",
+    "excerpt": "Article URL: http://terpstrakeyboard.com/ Comments URL: https://news.ycombinator.com/item?id=49575150 Points: 110 # Comments: 52",
     "url": "http://terpstrakeyboard.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -737,19 +841,6 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-09-05T10:31:45.000Z",
     "category": "Hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3d056644792d44a8",
-    "title": "AI handles incidents, engineers lose touch with their systems",
-    "excerpt": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems Comments URL: https://news.ycombinator.com/item?id=49574167 Points: 345 # Comments: 303",
-    "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "sylvainkalache",
-    "publishedAt": "2026-09-05T07:52:50.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -777,19 +868,6 @@
     "publishedAt": "2026-09-05T06:41:00.000Z",
     "category": "science",
     "imageUrl": "https://image.theregister.com/?imageId=1685901&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "74e0427ae35b6bff",
-    "title": "Git hosting that never leaves Europe",
-    "excerpt": "Article URL: https://pushin.eu Comments URL: https://news.ycombinator.com/item?id=49573680 Points: 290 # Comments: 144",
-    "url": "https://pushin.eu",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "sevenseacat",
-    "publishedAt": "2026-09-05T06:31:49.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -834,7 +912,7 @@
   {
     "id": "b64c6129c35952aa",
     "title": "Nitter has more working instances than before the takedowns",
-    "excerpt": "Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances Comments URL: https://news.ycombinator.com/item?id=49571634 Points: 573 # Comments: 264",
+    "excerpt": "Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances Comments URL: https://news.ycombinator.com/item?id=49571634 Points: 601 # Comments: 285",
     "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -899,7 +977,7 @@
   {
     "id": "6a5cb4a438703700",
     "title": "Actively exploited sandbox RCE in all Chromium versions",
-    "excerpt": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046 Comments URL: https://news.ycombinator.com/item?id=49570669 Points: 721 # Comments: 416",
+    "excerpt": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046 Comments URL: https://news.ycombinator.com/item?id=49570669 Points: 733 # Comments: 433",
     "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -964,7 +1042,7 @@
   {
     "id": "5553f4409f200ed4",
     "title": "Statichost.eu – European static site hosting",
-    "excerpt": "Article URL: https://www.statichost.eu/ Comments URL: https://news.ycombinator.com/item?id=49569896 Points: 426 # Comments: 191",
+    "excerpt": "Article URL: https://www.statichost.eu/ Comments URL: https://news.ycombinator.com/item?id=49569896 Points: 436 # Comments: 199",
     "url": "https://www.statichost.eu/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1010,19 +1088,6 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-09-04T20:11:12.000Z",
     "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "fc8b777bd4955741",
-    "title": "Can AI design circuit boards yet?",
-    "excerpt": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 349 # Comments: 202",
-    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "iopapa",
-    "publishedAt": "2026-09-04T19:48:29.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1076,32 +1141,6 @@
     "publishedAt": "2026-09-04T19:01:02.000Z",
     "category": "science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/sheeppox-1152x648-1788203007.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "e94fc2f0f03f5691",
-    "title": "Formalizing Fermat's Last Theorem",
-    "excerpt": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h... Comments URL: https://news.ycombinator.com/item?id=49568506 Points: 728 # Comments: 468",
-    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "jlebar",
-    "publishedAt": "2026-09-04T18:42:56.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "cb40d44592507eac",
-    "title": "GoPro says it’s still committed ‘to your collective stoke’",
-    "excerpt": "GoPro CEO Nick Woodman said in a letter to customers that making cameras is still his company's \"core DNA,\" after a proposed $285 million acquisition by Starman was announced earlier this week. He claims the merger puts GoPro in a better position to continue developing its content creation tech,…",
-    "url": "https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Stevie Bonifield",
-    "publishedAt": "2026-09-04T18:00:45.000Z",
-    "category": "policy",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/09-4-mission1-pro-pdp-desktop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -2002,19 +2041,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "dc5891fed6cb1d0e",
-    "title": "Oura files to go public",
-    "excerpt": "The ring maker says that its business has shown significant revenue growth over the past year.",
-    "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Lucas Ropek",
-    "publishedAt": "2026-09-03T22:35:41.000Z",
-    "category": "Startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "8c8e1e25f784b163",
     "title": "Hugging Face is too important to fall into Nvidia's hands",
     "excerpt": "OPINION Nvidia on Thursday announced an agreement to acquire open source AI evangelist and model depot Hugging Face for $12.9 billion in a deal that's expected to close next year, assuming regulators don't get in the way. They should get in the way. As antitrust magnets go, Nvidia buying Hugging…",
@@ -2168,19 +2194,6 @@
     "publishedAt": "2026-09-03T18:08:22.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=5294333&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "5205b7f7102b7044",
-    "title": "OpenAI's New Reasoning Technique Alarms AI Safety Experts",
-    "excerpt": "An anonymous reader quotes a report from TechCrunch: OpenAI's new Astra model will use a reasoning technique called \"recurrent depth\" that allows it to operate outside of the sequential thinking that characterizes most reasoning models, The Information reported on Tuesday. This technique, also…",
-    "url": "https://it.slashdot.org/story/26/09/03/174254/openais-new-reasoning-technique-alarms-ai-safety-experts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-09-03T18:00:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -2727,19 +2740,6 @@
     "publishedAt": "2026-09-02T18:28:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=5294046&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "9aec0880fa847681",
-    "title": "KDE Plasma 6.8 Lands Dwell Clicker Support To Improve Accessibility On Wayland",
-    "excerpt": "In preparations for Plasma 6.8 going Wayland-exclusive in abandoning the X11 session, another feature gap compared to X11 has been addressed...",
-    "url": "https://www.phoronix.com/news/KDE-Plasma-6.8-Dwell-Clicker",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-02T17:51:36.000Z",
-    "category": "Hardware",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
