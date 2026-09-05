@@ -1,5 +1,239 @@
 [
   {
+    "id": "8554e220ce3016c4",
+    "title": "OpenAI responds after report exposed another incident in which its AI agents went rogue",
+    "excerpt": "Reuters reported earlier this week that the agents hijacked a German wiki forum in an incident OpenAI did not disclose.",
+    "url": "https://www.engadget.com/2251725/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Cheyenne MacDonald)",
+    "publishedAt": "2026-09-05T21:17:18.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue/l-intro-1788642295.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7b0288344ff76f54",
+    "title": "The World Now Has More Seniors Than Young People - for the First Time In History",
+    "excerpt": "\"There are now more seniors in the world than young children,\" reports the International Business Times, citing a new report from the U.S. Census Bureau report. And it warns that \"The share of the population aged 65 and over is projected to nearly double, from 10.5 percent (about 1 in 10 people) in…",
+    "url": "https://slashdot.org/story/26/09/05/0548237/the-world-now-has-more-seniors-than-young-people---for-the-first-time-in-history?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-09-05T21:00:00.000Z",
+    "category": "Software",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "87a2888927b7f4f0",
+    "title": "iPhone Handoff will seamlessly share one number between two phones",
+    "excerpt": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now there's a demo clip showing how to set up the…",
+    "url": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Terrence O’Brien",
+    "publishedAt": "2026-09-05T20:53:58.000Z",
+    "category": "software",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/vpavic_210916_4760_0240.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "630bf109ed96599c",
+    "title": "Private German rocket makes history, reaches orbit from European soil",
+    "excerpt": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket Comments URL: https://news.ycombinator.com/item?id=49580369 Points: 104 # Comments: 25",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "bookmtn",
+    "publishedAt": "2026-09-05T20:31:38.000Z",
+    "category": "policy",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2eed77dc269ac9b7",
+    "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation",
+    "excerpt": "Article URL: https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/ Comments URL: https://news.ycombinator.com/item?id=49580329 Points: 27 # Comments: 7",
+    "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "gmays",
+    "publishedAt": "2026-09-05T20:25:59.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1c68fdd9ba79922f",
+    "title": "Isar Aerospace launch into orbit [video]",
+    "excerpt": "Article URL: https://www.youtube.com/watch?v=Ss1DUqLjecc Comments URL: https://news.ycombinator.com/item?id=49580325 Points: 38 # Comments: 5",
+    "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "stefan_",
+    "publishedAt": "2026-09-05T20:25:30.000Z",
+    "category": "policy",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "06a304af6a160458",
+    "title": "Space industry lacks workers needed to rebuild satellites lost in war: report",
+    "excerpt": "Article URL: https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/ Comments URL: https://news.ycombinator.com/item?id=49580248 Points: 26 # Comments: 29",
+    "url": "https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "billybuckwheat",
+    "publishedAt": "2026-09-05T20:14:25.000Z",
+    "category": "science",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "c38ef34fb76c3cc3",
+    "title": "LLMs as a Cognitive Virus",
+    "excerpt": "Article URL: https://arxiv.org/abs/2609.03344 Comments URL: https://news.ycombinator.com/item?id=49580164 Points: 39 # Comments: 4",
+    "url": "https://arxiv.org/abs/2609.03344",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "canjobear",
+    "publishedAt": "2026-09-05T20:02:35.000Z",
+    "category": "science",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "02adb880bf455770",
+    "title": "The reasons rugged laptops are rarely bought by consumers",
+    "excerpt": "There are plenty of durable, versatile rugged laptops on the market, but you'll rarely see one get pulled out at the coffee shop. Why?",
+    "url": "https://www.engadget.com/2247940/reason-why-rugged-laptops-rarely-bought-by-consumers/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Husain Parvez)",
+    "publishedAt": "2026-09-05T20:00:00.000Z",
+    "category": "security",
+    "imageUrl": "https://www.engadget.com/img/gallery/the-reasons-rugged-laptops-are-rarely-bought-by-consumers/l-intro-1787944974.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6ef2aef9012f0dd0",
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "excerpt": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+    "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Anthony Ha",
+    "publishedAt": "2026-09-05T19:35:24.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "65c04da9e21ef600",
+    "title": "Ikey Doherty Plans To Show How To \"Properly\" Build A Modern Linux Distro",
+    "excerpt": "Ikey Doherty is back in the Linux distribution space. Sort of. Ikey Doherty who was the founder of the Solus Linux distribution as well as Serpent OS (now AerynOS) as well as having been employed by Intel on their Clear Linux team is back at it again in the Linux space...",
+    "url": "https://www.phoronix.com/news/Ikey-Doherty-Plans-Linux-Build",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-05T18:35:41.000Z",
+    "category": "policy",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "52a8c8bfb6cd979d",
+    "title": "How to track prices with Safari's Notify Me tool on iPhone, iPad and Mac",
+    "excerpt": "Apple's Notify Me feature can update you every time a price drops or a product comes back in stock. Tell it what to do and it'll take care of the rest.",
+    "url": "https://www.engadget.com/2247813/how-to-track-prices-safari-notify-me-tool-iphone-ipad-macbook/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Will Shanklin)",
+    "publishedAt": "2026-09-05T18:30:00.000Z",
+    "category": "software",
+    "imageUrl": "https://www.engadget.com/img/gallery/how-to-track-prices-with-safaris-notify-me-tool-on-iphone-ipad-and-mac/l-intro-1788197004.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b86b5015c5da7a40",
+    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "excerpt": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Anthony Ha",
+    "publishedAt": "2026-09-05T18:05:27.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "064aa15c8de85b1a",
+    "title": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
+    "excerpt": "A historical analysis of bitcoin price performance from 2010 through 2026 demonstrates that the vast majority of the asset's annual returns occur during a tiny fraction of the calendar year.",
+    "url": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Omkar Godbole",
+    "publishedAt": "2026-09-05T18:05:11.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/67f1b9834e7673076b5fd1e6db8975934fb913e3-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1b162106c901be17",
+    "title": "You're probably wasting these keys on your keyboard — here's how to remap them",
+    "excerpt": "There are almost certainly keys on your keyboard that you never touch. Assign new functions to give them a job.",
+    "url": "https://www.engadget.com/2247939/how-to-remap-keys-windows/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Ben Stegner)",
+    "publishedAt": "2026-09-05T18:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/youre-probably-wasting-these-keys-on-your-keyboard-heres-how-to-remap-them/l-intro-1788180462.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0bf8998a671cac53",
+    "title": "Two more news organizations sue OpenAI and Microsoft for copyright infringement",
+    "excerpt": "The Seattle Times and Newsday accused the two AI giants of using their content without permission.",
+    "url": "https://www.engadget.com/2251707/seattle-times-newsday-sue-openai-microsoft-for-copyright-infringement/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Jackson Chen)",
+    "publishedAt": "2026-09-05T17:46:29.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/two-more-news-organizations-sue-openai-and-microsoft-for-copyright-infringement/l-intro-1788630220.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "415884a72ea16d83",
+    "title": "The Real Luxuries In Life",
+    "excerpt": "Article URL: https://feld.com/archives/2026/09/the-real-luxuries-in-life/ Comments URL: https://news.ycombinator.com/item?id=49578866 Points: 296 # Comments: 117",
+    "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "tosh",
+    "publishedAt": "2026-09-05T17:46:16.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ea68be0b3961146c",
+    "title": "What makes IMAX theaters different from normal ones?",
+    "excerpt": "In the case of IMAX, bigger really is better.",
+    "url": "https://www.engadget.com/2247936/what-makes-imax-theaters-different-from-normal-ones/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Alec Hively)",
+    "publishedAt": "2026-09-05T17:30:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/what-makes-imax-theaters-different-from-normal-ones/l-intro-1787946925.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "b9aaa39ee7148b7d",
     "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
     "excerpt": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
@@ -10,6 +244,19 @@
     "publishedAt": "2026-09-05T17:00:00.000Z",
     "category": "hardware",
     "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "841da0844f912f7d",
+    "title": "Cancer Deaths Attributable to Alcohol Rose 58% Over the Last 33 Years",
+    "excerpt": "CNN reports that alcohol \"may play a greater role in death from numerous types of cancers in the United States than previously known, according to a new study.\" \"While it's true that overall cancer mortality has declined, we found the percentage of cancer deaths proportionally attributable to…",
+    "url": "https://science.slashdot.org/story/26/09/05/0529236/cancer-deaths-attributable-to-alcohol-rose-58-over-the-last-33-years?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-09-05T16:50:00.000Z",
+    "category": "science",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -26,15 +273,15 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "c55ed397ab9dd924",
-    "title": "Flock used >100 times to track veteran who recorded traffic stop",
-    "excerpt": "Article URL: https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/ Comments URL: https://news.ycombinator.com/item?id=49578310 Points: 17 # Comments: 0",
-    "url": "https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/",
+    "id": "83d3effa43049b37",
+    "title": "Learn Programming with OCaml",
+    "excerpt": "Article URL: https://usr.lmf.cnrs.fr/lpo/ Comments URL: https://news.ycombinator.com/item?id=49578280 Points: 111 # Comments: 43",
+    "url": "https://usr.lmf.cnrs.fr/lpo/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
-    "author": "bbatsell",
-    "publishedAt": "2026-09-05T16:48:13.000Z",
-    "category": "startups",
+    "author": "elvis70",
+    "publishedAt": "2026-09-05T16:45:02.000Z",
+    "category": "hardware",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -52,19 +299,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "5253e402b4ee142d",
-    "title": "Bob and Van",
-    "excerpt": "Article URL: https://marco.org/2026/09/04/bob-and-van Comments URL: https://news.ycombinator.com/item?id=49578136 Points: 15 # Comments: 4",
-    "url": "https://marco.org/2026/09/04/bob-and-van",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "Tomte",
-    "publishedAt": "2026-09-05T16:30:35.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "9ab528f7dfe3ba97",
     "title": "Why it's important to regularly restart your router",
     "excerpt": "You might not think to restart your router as often as you reboot your laptop, but doing so is an easy step to help it perform at its best.",
@@ -78,22 +312,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "04be8708b907cd3a",
-    "title": "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)",
-    "excerpt": "Article URL: https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods Comments URL: https://news.ycombinator.com/item?id=49577985 Points: 68 # Comments: 21",
-    "url": "https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "paimapi",
-    "publishedAt": "2026-09-05T16:14:34.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "4504384f56413873",
     "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
-    "excerpt": "Article URL: https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/ Comments URL: https://news.ycombinator.com/item?id=49577975 Points: 46 # Comments: 1",
+    "excerpt": "Article URL: https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/ Comments URL: https://news.ycombinator.com/item?id=49577975 Points: 225 # Comments: 94",
     "url": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -208,19 +429,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "99b900ca301c087c",
-    "title": "How the Disaster of \"Forever Chemicals\" Was Kept Secret",
-    "excerpt": "Article URL: https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen Comments URL: https://news.ycombinator.com/item?id=49576986 Points: 158 # Comments: 37",
-    "url": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "stevenwoo",
-    "publishedAt": "2026-09-05T14:40:52.000Z",
-    "category": "policy",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "2e7da5005d9c9ae6",
     "title": "How does Ottocast CarPlay work and how much does it cost?",
     "excerpt": "What's cooler than wired Apple CarPlay? Ditching the annoying cable and having Ottocast deliver it wirelessly the minute you switch your car on.",
@@ -260,19 +468,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "7ba98ac3e0b56d2d",
-    "title": "Meet the Ig Nobel Prize Winners",
-    "excerpt": "Article URL: https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/ Comments URL: https://news.ycombinator.com/item?id=49576611 Points: 55 # Comments: 10",
-    "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "mkl",
-    "publishedAt": "2026-09-05T14:02:44.000Z",
-    "category": "science",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "ee86d9d0167a919a",
     "title": "Content creators drop the ball",
     "excerpt": "The USTA Billie Jean King National Tennis Center. | Getty Images During Naomi Osaka's match against Anastasia Zakharova at this year's US Open earlier this week, a gaggle of ring light-wielding influencers who were packed in a luxury suite became enough of a distraction that the umpire paused the…",
@@ -301,13 +496,26 @@
   {
     "id": "388819ff9e6f9d10",
     "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-    "excerpt": "Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/ Comments URL: https://news.ycombinator.com/item?id=49576386 Points: 127 # Comments: 40",
+    "excerpt": "Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/ Comments URL: https://news.ycombinator.com/item?id=49576386 Points: 217 # Comments: 71",
     "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "networked",
     "publishedAt": "2026-09-05T13:36:38.000Z",
     "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ba6adf512cf88905",
+    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+    "excerpt": "Article URL: https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/ Comments URL: https://news.ycombinator.com/item?id=49576343 Points: 85 # Comments: 7",
+    "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "torutofu",
+    "publishedAt": "2026-09-05T13:31:05.000Z",
+    "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -327,7 +535,7 @@
   {
     "id": "3ac5aa3d33cb417a",
     "title": ".gitignore Everything by Default",
-    "excerpt": "Article URL: https://packagemain.tech/p/gitignore-everything-by-default Comments URL: https://news.ycombinator.com/item?id=49576258 Points: 65 # Comments: 66",
+    "excerpt": "Article URL: https://packagemain.tech/p/gitignore-everything-by-default Comments URL: https://news.ycombinator.com/item?id=49576258 Points: 121 # Comments: 136",
     "url": "https://packagemain.tech/p/gitignore-everything-by-default",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -379,7 +587,7 @@
   {
     "id": "fcdf2b1a952243df",
     "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
-    "excerpt": "Article URL: https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/ Comments URL: https://news.ycombinator.com/item?id=49575859 Points: 26 # Comments: 3",
+    "excerpt": "Article URL: https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/ Comments URL: https://news.ycombinator.com/item?id=49575859 Points: 61 # Comments: 3",
     "url": "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -439,19 +647,6 @@
     "publishedAt": "2026-09-05T12:00:00.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/54662a5b70f0b4676e2b252594789b82117e88e3-1920x1281.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "0f20b57421709a73",
-    "title": "Remote work as a worm, colorful platformers and other new indie games worth checking out",
-    "excerpt": "Here are the new indie games worth checking out, plus an early look at shipbuilding, I Am Your Beast DLC and a cat trying to stop an AI office takeover.",
-    "url": "https://www.engadget.com/2251521/remote-work-as-a-worm-colorful-platformers-and-other-new-indie-games-worth-checking-out/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Kris Holt)",
-    "publishedAt": "2026-09-05T11:30:00.000Z",
-    "category": "startups",
-    "imageUrl": "https://www.engadget.com/img/gallery/remote-work-as-a-worm-colorful-platformers-and-other-new-indie-games-worth-checking-out/l-intro-1788554876.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -522,7 +717,7 @@
   {
     "id": "58a1a0703a5c73e5",
     "title": "Terpstra Keyboard",
-    "excerpt": "Article URL: http://terpstrakeyboard.com/ Comments URL: https://news.ycombinator.com/item?id=49575150 Points: 62 # Comments: 30",
+    "excerpt": "Article URL: http://terpstrakeyboard.com/ Comments URL: https://news.ycombinator.com/item?id=49575150 Points: 102 # Comments: 48",
     "url": "http://terpstrakeyboard.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -546,22 +741,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "e14ac6a9f152765a",
-    "title": "Netherlands pulls gold out of the US",
-    "excerpt": "Article URL: https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990 Comments URL: https://news.ycombinator.com/item?id=49575034 Points: 295 # Comments: 188",
-    "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "daniel_iversen",
-    "publishedAt": "2026-09-05T10:14:28.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "3d056644792d44a8",
     "title": "AI handles incidents, engineers lose touch with their systems",
-    "excerpt": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems Comments URL: https://news.ycombinator.com/item?id=49574167 Points: 289 # Comments: 255",
+    "excerpt": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems Comments URL: https://news.ycombinator.com/item?id=49574167 Points: 345 # Comments: 303",
     "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -600,7 +782,7 @@
   {
     "id": "74e0427ae35b6bff",
     "title": "Git hosting that never leaves Europe",
-    "excerpt": "Article URL: https://pushin.eu Comments URL: https://news.ycombinator.com/item?id=49573680 Points: 218 # Comments: 111",
+    "excerpt": "Article URL: https://pushin.eu Comments URL: https://news.ycombinator.com/item?id=49573680 Points: 290 # Comments: 144",
     "url": "https://pushin.eu",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -652,26 +834,13 @@
   {
     "id": "b64c6129c35952aa",
     "title": "Nitter has more working instances than before the takedowns",
-    "excerpt": "Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances Comments URL: https://news.ycombinator.com/item?id=49571634 Points: 450 # Comments: 182",
+    "excerpt": "Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances Comments URL: https://news.ycombinator.com/item?id=49571634 Points: 573 # Comments: 264",
     "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "Cider9986",
     "publishedAt": "2026-09-05T00:04:16.000Z",
     "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "e870d219d769fc5a",
-    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-    "excerpt": "Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90 Comments URL: https://news.ycombinator.com/item?id=49571465 Points: 209 # Comments: 116",
-    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "cebert",
-    "publishedAt": "2026-09-04T23:38:50.000Z",
-    "category": "ai",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -702,19 +871,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "11cb31cdc9cbd100",
-    "title": "How to see what's taking up space on your Windows PC",
-    "excerpt": "Use a methodical approach to see what's using the most space on your PC and easily clean it up.",
-    "url": "https://www.engadget.com/2247848/how-to-see-whats-taking-up-space-windows/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Ben Stegner)",
-    "publishedAt": "2026-09-04T23:00:00.000Z",
-    "category": "policy",
-    "imageUrl": "https://www.engadget.com/img/gallery/how-to-see-whats-taking-up-space-on-your-windows-pc/l-intro-1787945949.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "38195d6e89a3d6f2",
     "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
     "excerpt": "The BepiColombo mission cleared a major milestone this week in the final stretch of an eight-year interplanetary voyage to Mercury, the hard-to-reach, scorching hot iron world at the Solar System's innermost frontier. The robotic science mission, with a price tag of nearly $2 billion, is led by the…",
@@ -741,41 +897,15 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "ac08d0012bb6deb6",
-    "title": "The Tetris Company wants nothing to do with the White House's new copycat game",
-    "excerpt": "Tetris knockoff 'Build the Wall' is one of six new games hosted on the White House website, and The Tetris Company is not happy.",
-    "url": "https://www.engadget.com/2251585/the-tetris-company-wants-nothing-to-do-with-the-white-house-s-new-copycat-game/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Ian Carlos Campbell)",
-    "publishedAt": "2026-09-04T22:01:12.000Z",
-    "category": "policy",
-    "imageUrl": "https://www.engadget.com/img/gallery/the-tetris-company-wants-nothing-to-do-with-the-white-houses-new-copycat-game/l-intro-1788559067.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "6a5cb4a438703700",
     "title": "Actively exploited sandbox RCE in all Chromium versions",
-    "excerpt": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046 Comments URL: https://news.ycombinator.com/item?id=49570669 Points: 664 # Comments: 374",
+    "excerpt": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046 Comments URL: https://news.ycombinator.com/item?id=49570669 Points: 721 # Comments: 416",
     "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "negura",
     "publishedAt": "2026-09-04T21:52:01.000Z",
     "category": "security",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "0c6009cf40693d37",
-    "title": "GPT-6 Astra on OpenRouter",
-    "excerpt": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 276 # Comments: 191",
-    "url": "https://openrouter.ai/openai/gpt-6-astra",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "Topfi",
-    "publishedAt": "2026-09-04T21:39:19.000Z",
-    "category": "ai",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -834,7 +964,7 @@
   {
     "id": "5553f4409f200ed4",
     "title": "Statichost.eu – European static site hosting",
-    "excerpt": "Article URL: https://www.statichost.eu/ Comments URL: https://news.ycombinator.com/item?id=49569896 Points: 383 # Comments: 178",
+    "excerpt": "Article URL: https://www.statichost.eu/ Comments URL: https://news.ycombinator.com/item?id=49569896 Points: 426 # Comments: 191",
     "url": "https://www.statichost.eu/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -884,22 +1014,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "76eceaaf9441af12",
-    "title": "Flock cameras are officially banned on state roads in Florida",
-    "excerpt": "Florida joins a growing list of cities and states responding to the license plate reader backlash.",
-    "url": "https://www.engadget.com/2251480/flock-camera-license-plate-reader-state-road-ban-florida/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Ian Carlos Campbell)",
-    "publishedAt": "2026-09-04T20:10:41.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/flock-cameras-are-officially-banned-on-state-roads-in-florida/l-intro-1788551976.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "fc8b777bd4955741",
     "title": "Can AI design circuit boards yet?",
-    "excerpt": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 311 # Comments: 185",
+    "excerpt": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 349 # Comments: 202",
     "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -962,15 +1079,15 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "fd4e0b99ad940433",
-    "title": "Shutting down our public encrypted DNS",
-    "excerpt": "Article URL: https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead Comments URL: https://news.ycombinator.com/item?id=49568579 Points: 406 # Comments: 192",
-    "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+    "id": "e94fc2f0f03f5691",
+    "title": "Formalizing Fermat's Last Theorem",
+    "excerpt": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h... Comments URL: https://news.ycombinator.com/item?id=49568506 Points: 728 # Comments: 468",
+    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
-    "author": "mywacaday",
-    "publishedAt": "2026-09-04T18:50:28.000Z",
-    "category": "hardware",
+    "author": "jlebar",
+    "publishedAt": "2026-09-04T18:42:56.000Z",
+    "category": "ai",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -998,19 +1115,6 @@
     "publishedAt": "2026-09-04T17:52:05.000Z",
     "category": "startups",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d7da0fb3d5ff6a40",
-    "title": "Roland is getting into generative AI music with Melody Flip",
-    "excerpt": "It's not quite the \"push button; get song\" of Suno , but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Terrence O’Brien",
-    "publishedAt": "2026-09-04T17:51:35.000Z",
-    "category": "software",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Melody_Flip_Palettes-Fav.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -1183,19 +1287,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "eba1988e27b1c261",
-    "title": "Nintendo just announced two Direct livestream events for next week",
-    "excerpt": "Zelda takes center stage on September 8 and everything else is being saved for September 9.",
-    "url": "https://www.engadget.com/2251134/nintendo-announced-two-direct-livestream-events-for-next-week/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Lawrence Bonk)",
-    "publishedAt": "2026-09-04T15:32:50.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/nintendo-just-announced-two-direct-livestream-events-for-next-week/l-intro-1788535661.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "a661d285ab22c80a",
     "title": "My Word. Microsoft's prepping Similarity Checker for retirement",
     "excerpt": "Microsoft is retiring Word's Similarity Checker on October 3 and stripping the feature from Microsoft Editor. Other writing and editing tools, including Microsoft 365 Copilot, won't be affected. But if an organization uses Similarity Checker as part of its workflow, it's time to consider…",
@@ -1206,19 +1297,6 @@
     "publishedAt": "2026-09-04T15:19:00.000Z",
     "category": "ai",
     "imageUrl": "https://image.theregister.com/?imageId=5278204&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "5f82f3064ba16142",
-    "title": "Rogue OpenAI agents took over a German coding forum in a previously undisclosed hijacking",
-    "excerpt": "OpenAI says it's investigating the incident after a group of researchers disclosed their findings.",
-    "url": "https://www.engadget.com/2251091/rogue-openai-agents-took-over-german-coding-forum-in-previously-undisclosed-hijacking/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Igor Bonifacic)",
-    "publishedAt": "2026-09-04T15:02:52.000Z",
-    "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/rogue-openai-agents-took-over-a-german-coding-forum-in-a-previously-undisclosed-hijacking/l-intro-1788533826.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1937,19 +2015,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "78daff6cb6ccb504",
-    "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
-    "excerpt": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
-    "url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Kirsten Korosec",
-    "publishedAt": "2026-09-03T22:18:30.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "8c8e1e25f784b163",
     "title": "Hugging Face is too important to fall into Nvidia's hands",
     "excerpt": "OPINION Nvidia on Thursday announced an agreement to acquire open source AI evangelist and model depot Hugging Face for $12.9 billion in a deal that's expected to close next year, assuming regulators don't get in the way. They should get in the way. As antitrust magnets go, Nvidia buying Hugging…",
@@ -2025,19 +2090,6 @@
     "publishedAt": "2026-09-03T21:00:00.000Z",
     "category": "Software",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b267dcd4ed4ee8b0",
-    "title": "Startup ARR is less secure than ever, new research shows",
-    "excerpt": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
-    "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Julie Bort",
-    "publishedAt": "2026-09-03T20:59:23.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2184,19 +2236,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "86564fafa56fe9d3",
-    "title": "Audacity 4 Rebuilds the Open Source Audio Editor But Leaves Some Features Behind",
-    "excerpt": "BrianFagioli writes: Audacity 4.0 has been released with a rebuilt Qt interface, a new clip-editing model, customizable workspaces, native high-DPI rendering, and a new AUP4 project format. The open source audio editor also adds ASIO playback and recording support to official Windows builds, while…",
-    "url": "https://news.slashdot.org/story/26/09/03/163216/audacity-4-rebuilds-the-open-source-audio-editor-but-leaves-some-features-behind?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-09-03T17:00:00.000Z",
-    "category": "software",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "ac7eb5d71edaac33",
     "title": "Audacity audio-editing app no longer looks like it's from the early 2000s",
     "excerpt": "Audacity, a beloved open-source audio editing software tool, has just received a massive makeover. For those unfamiliar with Audacity, it’s a 26-year-old piece of FOSS software that provides incredibly robust audio editing capabilities for the perfect price – $0 – making it ideal for independent…",
@@ -2220,19 +2259,6 @@
     "publishedAt": "2026-09-03T16:02:19.000Z",
     "category": "science",
     "imageUrl": "https://image.theregister.com/?imageId=141073&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c3ca672b36cc1f63",
-    "title": "Google Releases Gemini 3.8 Flash, Its Third Flash Model In Six Weeks",
-    "excerpt": "Google released Gemini 3.8 Flash, its third Flash model in six weeks, claiming it's their best reasoning and coding model yet (topping the DeepSWE leaderboard). Ars Technica reports: Gemini 3.8 Flash comes in two variations. There's the standard Flash, which Google describes as a \"workhorse\" model…",
-    "url": "https://tech.slashdot.org/story/26/09/03/1557237/google-releases-gemini-38-flash-its-third-flash-model-in-six-weeks?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-09-03T16:00:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -2428,19 +2454,6 @@
     "publishedAt": "2026-09-03T12:00:00.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/6729e1c305b50c141cc3d56e8ad78bb80d24b6e7-1500x968.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a188bdb281f3a0ec",
-    "title": "FX has stopped reading bond yields the old way. Bitcoin should too.",
-    "excerpt": "Your day-ahead look for Sept. 3, 2026",
-    "url": "https://www.coindesk.com/daybook-us/2026/09/03/fx-has-stopped-reading-bond-yields-the-old-way-bitcoin-should-too",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Omkar Godbole",
-    "publishedAt": "2026-09-03T11:26:00.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/e9cece00af9ea3fd353ddf4d1516036ee006ff55-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2726,19 +2739,6 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-09-02T17:51:36.000Z",
     "category": "Hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "96d425c603519479",
-    "title": "Mesa 26.2.2 Enables Intel Nova Lake Graphics By Default",
-    "excerpt": "Mesa 26.2.2 is out today as the newest bi-weekly stable point release for these open-source OpenGL and Vulkan drivers...",
-    "url": "https://www.phoronix.com/news/Mesa-26.2.2-Released",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-02T17:05:41.000Z",
-    "category": "hardware",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
