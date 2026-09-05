@@ -1,5 +1,57 @@
 [
   {
+    "id": "8b6e93485f6343a9",
+    "title": "'Coyote vs. Acme' Beats Ridley Scott's Newest Movie",
+    "excerpt": "Inverse shares a movie success story from last weekend: Coyote vs. Acme debuted to $15.9 million at the box office, beating out iconic director Ridley Scott's latest sci-fi adventure, The Dog Stars. This success has only continued since, and the worldwide box office currently sits above $22…",
+    "url": "https://entertainment.slashdot.org/story/26/09/05/0310256/coyote-vs-acme-beats-ridley-scotts-newest-movie?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-09-05T03:20:00.000Z",
+    "category": "startups",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2ec73a976413b690",
+    "title": "Artificial Analysis Intelligence Index v4.2",
+    "excerpt": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=49571632 Points: 68 # Comments: 16",
+    "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "nojs",
+    "publishedAt": "2026-09-05T00:04:14.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "5753b16fc047d26a",
+    "title": "Show HN: Moadim.io – A scheduler for agents",
+    "excerpt": "Why can't we get an agent scheduler that supports all of the following: - git compatible - agent agnostic - 100% open source - os and system-agnostic - multi-runner support - support mcp/ui/http - unlimited routines/crons So I built one, moadim.io is a local Rust daemon you install in the target…",
+    "url": "https://moadim.io/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "tupe12334",
+    "publishedAt": "2026-09-04T23:50:29.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e870d219d769fc5a",
+    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+    "excerpt": "Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90 Comments URL: https://news.ycombinator.com/item?id=49571465 Points: 48 # Comments: 21",
+    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "cebert",
+    "publishedAt": "2026-09-04T23:38:50.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "234d1f722727c86c",
     "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
     "excerpt": "The round is being raised just months after the robot data startup exited from stealth.",
@@ -22,6 +74,19 @@
     "author": "Rebecca Bellan",
     "publishedAt": "2026-09-04T23:15:11.000Z",
     "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "22adedd3e2fe05e5",
+    "title": "Connecting every app to every other app",
+    "excerpt": "Article URL: https://blog.val.town/connectors Comments URL: https://news.ycombinator.com/item?id=49571263 Points: 18 # Comments: 1",
+    "url": "https://blog.val.town/connectors",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "Chidiebere229",
+    "publishedAt": "2026-09-04T23:09:59.000Z",
+    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -54,7 +119,7 @@
   {
     "id": "96676fa55b7e84a2",
     "title": "Can guitar frets perform multiplication?",
-    "excerpt": "Article URL: https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html Comments URL: https://news.ycombinator.com/item?id=49571047 Points: 4 # Comments: 0",
+    "excerpt": "Article URL: https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html Comments URL: https://news.ycombinator.com/item?id=49571047 Points: 41 # Comments: 12",
     "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -80,7 +145,7 @@
   {
     "id": "969cb59a59bd8182",
     "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
-    "excerpt": "Article URL: https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx Comments URL: https://news.ycombinator.com/item?id=49570772 Points: 74 # Comments: 31",
+    "excerpt": "Article URL: https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx Comments URL: https://news.ycombinator.com/item?id=49570772 Points: 239 # Comments: 185",
     "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -106,7 +171,7 @@
   {
     "id": "6a5cb4a438703700",
     "title": "Actively exploited sandbox RCE in all Chromium versions",
-    "excerpt": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046 Comments URL: https://news.ycombinator.com/item?id=49570669 Points: 90 # Comments: 34",
+    "excerpt": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046 Comments URL: https://news.ycombinator.com/item?id=49570669 Points: 294 # Comments: 167",
     "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -119,7 +184,7 @@
   {
     "id": "f1a9d0f7fd014aee",
     "title": "Icons as a Service",
-    "excerpt": "Article URL: https://nravic.com/blog/images/ Comments URL: https://news.ycombinator.com/item?id=49570597 Points: 8 # Comments: 0",
+    "excerpt": "Article URL: https://nravic.com/blog/images/ Comments URL: https://news.ycombinator.com/item?id=49570597 Points: 29 # Comments: 2",
     "url": "https://nravic.com/blog/images/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -132,7 +197,7 @@
   {
     "id": "0c6009cf40693d37",
     "title": "GPT-6 Astra on OpenRouter",
-    "excerpt": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 67 # Comments: 29",
+    "excerpt": "Article URL: https://openrouter.ai/openai/gpt-6-astra Comments URL: https://news.ycombinator.com/item?id=49570545 Points: 142 # Comments: 74",
     "url": "https://openrouter.ai/openai/gpt-6-astra",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -158,7 +223,7 @@
   {
     "id": "d75d03363ebffae1",
     "title": "Updates on HEIR, the Homomorphic Encryption Compiler Project",
-    "excerpt": "Article URL: https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49570328 Points: 14 # Comments: 0",
+    "excerpt": "Article URL: https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49570328 Points: 27 # Comments: 0",
     "url": "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -210,7 +275,7 @@
   {
     "id": "5553f4409f200ed4",
     "title": "Statichost.eu – European static site hosting",
-    "excerpt": "Article URL: https://www.statichost.eu/ Comments URL: https://news.ycombinator.com/item?id=49569896 Points: 132 # Comments: 42",
+    "excerpt": "Article URL: https://www.statichost.eu/ Comments URL: https://news.ycombinator.com/item?id=49569896 Points: 182 # Comments: 62",
     "url": "https://www.statichost.eu/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -236,7 +301,7 @@
   {
     "id": "d277c91cddfb6b60",
     "title": "How to Create a Tor Exit Node (2015)",
-    "excerpt": "Article URL: https://madpsy.uk/how-to-create-a-tor-exit-node/ Comments URL: https://news.ycombinator.com/item?id=49569702 Points: 31 # Comments: 18",
+    "excerpt": "Article URL: https://madpsy.uk/how-to-create-a-tor-exit-node/ Comments URL: https://news.ycombinator.com/item?id=49569702 Points: 45 # Comments: 20",
     "url": "https://madpsy.uk/how-to-create-a-tor-exit-node/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -249,7 +314,7 @@
   {
     "id": "ecddddcc43702dbb",
     "title": "An open DNS recursive service for free security and high privacy",
-    "excerpt": "Article URL: https://quad9.net/ Comments URL: https://news.ycombinator.com/item?id=49569663 Points: 48 # Comments: 9",
+    "excerpt": "Article URL: https://quad9.net/ Comments URL: https://news.ycombinator.com/item?id=49569663 Points: 68 # Comments: 18",
     "url": "https://quad9.net/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -301,7 +366,7 @@
   {
     "id": "fc8b777bd4955741",
     "title": "Can AI design circuit boards yet?",
-    "excerpt": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 128 # Comments: 72",
+    "excerpt": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 183 # Comments: 118",
     "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -353,7 +418,7 @@
   {
     "id": "2fb0f70549546b1e",
     "title": "Government Rails Site Hit Hours After CVE Patch",
-    "excerpt": "Article URL: https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/ Comments URL: https://news.ycombinator.com/item?id=49568828 Points: 63 # Comments: 14",
+    "excerpt": "Article URL: https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/ Comments URL: https://news.ycombinator.com/item?id=49568828 Points: 77 # Comments: 24",
     "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -379,7 +444,7 @@
   {
     "id": "2b4381bb13faabd5",
     "title": "Fermat's Last Theorem in Lean 4",
-    "excerpt": "Article URL: https://github.com/anthropics/fermats-last-theorem Comments URL: https://news.ycombinator.com/item?id=49568697 Points: 47 # Comments: 10",
+    "excerpt": "Article URL: https://github.com/anthropics/fermats-last-theorem Comments URL: https://news.ycombinator.com/item?id=49568697 Points: 72 # Comments: 15",
     "url": "https://github.com/anthropics/fermats-last-theorem",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -392,7 +457,7 @@
   {
     "id": "fd4e0b99ad940433",
     "title": "Shutting down our public encrypted DNS",
-    "excerpt": "Article URL: https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead Comments URL: https://news.ycombinator.com/item?id=49568579 Points: 209 # Comments: 76",
+    "excerpt": "Article URL: https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead Comments URL: https://news.ycombinator.com/item?id=49568579 Points: 269 # Comments: 118",
     "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -405,7 +470,7 @@
   {
     "id": "e94fc2f0f03f5691",
     "title": "Formalizing Fermat's Last Theorem",
-    "excerpt": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h... Comments URL: https://news.ycombinator.com/item?id=49568506 Points: 422 # Comments: 273",
+    "excerpt": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h... Comments URL: https://news.ycombinator.com/item?id=49568506 Points: 523 # Comments: 327",
     "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -457,7 +522,7 @@
   {
     "id": "96d714b5e5dc11b9",
     "title": "The Rust React Compiler is now native in Vite",
-    "excerpt": "Article URL: https://blog.master.dev/react-now-rusted-all-the-way-out/ Comments URL: https://news.ycombinator.com/item?id=49567873 Points: 101 # Comments: 19",
+    "excerpt": "Article URL: https://blog.master.dev/react-now-rusted-all-the-way-out/ Comments URL: https://news.ycombinator.com/item?id=49567873 Points: 120 # Comments: 23",
     "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -533,19 +598,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "9c82c07570c3e559",
-    "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
-    "excerpt": "Article URL: https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html Comments URL: https://news.ycombinator.com/item?id=49567310 Points: 59 # Comments: 146",
-    "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "garrinm",
-    "publishedAt": "2026-09-04T17:09:24.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "8f7415c164b3716d",
     "title": "Pentagon rescinds new testosterone screening policy without explanation",
     "excerpt": "Following Defense Secretary Pete Hegseth's startling announcement in July that the US military would begin mandatory testosterone screening for personnel, the Pentagon released a clinical guidance document on September 2 outlining the new medically questionable policy. The next day, though, the…",
@@ -572,19 +624,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "efb32cf2a2d830f1",
-    "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
-    "excerpt": "Article URL: https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/ Comments URL: https://news.ycombinator.com/item?id=49567053 Points: 303 # Comments: 187",
-    "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "speckx",
-    "publishedAt": "2026-09-04T16:46:59.000Z",
-    "category": "policy",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "b10c3422e4fedbdf",
     "title": "A ratings board wouldn't let Valve release a trailer. It \"leaked\" it instead.",
     "excerpt": "Back in 2009, Ars wrote about what was being reported as a leaked trailer for the then-upcoming Left 4 Dead 2 , saying the footage \"looks like it’s straight from a high-gloss action movie.\" Today, we need to offer an important update to this crucial, 17-year-old story: The trailer \"leak\" was…",
@@ -595,19 +634,6 @@
     "publishedAt": "2026-09-04T16:42:53.000Z",
     "category": "startups",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/l4d2-1152x648-1788538783.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f811cada5ee199e3",
-    "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-    "excerpt": "Article URL: https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/ Comments URL: https://news.ycombinator.com/item?id=49566788 Points: 58 # Comments: 29",
-    "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "qainsights",
-    "publishedAt": "2026-09-04T16:24:50.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -712,19 +738,6 @@
     "publishedAt": "2026-09-04T15:41:17.000Z",
     "category": "Hardware",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/besttop.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b9d9e17ac142a3f5",
-    "title": "deSEC – Free Secure DNS",
-    "excerpt": "Article URL: https://desec.io/ Comments URL: https://news.ycombinator.com/item?id=49566193 Points: 98 # Comments: 39",
-    "url": "https://desec.io/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "gurjeet",
-    "publishedAt": "2026-09-04T15:38:58.000Z",
-    "category": "policy",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2480,19 +2493,6 @@
     "publishedAt": "2026-09-03T07:00:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=5292773&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "cc2eb15761458045",
-    "title": "Instrument Clusters Are Now Paid Extras In Two Hyundai Models",
-    "excerpt": "\"Enshittification of car controls [is] rapidly accelerating,\" writes longtime Slashdot reader sinij, pointing to a new report from Car and Driver. From the report: Remember when iPhones used to come with free headphones and a phone charger (including the wall plug)? It didn't feel so much like…",
-    "url": "https://tech.slashdot.org/story/26/09/02/2246257/instrument-clusters-are-now-paid-extras-in-two-hyundai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-09-03T07:00:00.000Z",
-    "category": "software",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
