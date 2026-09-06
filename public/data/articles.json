@@ -1,27 +1,183 @@
 [
   {
-    "id": "5becefa55840b0c2",
-    "title": "Alberta (Canada) slaps punitive tax on solar panels",
-    "excerpt": "Article URL: https://albertapolitics.ca/2026/09/ucp-slaps-punitive-tax-on-solar-panels-opening-new-front-in-its-war-on-renewable-energy/ Comments URL: https://news.ycombinator.com/item?id=49587285 Points: 3 # Comments: 2",
-    "url": "https://albertapolitics.ca/2026/09/ucp-slaps-punitive-tax-on-solar-panels-opening-new-front-in-its-war-on-renewable-energy/",
+    "id": "47282bec5e67699e",
+    "title": "NetBSD 9.5 Released To Cap Off The Series",
+    "excerpt": "NetBSD 9.5 released today as the final release of the NetBSD 9 stable branch...",
+    "url": "https://www.phoronix.com/news/NetBSD-9.5-Released",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-06T17:52:15.000Z",
+    "category": "Hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0b709b62bbc59069",
+    "title": "Flock Offered Webinar Teaching Cops How to Surveil 'No Kings' Protesters",
+    "excerpt": "Thursday 404 Media reported that Flock taught America's cops \"how they could surveil the No Kings protests\" against President Trump (as well as \"small parades\") in a webinar last year that described \"using a mix of Flock's technology and law enforcement's own databases.\" In the webinar, Flock's…",
+    "url": "https://yro.slashdot.org/story/26/09/05/0659243/flock-offered-webinar-teaching-cops-how-to-surveil-no-kings-protesters?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-09-06T17:34:00.000Z",
+    "category": "software",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e49d8c802a7a2ac8",
+    "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
+    "excerpt": "Article URL: https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm Comments URL: https://news.ycombinator.com/item?id=49588466 Points: 0 # Comments: 0",
+    "url": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
-    "author": "cmrdporcupine",
-    "publishedAt": "2026-09-06T15:14:06.000Z",
+    "author": "ckuo9",
+    "publishedAt": "2026-09-06T17:00:28.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
-    "id": "f8e9d93c60f5ebb6",
-    "title": "I Feel about AI",
-    "excerpt": "Article URL: https://beza1e1.tuxen.de/ai_feelings.html Comments URL: https://news.ycombinator.com/item?id=49587128 Points: 56 # Comments: 20",
-    "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+    "id": "36e2bba17c604c5d",
+    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+    "excerpt": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+    "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Anthony Ha",
+    "publishedAt": "2026-09-06T16:45:00.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0d4c9325e15ebfd9",
+    "title": "We monitor internal coding agents for misalignment",
+    "excerpt": "Article URL: https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/ Comments URL: https://news.ycombinator.com/item?id=49588214 Points: 30 # Comments: 17",
+    "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
-    "author": "qznc",
-    "publishedAt": "2026-09-06T15:00:19.000Z",
+    "author": "lukaspetersson",
+    "publishedAt": "2026-09-06T16:37:55.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0d615389cf0d32f8",
+    "title": "Boox’s tiny Picco e-reader should land in November",
+    "excerpt": "Boox teased the Picco , its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will not have magnets on the back for attaching to a…",
+    "url": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Terrence O’Brien",
+    "publishedAt": "2026-09-06T16:28:58.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Onyx-Boox-Picco-1.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1f0643794f0c78a6",
+    "title": "An Alien Mind",
+    "excerpt": "Article URL: https://openai.com/index/an-alien-mind/ Comments URL: https://news.ycombinator.com/item?id=49588080 Points: 91 # Comments: 53",
+    "url": "https://openai.com/index/an-alien-mind/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "tosh",
+    "publishedAt": "2026-09-06T16:27:05.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b50d156a71a120c2",
+    "title": "Research carried out using NetBSD",
+    "excerpt": "Article URL: https://www.netbsd.org/gallery/research.html Comments URL: https://news.ycombinator.com/item?id=49587903 Points: 28 # Comments: 1",
+    "url": "https://www.netbsd.org/gallery/research.html",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "Bluestein",
+    "publishedAt": "2026-09-06T16:10:05.000Z",
     "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7a98b49af7c5b21c",
+    "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+    "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+    "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Kirsten Korosec",
+    "publishedAt": "2026-09-06T16:08:00.000Z",
+    "category": "Startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b8f2c8096a7f78b9",
+    "title": "Cultivating Trust",
+    "excerpt": "Article URL: https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/ Comments URL: https://news.ycombinator.com/item?id=49587833 Points: 5 # Comments: 1",
+    "url": "https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "kaeruct",
+    "publishedAt": "2026-09-06T16:02:37.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1779c546a28954fc",
+    "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
+    "excerpt": "Investigators have identified 62 victims and say more than 46 Ukrainians took part in the alleged operation.",
+    "url": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Francisco Rodrigues",
+    "publishedAt": "2026-09-06T16:00:00.000Z",
+    "category": "Crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/ac6842abf59685d7a979fa176e4dc1908a44ebdf-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8f6fb59c7a259082",
+    "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+    "excerpt": "Article URL: https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and Comments URL: https://news.ycombinator.com/item?id=49587636 Points: 51 # Comments: 2",
+    "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "jaypatelani",
+    "publishedAt": "2026-09-06T15:44:24.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1412a2a6bfd557a7",
+    "title": "Is 256GB enough for an iPhone? Here's when you should go bigger",
+    "excerpt": "Is 256GB enough for an iPhone? Here's when you should go bigger.",
+    "url": "https://www.engadget.com/2242766/is-256gb-enough-for-an-iphone-heres-when-you-should-go-bigger/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Filipe Espósito)",
+    "publishedAt": "2026-09-06T15:30:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/is-256gb-enough-for-an-iphone-heres-when-you-should-go-bigger/l-intro-1787243063.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3784d7aba9718af9",
+    "title": "Research acceleration: The view inside OpenAI",
+    "excerpt": "Article URL: https://openai.com/index/research-acceleration-view-inside-openai Comments URL: https://news.ycombinator.com/item?id=49587217 Points: 41 # Comments: 13",
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "iamsyr",
+    "publishedAt": "2026-09-06T15:08:44.000Z",
+    "category": "ai",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -39,9 +195,22 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "f7a38bfeadd1bebd",
+    "title": "Recreating Minecraft Is Not a Benchmark",
+    "excerpt": "Article URL: https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark Comments URL: https://news.ycombinator.com/item?id=49587040 Points: 23 # Comments: 19",
+    "url": "https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "kuberwastaken",
+    "publishedAt": "2026-09-06T14:52:07.000Z",
+    "category": "science",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "8526bc07699b8e26",
     "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
-    "excerpt": "Article URL: https://github.com/scastiel/kado Comments URL: https://news.ycombinator.com/item?id=49586902 Points: 15 # Comments: 5",
+    "excerpt": "Article URL: https://github.com/scastiel/kado Comments URL: https://news.ycombinator.com/item?id=49586902 Points: 39 # Comments: 17",
     "url": "https://github.com/scastiel/kado",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -54,7 +223,7 @@
   {
     "id": "a871c7441d09de4d",
     "title": "A/I shuts down – Stay human",
-    "excerpt": "Article URL: https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/ Comments URL: https://news.ycombinator.com/item?id=49586898 Points: 155 # Comments: 50",
+    "excerpt": "Article URL: https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/ Comments URL: https://news.ycombinator.com/item?id=49586898 Points: 317 # Comments: 200",
     "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -119,7 +288,7 @@
   {
     "id": "19c6008516cedbda",
     "title": "The many mysteries and lessons of the Bayeux tapestry",
-    "excerpt": "Article URL: https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry Comments URL: https://news.ycombinator.com/item?id=49586435 Points: 30 # Comments: 5",
+    "excerpt": "Article URL: https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry Comments URL: https://news.ycombinator.com/item?id=49586435 Points: 38 # Comments: 5",
     "url": "https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -158,7 +327,7 @@
   {
     "id": "db2851b15f07d068",
     "title": "QBittorrent breaks out of sandbox to commit crimes",
-    "excerpt": "Article URL: https://beige.party/@intransitivelie/117057396732763183 Comments URL: https://news.ycombinator.com/item?id=49586171 Points: 85 # Comments: 10",
+    "excerpt": "Article URL: https://beige.party/@intransitivelie/117057396732763183 Comments URL: https://news.ycombinator.com/item?id=49586171 Points: 833 # Comments: 153",
     "url": "https://beige.party/@intransitivelie/117057396732763183",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -171,7 +340,7 @@
   {
     "id": "25b57bdfc22ad04b",
     "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
-    "excerpt": "Article URL: https://shukla.io/quantum-oracle-engineering/ Comments URL: https://news.ycombinator.com/item?id=49586151 Points: 16 # Comments: 8",
+    "excerpt": "Article URL: https://shukla.io/quantum-oracle-engineering/ Comments URL: https://news.ycombinator.com/item?id=49586151 Points: 33 # Comments: 10",
     "url": "https://shukla.io/quantum-oracle-engineering/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -221,19 +390,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "740eb4caa1f0d07e",
-    "title": "2026 Hugo Awards",
-    "excerpt": "Article URL: https://www.thehugoawards.org/ Comments URL: https://news.ycombinator.com/item?id=49586005 Points: 33 # Comments: 22",
-    "url": "https://www.thehugoawards.org/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "signa11",
-    "publishedAt": "2026-09-06T12:41:59.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "13708f75c7191fbe",
     "title": "Don't get rid of your old phone, turn it into a security camera",
     "excerpt": "With the right setup, an old, unused phone can be repurposed into a security camera. Even better? It's free.",
@@ -249,7 +405,7 @@
   {
     "id": "c8d4c910e7ee0073",
     "title": "The pencil case model of creativity",
-    "excerpt": "Article URL: https://dub.uu.nl/en/column/pencil-case-model-creativity Comments URL: https://news.ycombinator.com/item?id=49585703 Points: 29 # Comments: 9",
+    "excerpt": "Article URL: https://dub.uu.nl/en/column/pencil-case-model-creativity Comments URL: https://news.ycombinator.com/item?id=49585703 Points: 40 # Comments: 15",
     "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -287,8 +443,8 @@
   },
   {
     "id": "d0e645f9ae1a95ae",
-    "title": "Intellectual Fly Is Open (2025)",
-    "excerpt": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 235 # Comments: 131",
+    "title": "Your intellectual fly is open (2025)",
+    "excerpt": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 324 # Comments: 206",
     "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -314,7 +470,7 @@
   {
     "id": "067e3cf2352b98bd",
     "title": "Doomscrolling Ourselves to Death",
-    "excerpt": "Article URL: https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death Comments URL: https://news.ycombinator.com/item?id=49585627 Points: 172 # Comments: 115",
+    "excerpt": "Article URL: https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death Comments URL: https://news.ycombinator.com/item?id=49585627 Points: 251 # Comments: 168",
     "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -353,7 +509,7 @@
       {
         "id": "65e8057c918af653",
         "title": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
-        "excerpt": "Article URL: https://www.phoronix.com/news/Asahi-Linux-Official-M3 Comments URL: https://news.ycombinator.com/item?id=49586698 Points: 60 # Comments: 30",
+        "excerpt": "Article URL: https://www.phoronix.com/news/Asahi-Linux-Official-M3 Comments URL: https://news.ycombinator.com/item?id=49586698 Points: 164 # Comments: 99",
         "url": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
         "source": "Hacker News",
         "sourceHomepage": "https://news.ycombinator.com",
@@ -379,19 +535,6 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-09-06T10:43:10.000Z",
     "category": "Hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "452ea522d7fd1992",
-    "title": "I Changed My License",
-    "excerpt": "Article URL: https://bergie.iki.fi/blog/eupl/ Comments URL: https://news.ycombinator.com/item?id=49585161 Points: 120 # Comments: 134",
-    "url": "https://bergie.iki.fi/blog/eupl/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "jllyhill",
-    "publishedAt": "2026-09-06T10:39:44.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -463,7 +606,7 @@
   {
     "id": "6c45c914258f8293",
     "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-    "excerpt": "Article URL: https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight Comments URL: https://news.ycombinator.com/item?id=49584083 Points: 387 # Comments: 112",
+    "excerpt": "Article URL: https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight Comments URL: https://news.ycombinator.com/item?id=49584083 Points: 450 # Comments: 133",
     "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -487,22 +630,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "d268b0af99037bc7",
-    "title": "AMD Based FreeBSD Desktop Reloaded",
-    "excerpt": "Article URL: https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/ Comments URL: https://news.ycombinator.com/item?id=49582719 Points: 92 # Comments: 9",
-    "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "vermaden",
-    "publishedAt": "2026-09-06T02:24:57.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "ebdbf0f6db65b302",
     "title": "AI, Tools and Transformation",
-    "excerpt": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 113 # Comments: 48",
+    "excerpt": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 133 # Comments: 60",
     "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -554,7 +684,7 @@
   {
     "id": "6a2258e1c0b90d7f",
     "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-    "excerpt": "Article URL: https://cloudinabottle.org/blog/launch-post Comments URL: https://news.ycombinator.com/item?id=49582000 Points: 524 # Comments: 261",
+    "excerpt": "Article URL: https://cloudinabottle.org/blog/launch-post Comments URL: https://news.ycombinator.com/item?id=49582000 Points: 559 # Comments: 277",
     "url": "https://cloudinabottle.org/blog/launch-post",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -669,19 +799,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "6403f7898e7b10c2",
-    "title": "The revolt of the reader",
-    "excerpt": "Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/ Comments URL: https://news.ycombinator.com/item?id=49580939 Points: 489 # Comments: 228",
-    "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "chmaynard",
-    "publishedAt": "2026-09-05T21:37:49.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "1fdfa6bf0e2f0ff7",
     "title": "Explore the globe in field recordings",
     "excerpt": "Around the world in 80 WAVs. | Screenshot: Terrence O’Brien / The Verge I love field recordings. I love making them. I love them when they're incorporated into my ambient music . They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the…",
@@ -731,19 +848,6 @@
     "publishedAt": "2026-09-05T20:53:58.000Z",
     "category": "software",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/vpavic_210916_4760_0240.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "1a20dd1dda4d170c",
-    "title": "Ganon's Mysterious Origins (Revisited)",
-    "excerpt": "Article URL: https://www.thrillingtalesofoldvideogames.com/blog/ganon-name-origin-kamen-rider Comments URL: https://news.ycombinator.com/item?id=49580389 Points: 5 # Comments: 0",
-    "url": "https://www.thrillingtalesofoldvideogames.com/blog/ganon-name-origin-kamen-rider",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "tobr",
-    "publishedAt": "2026-09-05T20:33:29.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -903,19 +1007,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "83d3effa43049b37",
-    "title": "Learn Programming with OCaml",
-    "excerpt": "Article URL: https://usr.lmf.cnrs.fr/lpo/ Comments URL: https://news.ycombinator.com/item?id=49578280 Points: 292 # Comments: 124",
-    "url": "https://usr.lmf.cnrs.fr/lpo/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "elvis70",
-    "publishedAt": "2026-09-05T16:45:02.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "39b364003ed8a6d8",
     "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
     "excerpt": "Buying pressure in Binance-paired currencies correlates with local currency depreciation as market makers balance positions.",
@@ -926,19 +1017,6 @@
     "publishedAt": "2026-09-05T16:43:13.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/ac8c45e4922af71fd8721593cdaa1bd4b1c0d3c5-3994x2246.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "9ab528f7dfe3ba97",
-    "title": "Why it's important to regularly restart your router",
-    "excerpt": "You might not think to restart your router as often as you reboot your laptop, but doing so is an easy step to help it perform at its best.",
-    "url": "https://www.engadget.com/2247914/why-important-regularly-restart-router/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Gabriela Vătu)",
-    "publishedAt": "2026-09-05T16:30:00.000Z",
-    "category": "security",
-    "imageUrl": "https://www.engadget.com/img/gallery/why-its-important-to-regularly-restart-your-router/l-intro-1788194698.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1056,19 +1134,6 @@
     "publishedAt": "2026-09-05T11:20:00.000Z",
     "category": "hardware",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "5b13087810689101",
-    "title": "OpenAI admits to German wiki ‘incident’",
-    "excerpt": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site . Regarding the \"'wiki incident,' where our…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Robert Hart",
-    "publishedAt": "2026-09-05T11:15:55.000Z",
-    "category": "ai",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -2099,19 +2164,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "9ce8a043bb77d0e8",
-    "title": "The sameness problem behind those unappetizing AI-generated menus",
-    "excerpt": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-    "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Amanda Silberling",
-    "publishedAt": "2026-09-04T04:21:03.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "72e591f0fbd62f31",
     "title": "The search company that plants trees just launched a Linux browser to help Europe battle big tech",
     "excerpt": "Berlin-based eco-conscious search outfit Ecosia is expanding its range of European-focused web browsers to include a Linux version, citing the growing number of users in the EU looking for open alternatives to the clutches of American tech giants. Calling Linux users a “critical tech community that…",
@@ -2122,19 +2174,6 @@
     "publishedAt": "2026-09-04T04:00:00.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=5294349&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "14f6a8bdb67188bd",
-    "title": "Bernie Sanders Proposes Artificial Superintelligence Ban Amid Rogue AI Hackings",
-    "excerpt": "An anonymous reader quotes a report from The Hill: Sen. Bernie Sanders (I-Vt.) and Rep. Greg Casar (D-Texas) are calling for a permanent ban on the development and deployment of artificial superintelligence, citing a series of recent hackings involving \"rogue\" models. The bicameral duo announced…",
-    "url": "https://yro.slashdot.org/story/26/09/03/2222247/bernie-sanders-proposes-artificial-superintelligence-ban-amid-rogue-ai-hackings?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-09-04T03:30:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -2174,19 +2213,6 @@
     "publishedAt": "2026-09-04T02:18:36.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=5294415&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "920440924028e140",
-    "title": "Crusoe reportedly raises $3B at a $30B valuation",
-    "excerpt": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-    "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Marina Temkin",
-    "publishedAt": "2026-09-04T00:48:42.000Z",
-    "category": "ai",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2463,19 +2489,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "903cdad4ce916d40",
-    "title": "Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution",
-    "excerpt": "Gracy Chen highlighted the world's largest asset manager as one example of such a firm seeking to expand distribution of their tokenized ETFs in the region.",
-    "url": "https://www.coindesk.com/business/2026/09/03/bitget-in-talks-with-wall-street-giants-including-blackrock-for-asian-distribution",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Olivier Acuna",
-    "publishedAt": "2026-09-03T14:41:25.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/b211dc0a2c42f8c64487bc73e191e498111d9fed-7737x5161.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "3aa39df0159e244a",
     "title": "Haiku OS rises / Beta 6 sails open web / Virtual winds fly fast",
     "excerpt": "The sixth beta of the Haiku OS is here, now with more choice of web browsers and a working hardware-accelerated hypervisor. Haiku OS beta 6 came out just a week after the project's 25th birthday. We have been trying it on several different machines around the Irish Sea wing of Vulture Towers, and…",
@@ -2590,19 +2603,6 @@
     "publishedAt": "2026-09-03T10:45:00.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=225582&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "7c3c606c0e8040b4",
-    "title": "Audacity 4.0 Audio Editor Released With Qt6 Based UI",
-    "excerpt": "The longtime Audacity open-source audio editor had been using wxWidgets for years but with today's Audacity 4.0 release they have transitioned to using the Qt6 toolkit...",
-    "url": "https://www.phoronix.com/news/Audacity-4.0-Released",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-03T10:30:52.000Z",
-    "category": "Hardware",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
