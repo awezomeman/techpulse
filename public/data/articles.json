@@ -1,8 +1,86 @@
 [
   {
+    "id": "622f240f1086c8d3",
+    "title": "Time lords prepare to kick leap seconds into the next millennium",
+    "excerpt": "The prospect of a negative leap second – combined with decades of irritation over leap seconds generally – looks set to inspire a bit of global procrastination among international timekeepers. Next month, the General Conference on Weights and Measures is set to vote on effectively calling time on…",
+    "url": "https://www.theregister.com/offbeat/2026/09/06/time-lords-prepare-to-kick-leap-seconds-into-the-next-millennium/5294538",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-06T08:09:00.000Z",
+    "category": "policy",
+    "imageUrl": "https://image.theregister.com/?imageId=5262298&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b4a0fa28672b37d7",
+    "title": "2026 Hugo Award Winners Include Ursula Le Guin-Authored Graphic Novel",
+    "excerpt": "This year's Hugo Award winners were announced last weekend at Worldcon — the world's longest-running science fiction/fantasy convention. The Orange County Register reports there were fans \"clad in capes, gowns and elaborate character costumes,\" with famous attendees including Game of Thrones author…",
+    "url": "https://news.slashdot.org/story/26/09/06/0316245/2026-hugo-award-winners-include-ursula-le-guin-authored-graphic-novel?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-09-06T07:34:00.000Z",
+    "category": "science",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0954f87590575e13",
+    "title": "Site Is Closed on Sundays",
+    "excerpt": "Article URL: https://v7.robweychert.com/ Comments URL: https://news.ycombinator.com/item?id=49583842 Points: 67 # Comments: 59",
+    "url": "https://v7.robweychert.com/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "edent",
+    "publishedAt": "2026-09-06T06:23:05.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "21cbdd109345e0a8",
+    "title": "To Promote Grand Theft Auto 6, Mayor Might Transform Miami into 'Vice City'",
+    "excerpt": "Rockstar Games and the mayor of Miami-Dade county are discussing a joint marketing campaign transforming parts of the county to look like areas from Grand Theft Auto 6, reports the blog Rock Paper Shotgun: The proposed publicity event would include \"an immersive arrival experience\" at Miami…",
+    "url": "https://games.slashdot.org/story/26/09/06/0123212/to-promote-grand-theft-auto-6-mayor-might-transform-miami-into-vice-city?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-09-06T04:34:00.000Z",
+    "category": "science",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d268b0af99037bc7",
+    "title": "AMD Based FreeBSD Desktop Reloaded",
+    "excerpt": "Article URL: https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/ Comments URL: https://news.ycombinator.com/item?id=49582719 Points: 41 # Comments: 1",
+    "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "vermaden",
+    "publishedAt": "2026-09-06T02:24:57.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ebdbf0f6db65b302",
+    "title": "AI, Tools and Transformation",
+    "excerpt": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 Points: 40 # Comments: 14",
+    "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "firexcy",
+    "publishedAt": "2026-09-06T02:12:46.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "ffb29772a913ef66",
     "title": "GPT-6 Astra on robot arms",
-    "excerpt": "Article URL: https://openai.robocurve.org/gpt-6-astra/ Comments URL: https://news.ycombinator.com/item?id=49582582 Points: 49 # Comments: 18",
+    "excerpt": "Article URL: https://openai.robocurve.org/gpt-6-astra/ Comments URL: https://news.ycombinator.com/item?id=49582582 Points: 168 # Comments: 122",
     "url": "https://openai.robocurve.org/gpt-6-astra/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -26,19 +104,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "6bc4cdece947377c",
-    "title": "Gateside by TSA Precheck",
-    "excerpt": "Article URL: https://www.tsa.gov/precheck/gateside-tsa-precheck Comments URL: https://news.ycombinator.com/item?id=49582410 Points: 20 # Comments: 30",
-    "url": "https://www.tsa.gov/precheck/gateside-tsa-precheck",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "minhduong243",
-    "publishedAt": "2026-09-06T01:12:43.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "0b9ccc692c673f0f",
     "title": "US troops can still be tracked by purchased location data, and Congress wants to know why",
     "excerpt": "The US military's effort to prevent troops from being tracked by adversaries through purchased location data hasn't worked as well as anticipated, and lawmakers want to know why. US Senator Ron Wyden (D-OR) and Rep. Pat Harrigan (R-NC) on Friday asked for an investigation by the Defense Department…",
@@ -54,7 +119,7 @@
   {
     "id": "6a2258e1c0b90d7f",
     "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-    "excerpt": "Article URL: https://cloudinabottle.org/blog/launch-post Comments URL: https://news.ycombinator.com/item?id=49582000 Points: 189 # Comments: 72",
+    "excerpt": "Article URL: https://cloudinabottle.org/blog/launch-post Comments URL: https://news.ycombinator.com/item?id=49582000 Points: 360 # Comments: 162",
     "url": "https://cloudinabottle.org/blog/launch-post",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -67,7 +132,7 @@
   {
     "id": "65ab548c3d330b40",
     "title": "Chrome again exempts Google from user site data settings",
-    "excerpt": "Article URL: https://lapcatsoftware.com/articles/2026/9/1.html Comments URL: https://news.ycombinator.com/item?id=49581870 Points: 129 # Comments: 12",
+    "excerpt": "Article URL: https://lapcatsoftware.com/articles/2026/9/1.html Comments URL: https://news.ycombinator.com/item?id=49581870 Points: 355 # Comments: 49",
     "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -75,6 +140,19 @@
     "publishedAt": "2026-09-05T23:39:47.000Z",
     "category": "startups",
     "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f4396035237fc098",
+    "title": "Apple iTunes still exists, but not the way it used to",
+    "excerpt": "You can still buy music from the iTunes Store, believe it or not.",
+    "url": "https://www.engadget.com/2246423/apple-itunes-still-exists-how-different-from-past/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Thomas Godwin)",
+    "publishedAt": "2026-09-05T23:00:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/apple-itunes-still-exists-but-not-the-way-it-used-to/l-intro-1787595836.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -130,19 +208,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "44a795850e3c5a06",
-    "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-    "excerpt": "Article URL: https://github.com/okf-memory/okf-agent-memory Comments URL: https://news.ycombinator.com/item?id=49581240 Points: 42 # Comments: 16",
-    "url": "https://github.com/okf-memory/okf-agent-memory",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "okf_memory",
-    "publishedAt": "2026-09-05T22:15:52.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "4f767d7c992ba40c",
     "title": "How to find your MacBook's diagnostic menu",
     "excerpt": "Apple Diagnostics is a hidden menu you hopefully won't need to access often. When your Mac gets into hardware trouble, it helps find what's wrong.",
@@ -158,7 +223,7 @@
   {
     "id": "6403f7898e7b10c2",
     "title": "The revolt of the reader",
-    "excerpt": "Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/ Comments URL: https://news.ycombinator.com/item?id=49580939 Points: 168 # Comments: 63",
+    "excerpt": "Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/ Comments URL: https://news.ycombinator.com/item?id=49580939 Points: 326 # Comments: 128",
     "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -223,7 +288,7 @@
   {
     "id": "630bf109ed96599c",
     "title": "Private German rocket makes history, reaches orbit from European soil",
-    "excerpt": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket Comments URL: https://news.ycombinator.com/item?id=49580369 Points: 403 # Comments: 222",
+    "excerpt": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket Comments URL: https://news.ycombinator.com/item?id=49580369 Points: 546 # Comments: 284",
     "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -236,7 +301,7 @@
   {
     "id": "2eed77dc269ac9b7",
     "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-    "excerpt": "Article URL: https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/ Comments URL: https://news.ycombinator.com/item?id=49580329 Points: 62 # Comments: 26",
+    "excerpt": "Article URL: https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/ Comments URL: https://news.ycombinator.com/item?id=49580329 Points: 67 # Comments: 40",
     "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -249,7 +314,7 @@
   {
     "id": "c38ef34fb76c3cc3",
     "title": "LLMs as a Cognitive Virus",
-    "excerpt": "Article URL: https://arxiv.org/abs/2609.03344 Comments URL: https://news.ycombinator.com/item?id=49580164 Points: 199 # Comments: 167",
+    "excerpt": "Article URL: https://arxiv.org/abs/2609.03344 Comments URL: https://news.ycombinator.com/item?id=49580164 Points: 261 # Comments: 195",
     "url": "https://arxiv.org/abs/2609.03344",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -270,19 +335,6 @@
     "publishedAt": "2026-09-05T20:00:00.000Z",
     "category": "security",
     "imageUrl": "https://www.engadget.com/img/gallery/the-reasons-rugged-laptops-are-rarely-bought-by-consumers/l-intro-1787944974.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "42b8b02f9aa60396",
-    "title": "ISAR Aerospace 5 Sept Mission Onward and Upward",
-    "excerpt": "Article URL: https://isaraerospace.com/mission-updates-overview Comments URL: https://news.ycombinator.com/item?id=49579956 Points: 24 # Comments: 3",
-    "url": "https://isaraerospace.com/mission-updates-overview",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "t43562",
-    "publishedAt": "2026-09-05T19:41:27.000Z",
-    "category": "policy",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -431,7 +483,7 @@
   {
     "id": "83d3effa43049b37",
     "title": "Learn Programming with OCaml",
-    "excerpt": "Article URL: https://usr.lmf.cnrs.fr/lpo/ Comments URL: https://news.ycombinator.com/item?id=49578280 Points: 190 # Comments: 78",
+    "excerpt": "Article URL: https://usr.lmf.cnrs.fr/lpo/ Comments URL: https://news.ycombinator.com/item?id=49578280 Points: 245 # Comments: 92",
     "url": "https://usr.lmf.cnrs.fr/lpo/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -639,7 +691,7 @@
   {
     "id": "388819ff9e6f9d10",
     "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-    "excerpt": "Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/ Comments URL: https://news.ycombinator.com/item?id=49576386 Points: 300 # Comments: 89",
+    "excerpt": "Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/ Comments URL: https://news.ycombinator.com/item?id=49576386 Points: 335 # Comments: 98",
     "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -652,7 +704,7 @@
   {
     "id": "ba6adf512cf88905",
     "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-    "excerpt": "Article URL: https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/ Comments URL: https://news.ycombinator.com/item?id=49576343 Points: 141 # Comments: 20",
+    "excerpt": "Article URL: https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/ Comments URL: https://news.ycombinator.com/item?id=49576343 Points: 166 # Comments: 32",
     "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -699,32 +751,6 @@
     "publishedAt": "2026-09-05T13:00:00.000Z",
     "category": "hardware",
     "imageUrl": "https://www.engadget.com/img/gallery/is-it-worth-paying-extra-for-icloud-storage/l-intro-1788193530.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "1f6531d3c8c7a31f",
-    "title": "How to check which apps are draining your iPhone battery",
-    "excerpt": "Some of the reasons why you've lost battery are out of your control, but knowing which apps are draining it can help your iPhone last until the end of the day.",
-    "url": "https://www.engadget.com/2247753/how-to-check-apps-draining-iphone-battery/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Filipe Espósito)",
-    "publishedAt": "2026-09-05T12:30:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/how-to-check-which-apps-are-draining-your-iphone-battery/l-intro-1788195163.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "fcdf2b1a952243df",
-    "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
-    "excerpt": "Article URL: https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/ Comments URL: https://news.ycombinator.com/item?id=49575859 Points: 85 # Comments: 12",
-    "url": "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "rfarley04",
-    "publishedAt": "2026-09-05T12:23:51.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -821,7 +847,7 @@
   {
     "id": "58a1a0703a5c73e5",
     "title": "Terpstra Keyboard",
-    "excerpt": "Article URL: http://terpstrakeyboard.com/ Comments URL: https://news.ycombinator.com/item?id=49575150 Points: 120 # Comments: 55",
+    "excerpt": "Article URL: http://terpstrakeyboard.com/ Comments URL: https://news.ycombinator.com/item?id=49575150 Points: 132 # Comments: 60",
     "url": "http://terpstrakeyboard.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -912,7 +938,7 @@
   {
     "id": "b64c6129c35952aa",
     "title": "Nitter has more working instances than before the takedowns",
-    "excerpt": "Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances Comments URL: https://news.ycombinator.com/item?id=49571634 Points: 643 # Comments: 313",
+    "excerpt": "Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances Comments URL: https://news.ycombinator.com/item?id=49571634 Points: 675 # Comments: 333",
     "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -977,7 +1003,7 @@
   {
     "id": "6a5cb4a438703700",
     "title": "Actively exploited sandbox RCE in all Chromium versions",
-    "excerpt": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046 Comments URL: https://news.ycombinator.com/item?id=49570669 Points: 753 # Comments: 447",
+    "excerpt": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046 Comments URL: https://news.ycombinator.com/item?id=49570669 Points: 772 # Comments: 464",
     "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1042,7 +1068,7 @@
   {
     "id": "5553f4409f200ed4",
     "title": "Statichost.eu – European static site hosting",
-    "excerpt": "Article URL: https://www.statichost.eu/ Comments URL: https://news.ycombinator.com/item?id=49569896 Points: 450 # Comments: 205",
+    "excerpt": "Article URL: https://www.statichost.eu/ Comments URL: https://news.ycombinator.com/item?id=49569896 Points: 475 # Comments: 216",
     "url": "https://www.statichost.eu/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1094,7 +1120,7 @@
   {
     "id": "fc8b777bd4955741",
     "title": "Can AI design circuit boards yet?",
-    "excerpt": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 388 # Comments: 209",
+    "excerpt": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 407 # Comments: 218",
     "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1614,7 +1640,7 @@
   {
     "id": "6d216f06400d8d58",
     "title": "Discovery of a new OpenAI agent message board",
-    "excerpt": "https://www.reuters.com/world/europe/openai-agents-hijacked-... Comments URL: https://news.ycombinator.com/item?id=49563355 Points: 2136 # Comments: 1526",
+    "excerpt": "https://www.reuters.com/world/europe/openai-agents-hijacked-... Comments URL: https://news.ycombinator.com/item?id=49563355 Points: 2176 # Comments: 1539",
     "url": "https://collusion.wiki/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -2132,19 +2158,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "eb61f98a05a1a322",
-    "title": "Xbox Cloud Gaming Switches to Monthly Hour Limits",
-    "excerpt": "Microsoft is imposing monthly limits on Xbox Cloud Gaming starting in November, with Game Pass Ultimate, Premium, and Essential subscribers getting 15, 10, and 5 hours respectively before they have to buy additional playtime. \"Currently, Game Pass subscribers can stream without these monthly hour…",
-    "url": "https://games.slashdot.org/story/26/09/03/1943208/xbox-cloud-gaming-switches-to-monthly-hour-limits?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-09-03T21:00:00.000Z",
-    "category": "Software",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "7942ad811fb68b71",
     "title": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
     "excerpt": "Having more than 150 non-human primates at a research center fall ill with diarrhea in a stomach-churning outbreak that flowed for over two years doesn't sound much like good fortune. But for some scientists, it kind of was, providing a heaping pile of valuable data on how they might finally defeat…",
@@ -2158,19 +2171,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "9f462ca0a50a7801",
-    "title": "'Welcome to the AGI Era,' OpenAI Says As GPT-6 Astra Debuts",
-    "excerpt": "OpenAI has released GPT-6 Astra, a new model that president Greg Brockman called a \"generational leap\" and suggested may represent the arrival of AGI. \"I think it might be about this model,\" Brockman said in a briefing with reporters. He ended the briefing by saying: \"Welcome to the AGI era.\" Axios…",
-    "url": "https://slashdot.org/story/26/09/03/1932255/welcome-to-the-agi-era-openai-says-as-gpt-6-astra-debuts?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-09-03T20:00:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "d3a992165f8c90ea",
     "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
     "excerpt": "A prominent US senator is asking the National Security Agency to provide guidance to the general public on best practices for using virtual private networks to secure their communications from spying by foreign adversaries. VPNs funnel all of a user’s Internet traffic through an encrypted…",
@@ -2181,6 +2181,19 @@
     "publishedAt": "2026-09-03T19:52:06.000Z",
     "category": "security",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/vpn-tunnel-1000x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4768415a58594fcf",
+    "title": "Matching Puzzle Pieces and Disappointing Benchmarks",
+    "excerpt": "Article URL: https://llogiq.github.io/2026/03/20/case.html Comments URL: https://news.ycombinator.com/item?id=49554848 Points: 5 # Comments: 0",
+    "url": "https://llogiq.github.io/2026/03/20/case.html",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "speckx",
+    "publishedAt": "2026-09-03T18:52:44.000Z",
+    "category": "software",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2714,19 +2727,6 @@
     "publishedAt": "2026-09-02T20:32:09.000Z",
     "category": "crypto",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "5f93ca549abc023e",
-    "title": "With Gemini 3.8 Flash, Google reminds everyone it's still in the race",
-    "excerpt": "Google on Wednesday announced the release of Gemini 3.8 Flash in an attempt to reclaim its reputation as a top-tier model maker in the process. The company's commitment to the frontier model race has been in doubt since at least early August when Google DeepMind CEO Demis Hassabis stepped down to…",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/02/with-gemini-38-flash-google-reminds-everyone-its-still-in-the-race/5294049",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-02T19:59:26.000Z",
-    "category": "ai",
-    "imageUrl": "https://image.theregister.com/?imageId=248218&width=800",
     "readTimeMinutes": 1
   },
   {
