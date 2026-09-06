@@ -1,5 +1,109 @@
 [
   {
+    "id": "9a4790a024a77287",
+    "title": "Common problems with Apple Wallet and how to fix them",
+    "excerpt": "Apple Wallet and Apple Pay are great, but only if they're working properly. There are some basic troubleshooting steps when payments won't go through.",
+    "url": "https://www.engadget.com/2248762/how-to-fix-common-apple-wallet-problems/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Filipe Espósito)",
+    "publishedAt": "2026-09-06T22:30:00.000Z",
+    "category": "crypto",
+    "imageUrl": "https://www.engadget.com/img/gallery/common-problems-with-apple-wallet-and-how-to-fix-them/l-intro-1788283355.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "41a2b552bb6ade9a",
+    "title": "Linux 7.3-rc2 Released Following Another Busy Week",
+    "excerpt": "After the Linux 7.3 merge window concluded last weekend, today we are up to the Linux 7.3-rc2 test kernel release in working toward the stable v7.3 kernel during the second half of October...",
+    "url": "https://www.phoronix.com/news/Linux-7.3-rc2-Released",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-06T22:22:25.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f605903124f400c2",
+    "title": "The Slate Truck is great, but this one problem may stop a lot of folks from buying it",
+    "excerpt": "Slate's build-a-truck model aims to keep costs low by only including features you'll use. But it won't be popular outside the U.S.",
+    "url": "https://www.engadget.com/2248744/slate-truck-not-available-outside-united-states/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Husain Parvez)",
+    "publishedAt": "2026-09-06T22:00:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/the-slate-truck-is-great-but-this-one-problem-may-stop-a-lot-of-folks-from-buying-it/l-intro-1788281831.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "fd6f38940d0d8e58",
+    "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+    "excerpt": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+    "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Anthony Ha",
+    "publishedAt": "2026-09-06T21:41:06.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9b3b963c6fdf0489",
+    "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
+    "excerpt": "Article URL: https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/ Comments URL: https://news.ycombinator.com/item?id=49591036 Points: 24 # Comments: 6",
+    "url": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "bundie",
+    "publishedAt": "2026-09-06T21:16:10.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0f88b0f3ab8277ee",
+    "title": "An Amazon cargo plane crashed at Miami International Airport",
+    "excerpt": "An Amazon cargo plane crashed at Miami International Airport on September 06, 2026. | Photo: Joe Raedle / Getty Images A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of…",
+    "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Terrence O’Brien",
+    "publishedAt": "2026-09-06T20:56:38.000Z",
+    "category": "software",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "973d060680473f7c",
+    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "excerpt": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+    "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Anthony Ha",
+    "publishedAt": "2026-09-06T20:47:37.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e9cfeba35e90a895",
+    "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+    "excerpt": "Article URL: https://github.com/marsbos/mador Comments URL: https://news.ycombinator.com/item?id=49590738 Points: 44 # Comments: 16",
+    "url": "https://github.com/marsbos/mador",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "bosmarcel",
+    "publishedAt": "2026-09-06T20:45:13.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "46c487a09a283d22",
     "title": "TiVo Will Start Charging Fees For Its Automatic Commercial Break-Skipping Feature 'SkipMode'",
     "excerpt": "TiVo is notifying customers about changes to \"one of its longest-standing and most popular DVR features,\" reports the blog Cord Cutter News: Starting November 2, 2026, the current version of SkipMode that allows users to jump over commercial breaks with a single button press on the remote will no…",
@@ -13,15 +117,54 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "c9164202cf7b0e0b",
-    "title": "They're Made Out of Meat",
-    "excerpt": "Article URL: https://www.eastoftheweb.com/short-stories/UBooks/TheyMade.shtml Comments URL: https://news.ycombinator.com/item?id=49590362 Points: 4 # Comments: 0",
-    "url": "https://www.eastoftheweb.com/short-stories/UBooks/TheyMade.shtml",
+    "id": "16cfe9c67e9a8fb2",
+    "title": "It took a year to ship WebAssembly in Anubis",
+    "excerpt": "Article URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/ Comments URL: https://news.ycombinator.com/item?id=49590611 Points: 87 # Comments: 54",
+    "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
-    "author": "embedding-shape",
-    "publishedAt": "2026-09-06T20:07:55.000Z",
+    "author": "xena",
+    "publishedAt": "2026-09-06T20:32:38.000Z",
     "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7929171132ca345c",
+    "title": "Harnessing the Universal Geometry of Embeddings",
+    "excerpt": "Article URL: https://arxiv.org/abs/2505.12540 Comments URL: https://news.ycombinator.com/item?id=49590595 Points: 12 # Comments: 2",
+    "url": "https://arxiv.org/abs/2505.12540",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "ur-whale",
+    "publishedAt": "2026-09-06T20:31:20.000Z",
+    "category": "science",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "571ff77c20a531cb",
+    "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+    "excerpt": "Article URL: https://grapheneos.social/@GrapheneOS/117225539756835649 Comments URL: https://news.ycombinator.com/item?id=49590512 Points: 89 # Comments: 25",
+    "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "Cider9986",
+    "publishedAt": "2026-09-06T20:24:00.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "69c2d6fe37cb8ee2",
+    "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
+    "excerpt": "I built VODForge because I work with a CTV company that needed to pull YouTube videos from our channel partners into our media workflow. Converter sites are always an option but the bitrate wasn't optimal for a CTV network that needs to make multiple streaming version off of a single source file.…",
+    "url": "https://getvodforge.com/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "coopernusbaum",
+    "publishedAt": "2026-09-06T20:07:30.000Z",
+    "category": "hardware",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -54,7 +197,7 @@
   {
     "id": "b10c0821d68804fa",
     "title": "The car industry A/B tested selling a car with and without CarPlay",
-    "excerpt": "Article URL: https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/ Comments URL: https://news.ycombinator.com/item?id=49590225 Points: 41 # Comments: 18",
+    "excerpt": "Article URL: https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/ Comments URL: https://news.ycombinator.com/item?id=49590225 Points: 88 # Comments: 76",
     "url": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -78,15 +221,15 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "b661c88bab83fc83",
-    "title": "Ask HN: UK Rescue Rocket Sheds/Houses Information",
-    "excerpt": "I can't seem to find pictures or significant details (nothing on Wikipedia) about the coastal buildings purportedly used to contain shipwreck rescue rocket apparatus. Many of the buildings still exist and are Grade II listed. Anyone have any additional anecdotal/local/oral tradition information…",
-    "url": "https://news.ycombinator.com/item?id=49589730",
+    "id": "34db2b7b3282a600",
+    "title": "D2 Is Non-Profit",
+    "excerpt": "Article URL: https://d2lang.com/blog/d2-non-profit/ Comments URL: https://news.ycombinator.com/item?id=49589768 Points: 6 # Comments: 1",
+    "url": "https://d2lang.com/blog/d2-non-profit/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
-    "author": "burnt-resistor",
-    "publishedAt": "2026-09-06T19:06:54.000Z",
-    "category": "science",
+    "author": "alixanderwang",
+    "publishedAt": "2026-09-06T19:11:05.000Z",
+    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -156,22 +299,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "d3be7802bd74b908",
-    "title": "Following legal advice, the Nitter project will continue",
-    "excerpt": "Article URL: https://github.com/zedeus/nitter Comments URL: https://news.ycombinator.com/item?id=49589003 Points: 252 # Comments: 65",
-    "url": "https://github.com/zedeus/nitter",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "Cider9986",
-    "publishedAt": "2026-09-06T17:51:23.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "742806d6d415fe0c",
-    "title": "Nitter is unarchived and will continue",
-    "excerpt": "Article URL: https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3 Comments URL: https://news.ycombinator.com/item?id=49588988 Points: 250 # Comments: 86",
+    "title": "Nitter and XCancel resume service after legal advice",
+    "excerpt": "https://github.com/zedeus/nitter https://xcancel.com/cdclegal https://nitter.net/ https://xcancel.com/ Comments URL: https://news.ycombinator.com/item?id=49588988 Points: 354 # Comments: 202",
     "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -262,7 +392,7 @@
   {
     "id": "1f0643794f0c78a6",
     "title": "An Alien Mind",
-    "excerpt": "Article URL: https://openai.com/index/an-alien-mind/ Comments URL: https://news.ycombinator.com/item?id=49588080 Points: 229 # Comments: 160",
+    "excerpt": "Article URL: https://openai.com/index/an-alien-mind/ Comments URL: https://news.ycombinator.com/item?id=49588080 Points: 279 # Comments: 223",
     "url": "https://openai.com/index/an-alien-mind/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -275,7 +405,7 @@
   {
     "id": "b50d156a71a120c2",
     "title": "Research carried out using NetBSD",
-    "excerpt": "Article URL: https://www.netbsd.org/gallery/research.html Comments URL: https://news.ycombinator.com/item?id=49587903 Points: 54 # Comments: 12",
+    "excerpt": "Article URL: https://www.netbsd.org/gallery/research.html Comments URL: https://news.ycombinator.com/item?id=49587903 Points: 68 # Comments: 14",
     "url": "https://www.netbsd.org/gallery/research.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -327,7 +457,7 @@
   {
     "id": "8f6fb59c7a259082",
     "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-    "excerpt": "Article URL: https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and Comments URL: https://news.ycombinator.com/item?id=49587636 Points: 85 # Comments: 4",
+    "excerpt": "Article URL: https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and Comments URL: https://news.ycombinator.com/item?id=49587636 Points: 96 # Comments: 4",
     "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -353,7 +483,7 @@
   {
     "id": "3784d7aba9718af9",
     "title": "Research acceleration: The view inside OpenAI",
-    "excerpt": "Article URL: https://openai.com/index/research-acceleration-view-inside-openai Comments URL: https://news.ycombinator.com/item?id=49587217 Points: 75 # Comments: 49",
+    "excerpt": "Article URL: https://openai.com/index/research-acceleration-view-inside-openai Comments URL: https://news.ycombinator.com/item?id=49587217 Points: 89 # Comments: 65",
     "url": "https://openai.com/index/research-acceleration-view-inside-openai",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -377,22 +507,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "f7a38bfeadd1bebd",
-    "title": "Recreating Minecraft Is Not a Benchmark",
-    "excerpt": "Article URL: https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark Comments URL: https://news.ycombinator.com/item?id=49587040 Points: 62 # Comments: 48",
-    "url": "https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "kuberwastaken",
-    "publishedAt": "2026-09-06T14:52:07.000Z",
-    "category": "science",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "a871c7441d09de4d",
     "title": "A/I shuts down – Stay human",
-    "excerpt": "Article URL: https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/ Comments URL: https://news.ycombinator.com/item?id=49586898 Points: 408 # Comments: 277",
+    "excerpt": "Article URL: https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/ Comments URL: https://news.ycombinator.com/item?id=49586898 Points: 468 # Comments: 329",
     "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -429,6 +546,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "154b3b6992da5461",
+    "title": "Asahi Linux on M3",
+    "excerpt": "https://www.phoronix.com/news/Asahi-Linux-Official-M3 Comments URL: https://news.ycombinator.com/item?id=49586698 Points: 286 # Comments: 165",
+    "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "mdp2021",
+    "publishedAt": "2026-09-06T14:08:59.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "2c47e3d1c9ae5559",
     "title": "Foldable phones still need to fix this problem",
     "excerpt": "Samsung's Z Fold series has improved the foldable phone form factor over time, but there remains an issue that the rumored iPhone Ultra may not remedy.",
@@ -452,19 +582,6 @@
     "publishedAt": "2026-09-06T14:00:00.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/a02993e4b0be694cb7d7b4718d4e0922311ed0c6-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "19c6008516cedbda",
-    "title": "The many mysteries and lessons of the Bayeux tapestry",
-    "excerpt": "Article URL: https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry Comments URL: https://news.ycombinator.com/item?id=49586435 Points: 52 # Comments: 10",
-    "url": "https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "andsoitis",
-    "publishedAt": "2026-09-06T13:38:07.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -494,9 +611,22 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "ea7503cf09cfe26b",
+    "title": "Icy Moons Are Ocean Worlds",
+    "excerpt": "Article URL: https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds Comments URL: https://news.ycombinator.com/item?id=49586207 Points: 24 # Comments: 2",
+    "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "worldvoyageur",
+    "publishedAt": "2026-09-06T13:07:52.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "25b57bdfc22ad04b",
     "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
-    "excerpt": "Article URL: https://shukla.io/quantum-oracle-engineering/ Comments URL: https://news.ycombinator.com/item?id=49586151 Points: 47 # Comments: 18",
+    "excerpt": "Article URL: https://shukla.io/quantum-oracle-engineering/ Comments URL: https://news.ycombinator.com/item?id=49586151 Points: 56 # Comments: 19",
     "url": "https://shukla.io/quantum-oracle-engineering/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -559,19 +689,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "c8d4c910e7ee0073",
-    "title": "The pencil case model of creativity",
-    "excerpt": "Article URL: https://dub.uu.nl/en/column/pencil-case-model-creativity Comments URL: https://news.ycombinator.com/item?id=49585703 Points: 52 # Comments: 17",
-    "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "jruohonen",
-    "publishedAt": "2026-09-06T12:05:34.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "d805416fd871e129",
     "title": "DIY plug-in solar gains momentum in the US",
     "excerpt": "EcoFlow’s high-end, weatherproof, plug-in solar kit with integrated battery. | Image: EcoFlow This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere , follow Thomas Ricker . The Stepback arrives…",
@@ -600,7 +717,7 @@
   {
     "id": "d0e645f9ae1a95ae",
     "title": "Your intellectual fly is open (2025)",
-    "excerpt": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 395 # Comments: 260",
+    "excerpt": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 455 # Comments: 292",
     "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -626,7 +743,7 @@
   {
     "id": "067e3cf2352b98bd",
     "title": "Doomscrolling Ourselves to Death",
-    "excerpt": "Article URL: https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death Comments URL: https://news.ycombinator.com/item?id=49585627 Points: 304 # Comments: 204",
+    "excerpt": "Article URL: https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death Comments URL: https://news.ycombinator.com/item?id=49585627 Points: 345 # Comments: 233",
     "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -660,26 +777,7 @@
     "publishedAt": "2026-09-06T10:53:22.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1,
-    "alsoCoveredBy": [
-      {
-        "id": "65e8057c918af653",
-        "title": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
-        "excerpt": "Article URL: https://www.phoronix.com/news/Asahi-Linux-Official-M3 Comments URL: https://news.ycombinator.com/item?id=49586698 Points: 228 # Comments: 142",
-        "url": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
-        "source": "Hacker News",
-        "sourceHomepage": "https://news.ycombinator.com",
-        "author": "mdp2021",
-        "publishedAt": "2026-09-06T14:08:59.000Z",
-        "category": "software",
-        "imageUrl": null,
-        "readTimeMinutes": 1,
-        "rawCategories": [],
-        "_rawTitle": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
-        "_sourceUrl": "https://hnrss.org/frontpage",
-        "alsoCoveredBy": []
-      }
-    ]
+    "readTimeMinutes": 1
   },
   {
     "id": "0933ec099089fb5c",
@@ -760,19 +858,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "6c45c914258f8293",
-    "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-    "excerpt": "Article URL: https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight Comments URL: https://news.ycombinator.com/item?id=49584083 Points: 492 # Comments: 156",
-    "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "mpweiher",
-    "publishedAt": "2026-09-06T07:21:06.000Z",
-    "category": "policy",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "21cbdd109345e0a8",
     "title": "To Promote Grand Theft Auto 6, Mayor Might Transform Miami into 'Vice City'",
     "excerpt": "Rockstar Games and the mayor of Miami-Dade county are discussing a joint marketing campaign transforming parts of the county to look like areas from Grand Theft Auto 6, reports the blog Rock Paper Shotgun: The proposed publicity event would include \"an immersive arrival experience\" at Miami…",
@@ -825,19 +910,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "6a2258e1c0b90d7f",
-    "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-    "excerpt": "Article URL: https://cloudinabottle.org/blog/launch-post Comments URL: https://news.ycombinator.com/item?id=49582000 Points: 586 # Comments: 289",
-    "url": "https://cloudinabottle.org/blog/launch-post",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "zplizzi",
-    "publishedAt": "2026-09-06T00:03:29.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "66e6f119dc5b1799",
     "title": "How to sideload apps onto Android Auto",
     "excerpt": "There's a way to display any app on Android Auto, but it does present concerns about safety and reliability.",
@@ -864,19 +936,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "f4396035237fc098",
-    "title": "Apple iTunes still exists, but not the way it used to",
-    "excerpt": "You can still buy music from the iTunes Store, believe it or not.",
-    "url": "https://www.engadget.com/2246423/apple-itunes-still-exists-how-different-from-past/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Thomas Godwin)",
-    "publishedAt": "2026-09-05T23:00:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/apple-itunes-still-exists-but-not-the-way-it-used-to/l-intro-1787595836.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "6df0f5d81c2b28a3",
     "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
     "excerpt": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
@@ -900,19 +959,6 @@
     "publishedAt": "2026-09-05T22:34:00.000Z",
     "category": "Software",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "0b166caf3c482188",
-    "title": "Is the Steam Deck still worth it in 2026?",
-    "excerpt": "The Steam Deck is a solid gaming handheld, but after the arrival of several competitors and higher prices, is it still worth picking one up?",
-    "url": "https://www.engadget.com/2248094/is-steam-deck-still-worth-it/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Deven McClure)",
-    "publishedAt": "2026-09-05T22:30:00.000Z",
-    "category": "startups",
-    "imageUrl": "https://www.engadget.com/img/gallery/is-the-steam-deck-still-worth-it-in-2026/l-intro-1788208373.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1121,19 +1167,6 @@
     "publishedAt": "2026-09-05T15:00:00.000Z",
     "category": "Hardware",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/andy.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ee86d9d0167a919a",
-    "title": "Content creators drop the ball",
-    "excerpt": "The USTA Billie Jean King National Tennis Center. | Getty Images During Naomi Osaka's match against Anastasia Zakharova at this year's US Open earlier this week, a gaggle of ring light-wielding influencers who were packed in a luxury suite became enough of a distraction that the umpire paused the…",
-    "url": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Charles Pulliam-Moore",
-    "publishedAt": "2026-09-05T14:00:16.000Z",
-    "category": "policy",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293089524.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -1800,19 +1833,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "26156cf9721cd2bc",
-    "title": "US military disabled ad tracking on troops’ devices following reports of targeted attacks",
-    "excerpt": "A senator's letter confirms the U.S. military moved to prevent the tracking after foreign adversaries used location data to target troops.",
-    "url": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Zack Whittaker",
-    "publishedAt": "2026-09-04T13:21:37.000Z",
-    "category": "security",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "6097fa595159d1f1",
     "title": "PostgreSQL 19 connects the dots with standardized graph queries",
     "excerpt": "PostgreSQL 19 is set to add standardized SQL syntax for querying property graphs. The open source database has steadily grown in popularity over the last five years, becoming the most popular among developers for the first time in 2023. Speaking to The Register, Alastair Turner, PostgreSQL…",
@@ -1887,19 +1907,6 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-09-04T12:13:01.000Z",
     "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a6638827c707e752",
-    "title": "Feds launch investigation into Tesla’s Cybercab deployment",
-    "excerpt": "The investigation was launched just a few hours after Tesla put the first production Cybercabs on the road in Austin.",
-    "url": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Sean O'Kane, Kirsten Korosec",
-    "publishedAt": "2026-09-04T12:01:14.000Z",
-    "category": "policy",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -2551,19 +2558,6 @@
     "publishedAt": "2026-09-03T12:45:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=4093857&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c8b8015bda2780f4",
-    "title": "NVIDIA Acquiring Hugging Face For $12.93 Billion",
-    "excerpt": "Following rumors in recent days of NVIDIA courting Hugging Face, it's now been officially announced that NVIDIA is acquiring Hugging Face...",
-    "url": "https://www.phoronix.com/news/NVIDIA-Hugging-Face",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-03T12:40:04.000Z",
-    "category": "ai",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
