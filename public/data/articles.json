@@ -1,5 +1,135 @@
 [
   {
+    "id": "1040cfc73cc42713",
+    "title": "Is it safe to buy a refurbished iPhone from Walmart?",
+    "excerpt": "Walmart provides lower-cost refurbished phones than buying from Apple directly, but you also have to navigate through more sellers and terms.",
+    "url": "https://www.engadget.com/2248893/is-it-safe-buy-refurbished-iphone-walmart/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Alec Hively)",
+    "publishedAt": "2026-09-07T00:30:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/is-it-safe-to-buy-a-refurbished-iphone-from-walmart/l-intro-1788289842.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9503ad2741d3a688",
+    "title": "When are portable Apple CarPlay screens actually worth it?",
+    "excerpt": "Many recent vehicles had CarPlay and Android Auto built in, but if yours doesn't, you can add a portable one to your dash.",
+    "url": "https://www.engadget.com/2248887/when-portable-apple-carplay-screen-worth-it/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Filipe Espósito)",
+    "publishedAt": "2026-09-07T00:00:00.000Z",
+    "category": "software",
+    "imageUrl": "https://www.engadget.com/img/gallery/when-are-portable-apple-carplay-screens-actually-worth-it/l-intro-1788289334.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d5c736f2ff6288d2",
+    "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+    "excerpt": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 Astra, its most advanced model to date. (Photo by Samuel Boivin/NurPhoto via Getty Images) |…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Terrence O’Brien",
+    "publishedAt": "2026-09-06T23:36:04.000Z",
+    "category": "ai",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9cd8e14adcd77947",
+    "title": "Where a Massive Solar Storm Could Take Down the US Power Grid for Millions",
+    "excerpt": "A new study published Friday in AGU Advances \"depicts the most advanced picture yet of how a rare but massive solar storm could affect some US industries and electric systems more than others,\" reports CNN. \"During a 250-year solar storm, the East Coast would have widespread potential for grid…",
+    "url": "https://hardware.slashdot.org/story/26/09/05/2253221/where-a-massive-solar-storm-could-take-down-the-us-power-grid-for-millions?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-09-06T23:34:00.000Z",
+    "category": "science",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "34671baeacf80855",
+    "title": "The pros and cons of using wireless Android Auto",
+    "excerpt": "Wireless Android Auto delivers on the promise of making your life easier most of the time, but ditching the cable can come with a number of tradeoffs.",
+    "url": "https://www.engadget.com/2248846/pros-and-cons-wireless-android-auto/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Gabriela Vătu)",
+    "publishedAt": "2026-09-06T23:30:00.000Z",
+    "category": "software",
+    "imageUrl": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-wireless-android-auto/l-intro-1788284154.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "be32be274ec9a0e8",
+    "title": "10 Smart Gadgets That Could Instantly Upgrade Your Backyard",
+    "excerpt": "Smart outdoor tech is changing how people use their backyards, and this handful of clever upgrades can make your space more useful and enjoyable.",
+    "url": "https://www.engadget.com/2248646/smart-gadgets-could-instantly-upgrade-backyard/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Courtney Holt)",
+    "publishedAt": "2026-09-06T23:15:00.000Z",
+    "category": "policy",
+    "imageUrl": "https://www.engadget.com/img/gallery/10-smart-gadgets-that-could-instantly-upgrade-your-backyard/l-intro-1787156050.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2cfe7e0a9cc6d3f8",
+    "title": "Making a Python interpreter in 1024 bytes",
+    "excerpt": "Article URL: https://austinhenley.com/blog/python1024.html Comments URL: https://news.ycombinator.com/item?id=49591876 Points: 46 # Comments: 15",
+    "url": "https://austinhenley.com/blog/python1024.html",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "azhenley",
+    "publishedAt": "2026-09-06T23:14:08.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ef72edc090806280",
+    "title": "How to use your MacBook's built-in backup tool instead of paying for cloud storage",
+    "excerpt": "If you're searching for a backup option and don't need to access your files from the cloud, you won't need to look beyond what Apple's macOS has to offer.",
+    "url": "https://www.engadget.com/2248819/how-to-use-time-machine-backup-macbook-dont-pay-for-cloud-storage/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Adnan Ahmed)",
+    "publishedAt": "2026-09-06T23:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/how-to-use-your-macbooks-built-in-backup-tool-instead-of-paying-for-cloud-storage/l-intro-1788283366.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "57cf0414b34b5e0a",
+    "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
+    "excerpt": "Article URL: https://twitter.com/Liquid_BTC/status/2096696272447218108 Comments URL: https://news.ycombinator.com/item?id=49591672 Points: 49 # Comments: 21",
+    "url": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "felipelalli",
+    "publishedAt": "2026-09-06T22:43:25.000Z",
+    "category": "crypto",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e05911a68e2fa1d0",
+    "title": "Political meddling at the Census Bureau damages the US statistical system",
+    "excerpt": "Article URL: https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system Comments URL: https://news.ycombinator.com/item?id=49591620 Points: 53 # Comments: 15",
+    "url": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "boshomi",
+    "publishedAt": "2026-09-06T22:36:07.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "9a4790a024a77287",
     "title": "Common problems with Apple Wallet and how to fix them",
     "excerpt": "Apple Wallet and Apple Pay are great, but only if they're working properly. There are some basic troubleshooting steps when payments won't go through.",
@@ -54,7 +184,7 @@
   {
     "id": "9b3b963c6fdf0489",
     "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
-    "excerpt": "Article URL: https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/ Comments URL: https://news.ycombinator.com/item?id=49591036 Points: 24 # Comments: 6",
+    "excerpt": "Article URL: https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/ Comments URL: https://news.ycombinator.com/item?id=49591036 Points: 56 # Comments: 38",
     "url": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -93,7 +223,7 @@
   {
     "id": "e9cfeba35e90a895",
     "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-    "excerpt": "Article URL: https://github.com/marsbos/mador Comments URL: https://news.ycombinator.com/item?id=49590738 Points: 44 # Comments: 16",
+    "excerpt": "Article URL: https://github.com/marsbos/mador Comments URL: https://news.ycombinator.com/item?id=49590738 Points: 61 # Comments: 22",
     "url": "https://github.com/marsbos/mador",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -119,7 +249,7 @@
   {
     "id": "16cfe9c67e9a8fb2",
     "title": "It took a year to ship WebAssembly in Anubis",
-    "excerpt": "Article URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/ Comments URL: https://news.ycombinator.com/item?id=49590611 Points: 87 # Comments: 54",
+    "excerpt": "Article URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/ Comments URL: https://news.ycombinator.com/item?id=49590611 Points: 122 # Comments: 81",
     "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -132,7 +262,7 @@
   {
     "id": "7929171132ca345c",
     "title": "Harnessing the Universal Geometry of Embeddings",
-    "excerpt": "Article URL: https://arxiv.org/abs/2505.12540 Comments URL: https://news.ycombinator.com/item?id=49590595 Points: 12 # Comments: 2",
+    "excerpt": "Article URL: https://arxiv.org/abs/2505.12540 Comments URL: https://news.ycombinator.com/item?id=49590595 Points: 35 # Comments: 3",
     "url": "https://arxiv.org/abs/2505.12540",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -145,26 +275,13 @@
   {
     "id": "571ff77c20a531cb",
     "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-    "excerpt": "Article URL: https://grapheneos.social/@GrapheneOS/117225539756835649 Comments URL: https://news.ycombinator.com/item?id=49590512 Points: 89 # Comments: 25",
+    "excerpt": "Article URL: https://grapheneos.social/@GrapheneOS/117225539756835649 Comments URL: https://news.ycombinator.com/item?id=49590512 Points: 167 # Comments: 86",
     "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "Cider9986",
     "publishedAt": "2026-09-06T20:24:00.000Z",
     "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "69c2d6fe37cb8ee2",
-    "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
-    "excerpt": "I built VODForge because I work with a CTV company that needed to pull YouTube videos from our channel partners into our media workflow. Converter sites are always an option but the bitrate wasn't optimal for a CTV network that needs to make multiple streaming version off of a single source file.…",
-    "url": "https://getvodforge.com/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "coopernusbaum",
-    "publishedAt": "2026-09-06T20:07:30.000Z",
-    "category": "hardware",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -195,19 +312,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "b10c0821d68804fa",
-    "title": "The car industry A/B tested selling a car with and without CarPlay",
-    "excerpt": "Article URL: https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/ Comments URL: https://news.ycombinator.com/item?id=49590225 Points: 88 # Comments: 76",
-    "url": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "gumby",
-    "publishedAt": "2026-09-06T19:53:23.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "b4c43e0a61eb06c6",
     "title": "OpenAI says it reached its goal of creating an automated research intern",
     "excerpt": "The company hopes to have an even better \"automated AI researcher\" by March 2028.",
@@ -223,7 +327,7 @@
   {
     "id": "34db2b7b3282a600",
     "title": "D2 Is Non-Profit",
-    "excerpt": "Article URL: https://d2lang.com/blog/d2-non-profit/ Comments URL: https://news.ycombinator.com/item?id=49589768 Points: 6 # Comments: 1",
+    "excerpt": "Article URL: https://d2lang.com/blog/d2-non-profit/ Comments URL: https://news.ycombinator.com/item?id=49589768 Points: 21 # Comments: 6",
     "url": "https://d2lang.com/blog/d2-non-profit/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -301,7 +405,7 @@
   {
     "id": "742806d6d415fe0c",
     "title": "Nitter and XCancel resume service after legal advice",
-    "excerpt": "https://github.com/zedeus/nitter https://xcancel.com/cdclegal https://nitter.net/ https://xcancel.com/ Comments URL: https://news.ycombinator.com/item?id=49588988 Points: 354 # Comments: 202",
+    "excerpt": "https://github.com/zedeus/nitter https://xcancel.com/cdclegal https://nitter.net/ https://xcancel.com/ Comments URL: https://news.ycombinator.com/item?id=49588988 Points: 423 # Comments: 230",
     "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -392,7 +496,7 @@
   {
     "id": "1f0643794f0c78a6",
     "title": "An Alien Mind",
-    "excerpt": "Article URL: https://openai.com/index/an-alien-mind/ Comments URL: https://news.ycombinator.com/item?id=49588080 Points: 279 # Comments: 223",
+    "excerpt": "Article URL: https://openai.com/index/an-alien-mind/ Comments URL: https://news.ycombinator.com/item?id=49588080 Points: 309 # Comments: 270",
     "url": "https://openai.com/index/an-alien-mind/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -405,7 +509,7 @@
   {
     "id": "b50d156a71a120c2",
     "title": "Research carried out using NetBSD",
-    "excerpt": "Article URL: https://www.netbsd.org/gallery/research.html Comments URL: https://news.ycombinator.com/item?id=49587903 Points: 68 # Comments: 14",
+    "excerpt": "Article URL: https://www.netbsd.org/gallery/research.html Comments URL: https://news.ycombinator.com/item?id=49587903 Points: 74 # Comments: 18",
     "url": "https://www.netbsd.org/gallery/research.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -457,7 +561,7 @@
   {
     "id": "8f6fb59c7a259082",
     "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-    "excerpt": "Article URL: https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and Comments URL: https://news.ycombinator.com/item?id=49587636 Points: 96 # Comments: 4",
+    "excerpt": "Article URL: https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and Comments URL: https://news.ycombinator.com/item?id=49587636 Points: 100 # Comments: 4",
     "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -483,7 +587,7 @@
   {
     "id": "3784d7aba9718af9",
     "title": "Research acceleration: The view inside OpenAI",
-    "excerpt": "Article URL: https://openai.com/index/research-acceleration-view-inside-openai Comments URL: https://news.ycombinator.com/item?id=49587217 Points: 89 # Comments: 65",
+    "excerpt": "Article URL: https://openai.com/index/research-acceleration-view-inside-openai Comments URL: https://news.ycombinator.com/item?id=49587217 Points: 103 # Comments: 73",
     "url": "https://openai.com/index/research-acceleration-view-inside-openai",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -509,7 +613,7 @@
   {
     "id": "a871c7441d09de4d",
     "title": "A/I shuts down – Stay human",
-    "excerpt": "Article URL: https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/ Comments URL: https://news.ycombinator.com/item?id=49586898 Points: 468 # Comments: 329",
+    "excerpt": "Article URL: https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/ Comments URL: https://news.ycombinator.com/item?id=49586898 Points: 508 # Comments: 364",
     "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -548,7 +652,7 @@
   {
     "id": "154b3b6992da5461",
     "title": "Asahi Linux on M3",
-    "excerpt": "https://www.phoronix.com/news/Asahi-Linux-Official-M3 Comments URL: https://news.ycombinator.com/item?id=49586698 Points: 286 # Comments: 165",
+    "excerpt": "https://www.phoronix.com/news/Asahi-Linux-Official-M3 Comments URL: https://news.ycombinator.com/item?id=49586698 Points: 343 # Comments: 189",
     "url": "https://asahilinux.org/2026/09/m2-episode-1/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -613,25 +717,12 @@
   {
     "id": "ea7503cf09cfe26b",
     "title": "Icy Moons Are Ocean Worlds",
-    "excerpt": "Article URL: https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds Comments URL: https://news.ycombinator.com/item?id=49586207 Points: 24 # Comments: 2",
+    "excerpt": "Article URL: https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds Comments URL: https://news.ycombinator.com/item?id=49586207 Points: 38 # Comments: 3",
     "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "worldvoyageur",
     "publishedAt": "2026-09-06T13:07:52.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "25b57bdfc22ad04b",
-    "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
-    "excerpt": "Article URL: https://shukla.io/quantum-oracle-engineering/ Comments URL: https://news.ycombinator.com/item?id=49586151 Points: 56 # Comments: 19",
-    "url": "https://shukla.io/quantum-oracle-engineering/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "BinRoo",
-    "publishedAt": "2026-09-06T13:00:34.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -676,19 +767,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "13708f75c7191fbe",
-    "title": "Don't get rid of your old phone, turn it into a security camera",
-    "excerpt": "With the right setup, an old, unused phone can be repurposed into a security camera. Even better? It's free.",
-    "url": "https://www.engadget.com/2248434/keep-old-phone-turn-into-security-camera/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Isaac Egbon)",
-    "publishedAt": "2026-09-06T12:30:00.000Z",
-    "category": "policy",
-    "imageUrl": "https://www.engadget.com/img/gallery/dont-get-rid-of-your-old-phone-turn-it-into-a-security-camera/l-intro-1788266445.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "d805416fd871e129",
     "title": "DIY plug-in solar gains momentum in the US",
     "excerpt": "EcoFlow’s high-end, weatherproof, plug-in solar kit with integrated battery. | Image: EcoFlow This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere , follow Thomas Ricker . The Stepback arrives…",
@@ -702,22 +780,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "735754dd7fbc2edf",
-    "title": "Claude can help manage your email inbox, but there are some risks involved",
-    "excerpt": "AI has been known to mess up some pretty basic things, but Claude wants to help you with your emails.",
-    "url": "https://www.engadget.com/2247891/claude-help-manage-emails-risks-involved/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Isaac Egbon)",
-    "publishedAt": "2026-09-06T12:00:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/claude-can-help-manage-your-email-inbox-but-there-are-some-risks-involved/l-intro-1788200929.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "d0e645f9ae1a95ae",
     "title": "Your intellectual fly is open (2025)",
-    "excerpt": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 455 # Comments: 292",
+    "excerpt": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points: 503 # Comments: 322",
     "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -743,7 +808,7 @@
   {
     "id": "067e3cf2352b98bd",
     "title": "Doomscrolling Ourselves to Death",
-    "excerpt": "Article URL: https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death Comments URL: https://news.ycombinator.com/item?id=49585627 Points: 345 # Comments: 233",
+    "excerpt": "Article URL: https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death Comments URL: https://news.ycombinator.com/item?id=49585627 Points: 359 # Comments: 256",
     "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -894,45 +959,6 @@
     "publishedAt": "2026-09-06T01:06:00.000Z",
     "category": "policy",
     "imageUrl": "https://image.theregister.com/?imageId=5294656&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4d7cb63bbad84ee4",
-    "title": "Why are iPhones more expensive than iPads?",
-    "excerpt": "iPhones are smaller than iPads, so why aren't they cheaper? Several variables factor into the price difference between the two product lines.",
-    "url": "https://www.engadget.com/2246356/why-iphones-more-expensive-than-ipads/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Ben Stegner)",
-    "publishedAt": "2026-09-06T00:30:00.000Z",
-    "category": "startups",
-    "imageUrl": "https://www.engadget.com/img/gallery/why-are-iphones-more-expensive-than-ipads/l-intro-1787929000.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "66e6f119dc5b1799",
-    "title": "How to sideload apps onto Android Auto",
-    "excerpt": "There's a way to display any app on Android Auto, but it does present concerns about safety and reliability.",
-    "url": "https://www.engadget.com/2246259/how-to-sideload-android-auto-apps/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Gabriela Vătu)",
-    "publishedAt": "2026-09-06T00:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/how-to-sideload-apps-onto-android-auto/l-intro-1787923516.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "8ea50880be9eeaab",
-    "title": "Is It Safe To Leave Your Phone's Bluetooth Running All The Time?",
-    "excerpt": "Bluetooth is a common setting that's typically always on in modern phones, but this feature may be leaving your phone open to a rather significant issue.",
-    "url": "https://www.engadget.com/2245488/is-it-safe-leave-bluetooth-when-not-using/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Jack Peachey)",
-    "publishedAt": "2026-09-05T23:30:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/is-it-safe-to-leave-your-phones-bluetooth-running-all-the-time/l-intro-1787153223.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1154,19 +1180,6 @@
     "publishedAt": "2026-09-05T15:00:00.000Z",
     "category": "hardware",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b7c9082e1e68fe91",
-    "title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
-    "excerpt": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast from iHeartRadio and People's Choice at the Podcast…",
-    "url": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Terrence O’Brien",
-    "publishedAt": "2026-09-05T15:00:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/andy.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -1947,19 +1960,6 @@
     "publishedAt": "2026-09-04T11:00:05.000Z",
     "category": "ai",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Fairphone-6-8-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "1f2eddba93ca2d2e",
-    "title": "Genetically Modified Pig Kidney Keeps Man Alive For Record Nine Months",
-    "excerpt": "A genetically modified pig kidney kept a 66-year-old man off dialysis for a record nine months, marking the longest survival yet for a pig kidney transplanted into a living person and the first time such an organ successfully served as a bridge to a later human transplant. The Guardian reports: Tim…",
-    "url": "https://science.slashdot.org/story/26/09/04/0433242/genetically-modified-pig-kidney-keeps-man-alive-for-record-nine-months?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-09-04T11:00:00.000Z",
-    "category": "crypto",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
