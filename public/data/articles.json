@@ -1,5 +1,122 @@
 [
   {
+    "id": "3019586e7a72a82d",
+    "title": "Does Brave Browser Load Faster Than Chrome, Firefox, and Microsoft Edge?",
+    "excerpt": "The Brave web browser published a new round of benchmarks claiming its desktop browser uses less system resources than Chrome, Microsoft Edge, and Firefox — and also loads pages faster. The blog Linuxiac reports: According to Brave's testing, the browser used 44% less CPU, 28% less memory, and 10%…",
+    "url": "https://news.slashdot.org/story/26/09/07/0155210/does-brave-browser-load-faster-than-chrome-firefox-and-microsoft-edge?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-09-08T02:34:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8428de433c66d98a",
+    "title": "Huawei proudly shows off an entirely un-American chip",
+    "excerpt": "Huawei has launched a new processor it claims is free of US technology and is using it to drive a new three-screen folding phone. The Chinese giant dubbed the new processor the Kirin 950 Pro and says its LinxiCore processor cores, GPU, and neural processing unit all feature its own designs. The SoC…",
+    "url": "https://www.theregister.com/systems/2026/09/08/huawei-proudly-shows-off-an-entirely-un-american-chip/5294900",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-08T02:22:05.000Z",
+    "category": "hardware",
+    "imageUrl": "https://image.theregister.com/?imageId=5294906&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "fe6c53252f4c1cc6",
+    "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+    "excerpt": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million from Elad Gil, Khosla…",
+    "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Connie Loizos",
+    "publishedAt": "2026-09-08T02:16:39.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "35280f249708d2e5",
+    "title": "Jellyfin 12.0",
+    "excerpt": "Article URL: https://jellyfin.org/posts/jellyfin-release-12.0/ Comments URL: https://news.ycombinator.com/item?id=49604861 Points: 113 # Comments: 48",
+    "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "0xC0ncord",
+    "publishedAt": "2026-09-08T01:56:35.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "fac5a01055fd1304",
+    "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+    "excerpt": "Article URL: https://mcpherrin.ca/2026/09/07/rsa.html Comments URL: https://news.ycombinator.com/item?id=49604637 Points: 128 # Comments: 26",
+    "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "ahlCVA",
+    "publishedAt": "2026-09-08T01:16:59.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8fa06c8c041b942c",
+    "title": "FreeBSD 14.5 Released With Hardware Support Improvements, Many Bug & Security Fixes",
+    "excerpt": "For those that haven't yet made the move to FreeBSD 15 with still relying on FreeBSD 14 in production, out today is FreeBSD 14.5-RELEASE...",
+    "url": "https://www.phoronix.com/news/FreeBSD-14.5-RELEASE",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-08T00:35:33.000Z",
+    "category": "crypto",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "cd4b9a8b3244dbff",
+    "title": "How To Reset The Camera Settings On Your iPhone",
+    "excerpt": "We all want to take the best photos with our $1,000 devices, and sometimes that means rolling back all those extra settings in the Camera app back to zero.",
+    "url": "https://www.engadget.com/2249676/how-to-reset-iphone-camera-settings/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Jack Peachey)",
+    "publishedAt": "2026-09-08T00:30:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/how-to-reset-the-camera-settings-on-your-iphone/l-intro-1788368872.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e861e18589d5b4b8",
+    "title": "Pros and cons of using a Chromebook as your everyday PC",
+    "excerpt": "Chromebooks are great devices, but they might not be able to do everything a Windows or Mac device can. Consider carefully before using one daily.",
+    "url": "https://www.engadget.com/2249648/chromebook-pros-and-cons-as-main-pc/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Deven McClure)",
+    "publishedAt": "2026-09-08T00:00:00.000Z",
+    "category": "software",
+    "imageUrl": "https://www.engadget.com/img/gallery/pros-and-cons-of-using-a-chromebook-as-your-everyday-pc/l-intro-1788367547.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a10aa370c7a5372c",
+    "title": "TALA Is Open-Source",
+    "excerpt": "Article URL: https://d2lang.com/blog/tala-is-open-source/ Comments URL: https://news.ycombinator.com/item?id=49604150 Points: 107 # Comments: 10",
+    "url": "https://d2lang.com/blog/tala-is-open-source/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "alixanderwang",
+    "publishedAt": "2026-09-07T23:37:42.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "31756149d5df94ae",
     "title": "Switzerland's Federal Government Tests Open-Source Alternatives to Microsoft on 3,000 Computers",
     "excerpt": "Switzerland has a population of 9,154,242. And its federal government just launched a pilot program to test open source alternatives to Microsoft 365 on 3,000 workstations, reports the blog It's FOSS. \"That's about 7% of the federal workforce.\" The target is to complete the migration by end of…",
@@ -80,7 +197,7 @@
   {
     "id": "f27f9bc594b64e16",
     "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
-    "excerpt": "Stuxnet! Here reproduced by me. Only researchs educations purposes. Comments URL: https://news.ycombinator.com/item?id=49603546 Points: 14 # Comments: 3",
+    "excerpt": "Stuxnet! Here reproduced by me. Only researchs educations purposes. Comments URL: https://news.ycombinator.com/item?id=49603546 Points: 116 # Comments: 38",
     "url": "https://github.com/Sadpainy/Stuxnet",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -104,32 +221,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "ed31a48bef502d5a",
-    "title": "The Education of a Doomer",
-    "excerpt": "Article URL: https://borretti.me/article/the-education-of-a-doomer Comments URL: https://news.ycombinator.com/item?id=49603092 Points: 45 # Comments: 35",
-    "url": "https://borretti.me/article/the-education-of-a-doomer",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "f311a",
-    "publishedAt": "2026-09-07T21:19:12.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "af7e4750aca0b456",
-    "title": "Working on Economics with Fable 5",
-    "excerpt": "Article URL: https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/ Comments URL: https://news.ycombinator.com/item?id=49603086 Points: 32 # Comments: 16",
-    "url": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "Wilsoniumite",
-    "publishedAt": "2026-09-07T21:18:15.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "0dd105e60f893395",
     "title": "How to watch The Legend of Zelda 40th Anniversary Nintendo Direct",
     "excerpt": "We're expecting details about the 'Ocarina of Time' and other Zelda projects during Nintendo's 30-minute stream.",
@@ -145,7 +236,7 @@
   {
     "id": "a9b02df870942bea",
     "title": "Macbeth and His Problems",
-    "excerpt": "Article URL: https://porticoquarterly.com/essay/macbeth-and-his-problems/ Comments URL: https://news.ycombinator.com/item?id=49602716 Points: 30 # Comments: 9",
+    "excerpt": "Article URL: https://porticoquarterly.com/essay/macbeth-and-his-problems/ Comments URL: https://news.ycombinator.com/item?id=49602716 Points: 47 # Comments: 18",
     "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -171,12 +262,25 @@
   {
     "id": "137c5f16b25f9b5b",
     "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
-    "excerpt": "Article URL: https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/ Comments URL: https://news.ycombinator.com/item?id=49602699 Points: 47 # Comments: 21",
+    "excerpt": "Article URL: https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/ Comments URL: https://news.ycombinator.com/item?id=49602699 Points: 119 # Comments: 54",
     "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "josephcsible",
     "publishedAt": "2026-09-07T20:32:55.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a7831645f6289c72",
+    "title": "Emacs Bedrock 2.0",
+    "excerpt": "Article URL: https://lambdaland.org/posts/2026-09-06-bedrock-v2/ Comments URL: https://news.ycombinator.com/item?id=49602490 Points: 50 # Comments: 0",
+    "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "ashton314",
+    "publishedAt": "2026-09-07T20:12:12.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -247,22 +351,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "1e7b1d6161ce59f8",
-    "title": "Replaceable but Employed: Automation and the Meaning of Work",
-    "excerpt": "Article URL: https://www.nber.org/papers/w35559 Comments URL: https://news.ycombinator.com/item?id=49601814 Points: 48 # Comments: 29",
-    "url": "https://www.nber.org/papers/w35559",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "mooreds",
-    "publishedAt": "2026-09-07T19:06:01.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "8493d613fc03cf26",
     "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
-    "excerpt": "Article URL: https://lax-skyline.parcelscope.net/ Comments URL: https://news.ycombinator.com/item?id=49601655 Points: 178 # Comments: 85",
+    "excerpt": "Article URL: https://lax-skyline.parcelscope.net/ Comments URL: https://news.ycombinator.com/item?id=49601655 Points: 237 # Comments: 125",
     "url": "https://lax-skyline.parcelscope.net/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -520,19 +611,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "37cc6b64412d7377",
-    "title": "How to find and hide an app on Android Auto",
-    "excerpt": "Millions rely on Android Auto every day for navigation, music and messaging, but one of the common issues is apps vanishing from the platform without warning.",
-    "url": "https://www.engadget.com/2249065/how-to-find-hide-app-android-auto/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Gabriela Vătu)",
-    "publishedAt": "2026-09-07T15:00:00.000Z",
-    "category": "software",
-    "imageUrl": "https://www.engadget.com/img/gallery/how-to-find-and-hide-an-app-on-android-auto/l-intro-1787898302.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "fcaefa90288e8259",
     "title": "EcoFlow makes the miniature power station even smaller",
     "excerpt": "The River 260 Gen4 (on the table) powering a portable fridge, Starlink Mini, and charging a phone. | Image: EcoFlow If you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. The River 260 Gen4…",
@@ -569,19 +647,6 @@
     "publishedAt": "2026-09-07T14:34:00.000Z",
     "category": "policy",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ab2947fa0a6ec48d",
-    "title": "How to split bills and customize passes in Apple Wallet with iOS 27 Update",
-    "excerpt": "Apple's Visual Intelligence will make splitting the check easier in iOS 27.",
-    "url": "https://www.engadget.com/2249069/apple-wallet-ios-27-update-how-to-split-bills-customize-passes/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Thomas Godwin)",
-    "publishedAt": "2026-09-07T14:30:00.000Z",
-    "category": "software",
-    "imageUrl": "https://www.engadget.com/img/gallery/how-to-split-bills-and-customize-passes-in-apple-wallet-with-ios-27-update/l-intro-1787765268.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -639,7 +704,7 @@
   {
     "id": "f65bd5f6dff1b208",
     "title": "bzip3",
-    "excerpt": "Article URL: https://github.com/iczelia/bzip3 Comments URL: https://news.ycombinator.com/item?id=49598291 Points: 363 # Comments: 103",
+    "excerpt": "Article URL: https://github.com/iczelia/bzip3 Comments URL: https://news.ycombinator.com/item?id=49598291 Points: 390 # Comments: 110",
     "url": "https://github.com/iczelia/bzip3",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -964,7 +1029,7 @@
   {
     "id": "21315ed80f398c9a",
     "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
-    "excerpt": "Article URL: https://mathathonchallenge.com/index.html Comments URL: https://news.ycombinator.com/item?id=49596055 Points: 215 # Comments: 74",
+    "excerpt": "Article URL: https://mathathonchallenge.com/index.html Comments URL: https://news.ycombinator.com/item?id=49596055 Points: 240 # Comments: 84",
     "url": "https://mathathonchallenge.com/index.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -990,7 +1055,7 @@
   {
     "id": "b0c6399c6bbfa9ca",
     "title": "Live map of public transport in Belgium",
-    "excerpt": "Article URL: https://openbaarvervoerbelgie.be/ Comments URL: https://news.ycombinator.com/item?id=49595865 Points: 182 # Comments: 74",
+    "excerpt": "Article URL: https://openbaarvervoerbelgie.be/ Comments URL: https://news.ycombinator.com/item?id=49595865 Points: 190 # Comments: 78",
     "url": "https://openbaarvervoerbelgie.be/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1172,7 +1237,7 @@
   {
     "id": "eb27cd2dd2ee8eb1",
     "title": "Keep Our Servers Running",
-    "excerpt": "Article URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/ Comments URL: https://news.ycombinator.com/item?id=49593563 Points: 934 # Comments: 244",
+    "excerpt": "Article URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/ Comments URL: https://news.ycombinator.com/item?id=49593563 Points: 964 # Comments: 250",
     "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1224,7 +1289,7 @@
   {
     "id": "4421a36886f3fdb8",
     "title": "216M Spy TVs – The LG Smart TV Problem [video]",
-    "excerpt": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-au... Comments URL: https://news.ycombinator.com/item?id=49592375 Points: 432 # Comments: 694",
+    "excerpt": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-au... Comments URL: https://news.ycombinator.com/item?id=49592375 Points: 585 # Comments: 824",
     "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1367,7 +1432,7 @@
   {
     "id": "72019d0fe354a3ea",
     "title": "The Dataflow Model Revisited",
-    "excerpt": "PDF: https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.p... Comments URL: https://news.ycombinator.com/item?id=49589190 Points: 78 # Comments: 14",
+    "excerpt": "PDF: https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.p... Comments URL: https://news.ycombinator.com/item?id=49589190 Points: 91 # Comments: 14",
     "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1497,7 +1562,7 @@
   {
     "id": "ea7503cf09cfe26b",
     "title": "Icy Moons Are Ocean Worlds",
-    "excerpt": "Article URL: https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds Comments URL: https://news.ycombinator.com/item?id=49586207 Points: 117 # Comments: 10",
+    "excerpt": "Article URL: https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds Comments URL: https://news.ycombinator.com/item?id=49586207 Points: 140 # Comments: 14",
     "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1627,7 +1692,7 @@
   {
     "id": "79ad758fbe465ea6",
     "title": "Catching Crumbs from the Table (2000)",
-    "excerpt": "https://web.archive.org/web/20150719010624/http://www.nature... https://www.scribd.com/document/893921964/CHIANG-Catching-Cr... Comments URL: https://news.ycombinator.com/item?id=49584053 Points: 11 # Comments: 3",
+    "excerpt": "https://web.archive.org/web/20150719010624/http://www.nature... https://www.scribd.com/document/893921964/CHIANG-Catching-Cr... Comments URL: https://news.ycombinator.com/item?id=49584053 Points: 14 # Comments: 5",
     "url": "https://www.nature.com/articles/35014679",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1635,32 +1700,6 @@
     "publishedAt": "2026-09-06T07:15:10.000Z",
     "category": "science",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "472ad4720a30339c",
-    "title": "Decapitating a MacBook (2025)",
-    "excerpt": "Article URL: https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/ Comments URL: https://news.ycombinator.com/item?id=49583381 Points: 51 # Comments: 35",
-    "url": "https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "luu",
-    "publishedAt": "2026-09-06T04:40:00.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "21cbdd109345e0a8",
-    "title": "To Promote Grand Theft Auto 6, Mayor Might Transform Miami into 'Vice City'",
-    "excerpt": "Rockstar Games and the mayor of Miami-Dade county are discussing a joint marketing campaign transforming parts of the county to look like areas from Grand Theft Auto 6, reports the blog Rock Paper Shotgun: The proposed publicity event would include \"an immersive arrival experience\" at Miami…",
-    "url": "https://games.slashdot.org/story/26/09/06/0123212/to-promote-grand-theft-auto-6-mayor-might-transform-miami-into-vice-city?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-09-06T04:34:00.000Z",
-    "category": "science",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -1822,7 +1861,7 @@
   {
     "id": "7e5a5ad1465c866c",
     "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-    "excerpt": "Article URL: https://arxiv.org/abs/2607.24888 Comments URL: https://news.ycombinator.com/item?id=49575515 Points: 117 # Comments: 28",
+    "excerpt": "Article URL: https://arxiv.org/abs/2607.24888 Comments URL: https://news.ycombinator.com/item?id=49575515 Points: 167 # Comments: 35",
     "url": "https://arxiv.org/abs/2607.24888",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1939,7 +1978,7 @@
   {
     "id": "deba45698a6d8c90",
     "title": "This Month in Ladybird – August 2026",
-    "excerpt": "Article URL: https://ladybird.org/newsletter/2026-08-31/ Comments URL: https://news.ycombinator.com/item?id=49571096 Points: 134 # Comments: 25",
+    "excerpt": "Article URL: https://ladybird.org/newsletter/2026-08-31/ Comments URL: https://news.ycombinator.com/item?id=49571096 Points: 185 # Comments: 45",
     "url": "https://ladybird.org/newsletter/2026-08-31/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -2004,7 +2043,7 @@
   {
     "id": "cd9355b45d4c8f39",
     "title": "Scientists observe Einstein's gravity in the quantum world",
-    "excerpt": "https://www.youtube.com/watch?v=CfjnTJos_no Comments URL: https://news.ycombinator.com/item?id=49569838 Points: 109 # Comments: 26",
+    "excerpt": "https://www.youtube.com/watch?v=CfjnTJos_no Comments URL: https://news.ycombinator.com/item?id=49569838 Points: 162 # Comments: 41",
     "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -2030,7 +2069,7 @@
   {
     "id": "2ce845c78d9b1920",
     "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
-    "excerpt": "Article URL: https://kallus.org/blog/dummit_and_foote.html Comments URL: https://news.ycombinator.com/item?id=49569748 Points: 56 # Comments: 32",
+    "excerpt": "Article URL: https://kallus.org/blog/dummit_and_foote.html Comments URL: https://news.ycombinator.com/item?id=49569748 Points: 72 # Comments: 33",
     "url": "https://kallus.org/blog/dummit_and_foote.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -2301,19 +2340,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "a2035805dcc47b41",
-    "title": "CD sales are making an unexpected comeback amid a retro tech boom",
-    "excerpt": "U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.",
-    "url": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Sarah Perez",
-    "publishedAt": "2026-09-04T15:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "3b592d89b948e97f",
     "title": "Canonical shuttering some of its legacy chat channels",
     "excerpt": "Canonical is closing off some of its older tools and communications channels for users, although some may remain – just unofficially. Back in May, Canonical's Aaron Prisk announced on Discourse that the company was closing the Ubuntu Pastebin at the end of June. Now a comment from a different…",
@@ -2506,19 +2532,6 @@
     "publishedAt": "2026-09-04T10:00:00.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=5294306&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4e1f4128793a6da8",
-    "title": "Vulkan 1.4.362 Released With New Extension Developed By Valve",
-    "excerpt": "Vulkan 1.4.362 is out this morning as the newest routine spec update. Making Vulkan 1.4.362 more notable beyond a couple bug fixes are two new Vulkan API extensions, both of which were worked on by Valve's Linux graphics team and one of them being a Valve vendor extension...",
-    "url": "https://www.phoronix.com/news/Vulkan-1.4.362",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-04T09:56:48.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2727,19 +2740,6 @@
     "publishedAt": "2026-09-03T16:26:32.000Z",
     "category": "Security",
     "imageUrl": "https://image.theregister.com/?imageId=5294299&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "fe53a81649c35077",
-    "title": "NASA wires up Dragonfly and names the landing area",
-    "excerpt": "The Titan dune field where NASA's Dragonfly rotorcraft will land in 2034 has a name: Ahmakiq Undae. The International Astronomical Union (IAU) approved the name, and NASA announced it in an update as the spacecraft's 2028 launch edges closer. It is scheduled to arrive at Saturn's moon Titan in late…",
-    "url": "https://www.theregister.com/science/2026/09/03/nasa-wires-up-dragonfly-and-names-the-landing-area/5294231",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-03T16:02:19.000Z",
-    "category": "science",
-    "imageUrl": "https://image.theregister.com/?imageId=141073&width=800",
     "readTimeMinutes": 1
   },
   {
