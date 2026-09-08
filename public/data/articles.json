@@ -1,5 +1,338 @@
 [
   {
+    "id": "ff9bc88c33f97b89",
+    "title": "systemd 262-rc2 Adds An AI Canary For Detecting Unreviewed AI/LLM Code Contributions",
+    "excerpt": "One week after releasing systemd 262-rc1, systemd 262-rc2 is now available with further fixes and refinements for this init system and service manager. Systemd is also the latest open-source project introducing an AI canary for aiming to detect AI/LLM-based code contributors that weren't reviewed…",
+    "url": "https://www.phoronix.com/news/systemd-262-rc2",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-08T22:30:34.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7d12964fd81e134c",
+    "title": "SpaceX's recovered Starship 40 will take months to get back to Texas",
+    "excerpt": "SpaceX's rocket traveled thousands of miles from Texas to the Indian Ocean for a launch test. For a number of reasons, it'll take a lot longer to return home.",
+    "url": "https://www.engadget.com/2251144/spacex-starship-40-recovered-months-travel-back-to-texas/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Will Shanklin)",
+    "publishedAt": "2026-09-08T22:30:00.000Z",
+    "category": "science",
+    "imageUrl": "https://www.engadget.com/img/gallery/spacexs-recovered-starship-40-will-take-months-to-get-back-to-texas/l-intro-1788536157.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "13ff9433fecd494d",
+    "title": "What's going on with OpenAI and the Navier-Stokes controversy?",
+    "excerpt": "Artificial intelligence has solved a major mathematics problem, but credit for the accomplishment is murky.",
+    "url": "https://www.engadget.com/2253393/whats-going-on-with-openai-and-the-navier-stokes-controversy/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Anna Washenko)",
+    "publishedAt": "2026-09-08T22:11:24.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/whats-going-on-with-openai-and-the-navier-stokes-controversy/l-intro-1788905065.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "04b429bbe4481399",
+    "title": "Feds Accuse China of 'Systematic' Distillation of US AI Models",
+    "excerpt": "The NSA, CISA, and FBI are accusing (PDF) several Chinese AI companies of carrying out \"industrial-scale\" distillation campaigns against leading U.S. models such as ChatGPT, Claude, Gemini, and Grok. Since at least 2024, the companies have allegedly routed millions of requests across accounts,…",
+    "url": "https://slashdot.org/story/26/09/08/220242/feds-accuse-china-of-systematic-distillation-of-us-ai-models?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-09-08T22:02:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8b7911141828b494",
+    "title": "How to use the AI Clean Up tool in iOS 27 to remove unwanted objects in iPhone Photos",
+    "excerpt": "Clean Up has been a handy tool for removing unwanted elements from photos since iOS 18, but iOS 27 upgrades it even further.",
+    "url": "https://www.engadget.com/2252838/how-to-use-ios-27-ai-clean-up-tool-iphone-photos/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Filipe Espósito)",
+    "publishedAt": "2026-09-08T22:00:00.000Z",
+    "category": "software",
+    "imageUrl": "https://www.engadget.com/img/gallery/how-to-use-the-ai-clean-up-tool-in-ios-27-to-remove-unwanted-objects-in-iphone-photos/l-intro-1788794561.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "899b6bb340e12a2d",
+    "title": "Sony isn’t phasing out discs quite as quickly as we thought",
+    "excerpt": "Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's last discmaking plant was already being repurposed , the company's discmaking division now says that…",
+    "url": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Sean Hollister",
+    "publishedAt": "2026-09-08T21:52:13.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717617/247361_PS5_Pro_VPavic_224.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ec5e2fd630258bdf",
+    "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
+    "excerpt": "Article URL: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH Comments URL: https://news.ycombinator.com/item?id=49617581 Points: 29 # Comments: 5",
+    "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "paimapi",
+    "publishedAt": "2026-09-08T21:47:38.000Z",
+    "category": "security",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6e80b0fb56bfd77a",
+    "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+    "excerpt": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many…",
+    "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+    "source": "Krebs on Security",
+    "sourceHomepage": "https://krebsonsecurity.com",
+    "author": "BrianKrebs",
+    "publishedAt": "2026-09-08T21:44:22.000Z",
+    "category": "security",
+    "imageUrl": "https://krebsonsecurity.com/wp-content/uploads/2026/09/shutterstock_278764853.jpg",
+    "readTimeMinutes": 1,
+    "alsoCoveredBy": [
+      {
+        "source": "Krebs on Security",
+        "sourceHomepage": "https://krebsonsecurity.com",
+        "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+        "publishedAt": "2026-08-11T21:28:35.000Z"
+      }
+    ]
+  },
+  {
+    "id": "777d9027be42863c",
+    "title": "The White House removed its border-wall Tetris clone",
+    "excerpt": "The game, 'Build the Wall,' filtered classic block-stacking mechanics through the Trump administration's immigration policies.",
+    "url": "https://www.engadget.com/2253350/the-white-house-removed-its-border-wall-tetris-clone/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Ian Carlos Campbell)",
+    "publishedAt": "2026-09-08T21:33:02.000Z",
+    "category": "policy",
+    "imageUrl": "https://www.engadget.com/img/gallery/the-white-house-removed-its-border-wall-tetris-clone/l-intro-1788903110.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4406eb82a480fa71",
+    "title": "How to Build a Printer",
+    "excerpt": "Article URL: https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/ Comments URL: https://news.ycombinator.com/item?id=49617255 Points: 16 # Comments: 1",
+    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "cat-whisperer",
+    "publishedAt": "2026-09-08T21:22:11.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f71d82ce30867bcb",
+    "title": "OpenAI's Artifactory opened covert data-stealing channel alongside Hugging Face attack",
+    "excerpt": "A secret channel running through ChatGPT's internal JFrog Artifactory instance allowed one account to send hidden tasks - such as retrieving email data from a connected Gmail account - to a ChatGPT session under another account, according to Check Point Research. The victim saw no indication of the…",
+    "url": "https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-08T21:12:19.000Z",
+    "category": "security",
+    "imageUrl": "https://image.theregister.com/?imageId=5295128&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a58bb6dba21b7032",
+    "title": "Hackers are stealing Claude tokens from subscribers",
+    "excerpt": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+    "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Julie Bort",
+    "publishedAt": "2026-09-08T21:10:27.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e623e2c868796f2f",
+    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+    "excerpt": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+    "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Marina Temkin",
+    "publishedAt": "2026-09-08T21:04:06.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "711af1fbdbef2017",
+    "title": "Tao: Open math problems being non-renewably mined by AI",
+    "excerpt": "Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968 Points: 10 # Comments: 2",
+    "url": "https://mathstodon.xyz/@tao/117237320796901560",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "_alternator_",
+    "publishedAt": "2026-09-08T21:00:52.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ef5f4549e9e64d99",
+    "title": "Meta Debuts Muse, Its Long-Planned Personal AI Agent",
+    "excerpt": "Meta has launched Muse, a personal AI agent developed under chief AI officer Alexandr Wang. \"The product, long in development, was touted as a key next step by CEO Mark Zuckerberg in his recent 6,500-word manifesto,\" reports Axios. From the report: Muse, as the agent is known, exists in a chat…",
+    "url": "https://meta.slashdot.org/story/26/09/08/2012246/meta-debuts-muse-its-long-planned-personal-ai-agent?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-09-08T21:00:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "93ac80c32b7b178a",
+    "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+    "excerpt": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired . In a blog post on Tuesday , OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Emma Roth",
+    "publishedAt": "2026-09-08T20:53:52.000Z",
+    "category": "ai",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25844039/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "62e2ee899e139861",
+    "title": "The Exploration Company nabs $450 million to challenge SpaceX",
+    "excerpt": "The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”",
+    "url": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Anna Heim",
+    "publishedAt": "2026-09-08T20:47:34.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7107fe893f7b47de",
+    "title": "Rivian’s Also apologizes for delays in shipping futuristic e-bikes",
+    "excerpt": "Rivian's futuristic e-bike is delayed, and customers are not happy. Last year, Rivian's micromobility spinoff Also unveiled a new, software-controlled electric bike called the TM-B that immediately set the e-bike world ablaze. With USB-C chargeable battery, removable seat post, and…",
+    "url": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Andrew J. Hawkins",
+    "publishedAt": "2026-09-08T20:46:56.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2242247597.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7afc8dc28d23ef22",
+    "title": "Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
+    "excerpt": "Razer’s BlackShark V3 Pro are up to $100 off. | Image: Razer It’s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we’re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific models marketed to Xbox and PlayStation,…",
+    "url": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Brad Bourque",
+    "publishedAt": "2026-09-08T20:39:49.000Z",
+    "category": "hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Razer-Blackshark-V3-Pro-white-breakout.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "646c789f593e6624",
+    "title": "Bing Wallpaper app opens Harry Potter's chamber of ads",
+    "excerpt": "Microsoft has pumped ads into the Windows Start menu and pushed users through setup screens promoting its services. Now it's bringing advertising to the Windows desktop with a Harry Potter promotion in its Bing Wallpaper app. Users of Microsoft’s Bing Wallpaper app took to Reddit and Microsoft’s…",
+    "url": "https://www.theregister.com/os-platforms/2026/09/08/bing-wallpaper-app-opens-harry-potters-chamber-of-ads/5295118",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-08T20:22:36.000Z",
+    "category": "hardware",
+    "imageUrl": "https://image.theregister.com/?imageId=4093890&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9d0b33baabbac2f5",
+    "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+    "excerpt": "I used ChatGPT and its Sketch tool to make this AI-generated image of a cat. OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Jay Peters",
+    "publishedAt": "2026-09-08T20:16:09.000Z",
+    "category": "ai",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "fa323a8be685f2f1",
+    "title": "Mercury 2.5",
+    "excerpt": "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-2-5 Comments URL: https://news.ycombinator.com/item?id=49616354 Points: 87 # Comments: 9",
+    "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "Topfi",
+    "publishedAt": "2026-09-08T20:14:52.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d197b84a5c23eec5",
+    "title": "Animation in Bevy: The Big Picture",
+    "excerpt": "Article URL: https://glocq.com/en/blog/20260827/ Comments URL: https://news.ycombinator.com/item?id=49616272 Points: 29 # Comments: 1",
+    "url": "https://glocq.com/en/blog/20260827/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "ibobev",
+    "publishedAt": "2026-09-08T20:08:44.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a9e40bcc77117409",
+    "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+    "excerpt": "Article URL: https://github.com/argonautlabsai/deltafin Comments URL: https://news.ycombinator.com/item?id=49616257 Points: 181 # Comments: 78",
+    "url": "https://github.com/argonautlabsai/deltafin",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "Argonautlabs",
+    "publishedAt": "2026-09-08T20:07:55.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b2a76ae70f92e92c",
+    "title": "Trey Parker and Matt Stone Are Changing the Name of South Park to South America",
+    "excerpt": "Article URL: https://twitter.com/SouthPark/status/2097364141237539116 Comments URL: https://news.ycombinator.com/item?id=49616239 Points: 126 # Comments: 58",
+    "url": "https://twitter.com/SouthPark/status/2097364141237539116",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "HelloUsername",
+    "publishedAt": "2026-09-08T20:06:33.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "68f080d5ef782e10",
     "title": "Australia To Let Social Media Users 'Opt Out' of Algorithm-Based Feeds",
     "excerpt": "Australia is proposing the \"My Feed, My Way\" initiative that would force social media platforms to let users over 16 turn off algorithmic recommendations and instead see only posts from people and creators they follow. Platforms that fail to comply could face fines of up to $79 million. CNBC…",
@@ -67,7 +400,7 @@
   {
     "id": "3cc49d056088c2dd",
     "title": "Muse: Meta's personal AI agent, features and capabilities",
-    "excerpt": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 79 # Comments: 65",
+    "excerpt": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 203 # Comments: 195",
     "url": "https://ai.meta.com/muse/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -106,7 +439,7 @@
   {
     "id": "f2abd24cb9346a10",
     "title": "Function Arguments Are Not Function Colors",
-    "excerpt": "Article URL: https://jerf.org/iri/post/2026/func_args_are_not_colors/ Comments URL: https://news.ycombinator.com/item?id=49615139 Points: 7 # Comments: 1",
+    "excerpt": "Article URL: https://jerf.org/iri/post/2026/func_args_are_not_colors/ Comments URL: https://news.ycombinator.com/item?id=49615139 Points: 26 # Comments: 10",
     "url": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -156,6 +489,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "809561753292803f",
+    "title": "Google research shows when AI agents communicate, some cheat while others tattle",
+    "excerpt": "When AI agents communicate with one another, they may decide to cheat when they have difficulty achieving their goals. The solution could involve teaching them how to govern themselves. Segregating AI agents would seem to be the obvious fix – if they can't communicate, they're less likely to try…",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/08/google-research-shows-when-ai-agents-communicate-some-cheat-while-others-tattle/5295090",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-08T18:59:14.000Z",
+    "category": "ai",
+    "imageUrl": "https://image.theregister.com/?imageId=5295099&width=800",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "52dbea63878c7c65",
     "title": "Godzilla Minus Zero IMAX trailer teases King Ghidorah",
     "excerpt": "One of the cinematic highlights of 2023 was director Takashi Yamazaki's gloriously grounded kaiju epic, Godzilla Minus One , which became a major international hit and snagged an Oscar for best visual effects. Yamazaki is back this fall with the hotly anticipated sequel, Godzilla Minus Zero. Toho…",
@@ -195,19 +541,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "259c8fd88c0fe455",
-    "title": "ChatGPT Images 2.5",
-    "excerpt": "Article URL: https://openai.com/index/introducing-chatgpt-images-2-5/ Comments URL: https://news.ycombinator.com/item?id=49614720 Points: 182 # Comments: 225",
-    "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "vertigoruntime",
-    "publishedAt": "2026-09-08T18:37:51.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "8a1597fb0cfc22c3",
     "title": "NVIDIA's DLSS 5 adds subtle details to NBA 2K27, but demands a lot more power",
     "excerpt": "DLSS 5's juice may not be worth the squeeze for launch title NBA 2K27.",
@@ -231,19 +564,6 @@
     "publishedAt": "2026-09-08T18:30:00.000Z",
     "category": "ai",
     "imageUrl": "https://www.engadget.com/img/gallery/the-rise-in-drive-prices-is-being-driven-by-ai-and-even-hdds-cant-hide/l-intro-1788784755.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3fa2cd26f191938d",
-    "title": "100s of flights cancelled at UK airports due to ATC issue",
-    "excerpt": "Article URL: https://www.bbc.com/news/live/c6x2z0yy32ejt Comments URL: https://news.ycombinator.com/item?id=49614557 Points: 53 # Comments: 23",
-    "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "contingencies",
-    "publishedAt": "2026-09-08T18:26:27.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -296,15 +616,7 @@
     "publishedAt": "2026-09-08T18:00:00.000Z",
     "category": "software",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1,
-    "alsoCoveredBy": [
-      {
-        "source": "Hacker News",
-        "sourceHomepage": "https://news.ycombinator.com",
-        "url": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
-        "publishedAt": "2026-09-08T16:07:08.000Z"
-      }
-    ]
+    "readTimeMinutes": 1
   },
   {
     "id": "0143716405541dca",
@@ -346,6 +658,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "ddc684450f70983e",
+    "title": "Amazon ropes Qualcomm into something, something AI, networking chips",
+    "excerpt": "Amazon Web Services on Tuesday tapped mobile chip titan and aspiring datacenter SoC maker Qualcomm to develop \"customized\" silicon for AI inference and 1.6 Tbps optical networking gear to tie it all together, though it offered few details. Amazon's purchases and other commercial commitments under…",
+    "url": "https://www.theregister.com/off-prem/2026/09/08/amazon-ropes-qualcomm-into-something-something-ai-networking-chips/5295071",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-08T17:29:24.000Z",
+    "category": "hardware",
+    "imageUrl": "https://image.theregister.com/?imageId=5249938&width=800",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "3c847c358ea6854f",
     "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
     "excerpt": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription than they did. In an…",
@@ -374,7 +699,7 @@
   {
     "id": "1d977876014d13d0",
     "title": "On the Navier–Stokes Millennium Prize Problem",
-    "excerpt": "Article URL: https://openai.com/index/navier-stokes-solution/ Comments URL: https://news.ycombinator.com/item?id=49613262 Points: 720 # Comments: 530",
+    "excerpt": "Article URL: https://openai.com/index/navier-stokes-solution/ Comments URL: https://news.ycombinator.com/item?id=49613262 Points: 1004 # Comments: 815",
     "url": "https://openai.com/index/navier-stokes-solution/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -413,7 +738,7 @@
   {
     "id": "ab100b8a617b11b8",
     "title": "Show HN: LLM Attention Visualization",
-    "excerpt": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068 Points: 63 # Comments: 12",
+    "excerpt": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068 Points: 102 # Comments: 19",
     "url": "https://ishamf.dev/p/llm-attention-visualizer/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -421,6 +746,19 @@
     "publishedAt": "2026-09-08T16:59:41.000Z",
     "category": "ai",
     "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3058dce6099159b1",
+    "title": "Retired man turns spare room into Soviet-era supercomputer",
+    "excerpt": "You can go retro by using an old video game console or a PC from the 1980s, but why stop there when, like one man, you can build your own vacuum tube computer using 75-year-old recycled components? A UK resident who identifies himself only as “Mike” has done just that, as detailed on his tube…",
+    "url": "https://www.theregister.com/offbeat/2026/09/08/retired-man-turns-spare-room-into-soviet-era-supercomputer/5295046",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-08T16:56:00.000Z",
+    "category": "startups",
+    "imageUrl": "https://image.theregister.com/?imageId=5295094&width=800",
     "readTimeMinutes": 1
   },
   {
@@ -452,7 +790,7 @@
   {
     "id": "634addfb7264bc8a",
     "title": "Connecting the Machines",
-    "excerpt": "Article URL: https://herdr.dev/blog/connecting-the-machines/ Comments URL: https://news.ycombinator.com/item?id=49612818 Points: 52 # Comments: 18",
+    "excerpt": "Article URL: https://herdr.dev/blog/connecting-the-machines/ Comments URL: https://news.ycombinator.com/item?id=49612818 Points: 68 # Comments: 24",
     "url": "https://herdr.dev/blog/connecting-the-machines/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -473,19 +811,6 @@
     "publishedAt": "2026-09-08T16:31:21.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/buildthewall-1152x648-1788883606.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "e165e82fdafee3e0",
-    "title": "Y Combinator Early Access Network",
-    "excerpt": "Article URL: https://events.ycombinator.com/yc-early-access-fall-26 Comments URL: https://news.ycombinator.com/item?id=49612635 Points: 54 # Comments: 36",
-    "url": "https://events.ycombinator.com/yc-early-access-fall-26",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "tosh",
-    "publishedAt": "2026-09-08T16:31:01.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -647,7 +972,7 @@
   {
     "id": "d568f0e4b0c66689",
     "title": "C*: Unifying Programming and Verification in C",
-    "excerpt": "Article URL: https://arxiv.org/abs/2504.02246 Comments URL: https://news.ycombinator.com/item?id=49612191 Points: 47 # Comments: 32",
+    "excerpt": "Article URL: https://arxiv.org/abs/2504.02246 Comments URL: https://news.ycombinator.com/item?id=49612191 Points: 65 # Comments: 38",
     "url": "https://arxiv.org/abs/2504.02246",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -710,45 +1035,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "812c97535fb9f692",
-    "title": "Disappointed Optimists",
-    "excerpt": "Article URL: https://cwodtke.com/disappointed-optimists/ Comments URL: https://news.ycombinator.com/item?id=49611549 Points: 48 # Comments: 3",
-    "url": "https://cwodtke.com/disappointed-optimists/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "adrianhoward",
-    "publishedAt": "2026-09-08T15:13:56.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f89345a291882496",
-    "title": "Nintendo is releasing a 40th anniversary Legend of Zelda Switch 2 on October 29",
-    "excerpt": "No, the Zelda anniversary edition Switch 2 doesn't come with a copy of Ocarina of Time.",
-    "url": "https://www.engadget.com/2252681/nintendo-is-releasing-a-40th-anniversary-legend-of-zelda-switch-2-on-october-29/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Igor Bonifacic)",
-    "publishedAt": "2026-09-08T15:10:03.000Z",
-    "category": "startups",
-    "imageUrl": "https://www.engadget.com/img/gallery/nintendo-is-releasing-a-40th-anniversary-legend-of-zelda-switch-2-on-october-29/l-intro-1788880251.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "5d7ff0ed86215ce7",
-    "title": "Pusheen’s first game is coming to Apple Arcade",
-    "excerpt": "Pusheen is getting her first game, and it will appear exclusively on Apple Arcade . Launching October 1st, Pusheen's Place lets you collect and care for more than 100 Pusheens as you play minigames and decorate rooms for Pusheenicorn, Pancake Pusheen, and other variations of the cartoon cat. In the…",
-    "url": "https://www.theverge.com/games/991398/pusheen-apple-arcade-game",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Emma Roth",
-    "publishedAt": "2026-09-08T15:07:13.000Z",
-    "category": "startups",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Apple-Arcade-Pusheens-Place-key-art.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "47690fe8e1050277",
     "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
     "excerpt": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
@@ -762,19 +1048,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "8c6f978b46ef6999",
-    "title": "JBL’s soundbar with detachable rear speakers is over $300 off",
-    "excerpt": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL’s Bar 700 Mark 2 system is one of the most unique options available, shipping with two modular speakers that charge when docked to the…",
-    "url": "https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Cameron Faulkner",
-    "publishedAt": "2026-09-08T15:03:07.000Z",
-    "category": "crypto",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/jbllead.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "8b097d2b2aaf7382",
     "title": "ASML and TSMC want bigger masks for smaller chips",
     "excerpt": "ASML and chipmaking giant TSMC have launched an industry-wide push toward 12-inch photomasks, saying the larger format could lower costs and overcome some limitations of high-NA EUV lithography. Dutch firm ASML, the only commercial supplier of EUV lithography systems, says it and TSMC have…",
@@ -785,32 +1058,6 @@
     "publishedAt": "2026-09-08T15:02:00.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=5294994&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "5f73c6194fb631b2",
-    "title": "What is a dual-band router and why is it important for good Wi-Fi?",
-    "excerpt": "Modern routers have two or more bands, but what's the purpose of a dual-band router? Here's what it does and why it matters.",
-    "url": "https://www.engadget.com/2249494/what-is-dual-band-router-why-important-good-wifi/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Thomas Godwin)",
-    "publishedAt": "2026-09-08T15:00:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/what-is-a-dual-band-router-and-why-is-it-important-for-good-wi-fi/l-intro-1788362412.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "92201efa40096698",
-    "title": "Why is Apple CarPlay draining your phone battery?",
-    "excerpt": "Apple CarPlay requires a lot of battery to power navigation, music and other apps on your car's display, but you can take a few mitigation steps.",
-    "url": "https://www.engadget.com/2250520/why-apple-carplay-draining-iphone-battery/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Filipe Espósito)",
-    "publishedAt": "2026-09-08T15:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/why-is-apple-carplay-draining-your-phone-battery/l-intro-1788456277.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -842,7 +1089,7 @@
   {
     "id": "2ce01404d80fba7f",
     "title": "Google DeepMind Releases AlphaGenome Atlas",
-    "excerpt": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/ Comments URL: https://news.ycombinator.com/item?id=49611251 Points: 380 # Comments: 97",
+    "excerpt": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/ Comments URL: https://news.ycombinator.com/item?id=49611251 Points: 459 # Comments: 109",
     "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -855,7 +1102,7 @@
   {
     "id": "e57f111ef0772a82",
     "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
-    "excerpt": "Article URL: https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/ Comments URL: https://news.ycombinator.com/item?id=49611230 Points: 70 # Comments: 22",
+    "excerpt": "Article URL: https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/ Comments URL: https://news.ycombinator.com/item?id=49611230 Points: 89 # Comments: 26",
     "url": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -868,7 +1115,7 @@
   {
     "id": "66c10c1bec5a9cb0",
     "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-    "excerpt": "Article URL: https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/ Comments URL: https://news.ycombinator.com/item?id=49611128 Points: 150 # Comments: 83",
+    "excerpt": "Article URL: https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/ Comments URL: https://news.ycombinator.com/item?id=49611128 Points: 195 # Comments: 97",
     "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -881,7 +1128,7 @@
   {
     "id": "4e7e39773cd23619",
     "title": "The two Christian saints who are the Buddha",
-    "excerpt": "Article URL: https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/ Comments URL: https://news.ycombinator.com/item?id=49611051 Points: 159 # Comments: 89",
+    "excerpt": "Article URL: https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/ Comments URL: https://news.ycombinator.com/item?id=49611051 Points: 196 # Comments: 138",
     "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -905,32 +1152,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "fba616c3d1a89b8e",
-    "title": "DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits",
-    "excerpt": "Article URL: https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/ Comments URL: https://news.ycombinator.com/item?id=49610988 Points: 273 # Comments: 150",
-    "url": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "abraham",
-    "publishedAt": "2026-09-08T14:40:30.000Z",
-    "category": "policy",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "8ce22404e6289ee1",
-    "title": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger",
-    "excerpt": "Article URL: https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/ Comments URL: https://news.ycombinator.com/item?id=49610900 Points: 279 # Comments: 84",
-    "url": "https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "hn_acker",
-    "publishedAt": "2026-09-08T14:33:52.000Z",
-    "category": "policy",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "94fa49950bba69dd",
     "title": "Strive’s SATA nears $1 billion market cap as Strategy’s STRC continues to underperform",
     "excerpt": "SATA’s 13% annualised dividend and resilience around par are helping Strive raise capital and outperform Strategy.",
@@ -944,19 +1165,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "074197bbb288497f",
-    "title": "The Switch 2 remake of The Legend of Zelda: Ocarina of Time arrives November 5",
-    "excerpt": "We're heading back to Link's original 3D adventure ahead of next year's live action Zelda movie.",
-    "url": "https://www.engadget.com/2252620/switch-2-remake-of-legend-of-zelda-ocarina-of-time-arrives-november-5/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Matt Tate)",
-    "publishedAt": "2026-09-08T14:33:16.000Z",
-    "category": "startups",
-    "imageUrl": "https://www.engadget.com/img/gallery/switch-2-remake-of-legend-of-zelda-ocarina-of-time-arrives-november-5/l-intro-1788879470.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "7ae4e93e54ea3e6d",
     "title": "Visa combines VisaNet data with onchain lending to power stablecoin card working capital",
     "excerpt": "Visa's stablecoin settlement volume surpassed a $20 billion annualized run rate, up 15x year over year. Now it wants blockchain lenders to use that data to extend credit to the issuers driving the growth.",
@@ -967,19 +1175,6 @@
     "publishedAt": "2026-09-08T14:29:14.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/e400c51cc73487de1b2a87a882ce2955729b2d16-2204x1240.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ae02a6eef79e0ab8",
-    "title": "Nintendo’s Ocarina of Time remake launches in November",
-    "excerpt": "Link's next adventure now has a release date. During a Legend of Zelda stream for the franchise's 40th anniversary, Nintendo announced that the upcoming Ocarina of Time remake for the Switch 2 is launching on November 5th. The release date makes Ocarina of Time one of just a few big-budget titles…",
-    "url": "https://www.theverge.com/games/991218/zelda-ocarina-of-time-remake-release-date-trailer",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Andrew Webster",
-    "publishedAt": "2026-09-08T14:26:02.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/NS2_TheLegendofZeldaOcarinaofTime_scrn_16.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -1011,7 +1206,7 @@
   {
     "id": "f0e27f432f48fb86",
     "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
-    "excerpt": "Article URL: https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/ Comments URL: https://news.ycombinator.com/item?id=49610641 Points: 67 # Comments: 8",
+    "excerpt": "Article URL: https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/ Comments URL: https://news.ycombinator.com/item?id=49610641 Points: 75 # Comments: 9",
     "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1024,7 +1219,7 @@
   {
     "id": "46f3c1d6124190bd",
     "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-    "excerpt": "Article URL: https://github.com/ayghri/i-have-adhd Comments URL: https://news.ycombinator.com/item?id=49610631 Points: 184 # Comments: 148",
+    "excerpt": "Article URL: https://github.com/ayghri/i-have-adhd Comments URL: https://news.ycombinator.com/item?id=49610631 Points: 265 # Comments: 206",
     "url": "https://github.com/ayghri/i-have-adhd",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1074,32 +1269,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "16050740ba1edc54",
-    "title": "A word with a woman who’s trying to pull off a crossbody phone strap",
-    "excerpt": "Form meets function? | Image: Peak Design Oh, this thing? It's just a crossbody strap. It's a fun and youthful way to carry your phone. It's all the rage with Europeans and young people . I love it, and I definitely don't feel weird and self-conscious using it. Plus, it's great to have a $700…",
-    "url": "https://www.theverge.com/tech/990849/crossbody-phone-strap-style",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Allison Johnson",
-    "publishedAt": "2026-09-08T14:04:37.000Z",
-    "category": "ai",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/mobile-crossbodymultistrap-ocean-159A1490.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c0fec2c5f2e32f5e",
-    "title": "SteelSeries’ pro-grade, wireless Xbox controller sure is expensive",
-    "excerpt": "SteelSeries moved the system-level Xbox buttons to the bottom of the controller. | Image: Cameron Faulkner / The Verge SteelSeries is a household name for many gamers, but not when it comes to controllers. Instead of easing into the conversation with reasonably-priced console and PC controllers to…",
-    "url": "https://www.theverge.com/games/990263/steelseries-aeon-pro-xbox-pc-controller-price-features",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Cameron Faulkner",
-    "publishedAt": "2026-09-08T14:00:00.000Z",
-    "category": "policy",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/aeonpro3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "a7058ed7c7b97374",
     "title": "DaVinci Resolve 21.1 Released - Now With AI Assistant Integration",
     "excerpt": "For those using the Linux-friendly DaVinci Resolve video editing and color correction/grading and visual effects software, DaVinci Resolve 21.1 is out today as a major update to this cross-platform solution...",
@@ -1128,7 +1297,7 @@
   {
     "id": "3ffc81ecc2813572",
     "title": "DaVinci Resolve 21.1",
-    "excerpt": "Article URL: https://www.blackmagicdesign.com/media/release/20260908-03 Comments URL: https://news.ycombinator.com/item?id=49610181 Points: 292 # Comments: 125",
+    "excerpt": "Article URL: https://www.blackmagicdesign.com/media/release/20260908-03 Comments URL: https://news.ycombinator.com/item?id=49610181 Points: 325 # Comments: 144",
     "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1279,15 +1448,7 @@
     "publishedAt": "2026-09-08T11:34:00.000Z",
     "category": "hardware",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1,
-    "alsoCoveredBy": [
-      {
-        "source": "Phoronix",
-        "sourceHomepage": "https://www.phoronix.com",
-        "url": "https://www.phoronix.com/news/AMD-Rust-Deep-Into-GPU-Stack",
-        "publishedAt": "2026-09-05T10:48:48.000Z"
-      }
-    ]
+    "readTimeMinutes": 1
   },
   {
     "id": "4f97eac81f612079",
@@ -1643,7 +1804,7 @@
   {
     "id": "8428de433c66d98a",
     "title": "Huawei proudly shows off an entirely un-American chip",
-    "excerpt": "Huawei has launched a new processor it claims is free of US technology and is using it to drive a new three-screen folding phone. The Chinese giant dubbed the new processor the Kirin 9o50 Pro and says its LinxiCore processor cores, GPU, and neural processing unit all feature its own designs. The…",
+    "excerpt": "Huawei has launched a new processor it claims is free of US technology and is using it to drive a new three-screen folding phone. The Chinese giant dubbed the new processor the Kirin 9050 Pro and says its LinxiCore processor cores, GPU, and neural processing unit all feature its own designs. The…",
     "url": "https://www.theregister.com/systems/2026/09/08/huawei-proudly-shows-off-an-entirely-un-american-chip/5294900",
     "source": "The Register",
     "sourceHomepage": "https://www.theregister.com",
@@ -1870,19 +2031,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "98ae11a7e0a95fc4",
-    "title": "'She Lost Her Sight. Her Billionaire Father Bet On a Daring New Treatment.'",
-    "excerpt": "\"Billionaire Bill Ackman's life was upended this February when his 26-year-old daughter collapsed in her Brooklyn apartment, suffering a brain hemorrhage that would render her unable to move, speak or see,\" writes the Washingon Post. But then... The hedge fund manager did what any good father would…",
-    "url": "https://science.slashdot.org/story/26/09/07/0036234/she-lost-her-sight-her-billionaire-father-bet-on-a-daring-new-treatment?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-09-07T14:34:00.000Z",
-    "category": "policy",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "c95c5795d9d130ca",
     "title": "Stablecoin wallets challenge traditional bank accounts as main consumer money hub",
     "excerpt": "Industry leaders debate whether digital dollar wallets will dismantle traditional bank accounts or simply modernize the underlying infrastructure.",
@@ -1984,19 +2132,6 @@
     "publishedAt": "2026-09-07T11:55:33.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "37af03992a062931",
-    "title": "'The Jobs Apocalypse Is Postponed. An AI Jobs Boom Is Here'",
-    "excerpt": "A new article about AI in The Economist argues that \"Initial effects of the technology on employment look positive.\" Perhaps AI will eventually make many humans unemployable — but there is no sign of it yet. On September 4th the Bureau of Labour Statistics reported that the American economy added…",
-    "url": "https://slashdot.org/story/26/09/06/214258/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-09-07T11:34:00.000Z",
-    "category": "Software",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -2260,32 +2395,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "36e2bba17c604c5d",
-    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-    "excerpt": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-    "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Anthony Ha",
-    "publishedAt": "2026-09-06T16:45:00.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "7a98b49af7c5b21c",
-    "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-    "excerpt": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-    "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Kirsten Korosec",
-    "publishedAt": "2026-09-06T16:08:00.000Z",
-    "category": "Startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "ccd80ead370cd491",
     "title": "Linux 7.3-rc2 Scheduler Fix For Cache Aware Load Scheduling Misfits On Hybrid CPUs",
     "excerpt": "Ahead of the Linux 7.3-rc2 kernel being released later today, a set of scheduler fixes have been sent out for this week's kernel test release. Most notable with the scheduler fixes are dealing with possible misfits for Cache-Aware Load Scheduling on hybrid CPUs like Intel Core (Ultra) processors...",
@@ -2400,19 +2509,6 @@
     "publishedAt": "2026-09-06T01:06:00.000Z",
     "category": "policy",
     "imageUrl": "https://image.theregister.com/?imageId=5294656&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "6df0f5d81c2b28a3",
-    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-    "excerpt": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-    "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Anthony Ha",
-    "publishedAt": "2026-09-05T22:49:55.000Z",
-    "category": "ai",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2676,71 +2772,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "6097fa595159d1f1",
-    "title": "PostgreSQL 19 connects the dots with standardized graph queries",
-    "excerpt": "PostgreSQL 19 is set to add standardized SQL syntax for querying property graphs. The open source database has steadily grown in popularity over the last five years, becoming the most popular among developers for the first time in 2023. Speaking to The Register, Alastair Turner, PostgreSQL…",
-    "url": "https://www.theregister.com/databases/2026/09/04/postgresql-19-connects-the-dots-with-standardized-graph-queries/5294500",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-04T13:07:35.000Z",
-    "category": "software",
-    "imageUrl": "https://image.theregister.com/?imageId=1682919&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "01a6b9f4a01315bc",
-    "title": "JavaScript installer pnpm recast in Rust because ECMAScript can't keep up",
-    "excerpt": "The popular JavaScript package manager pnpm, already known for its speedy downloads, has further cut installation times by up to 90 percent thanks to a complete rewrite in Rust. Yet the freshly released version 12 of pnpm should not cause consternation while upgrading, its maintainer says.…",
-    "url": "https://www.theregister.com/devops/2026/09/04/javascript-installer-pnpm-recast-in-rust-because-ecmascript-cant-keep-up/5294394",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-04T12:22:00.000Z",
-    "category": "crypto",
-    "imageUrl": "https://image.theregister.com/?imageId=1683640&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4cada92090c70e38",
-    "title": "Cloud snail-mail service Docmail enters third day stuck in the outbox",
-    "excerpt": "UPDATED Docmail, a service used by more than 30,000 UK businesses and public sector organizations, has been offline for several days, prompting concern among users. Operated by CFH Docmail Ltd, the cloud-based hybrid mail service allows users to send physical letters without running their own print…",
-    "url": "https://www.theregister.com/off-prem/2026/09/04/cloud-snail-mail-service-docmail-enters-third-day-stuck-in-the-outbox/5294476",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-04T11:37:08.000Z",
-    "category": "policy",
-    "imageUrl": "https://image.theregister.com/?imageId=1681267&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "17d8a45f48f52237",
-    "title": "Wayve and Uber steal a march on Waymo with paid self-driving London rides",
-    "excerpt": "Wayve and Uber have launched self-driving rides in London, but what's more interesting is what is planned for the next few months and years. As of today, the plan is for 15 electric Ford Mustangs, equipped with the Wayve AI driver, to roam the capital, picking up passengers with a safety driver on…",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/04/wayve-and-uber-steal-a-march-on-waymo-with-paid-self-driving-london-rides/5294451",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-04T10:45:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://image.theregister.com/?imageId=5294457&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ec4f0ba5a06a9fd2",
-    "title": "Enjoy the Windows 10 Update Experience at London's O2",
-    "excerpt": "BORK!BORK!BORK! Windows 10 is lingering on after its friends have gone home, plaintively flickering out an update notification on a digital sign at London's O2 arena. The sign was advertising the venue and some of the activities available inside, including an indoor skydiving experience. We'd…",
-    "url": "https://www.theregister.com/offbeat/2026/09/04/enjoy-the-windows-10-update-experience-at-londons-o2/5294302",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-04T10:00:00.000Z",
-    "category": "software",
-    "imageUrl": "https://image.theregister.com/?imageId=5294306&width=800",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "6df08faed0b3ab6a",
     "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
     "excerpt": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning…",
@@ -2777,19 +2808,6 @@
     "publishedAt": "2026-08-14T11:24:35.000Z",
     "category": "security",
     "imageUrl": "https://krebsonsecurity.com/wp-content/uploads/2026/08/decryptads-ESPN.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "215b91448d4dcac6",
-    "title": "Microsoft Plugs Nearly 400 Security Holes",
-    "excerpt": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today. Image: Shutterstock, Mallika Home…",
-    "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-    "source": "Krebs on Security",
-    "sourceHomepage": "https://krebsonsecurity.com",
-    "author": "BrianKrebs",
-    "publishedAt": "2026-08-11T21:28:35.000Z",
-    "category": "security",
-    "imageUrl": "https://krebsonsecurity.com/wp-content/uploads/2026/08/workingonpc.png",
     "readTimeMinutes": 1
   }
 ]
