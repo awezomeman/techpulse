@@ -1,5 +1,226 @@
 [
   {
+    "id": "1bb7ebdf1c278640",
+    "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+    "excerpt": "Mullenweg said in a company Slack message that it was against his will.",
+    "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Julie Bort, Sarah Perez",
+    "publishedAt": "2026-09-09T23:14:29.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a77658ea9247b643",
+    "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
+    "excerpt": "New AirPods Pro with cameras were thankfully not announced at the September Apple event. | Photo by Amelia Holowaty Krales / The Verge September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone…",
+    "url": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "John.Higgins",
+    "publishedAt": "2026-09-09T23:00:04.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0108.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6d937e7a5e7c9cc4",
+    "title": "Apple Wallet is not the same as Apple Pay: Here's how they differ",
+    "excerpt": "Apple Wallet and Apple Pay serve different functions, but you need them both to make online payments and store your cards.",
+    "url": "https://www.engadget.com/2251353/apple-pay-vs-wallet-how-different/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Thomas Godwin)",
+    "publishedAt": "2026-09-09T23:00:00.000Z",
+    "category": "crypto",
+    "imageUrl": "https://www.engadget.com/img/gallery/apple-wallet-is-not-the-same-as-apple-pay-heres-how-they-differ/l-intro-1788545325.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "11ec6f7356810731",
+    "title": "Google to Invest Record $15 Billion In AI Infrastructure In Finland",
+    "excerpt": "Google plans to invest at least $15 billion in AI infrastructure in Finland through 2028, its largest single investment in Europe. The company also signed a 22-year power agreement with Finnish utility Fortum and said it will explore business models that could support new nuclear reactors at…",
+    "url": "https://hardware.slashdot.org/story/26/09/09/2151202/google-to-invest-record-15-billion-in-ai-infrastructure-in-finland?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-09-09T23:00:00.000Z",
+    "category": "policy",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "491ca37c66589c78",
+    "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+    "excerpt": "The exact circumstances surrounding the changes aren't clear, but Meta execs have accidentally tagged the band instead of their AI agent.",
+    "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Karissa Bell)",
+    "publishedAt": "2026-09-09T22:52:49.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/muse-the-band-lost-its-social-media-handles-to-muse-metas-new-ai-agent/l-intro-1788993799.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2f5e5871d2f1e13d",
+    "title": "The black iPhone Pro returns",
+    "excerpt": "Black is back. | Photo: Nilay Patel / The Verge Apple has seen reason: It has a black model in the iPhone Pro lineup again. Last year, Apple went bold with its colors for the iPhone 17 Pro, offering a flashy orange, a shiny silver, and a dark blue. Don't get me wrong, they looked nice . But there…",
+    "url": "https://www.theverge.com/tech/993048/iphone-18-pro-black-color",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Jay Peters",
+    "publishedAt": "2026-09-09T22:37:51.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_NPatel_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "fb121ba1e0397668",
+    "title": "Novel Blue Moon kit targeting Chrome and Windows reflects new reality of AI-driven exploits",
+    "excerpt": "At least four espionage groups, most with suspected links to China, are using a new exploit kit that chains two Chromium-based browser flaws and one Microsoft Windows bug to break into organizations' networks in the US and Southeast Asia. Mark Kelly, a threat researcher at email security shop…",
+    "url": "https://www.theregister.com/research/2026/09/09/novel-blue-moon-kit-targeting-chrome-and-windows-reflects-new-reality-of-ai-driven-exploits/5295399",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-09T22:28:53.000Z",
+    "category": "science",
+    "imageUrl": "https://image.theregister.com/?imageId=5295408&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b6092dd06175561c",
+    "title": "OpenAI adds a prominent AI doomer to its board of directors",
+    "excerpt": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+    "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Tim Fernholz",
+    "publishedAt": "2026-09-09T22:25:22.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e9bb0a282969f61e",
+    "title": "The incomplete history of Duo devices",
+    "excerpt": "Apple announced the company's first device with a folding screen today, the iPhone Duo , but that's where the firsts end. The Duo is not only far from the first foldable on the market thanks to the efforts of Samsung and Google , but it's also not the first product to be called the Duo. Former…",
+    "url": "https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Andrew Liszewski",
+    "publishedAt": "2026-09-09T22:23:35.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/duo6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "70a976d4e6fcfd8a",
+    "title": "Blizzard Workers Win Historic Union Contract",
+    "excerpt": "Article URL: https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers Comments URL: https://news.ycombinator.com/item?id=49635384 Points: 22 # Comments: 0",
+    "url": "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "dbg31415",
+    "publishedAt": "2026-09-09T22:22:53.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "bd5466faf7db5a2b",
+    "title": "Automattic CEO Matt Mullenweg placed on leave",
+    "excerpt": "Matt Mullenweg, the CEO of WordPress.com owner Automattic, has been placed on a paid leave of absence, as reported earlier by 404 Media . In an internal message by the outlet, Mullenweg claims Automattic chief financial officer Mark Davies \"conspired\" with board members to place him on leave. \"They…",
+    "url": "https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Emma Roth",
+    "publishedAt": "2026-09-09T22:15:52.000Z",
+    "category": "startups",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2181259946.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "cbd8f9ba762da484",
+    "title": "Engadget Podcast: Diving into the iPhone Duo, iPhone 18 Pro and Apple's new hardware",
+    "excerpt": "We finally have an Apple foldable, and it looks pretty damn compelling.",
+    "url": "https://www.engadget.com/2254400/engadget-podcast-diving-into-the-iphone-duo-iphone-18-pro-and-apple-new-hardware/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Devindra Hardawar)",
+    "publishedAt": "2026-09-09T22:05:38.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/engadget-podcast-diving-into-the-iphone-duo-iphone-18-pro-and-apples-new-hardware/l-intro-1788991405.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ed69dd9e71fea269",
+    "title": "Apple's New iPhone Camera Mode Promises to Prove Your Photo Isn't AI",
+    "excerpt": "Apple is introducing a new \"Reference Image\" mode on the iPhone 18 Pro and Pro Max that uses the camera sensor to digitally sign captured data and create an \"unalterable\" version of a photo, giving users a way to verify what the camera actually saw before any edits were made. The Verge reports: As…",
+    "url": "https://mobile.slashdot.org/story/26/09/09/2144238/apples-new-iphone-camera-mode-promises-to-prove-your-photo-isnt-ai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-09-09T22:00:00.000Z",
+    "category": "security",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "bcb453072180357b",
+    "title": "Playdate Season 3 kicks off on October 8",
+    "excerpt": "Get a good look at Gloom Gate, Houm and Soggy Froggy from Playdate season three.",
+    "url": "https://www.engadget.com/2254393/playdate-season-3-kicks-off-on-october-8/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Jessica Conditt)",
+    "publishedAt": "2026-09-09T21:56:24.000Z",
+    "category": "startups",
+    "imageUrl": "https://www.engadget.com/img/gallery/playdate-season-3-kicks-off-on-october-8/l-intro-1788990891.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e722b555cdf89658",
+    "title": "South Park creators rename show 'South America'",
+    "excerpt": "Article URL: https://www.bbc.co.uk/news/articles/cp9340rg7k8o Comments URL: https://news.ycombinator.com/item?id=49634966 Points: 91 # Comments: 16",
+    "url": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "hermitcrab",
+    "publishedAt": "2026-09-09T21:53:43.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "5f613309157198f9",
+    "title": "It’s the year of smartphone price hikes",
+    "excerpt": "Paying more for a new phone seems almost unavoidable after Apple's event today. The new iPhone 18 Pro and Pro Max start at $1,199 and $1,299, respectively - a $100 price hike over their predecessors. You can't dodge the price hike by opting for an older iPhone, either, because Apple raised prices…",
+    "url": "https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Stevie Bonifield",
+    "publishedAt": "2026-09-09T21:52:43.000Z",
+    "category": "hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_NPatel_0005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "df0d9b14abdbf5d5",
+    "title": "iPhone Duo hands-on: Apple's most exciting device in a decade",
+    "excerpt": "The iPhone Duo makes a great first impression, I just wish it had three cameras in back.",
+    "url": "https://www.engadget.com/2254389/iphone-duo-hands-on-apple-s-most-exciting-device-in-a-decade/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Sam Rutherford)",
+    "publishedAt": "2026-09-09T21:49:36.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/iphone-duo-hands-on-apple-s-most-exciting-device-in-a-decade/l-intro-1788993120.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "1e857768c929dd53",
     "title": "Massachusetts hits data centers with new clean power rules",
     "excerpt": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
@@ -36,19 +257,6 @@
     "publishedAt": "2026-09-09T21:40:03.000Z",
     "category": "policy",
     "imageUrl": "https://www.engadget.com/img/gallery/motorola-teases-new-compact-foldable-razr/l-intro-1788989915.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3cabdbcd9da97ffe",
-    "title": "Automattic CEO Matt Mullenweg Put on 'Leave of Absence'",
-    "excerpt": "Article URL: https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/ Comments URL: https://news.ycombinator.com/item?id=49634650 Points: 18 # Comments: 1",
-    "url": "https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "doener",
-    "publishedAt": "2026-09-09T21:28:56.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -101,6 +309,19 @@
     "publishedAt": "2026-09-09T20:58:09.000Z",
     "category": "hardware",
     "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "929774cbcd297929",
+    "title": "4 groups caught using the same Chrome and Windows exploit kit",
+    "excerpt": "A nearly identical exploit kit that targets critical vulnerabilities in both Chromium-based browsers and older versions of Windows is being actively used by at least four hacking groups, some of which have ties to the Chinese government. Researchers from security firm Proofpoint said Wednesday that…",
+    "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Dan Goodin",
+    "publishedAt": "2026-09-09T20:55:02.000Z",
+    "category": "security",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -179,6 +400,19 @@
     "publishedAt": "2026-09-09T20:35:46.000Z",
     "category": "Hardware",
     "imageUrl": "https://www.engadget.com/img/gallery/iphone-duo-vs-samsung-galaxy-z-fold-8-heres-how-they-stack-up/l-intro-1788985940.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d5f5c35725a6ec55",
+    "title": "Europe may finally have found a space entrepreneur who is meeting the moment",
+    "excerpt": "All of a sudden, French entrepreneur Hèlene Huby is seemingly everywhere. This week she is serving as one of two envoys, alongside astronaut Thomas Pesquet, at a high-profile International Space Summit convened by French President Emmanuel Macron. The government's website for the event describes…",
+    "url": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Eric Berger",
+    "publishedAt": "2026-09-09T20:27:40.000Z",
+    "category": "science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237740895-1024x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -312,32 +546,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "97571935d7c661c2",
-    "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
-    "excerpt": "\" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0023.jpg?quality=90&strip=all&crop=0,0,100,100\" /> Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new…",
-    "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Emma Roth",
-    "publishedAt": "2026-09-09T19:30:12.000Z",
-    "category": "startups",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0023.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "be3376ab9ef87ac5",
-    "title": "iPhone 18 Pro and Pro Max: Our first hands-on impressions",
-    "excerpt": "The 18 Pro in burgundy is ready for fall. We've just gotten our hands on the iPhone 18 Pro and Pro Max at Apple Park following the company's \"Surprise and shine\" presentation. The new phones look quite similar to the previous iPhone 17 Pro lineup, keeping the same general design, aluminum body, and…",
-    "url": "https://www.theverge.com/tech/986400/apple-iphone-18-pro-max-hands-on-impressions-september-2026-event",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Allison Johnson",
-    "publishedAt": "2026-09-09T19:26:36.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04256.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "ae536a83b1f3c704",
     "title": "Apple increases older iPhone prices by $100",
     "excerpt": "I am fine, I am fine, I am fine, I am fine, I just need...",
@@ -373,7 +581,7 @@
     "author": "staff@engadget.com (Steve Dent)",
     "publishedAt": "2026-09-09T19:14:22.000Z",
     "category": "software",
-    "imageUrl": "https://www.engadget.com/img/gallery/the-duo-aside-apples-cameras-were-its-biggest-iphone-innovation-this-year/l-intro-1788980982.jpg",
+    "imageUrl": "https://www.engadget.com/img/gallery/apple-iphone-18-pro-camera-innovations-went-well-beyond-megapixels-and-ai/l-intro-1788996115.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -387,15 +595,7 @@
     "publishedAt": "2026-09-09T19:09:20.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/amazon-warehouse-1152x648-1788978717.jpg",
-    "readTimeMinutes": 1,
-    "alsoCoveredBy": [
-      {
-        "source": "Hacker News",
-        "sourceHomepage": "https://news.ycombinator.com",
-        "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
-        "publishedAt": "2026-09-09T20:52:24.000Z"
-      }
-    ]
+    "readTimeMinutes": 1
   },
   {
     "id": "6ad2d2a84926761a",
@@ -450,32 +650,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "3cacf83ca6fd86dd",
-    "title": "Hands-on with the new Apple Watch Series 12 and Apple Watch Ultra 4",
-    "excerpt": "After Apple wrapped up its \"Surprise and shine\" event today, we were able to get a look at the new Apple Watch Series 12 and Ultra 4. Ceramic is back, baby. | Photo: Victoria Song / The Verge\" data-portal-copyright=\"Photo: Victoria Song / The Verge\"> Both of the new watches launch September 18th,…",
-    "url": "https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Victoria Song",
-    "publishedAt": "2026-09-09T18:53:48.000Z",
-    "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2485.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "31b3849b62cc7ff5",
-    "title": "Here’s how the new iPhone 18 Pro stacks up to the last-gen models",
-    "excerpt": "Apple's release cadence for the latest iPhones is unusual. It'll start with the 18 Pro models , then with the foldable iPhone Duo releasing in October for $1,999. It hasn't confirmed when its base iPhone 18 model will launch. So this post is focused just on the new the 18 Pro and the 18 Pro Max.…",
-    "url": "https://www.theverge.com/tech/988501/iphone-18-pro-max-spec-comparison-features",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Cameron Faulkner",
-    "publishedAt": "2026-09-09T18:53:43.000Z",
-    "category": "startups",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Apple-iPhone-18-Pro-color-lineup-260909.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "b119ab7eb5c608ca",
     "title": "Microsoft strikes deal with national teachers union to not use school data to train AI",
     "excerpt": "In the absence of federal protections from AI, unions are stepping up.",
@@ -491,7 +665,7 @@
   {
     "id": "8f43a4dd0ee927be",
     "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
-    "excerpt": "Apple announced the Watch Series 12 and Ultra 4 today. Both include a new \"Health Sensing System\" and S11 chip that give the devices the “most accurate heart rate sensing in a wearable,\" Apple claimed during its fall event . Both watches will use the new S11 chip alongside the new \"Health Sensing…",
+    "excerpt": "Apple announced the Watch Series 12 and Ultra 4 today. Both include a new \"Health Sensing System\" and S11 chip that give the devices the “most accurate heart rate sensing in a wearable,\" Apple claimed during its fall event . Apple's depiction of the S11 chip. Credit: Apple Both watches will use the…",
     "url": "https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing/",
     "source": "Ars Technica",
     "sourceHomepage": "https://arstechnica.com",
@@ -525,19 +699,6 @@
     "publishedAt": "2026-09-09T18:39:20.000Z",
     "category": "Hardware",
     "imageUrl": "https://www.engadget.com/img/gallery/iphone-18-pro-hands-on/l-intro-1788984759.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a040dce6fede10b2",
-    "title": "Hands-on with the foldable iPhone Duo",
-    "excerpt": "The first foldable iPhone is finally here, and following its announcement, we got the chance to try the phone for ourselves. We've long been told that Apple would make a foldable iPhone once the tech was good enough - has it been worth the wait? It definitely feels like something different. The…",
-    "url": "https://www.theverge.com/tech/991236/iphone-foldable-hands-on-first-impressions",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Allison Johnson",
-    "publishedAt": "2026-09-09T18:38:40.000Z",
-    "category": "crypto",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -595,7 +756,7 @@
   {
     "id": "227061d064a98d5f",
     "title": "iPhone Duo",
-    "excerpt": "Article URL: https://www.apple.com/iphone-duo/ Comments URL: https://news.ycombinator.com/item?id=49630931 Points: 638 # Comments: 1323",
+    "excerpt": "Article URL: https://www.apple.com/iphone-duo/ Comments URL: https://news.ycombinator.com/item?id=49630931 Points: 795 # Comments: 1563",
     "url": "https://www.apple.com/iphone-duo/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -633,7 +794,7 @@
   },
   {
     "id": "ebf88cd57f03a10c",
-    "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+    "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
     "excerpt": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
     "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
     "source": "TechCrunch",
@@ -712,7 +873,7 @@
   {
     "id": "707b25cf57041ba7",
     "title": "Apple Watch Series 12",
-    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/ Comments URL: https://news.ycombinator.com/item?id=49630566 Points: 163 # Comments: 174",
+    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/ Comments URL: https://news.ycombinator.com/item?id=49630566 Points: 189 # Comments: 214",
     "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -749,22 +910,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "f30ecf5fed747ba8",
-    "title": "iOS 27 with Siri AI will be available on September 14",
-    "excerpt": "It's almost time for Siri AI.",
-    "url": "https://www.engadget.com/2254005/ios-27-with-siri-ai-will-be-available-on-september-14/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Igor Bonifacic)",
-    "publishedAt": "2026-09-09T17:42:23.000Z",
-    "category": "software",
-    "imageUrl": "https://www.engadget.com/img/gallery/ios-27-with-siri-ai-will-be-available-on-september-14/l-intro-1788975661.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "5b32cdc139a2d970",
     "title": "AirPods 5",
-    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/ Comments URL: https://news.ycombinator.com/item?id=49630253 Points: 292 # Comments: 232",
+    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/ Comments URL: https://news.ycombinator.com/item?id=49630253 Points: 349 # Comments: 288",
     "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -801,22 +949,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "f7bb548d45c9698b",
-    "title": "Siri AI will be available in French, Japanese, Korean, Portuguese and Spanish this October",
-    "excerpt": "The company has been testing English so far and will roll that out to the general public soon.",
-    "url": "https://www.engadget.com/2253991/siri-ai-will-be-available-in-french-japanese-korean-portuguese-and-spanish-this-october/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Igor Bonifacic)",
-    "publishedAt": "2026-09-09T17:35:18.000Z",
-    "category": "startups",
-    "imageUrl": "https://www.engadget.com/img/gallery/siri-ai-will-be-available-in-french-japanese-korean-portuguese-and-spanish-this-october/l-intro-1788982320.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "15fbf084df0e1594",
     "title": "iPhone 18 Pro and iPhone 18 Pro Max",
-    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/ Comments URL: https://news.ycombinator.com/item?id=49630151 Points: 199 # Comments: 179",
+    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/ Comments URL: https://news.ycombinator.com/item?id=49630151 Points: 248 # Comments: 257",
     "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -824,19 +959,6 @@
     "publishedAt": "2026-09-09T17:33:20.000Z",
     "category": "startups",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "47c9149cacfa9c42",
-    "title": "The iPhone 18 Pro's camera has a variable aperture",
-    "excerpt": "That's great news for low-light photography.",
-    "url": "https://www.engadget.com/2253983/the-iphone-18-pros-camera-has-a-variable-aperture/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Will Shanklin)",
-    "publishedAt": "2026-09-09T17:32:55.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/the-iphone-18-pros-camera-has-a-variable-aperture/l-intro-1788976785.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -855,7 +977,7 @@
   {
     "id": "a76cf7777d6decb4",
     "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-    "excerpt": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 127 # Comments: 56",
+    "excerpt": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 159 # Comments: 64",
     "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -879,35 +1001,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "7e3e795c65fe1264",
-    "title": "Everything Apple announced at the foldable iPhone Duo launch",
-    "excerpt": "Here's all the new info Apple dropped today from its keynote.",
-    "url": "https://www.engadget.com/2253955/everything-apple-announced-at-the-foldable-iphone-launch/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Kris Holt)",
-    "publishedAt": "2026-09-09T17:18:40.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/everything-apple-announced-at-the-foldable-iphone-launch/l-intro-1788985164.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "5bf74c3a2afc7362",
-    "title": "Apple's iPhone 18 Pro has an A20 Pro chip and smaller Dynamic Island",
-    "excerpt": "The new handset now comes in a burgundy colorway.",
-    "url": "https://www.engadget.com/2253951/apples-iphone-18-pro-has-an-a20-pro-chip-and-smaller-dynamic-island/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Devindra Hardawar)",
-    "publishedAt": "2026-09-09T17:16:43.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/apples-iphone-18-pro-has-an-a20-pro-chip-and-smaller-dynamic-island/l-intro-1788977193.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "8a013453e2c4bb4a",
     "title": "Growing proof that autonomous cars save lives",
-    "excerpt": "Article URL: https://spectrum.ieee.org/are-self-driving-cars-safe Comments URL: https://news.ycombinator.com/item?id=49629886 Points: 111 # Comments: 179",
+    "excerpt": "Article URL: https://spectrum.ieee.org/are-self-driving-cars-safe Comments URL: https://news.ycombinator.com/item?id=49629886 Points: 167 # Comments: 284",
     "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -920,7 +1016,7 @@
   {
     "id": "f80d2912a9a47a31",
     "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-    "excerpt": "Article URL: https://arxiv.org/abs/2609.09153 Comments URL: https://news.ycombinator.com/item?id=49629868 Points: 35 # Comments: 10",
+    "excerpt": "Article URL: https://arxiv.org/abs/2609.09153 Comments URL: https://news.ycombinator.com/item?id=49629868 Points: 40 # Comments: 12",
     "url": "https://arxiv.org/abs/2609.09153",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -933,7 +1029,7 @@
   {
     "id": "ec2ff24e3c43f806",
     "title": "Why Emacs Consult async searches feel slow and how to speed them up",
-    "excerpt": "Article URL: https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/ Comments URL: https://news.ycombinator.com/item?id=49629865 Points: 36 # Comments: 13",
+    "excerpt": "Article URL: https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/ Comments URL: https://news.ycombinator.com/item?id=49629865 Points: 44 # Comments: 16",
     "url": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1102,7 +1198,7 @@
   {
     "id": "5cdb0d2e968b26ea",
     "title": "Understanding the recent DDoS attack against Read the Docs",
-    "excerpt": "Article URL: https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/ Comments URL: https://news.ycombinator.com/item?id=49628614 Points: 126 # Comments: 42",
+    "excerpt": "Article URL: https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/ Comments URL: https://news.ycombinator.com/item?id=49628614 Points: 142 # Comments: 47",
     "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1115,7 +1211,7 @@
   {
     "id": "51f9d36828970757",
     "title": "GNU Radio in the browser",
-    "excerpt": "Article URL: https://gnuradioworld.com/ Comments URL: https://news.ycombinator.com/item?id=49628576 Points: 144 # Comments: 19",
+    "excerpt": "Article URL: https://gnuradioworld.com/ Comments URL: https://news.ycombinator.com/item?id=49628576 Points: 163 # Comments: 22",
     "url": "https://gnuradioworld.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1154,7 +1250,7 @@
   {
     "id": "6b944b3e9dd84b07",
     "title": "No Man's Sky Cosmos",
-    "excerpt": "Article URL: https://www.nomanssky.com/cosmos-update/ Comments URL: https://news.ycombinator.com/item?id=49628493 Points: 227 # Comments: 228",
+    "excerpt": "Article URL: https://www.nomanssky.com/cosmos-update/ Comments URL: https://news.ycombinator.com/item?id=49628493 Points: 269 # Comments: 284",
     "url": "https://www.nomanssky.com/cosmos-update/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1167,26 +1263,13 @@
   {
     "id": "1546ced409840ef3",
     "title": "Planet Labs' open satellite feed",
-    "excerpt": "Article URL: https://tech.marksblogg.com/planet-labs-open-satellite-feed.html Comments URL: https://news.ycombinator.com/item?id=49628429 Points: 118 # Comments: 24",
+    "excerpt": "Article URL: https://tech.marksblogg.com/planet-labs-open-satellite-feed.html Comments URL: https://news.ycombinator.com/item?id=49628429 Points: 136 # Comments: 25",
     "url": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "marklit",
     "publishedAt": "2026-09-09T15:44:09.000Z",
     "category": "science",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "72e16b46dc6d8b4e",
-    "title": "We accidentally built a synthetic cell factory",
-    "excerpt": "Article URL: https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory Comments URL: https://news.ycombinator.com/item?id=49628290 Points: 65 # Comments: 4",
-    "url": "https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "rajivm",
-    "publishedAt": "2026-09-09T15:34:51.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1243,32 +1326,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "1065e3c49898e1a4",
-    "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
-    "excerpt": "First piloted in July 2025, inDrive's ad business has served more than 2 billion impressions and attracted over 2,000 paying advertisers a month.",
-    "url": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Jagmeet Singh",
-    "publishedAt": "2026-09-09T15:10:41.000Z",
-    "category": "security",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "59cd89448bb04161",
-    "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
-    "excerpt": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
-    "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Rebecca Bellan",
-    "publishedAt": "2026-09-09T15:02:47.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "ea283c8bf46c2fda",
     "title": "Crypto Long & Short: Inside the 300-to-1 onchain gap between the dollar and euro",
     "excerpt": "Ryan Connor of RockawayX writes that the dollar leads the euro about 3 to 1 across the offchain economy and more than 300 to 1 onchain. Euro-pegged stablecoins total €711 million, under 1% of supply. He traces the gap to path dependency and missing euro DeFi infrastructure, and argues…",
@@ -1310,7 +1367,7 @@
   {
     "id": "4ef1fa7cd0579165",
     "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-    "excerpt": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 285 # Comments: 106",
+    "excerpt": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 327 # Comments: 117",
     "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1401,7 +1458,7 @@
   {
     "id": "eaff98a3f9771085",
     "title": "What will our economic future look like?",
-    "excerpt": "Article URL: https://www.anthropic.com/institute/econ-scenarios Comments URL: https://news.ycombinator.com/item?id=49626373 Points: 132 # Comments: 233",
+    "excerpt": "Article URL: https://www.anthropic.com/institute/econ-scenarios Comments URL: https://news.ycombinator.com/item?id=49626373 Points: 161 # Comments: 294",
     "url": "https://www.anthropic.com/institute/econ-scenarios",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1414,7 +1471,7 @@
   {
     "id": "cc50efc6763b3c92",
     "title": "Shopify acquires Tailwind",
-    "excerpt": "Article URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify Comments URL: https://news.ycombinator.com/item?id=49626190 Points: 788 # Comments: 320",
+    "excerpt": "Article URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify Comments URL: https://news.ycombinator.com/item?id=49626190 Points: 850 # Comments: 339",
     "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1526,6 +1583,19 @@
     "publishedAt": "2026-09-09T12:00:00.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/11be367228733a1d618bc4f7de00ff09472d6275-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "46815a9fce93b9d5",
+    "title": "How I advertise malicious software on Google Ads",
+    "excerpt": "Article URL: https://xlii.space/eng/malicious-software-on-google-ads/ Comments URL: https://news.ycombinator.com/item?id=49624856 Points: 342 # Comments: 207",
+    "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "xlii",
+    "publishedAt": "2026-09-09T11:43:21.000Z",
+    "category": "policy",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2078,19 +2148,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "786ca059f5a16ef0",
-    "title": "NIH to use part of its budget to pay for Department of Defense research",
-    "excerpt": "Late last week, word started leaking that the National Institutes of Health (NIH) had reached an agreement with the Department of Defense that would see part of the NIH's budget used to fund research at the Department of Defense. So, on the Friday just prior to a US holiday weekend, the Department…",
-    "url": "https://arstechnica.com/science/2026/09/nih-to-use-part-of-its-budget-to-pay-for-department-of-defense-research/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "John Timmer",
-    "publishedAt": "2026-09-08T20:06:44.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2229834435-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "68f080d5ef782e10",
     "title": "Australia To Let Social Media Users 'Opt Out' of Algorithm-Based Feeds",
     "excerpt": "Australia is proposing the \"My Feed, My Way\" initiative that would force social media platforms to let users over 16 turn off algorithmic recommendations and instead see only posts from people and creators they follow. Platforms that fail to comply could face fines of up to $79 million. CNBC…",
@@ -2101,19 +2158,6 @@
     "publishedAt": "2026-09-08T20:01:00.000Z",
     "category": "security",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d4749182b14b0f25",
-    "title": "Supreme Court forces TV stations to sell more election ads at steep discounts",
-    "excerpt": "In a victory for Republican campaign committees, the Supreme Court issued an order on Friday that forces broadcast TV stations to cut the prices of election ads purchased by political parties and joint fundraising committees. The September 4 ruling came in response to a petition filed by the…",
-    "url": "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Jon Brodkin",
-    "publishedAt": "2026-09-08T19:50:00.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/gop-logo-1152x648-1787858821.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2130,19 +2174,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "371945b957c33029",
-    "title": "A Secret New Elizabeth Holmes Documentary Stuns Telluride",
-    "excerpt": "An anonymous reader quotes a report from TechCrunch: Telluride just managed one of its best-kept secrets in years, per The Hollywood Reporter. On Sunday night, festival-goers filed into a 650-seat theater with their phones locked away, having no idea what they were about to see, told only that it…",
-    "url": "https://entertainment.slashdot.org/story/26/09/08/1652228/a-secret-new-elizabeth-holmes-documentary-stuns-telluride?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-09-08T19:00:00.000Z",
-    "category": "policy",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "809561753292803f",
     "title": "Google research shows when AI agents communicate, some cheat while others tattle",
     "excerpt": "When AI agents communicate with one another, they may decide to cheat when they have difficulty achieving their goals. The solution could involve teaching them how to govern themselves. Segregating AI agents would seem to be the obvious fix – if they can't communicate, they're less likely to try…",
@@ -2153,19 +2184,6 @@
     "publishedAt": "2026-09-08T18:59:14.000Z",
     "category": "ai",
     "imageUrl": "https://image.theregister.com/?imageId=5295099&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ac04b96ba69bc00d",
-    "title": "LG TVs Caught Spying Even When Offline or On Standby",
-    "excerpt": "A Gamers Nexus investigation found that LG smart TVs are almost constantly logging and uploading data about owners and their homes, even while they are offline or in standby mode. \"The company's TV sets scan Wi-Fi networks for nearby devices, record audio logs through their microphones, and use…",
-    "url": "https://yro.slashdot.org/story/26/09/08/1634205/lg-tvs-caught-spying-even-when-offline-or-on-standby?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-09-08T18:00:00.000Z",
-    "category": "software",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -2673,19 +2691,6 @@
     "publishedAt": "2026-09-07T11:55:33.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "14046c088585d23b",
-    "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-    "excerpt": "One year into the EU's repairability rules for smartphones and tablets, more than 80 percent of devices still lack the necessary repair information, Right to Repair Europe reports. The campaign group says that mobile devices available in the trading bloc must include a mandatory self-reported…",
-    "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-07T11:30:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://image.theregister.com/?imageId=4093968&width=800",
     "readTimeMinutes": 1
   },
   {
