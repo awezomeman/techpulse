@@ -1,5 +1,57 @@
 [
   {
+    "id": "585b46edcd136a33",
+    "title": "AI Made A Lot Of \"Hideous\" Code But Found Major Bottlenecks For Faster Linux Compilation",
+    "excerpt": "An ARM Linux engineer leveraged AI/LLMs to help uncover some improvements to \"significant speed up\" the Linux kernel build times. In the process the LLM used generated \"a lot of code, much of it hideous\" but in the end was used to find some very significant time savings for faster kernel builds via…",
+    "url": "https://www.phoronix.com/news/AI-To-Faster-Linux-Kernel-Comp",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-09T00:49:03.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2b1e3dd0b7fef853",
+    "title": "How to change and customize your Apple CarPlay display",
+    "excerpt": "CarPlay doesn't have a ton of customization options, but it's worth going through what's there to set it up properly.",
+    "url": "https://www.engadget.com/2251193/how-to-change-customize-apple-carplay-display/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Adnan Ahmed)",
+    "publishedAt": "2026-09-08T23:30:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/how-to-change-and-customize-your-apple-carplay-display/l-intro-1788537732.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4d64e58134b09350",
+    "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
+    "excerpt": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\"",
+    "url": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Lucas Ropek",
+    "publishedAt": "2026-09-08T23:23:23.000Z",
+    "category": "policy",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d08315d90c9fb5e8",
+    "title": "Is there any benefit to restarting your PC regularly?",
+    "excerpt": "Rebooting your PC regularly is old advice, but how important is this today? And how often do you really need to restart?",
+    "url": "https://www.engadget.com/2251124/benefits-restarting-pc-more-often/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Max Miller)",
+    "publishedAt": "2026-09-08T23:00:00.000Z",
+    "category": "software",
+    "imageUrl": "https://www.engadget.com/img/gallery/is-there-any-benefit-to-restarting-your-pc-regularly/l-intro-1788535351.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "ff9bc88c33f97b89",
     "title": "systemd 262-rc2 Adds An AI Canary For Detecting Unreviewed AI/LLM Code Contributions",
     "excerpt": "One week after releasing systemd 262-rc1, systemd 262-rc2 is now available with further fixes and refinements for this init system and service manager. Systemd is also the latest open-source project introducing an AI canary for aiming to detect AI/LLM-based code contributors that weren't reviewed…",
@@ -23,6 +75,19 @@
     "publishedAt": "2026-09-08T22:30:00.000Z",
     "category": "science",
     "imageUrl": "https://www.engadget.com/img/gallery/spacexs-recovered-starship-40-will-take-months-to-get-back-to-texas/l-intro-1788536157.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d7c6029310d91d59",
+    "title": "A Topological Picture Book, Rendered",
+    "excerpt": "Article URL: https://e-infinity.space/picture-book/ Comments URL: https://news.ycombinator.com/item?id=49618050 Points: 40 # Comments: 4",
+    "url": "https://e-infinity.space/picture-book/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "mathgenius",
+    "publishedAt": "2026-09-08T22:28:14.000Z",
+    "category": "policy",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -65,6 +130,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "008196daed8a028f",
+    "title": "LG TV shown scanning LAN for third-party phones and other devices",
+    "excerpt": "LG TVs are facing scrutiny due to a video seemingly showing the devices’ capability to track users when the TVs are off. YouTube channel Gamers Nexus worked with Level1Techs, a technology-focused YouTube channel, and security researchers to analyze LG TVs’ tracking capabilities. They shared packet…",
+    "url": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Scharon Harding",
+    "publishedAt": "2026-09-08T21:52:29.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/TV_OLED83B5PUA_brilliant-lg-oled-picture_features_900x600.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "899b6bb340e12a2d",
     "title": "Sony isn’t phasing out discs quite as quickly as we thought",
     "excerpt": "Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's last discmaking plant was already being repurposed , the company's discmaking division now says that…",
@@ -79,8 +157,8 @@
   },
   {
     "id": "ec5e2fd630258bdf",
-    "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
-    "excerpt": "Article URL: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH Comments URL: https://news.ycombinator.com/item?id=49617581 Points: 29 # Comments: 5",
+    "title": "Large language models develop novel social biases through adaptive exploration",
+    "excerpt": "Article URL: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH Comments URL: https://news.ycombinator.com/item?id=49617581 Points: 78 # Comments: 43",
     "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -125,9 +203,22 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "d76b1df7b3f15114",
+    "title": "GOG brings back \"big box\" PC games, one printable template at a time",
+    "excerpt": "Those who remember PC gaming in the days before Steam may have fond memories of the \"big box\" packaging that made those games stand out as shelf eye candy and sought-after in-home collectibles . Today, PC gaming platform GOG is hoping to reignite some of the nostalgia for those days by adding…",
+    "url": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Kyle Orland",
+    "publishedAt": "2026-09-08T21:23:13.000Z",
+    "category": "ai",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/hitmanbox1-1152x648-1788901163.png",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "4406eb82a480fa71",
-    "title": "How to Build a Printer",
-    "excerpt": "Article URL: https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/ Comments URL: https://news.ycombinator.com/item?id=49617255 Points: 16 # Comments: 1",
+    "title": "How to build a printer",
+    "excerpt": "Article URL: https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/ Comments URL: https://news.ycombinator.com/item?id=49617255 Points: 113 # Comments: 25",
     "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -148,6 +239,19 @@
     "publishedAt": "2026-09-08T21:12:19.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=5295128&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3f0395b6eca99d46",
+    "title": "Why this month's Microsoft patch release is a doozy",
+    "excerpt": "Microsoft’s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity threshold. It was only two months ago that Microsoft patched a then-record 570 vulnerabilities. Then, last month, Microsoft patched some 620 of…",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Dan Goodin",
+    "publishedAt": "2026-09-08T21:11:46.000Z",
+    "category": "ai",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -179,7 +283,7 @@
   {
     "id": "711af1fbdbef2017",
     "title": "Tao: Open math problems being non-renewably mined by AI",
-    "excerpt": "Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968 Points: 10 # Comments: 2",
+    "excerpt": "Article URL: https://mathstodon.xyz/@tao/117237320796901560 Comments URL: https://news.ycombinator.com/item?id=49616968 Points: 106 # Comments: 77",
     "url": "https://mathstodon.xyz/@tao/117237320796901560",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -230,7 +334,7 @@
   },
   {
     "id": "7107fe893f7b47de",
-    "title": "Rivian’s Also apologizes for delays in shipping futuristic e-bikes",
+    "title": "Rivian spinout Also apologizes for delays in shipping futuristic e-bikes",
     "excerpt": "Rivian's futuristic e-bike is delayed, and customers are not happy. Last year, Rivian's micromobility spinoff Also unveiled a new, software-controlled electric bike called the TM-B that immediately set the e-bike world ablaze. With USB-C chargeable battery, removable seat post, and…",
     "url": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology",
     "source": "The Verge",
@@ -268,6 +372,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "de48c8d99198f320",
+    "title": "The universal language of space is... Star Trek? Mais oui.",
+    "excerpt": "Sixty years after television audiences first tuned in to see the voyages of the Starship Enterprise , an astronaut on board the International Space Station has paid tribute to Star Trek by flying the badge of the franchise's latest fictional captain. Expedition 75 flight engineer Sophie Adenot with…",
+    "url": "https://arstechnica.com/space/2026/09/astronaut-on-iss-celebrates-60-years-of-star-trek-with-prop-badge/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Robert Pearlman",
+    "publishedAt": "2026-09-08T20:20:20.000Z",
+    "category": "science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/news-090826a-lg-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "9d0b33baabbac2f5",
     "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
     "excerpt": "I used ChatGPT and its Sketch tool to make this AI-generated image of a cat. OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside…",
@@ -283,7 +400,7 @@
   {
     "id": "fa323a8be685f2f1",
     "title": "Mercury 2.5",
-    "excerpt": "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-2-5 Comments URL: https://news.ycombinator.com/item?id=49616354 Points: 87 # Comments: 9",
+    "excerpt": "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-2-5 Comments URL: https://news.ycombinator.com/item?id=49616354 Points: 118 # Comments: 15",
     "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -296,7 +413,7 @@
   {
     "id": "d197b84a5c23eec5",
     "title": "Animation in Bevy: The Big Picture",
-    "excerpt": "Article URL: https://glocq.com/en/blog/20260827/ Comments URL: https://news.ycombinator.com/item?id=49616272 Points: 29 # Comments: 1",
+    "excerpt": "Article URL: https://glocq.com/en/blog/20260827/ Comments URL: https://news.ycombinator.com/item?id=49616272 Points: 41 # Comments: 2",
     "url": "https://glocq.com/en/blog/20260827/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -309,7 +426,7 @@
   {
     "id": "a9e40bcc77117409",
     "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
-    "excerpt": "Article URL: https://github.com/argonautlabsai/deltafin Comments URL: https://news.ycombinator.com/item?id=49616257 Points: 181 # Comments: 78",
+    "excerpt": "Article URL: https://github.com/argonautlabsai/deltafin Comments URL: https://news.ycombinator.com/item?id=49616257 Points: 202 # Comments: 102",
     "url": "https://github.com/argonautlabsai/deltafin",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -320,16 +437,16 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "b2a76ae70f92e92c",
-    "title": "Trey Parker and Matt Stone Are Changing the Name of South Park to South America",
-    "excerpt": "Article URL: https://twitter.com/SouthPark/status/2097364141237539116 Comments URL: https://news.ycombinator.com/item?id=49616239 Points: 126 # Comments: 58",
-    "url": "https://twitter.com/SouthPark/status/2097364141237539116",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "HelloUsername",
-    "publishedAt": "2026-09-08T20:06:33.000Z",
-    "category": "startups",
-    "imageUrl": null,
+    "id": "786ca059f5a16ef0",
+    "title": "NIH to use part of its budget to pay for Department of Defense research",
+    "excerpt": "Late last week, word started leaking that the National Institutes of Health (NIH) had reached an agreement with the Department of Defense that would see part of the NIH's budget used to fund research at the Department of Defense. So, on the Friday just prior to a US holiday weekend, the Department…",
+    "url": "https://arstechnica.com/science/2026/09/nih-to-use-part-of-its-budget-to-pay-for-department-of-defense-research/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "John Timmer",
+    "publishedAt": "2026-09-08T20:06:44.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2229834435-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -382,7 +499,15 @@
     "publishedAt": "2026-09-08T19:40:27.000Z",
     "category": "policy",
     "imageUrl": "https://www.engadget.com/img/gallery/google-will-degrade-search-in-europe-to-avoid-eu-fines/l-intro-1788896240.jpg",
-    "readTimeMinutes": 1
+    "readTimeMinutes": 1,
+    "alsoCoveredBy": [
+      {
+        "source": "Slashdot",
+        "sourceHomepage": "https://slashdot.org",
+        "url": "https://search.slashdot.org/story/26/09/08/2214256/google-will-degrade-search-in-europe-to-avoid-eu-fines?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+        "publishedAt": "2026-09-08T23:00:00.000Z"
+      }
+    ]
   },
   {
     "id": "93a90eb81b31c886",
@@ -399,8 +524,8 @@
   },
   {
     "id": "3cc49d056088c2dd",
-    "title": "Muse: Meta's personal AI agent, features and capabilities",
-    "excerpt": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 203 # Comments: 195",
+    "title": "Muse – Meta’s personal AI agent",
+    "excerpt": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 267 # Comments: 254",
     "url": "https://ai.meta.com/muse/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -434,19 +559,6 @@
     "publishedAt": "2026-09-08T19:05:00.000Z",
     "category": "hardware",
     "imageUrl": "https://www.engadget.com/img/gallery/dont-panic-but-theres-a-playdate-update-showcase-tomorrow/l-intro-1788894055.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f2abd24cb9346a10",
-    "title": "Function Arguments Are Not Function Colors",
-    "excerpt": "Article URL: https://jerf.org/iri/post/2026/func_args_are_not_colors/ Comments URL: https://news.ycombinator.com/item?id=49615139 Points: 26 # Comments: 10",
-    "url": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "ingve",
-    "publishedAt": "2026-09-08T19:04:26.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -699,7 +811,7 @@
   {
     "id": "1d977876014d13d0",
     "title": "On the Navier–Stokes Millennium Prize Problem",
-    "excerpt": "Article URL: https://openai.com/index/navier-stokes-solution/ Comments URL: https://news.ycombinator.com/item?id=49613262 Points: 1004 # Comments: 815",
+    "excerpt": "Article URL: https://openai.com/index/navier-stokes-solution/ Comments URL: https://news.ycombinator.com/item?id=49613262 Points: 1083 # Comments: 943",
     "url": "https://openai.com/index/navier-stokes-solution/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -738,7 +850,7 @@
   {
     "id": "ab100b8a617b11b8",
     "title": "Show HN: LLM Attention Visualization",
-    "excerpt": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068 Points: 102 # Comments: 19",
+    "excerpt": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/ Comments URL: https://news.ycombinator.com/item?id=49613068 Points: 117 # Comments: 19",
     "url": "https://ishamf.dev/p/llm-attention-visualizer/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -789,8 +901,8 @@
   },
   {
     "id": "634addfb7264bc8a",
-    "title": "Connecting the Machines",
-    "excerpt": "Article URL: https://herdr.dev/blog/connecting-the-machines/ Comments URL: https://news.ycombinator.com/item?id=49612818 Points: 68 # Comments: 24",
+    "title": "Connecting the machines",
+    "excerpt": "Article URL: https://herdr.dev/blog/connecting-the-machines/ Comments URL: https://news.ycombinator.com/item?id=49612818 Points: 76 # Comments: 26",
     "url": "https://herdr.dev/blog/connecting-the-machines/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -944,19 +1056,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "d281c2ce0e57d480",
-    "title": "Chrome will now release updates every two weeks to better tackle security threats",
-    "excerpt": "Chrome will start releasing new versions of its stable browser more frequently.",
-    "url": "https://www.engadget.com/2252455/google-chrome-updates-every-two-weeks-to-better-tackle-security-threats/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Mariella Moon)",
-    "publishedAt": "2026-09-08T16:00:00.000Z",
-    "category": "policy",
-    "imageUrl": "https://www.engadget.com/img/gallery/chrome-will-now-release-updates-every-two-weeks-to-better-tackle-security-threats/l-intro-1788863593.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "788ce3e7ec519804",
     "title": "Teen Reading Slumps to Worst This Century Due to Surge in Screen Time",
     "excerpt": "Teen reading, math, and science scores have fallen to their lowest levels since international PISA testing began in 2000, with 15-year-olds now reading at roughly the level previously expected of students a year younger. The Organization for Economic Co-operation and Development (OECD) linked…",
@@ -971,8 +1070,8 @@
   },
   {
     "id": "d568f0e4b0c66689",
-    "title": "C*: Unifying Programming and Verification in C",
-    "excerpt": "Article URL: https://arxiv.org/abs/2504.02246 Comments URL: https://news.ycombinator.com/item?id=49612191 Points: 65 # Comments: 38",
+    "title": "C*: Unifying Programming and Verification in C (2025)",
+    "excerpt": "Article URL: https://arxiv.org/abs/2504.02246 Comments URL: https://news.ycombinator.com/item?id=49612191 Points: 69 # Comments: 41",
     "url": "https://arxiv.org/abs/2504.02246",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -993,19 +1092,6 @@
     "publishedAt": "2026-09-08T15:45:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=227731&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d20f17a901a83546",
-    "title": "Apple Watch GPS vs GPS + Cellular: What's the difference?",
-    "excerpt": "Some Apple Watch models give you the ability to stay connected even when you're away from your phone. But is it worth the cost?",
-    "url": "https://www.engadget.com/2250612/apple-watch-vs-gps-plus-cellular-difference-between/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Filipe Espósito)",
-    "publishedAt": "2026-09-08T15:30:00.000Z",
-    "category": "science",
-    "imageUrl": "https://www.engadget.com/img/gallery/apple-watch-gps-vs-gps-cellular-whats-the-difference/l-intro-1788459825.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1088,8 +1174,8 @@
   },
   {
     "id": "2ce01404d80fba7f",
-    "title": "Google DeepMind Releases AlphaGenome Atlas",
-    "excerpt": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/ Comments URL: https://news.ycombinator.com/item?id=49611251 Points: 459 # Comments: 109",
+    "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+    "excerpt": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-... https://deepmind.google.com/science/alphagenome/atlas Comments URL: https://news.ycombinator.com/item?id=49611251 Points: 482 # Comments: 115",
     "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1102,7 +1188,7 @@
   {
     "id": "e57f111ef0772a82",
     "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
-    "excerpt": "Article URL: https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/ Comments URL: https://news.ycombinator.com/item?id=49611230 Points: 89 # Comments: 26",
+    "excerpt": "Article URL: https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/ Comments URL: https://news.ycombinator.com/item?id=49611230 Points: 92 # Comments: 27",
     "url": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1115,7 +1201,7 @@
   {
     "id": "66c10c1bec5a9cb0",
     "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-    "excerpt": "Article URL: https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/ Comments URL: https://news.ycombinator.com/item?id=49611128 Points: 195 # Comments: 97",
+    "excerpt": "Article URL: https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/ Comments URL: https://news.ycombinator.com/item?id=49611128 Points: 207 # Comments: 104",
     "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1128,7 +1214,7 @@
   {
     "id": "4e7e39773cd23619",
     "title": "The two Christian saints who are the Buddha",
-    "excerpt": "Article URL: https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/ Comments URL: https://news.ycombinator.com/item?id=49611051 Points: 196 # Comments: 138",
+    "excerpt": "Article URL: https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/ Comments URL: https://news.ycombinator.com/item?id=49611051 Points: 215 # Comments: 149",
     "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1206,7 +1292,7 @@
   {
     "id": "f0e27f432f48fb86",
     "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
-    "excerpt": "Article URL: https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/ Comments URL: https://news.ycombinator.com/item?id=49610641 Points: 75 # Comments: 9",
+    "excerpt": "Article URL: https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/ Comments URL: https://news.ycombinator.com/item?id=49610641 Points: 78 # Comments: 11",
     "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1219,7 +1305,7 @@
   {
     "id": "46f3c1d6124190bd",
     "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-    "excerpt": "Article URL: https://github.com/ayghri/i-have-adhd Comments URL: https://news.ycombinator.com/item?id=49610631 Points: 265 # Comments: 206",
+    "excerpt": "Article URL: https://github.com/ayghri/i-have-adhd Comments URL: https://news.ycombinator.com/item?id=49610631 Points: 304 # Comments: 241",
     "url": "https://github.com/ayghri/i-have-adhd",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1297,12 +1383,25 @@
   {
     "id": "3ffc81ecc2813572",
     "title": "DaVinci Resolve 21.1",
-    "excerpt": "Article URL: https://www.blackmagicdesign.com/media/release/20260908-03 Comments URL: https://news.ycombinator.com/item?id=49610181 Points: 325 # Comments: 144",
+    "excerpt": "Article URL: https://www.blackmagicdesign.com/media/release/20260908-03 Comments URL: https://news.ycombinator.com/item?id=49610181 Points: 345 # Comments: 154",
     "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "tosh",
     "publishedAt": "2026-09-08T13:36:53.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "677366c88d97c06a",
+    "title": "Show HN: Copperhead – Cursor for circuit boards",
+    "excerpt": "Article URL: https://copperhead.sh/ Comments URL: https://news.ycombinator.com/item?id=49610059 Points: 204 # Comments: 78",
+    "url": "https://copperhead.sh/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "animeshchouhan",
+    "publishedAt": "2026-09-08T13:26:45.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -1927,19 +2026,6 @@
     ]
   },
   {
-    "id": "0e466f475c231c33",
-    "title": "A Man Charged His EV at a Dealership - and Was Billed $418",
-    "excerpt": "The EV blog Electrek reports: A Clinton Township, Michigan man was charged $418 for a single EV charging session at Elder Hyundai's Macomb Township store after finding the charger listed as publicly available on the EVgo app, but didn't discover the charges until after wrapping up his 40-ish minute…",
-    "url": "https://hardware.slashdot.org/story/26/09/07/012247/a-man-charged-his-ev-at-a-dealership---and-was-billed-418?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-09-07T17:34:00.000Z",
-    "category": "policy",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "94f34175eabfda68",
     "title": "Matt Clifford to leave ARIA before Anthropic role becomes a 'distraction'",
     "excerpt": "Matt Clifford is stepping down as chair of the UK's taxpayer-funded Advanced Research and Invention Agency (ARIA), just days after saying he intended to keep the job while working for AI giant Anthropic. Clifford, one of the architects of the UK government's AI strategy, said in a LinkedIn post on…",
@@ -2356,19 +2442,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "973d060680473f7c",
-    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-    "excerpt": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-    "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Anthony Ha",
-    "publishedAt": "2026-09-06T20:47:37.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "ffa577bfbb8b1112",
     "title": "Shotcut 26.9 Video Editor Beta Brings UI Improvements, Better Audio Quality",
     "excerpt": "Following the recent Shotcut stable release with a stock asset library and other improvements, Shotcut 26.9 Beta is out today with yet more improvements for this open-source video editing application for Linux, macOS, and Windows systems...",
@@ -2577,19 +2650,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "e2894ce1d81445f2",
-    "title": "Linux Patches Posted For Initial Enablement Of The Apple A18 Pro + MacBook Neo",
-    "excerpt": "In addition to Linux developers focused on Apple Silicon being busy enabling functionality for the M3 and newer SoCs under the Linux kernel, there are also developers working on enabling the A18 Pro SoC used by the new, budget-friendly MacBook Neo laptop. Patches were posted this week for initial…",
-    "url": "https://www.phoronix.com/news/Apple-A18-Pro-MacBook-Neo-Patch",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-05T11:11:11.000Z",
-    "category": "security",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "06b3555b238af70b",
     "title": "BepiColombo sheds its ride and starts the final glide to Mercury",
     "excerpt": "After nearly eight years, ESA and JAXA's BepiColombo spacecraft is finally nearing Mercury, as engineers begin the arrival sequence by jettisoning the power module that got it this far. The spacecraft stack separated from the Mercury Transfer Module (MTM) on September 3 at around 1400 CEST. After a…",
@@ -2600,32 +2660,6 @@
     "publishedAt": "2026-09-05T06:41:00.000Z",
     "category": "science",
     "imageUrl": "https://image.theregister.com/?imageId=1685901&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "38195d6e89a3d6f2",
-    "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
-    "excerpt": "The BepiColombo mission cleared a major milestone this week in the final stretch of an eight-year interplanetary voyage to Mercury, the hard-to-reach, scorching hot iron world at the Solar System's innermost frontier. The robotic science mission, with a price tag of nearly $2 billion, is led by the…",
-    "url": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Stephen Clark",
-    "publishedAt": "2026-09-04T22:49:17.000Z",
-    "category": "science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Mercury_Transfer_Module_separation-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "742cf6e98adedcf1",
-    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-    "excerpt": "Self-identifying OpenAI agents posted 18,000 messages to a public wiki that discussed ways for other agents to bypass security sandbox restrictions during what was likely internal testing designed to gauge the agents’ hacking abilities, researchers said Friday . In all, agents with 3,700 distinct…",
-    "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Dan Goodin",
-    "publishedAt": "2026-09-04T22:17:36.000Z",
-    "category": "ai",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2642,19 +2676,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "7629c6c86939f891",
-    "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
-    "excerpt": "A six-week-old baby girl in Lancaster, Pennsylvania, died from measles, the county coroner confirmed to local press on Friday. Stephen Diamantoni, a Republican elected coroner in 2007, told Lancaster Online that the baby died at home. \"I believe it was the 18th of August,\" he said. He also noted…",
-    "url": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Beth Mole",
-    "publishedAt": "2026-09-04T20:22:41.000Z",
-    "category": "Science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-1152x648-1729196833.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "43068f7201e79432",
     "title": "AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets",
     "excerpt": "Machine learning researchers have a new and expensive option for doing local AI. AMD just raided its spare parts bin and cobbled together a DGX Station rival boasting up to 576 GB of HBM3e memory that it’s calling the Threadripper Halo. Announced at IFA 2026, the system, which is set to launch next…",
@@ -2668,19 +2689,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "1df4cba185985c6e",
-    "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
-    "excerpt": "The Federal Communications Commission yesterday urged a court to dismiss a Disney lawsuit and let the FCC continue a proceeding that could end in the nonrenewal of ABC's broadcast licenses. Meanwhile, two watchdog groups and individual viewers of ABC stations are trying to intervene in the lawsuit,…",
-    "url": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Jon Brodkin",
-    "publishedAt": "2026-09-04T19:46:34.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/disney-logo-1152x648-1788549990.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "23c040b7e11ea91f",
     "title": "ASCII smuggling isn't just an AI security risk",
     "excerpt": "Fraudsters have found a new use for ASCII smuggling, typically used to hide malicious prompts intended for AI models, in an old-school attack method: email phishing. Microsoft uncovered a massive phishing campaign using invisible Unicode tag characters that peaked at more than 2.37 million messages…",
@@ -2691,19 +2699,6 @@
     "publishedAt": "2026-09-04T19:23:25.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=258480&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d8ed3343f8a79c6c",
-    "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
-    "excerpt": "Sheeppox is a highly contagious, often fatal viral disease that was largely eradicated from much of European livestock in the 20th century. But there is still the occasional regional outbreak, such as the one that afflicted many flocks of sheep in Greece last year . In order to reconstruct how the…",
-    "url": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Jennifer Ouellette",
-    "publishedAt": "2026-09-04T19:01:02.000Z",
-    "category": "science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/sheeppox-1152x648-1788203007.jpg",
     "readTimeMinutes": 1
   },
   {
