@@ -1,8 +1,242 @@
 [
   {
+    "id": "b3c09dec1176fe53",
+    "title": "Xbox picks up Kojima’s Physint after PlayStation dropped it",
+    "excerpt": "Xbox will now publish Physint , an upcoming game from Metal Gear creator Hideo Kojima, after PlayStation decided to cancel it. The unexpected swap came in a flurry of announcements from PlayStation , Xbox , Kojima Productions , and Kojima himself . Sony, which published both of Kojima Productions'…",
+    "url": "https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Dominic Preston",
+    "publishedAt": "2026-09-10T08:22:40.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/physint-kojima-xbox-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "03dbe8d9ff2be732",
+    "title": "Xbox swoops in to publish Hideo Kojima's 'Physint' after Sony dropped out",
+    "excerpt": "Kojima and Xbox are teaming up after Sony pulled out of 'Physint.'",
+    "url": "https://www.engadget.com/2254521/xbox-publishes-hideo-kojima-physint-after-sony-withdrawal/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Steve Dent)",
+    "publishedAt": "2026-09-10T08:21:28.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/xbox-swoops-in-to-publish-hideo-kojimas-physint-after-sony-dropped-out/l-intro-1789028295.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4d2135725be8336c",
+    "title": "Live updates: Bitcoin ETFs post a second straight outflow while other major funds turns green",
+    "excerpt": "The bitcoin funds shed $120 million on Wednesday, more than double Tuesday's loss. Ether, XRP and solana all took money in.",
+    "url": "https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-09-10T07:45:46.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/ec9ad9b7314c704b4ba9574c0e07436674b8a141-1408x804.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3a8701951f69c557",
+    "title": "SGX's bitcoin and ether perpetual futures are now open to U.S. institutions",
+    "excerpt": "The Singapore Exchange says U.S. institutions can now trade its bitcoin and ether perpetual futures, a milestone that bridges U.S. trading desks with Asian liquidity.",
+    "url": "https://www.coindesk.com/markets/2026/09/10/sgx-s-bitcoin-and-ether-perpetual-futures-are-now-open-to-u-s-institutions",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Omkar Godbole",
+    "publishedAt": "2026-09-10T07:01:44.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/32c66d3cef6d1b4baa682e2a0c688da59be56be1-1500x1000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "69d7dfad775d8d7f",
+    "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
+    "excerpt": "It's been about three years since Volvo discontinued its plug-in hybrid XC40. The mild hybrid version remains on sale in the US and elsewhere, alongside the electric EX40. Today, Volvo announced it was bringing back the PHEV version and giving it a major facelift. When it arrives at dealerships…",
+    "url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Andrew J. Hawkins",
+    "publishedAt": "2026-09-10T07:00:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/The_New_Volvo_XC40_Studio_Front_34.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6e7621c48f24d45f",
+    "title": "2028 Volvo XC40 First Look: Hello new tech, goodbye EV",
+    "excerpt": "Volvo refreshed the XC40, but it's sadly doing away with the all-electric EX40 in the US.",
+    "url": "https://www.engadget.com/2252476/2028-volvo-xc40-first-look/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Tim Stevens)",
+    "publishedAt": "2026-09-10T07:00:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/2028-volvo-xc40-first-look-hello-new-tech-goodbye-ev/l-intro-1788868210.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ed0bda0a049fa944",
+    "title": "Dental contractor set up secret account with access to 4,000 patient records then left the company",
+    "excerpt": "PWNED Welcome back to PWNED, the weekly column where we highlight examples of how not to handle your security. This week’s tale of woe comes from a very unhealthy part of the healthcare sector. Have a story about someone leaving a gaping hole in their network? Share it with us at pwned@sitpub.com.…",
+    "url": "https://www.theregister.com/security/2026/09/10/dental-contractor-set-up-secret-account-with-access-to-4000-patient-records-then-left-the-company/5295361",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-10T07:00:00.000Z",
+    "category": "security",
+    "imageUrl": "https://image.theregister.com/?imageId=256731&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "dec2d3a73de16df7",
+    "title": "Dark Energy Debunked? Cosmic Acceleration May Be an Illusion",
+    "excerpt": "alternative_right shares a report from ScienceDaily: A new analysis of more than 1,700 supernovae is questioning whether the universe is really accelerating at all. After accounting for the ages of the stars that produce these explosions, researchers found signs that cosmic expansion may actually…",
+    "url": "https://science.slashdot.org/story/26/09/10/0230225/dark-energy-debunked-cosmic-acceleration-may-be-an-illusion?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-09-10T07:00:00.000Z",
+    "category": "science",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "630e5135105b9e46",
+    "title": "Laptop-slinger Framework refunding customers who paid top dollar for RAM",
+    "excerpt": "Laptop-maker Framework has decided to refund some of its customers who paid high prices for its model 13 Pro laptop due to the soaring cost of RAM. In July, the company told some customers who had ordered its very repairable machines that if they ordered 64GB of RAM, they would get just 32GB. “We…",
+    "url": "https://www.theregister.com/personal-tech/2026/09/10/laptop-slinger-framework-refunding-customers-who-paid-top-dollar-for-ram/5295439",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-10T06:23:12.000Z",
+    "category": "hardware",
+    "imageUrl": "https://image.theregister.com/?imageId=5262109&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "5c9e05d0d0d9aa35",
+    "title": "Hunter Biden’s LAPTOP blames bots after 98% crash as traders rack up six-figure losses",
+    "excerpt": "The team said thin liquidity and automated traders distorted the launch, while Nansen data showed some early buyers sitting on six-figure losses after the memecoin’s debut.",
+    "url": "https://www.coindesk.com/markets/2026/09/10/hunter-biden-s-laptop-blames-bots-after-98-crash-as-traders-rack-up-six-figure-losses",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-09-10T06:13:45.000Z",
+    "category": "hardware",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/ba0a36a6d6ad5c5c59f41719b0738f5a90a5a0c8-2010x1082.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b2f3d652b2224048",
+    "title": "Google has removed the Pixel Tablet from its store",
+    "excerpt": "Google has erased the listing for the Pixel Tablet from its e-commerce store, signaling that the device has been discontinued.",
+    "url": "https://www.engadget.com/2254487/google-store-removed-pixel-tablet/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Mariella Moon)",
+    "publishedAt": "2026-09-10T06:11:07.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/google-has-removed-the-pixel-tablet-from-its-store/l-intro-1789020324.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7ba51a4b17fc44c1",
+    "title": "DeepSeek v4.1 Flash",
+    "excerpt": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash Comments URL: https://news.ycombinator.com/item?id=49639090 Points: 202 # Comments: 55",
+    "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "Liwink",
+    "publishedAt": "2026-09-10T06:11:05.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ab68aff5d1ccea69",
+    "title": "Dogecoin sinks 5% to lead majors' losses, with bitcoin holding $78,000 level",
+    "excerpt": "Dogecoin led the losses, BNB fell about 4% and XRP 3%, with oil pushing Treasury yields to their highest since late 2023.",
+    "url": "https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-09-10T05:30:15.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/7aa08ce1ab67582761b88b71cd110f1937a343c8-1526x848.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "64c935c1613d03d2",
+    "title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
+    "excerpt": "Coinbase CEO tells CNBC the crypto industry gets regulatory clarity whether or not the Senate passes the bill on Sept. 15.",
+    "url": "https://www.coindesk.com/markets/2026/09/10/crypto-wins-regardless-of-clarity-act-vote-coinbase-s-armstrong-says",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Omkar Godbole",
+    "publishedAt": "2026-09-10T05:05:41.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/9411c764a451101a37d939489f6f10515a33d0a9-3244x1825.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b8a2974c6c1cedd7",
+    "title": "Microsoft goes after Salesforce and ERP users with AI-powered converter",
+    "excerpt": "Microsoft has found another use for AI: providing an off-ramp for Salesforce customers. The software giant on Wednesday gave the world “Dynamics 365 Activate,” software that executive veep for Apps and Agents Jeff Teper described as “a comprehensive, AI-powered tool that can help partners and…",
+    "url": "https://www.theregister.com/software/2026/09/10/microsoft-goes-after-salesforce-and-erp-users-with-ai-powered-converter/5295428",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-10T04:53:32.000Z",
+    "category": "software",
+    "imageUrl": "https://image.theregister.com/?imageId=5295433&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b809c38b397153cf",
+    "title": "OpenAI might have stolen another major proof",
+    "excerpt": "Article URL: https://twitter.com/ValerioCapraro/status/2097791836269977996 Comments URL: https://news.ycombinator.com/item?id=49638353 Points: 196 # Comments: 78",
+    "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "tamnd",
+    "publishedAt": "2026-09-10T04:19:48.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "08a5f3c876b9fd83",
+    "title": "All grown-ups were once children, but only few of them remember it",
+    "excerpt": "Article URL: https://mathstodon.xyz/@tao/117244102901892965 Comments URL: https://news.ycombinator.com/item?id=49638280 Points: 142 # Comments: 85",
+    "url": "https://mathstodon.xyz/@tao/117244102901892965",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "yurivish",
+    "publishedAt": "2026-09-10T04:04:38.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6bd15b622a4a487d",
+    "title": "VMware defends ending downloads of SDK that helps VM backups– or migrations to rivals",
+    "excerpt": "VMware has defended its decision to end public downloads of its Virtual Disk Development Kit (VDDK). VDDK is an SDK that a Broadcom technical document describes as “a set of libraries and utilities that enable software developers to create applications that can access and manipulate virtual disks…",
+    "url": "https://www.theregister.com/virtualization/2026/09/10/vmware-defends-ending-downloads-of-sdk-that-helps-vm-backups-or-migrations-to-rivals/5295421",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-10T02:05:58.000Z",
+    "category": "software",
+    "imageUrl": "https://image.theregister.com/?imageId=232652&width=800",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "8324d57fee88899a",
-    "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
-    "excerpt": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/ Comments URL: https://news.ycombinator.com/item?id=49637435 Points: 3 # Comments: 0",
+    "title": "Training a 3.8B LLM to 0.384 CORE for $998",
+    "excerpt": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/ Comments URL: https://news.ycombinator.com/item?id=49637435 Points: 64 # Comments: 11",
     "url": "https://hugovergnes.github.io/little-lm-3-8b/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -15,7 +249,7 @@
   {
     "id": "5bf113d156f18c50",
     "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-    "excerpt": "Article URL: https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/ Comments URL: https://news.ycombinator.com/item?id=49637395 Points: 8 # Comments: 1",
+    "excerpt": "Article URL: https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/ Comments URL: https://news.ycombinator.com/item?id=49637395 Points: 69 # Comments: 39",
     "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -28,7 +262,7 @@
   {
     "id": "5801d504628ca24c",
     "title": "Show HN: What if the speed of light was 5 km/h?",
-    "excerpt": "I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. And here is the first version of it! Comments URL: https://news.ycombinator.com/item?id=49637385 Points: 32 # Comments: 22",
+    "excerpt": "I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. Here is the first version of it! Comments URL: https://news.ycombinator.com/item?id=49637385 Points: 273 # Comments: 115",
     "url": "https://rivendell.dmitrybrant.com/relativity/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -208,19 +442,6 @@
     "publishedAt": "2026-09-09T22:23:35.000Z",
     "category": "Hardware",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/duo6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "70a976d4e6fcfd8a",
-    "title": "Blizzard Workers Win Historic Union Contract",
-    "excerpt": "Article URL: https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers Comments URL: https://news.ycombinator.com/item?id=49635384 Points: 125 # Comments: 38",
-    "url": "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "dbg31415",
-    "publishedAt": "2026-09-09T22:22:53.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -445,19 +666,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "33e3a95e5add9167",
-    "title": "How the new Apple Watches compare to the last-gen models",
-    "excerpt": "The new Apple Watches come in a variety of material and strap combinations. Apple rolled out the Apple Watch Series 12 and Apple Watch Ultra 4 at its \"Surprise and shine\" event. The new watches feature sizable improvements to their health sensors and tracking, plus the ability to create brief audio…",
-    "url": "https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Brad Bourque",
-    "publishedAt": "2026-09-09T20:42:51.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0034.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "1252cdbae3d176aa",
     "title": "Apple hawks $2k folding fondleslab",
     "excerpt": "It’s been a long time since Apple introduced a truly new product. The world finally got one today in the form of the folding iPhone Duo, and while it's new for Apple, it's not new for the industry. Nonetheless, Apple is once again hoping to validate a mostly moribund market as it did with tablets…",
@@ -525,7 +733,7 @@
   {
     "id": "32d15adec7ae6843",
     "title": "Factoring RSA 260",
-    "excerpt": "Article URL: https://cognition.com/blog/factoring-rsa-260 Comments URL: https://news.ycombinator.com/item?id=49633534 Points: 50 # Comments: 6",
+    "excerpt": "Article URL: https://cognition.com/blog/factoring-rsa-260 Comments URL: https://news.ycombinator.com/item?id=49633534 Points: 88 # Comments: 11",
     "url": "https://cognition.com/blog/factoring-rsa-260",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -598,19 +806,6 @@
     "publishedAt": "2026-09-09T19:56:18.000Z",
     "category": "hardware",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a5b7e0e0572a4f64",
-    "title": "Verge staffers react to the iPhone Duo: What we love and don’t love",
-    "excerpt": "Apple has just announced its first foldable iPhone, the iPhone Duo. The new phone has a 5.4-inch outer screen and a 7.6-inch inner screen, two back cameras, Touch ID for authentication, an IP68 rating, and all sorts of slick software tricks to make iOS feel more at home on the new device. Preorders…",
-    "url": "https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Verge Staff",
-    "publishedAt": "2026-09-09T19:45:00.000Z",
-    "category": "software",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0009.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -792,7 +987,7 @@
     "author": "staff@engadget.com (Cherlynn Low)",
     "publishedAt": "2026-09-09T18:39:20.000Z",
     "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/iphone-18-pro-hands-on/l-intro-1788984759.jpg",
+    "imageUrl": "https://www.engadget.com/img/gallery/iphone-18-pro-hands-on/l-intro-1789018280.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -850,7 +1045,7 @@
   {
     "id": "227061d064a98d5f",
     "title": "iPhone Duo",
-    "excerpt": "Article URL: https://www.apple.com/iphone-duo/ Comments URL: https://news.ycombinator.com/item?id=49630931 Points: 975 # Comments: 1762",
+    "excerpt": "Article URL: https://www.apple.com/iphone-duo/ Comments URL: https://news.ycombinator.com/item?id=49630931 Points: 1175 # Comments: 2059",
     "url": "https://www.apple.com/iphone-duo/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -939,22 +1134,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "ede108d80ff65fa2",
-    "title": "Apple Watch Series 12 will listen to your conversations",
-    "excerpt": "The Watch Series 12 delivers a host of upgrades and even comes in a ceramic body.",
-    "url": "https://www.engadget.com/2254031/apple-watch-series-12-will-listen-to-your-conversations/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Daniel Cooper)",
-    "publishedAt": "2026-09-09T17:58:11.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/apple-watch-series-12-will-listen-to-your-conversations/l-intro-1788980990.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "707b25cf57041ba7",
     "title": "Apple Watch Series 12",
-    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/ Comments URL: https://news.ycombinator.com/item?id=49630566 Points: 229 # Comments: 274",
+    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/ Comments URL: https://news.ycombinator.com/item?id=49630566 Points: 252 # Comments: 306",
     "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -965,35 +1147,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "43aec5d66f73189c",
-    "title": "Apple announces the iPhone Duo, the company's first foldable phone",
-    "excerpt": "After years of rumors, we've entered a new era of the iPhone.",
-    "url": "https://www.engadget.com/2254027/apple-iphone-duo-announced-specs-price/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Billy Steele)",
-    "publishedAt": "2026-09-09T17:55:57.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/apple-iphone-duo-announced-specs-price/l-intro-1788985835.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4f53ebab662f50d2",
-    "title": "Apple modestly upgrades the AirPods 5 with better noise cancellation",
-    "excerpt": "So far, no sign of the camera-laden AirPods.",
-    "url": "https://www.engadget.com/2254010/apple-modes-upgrade-to-the-airpods-5-is-better-noise-cancellation/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Jackson Chen)",
-    "publishedAt": "2026-09-09T17:46:39.000Z",
-    "category": "science",
-    "imageUrl": "https://www.engadget.com/img/gallery/apple-modes-upgrade-to-the-airpods-5-is-better-noise-cancellation/l-intro-1788977662.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "5b32cdc139a2d970",
     "title": "AirPods 5",
-    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/ Comments URL: https://news.ycombinator.com/item?id=49630253 Points: 397 # Comments: 318",
+    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/ Comments URL: https://news.ycombinator.com/item?id=49630253 Points: 445 # Comments: 362",
     "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1032,7 +1188,7 @@
   {
     "id": "15fbf084df0e1594",
     "title": "iPhone 18 Pro and iPhone 18 Pro Max",
-    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/ Comments URL: https://news.ycombinator.com/item?id=49630151 Points: 301 # Comments: 328",
+    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/ Comments URL: https://news.ycombinator.com/item?id=49630151 Points: 353 # Comments: 381",
     "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1058,7 +1214,7 @@
   {
     "id": "a76cf7777d6decb4",
     "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-    "excerpt": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 186 # Comments: 75",
+    "excerpt": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 211 # Comments: 82",
     "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1084,7 +1240,7 @@
   {
     "id": "8a013453e2c4bb4a",
     "title": "Growing proof that autonomous cars save lives",
-    "excerpt": "Article URL: https://spectrum.ieee.org/are-self-driving-cars-safe Comments URL: https://news.ycombinator.com/item?id=49629886 Points: 253 # Comments: 449",
+    "excerpt": "Article URL: https://spectrum.ieee.org/are-self-driving-cars-safe Comments URL: https://news.ycombinator.com/item?id=49629886 Points: 333 # Comments: 582",
     "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1175,7 +1331,7 @@
   {
     "id": "e9c5e48c9e69ef8e",
     "title": "The UN challenges five centuries of cartography",
-    "excerpt": "Article URL: https://www.not-ship.com/united-nations-map/ Comments URL: https://news.ycombinator.com/item?id=49629209 Points: 56 # Comments: 74",
+    "excerpt": "Article URL: https://www.not-ship.com/united-nations-map/ Comments URL: https://news.ycombinator.com/item?id=49629209 Points: 89 # Comments: 166",
     "url": "https://www.not-ship.com/united-nations-map/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1264,22 +1420,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "5cdb0d2e968b26ea",
-    "title": "Understanding the recent DDoS attack against Read the Docs",
-    "excerpt": "Article URL: https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/ Comments URL: https://news.ycombinator.com/item?id=49628614 Points: 166 # Comments: 55",
-    "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "davidfischer",
-    "publishedAt": "2026-09-09T15:55:53.000Z",
-    "category": "security",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "51f9d36828970757",
     "title": "GNU Radio in the browser",
-    "excerpt": "Article URL: https://gnuradioworld.com/ Comments URL: https://news.ycombinator.com/item?id=49628576 Points: 180 # Comments: 23",
+    "excerpt": "Article URL: https://gnuradioworld.com/ Comments URL: https://news.ycombinator.com/item?id=49628576 Points: 198 # Comments: 27",
     "url": "https://gnuradioworld.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1318,26 +1461,13 @@
   {
     "id": "6b944b3e9dd84b07",
     "title": "No Man's Sky Cosmos",
-    "excerpt": "Article URL: https://www.nomanssky.com/cosmos-update/ Comments URL: https://news.ycombinator.com/item?id=49628493 Points: 317 # Comments: 333",
+    "excerpt": "Article URL: https://www.nomanssky.com/cosmos-update/ Comments URL: https://news.ycombinator.com/item?id=49628493 Points: 371 # Comments: 386",
     "url": "https://www.nomanssky.com/cosmos-update/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "Limb",
     "publishedAt": "2026-09-09T15:47:42.000Z",
     "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "1546ced409840ef3",
-    "title": "Planet Labs' open satellite feed",
-    "excerpt": "Article URL: https://tech.marksblogg.com/planet-labs-open-satellite-feed.html Comments URL: https://news.ycombinator.com/item?id=49628429 Points: 151 # Comments: 27",
-    "url": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "marklit",
-    "publishedAt": "2026-09-09T15:44:09.000Z",
-    "category": "science",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1422,7 +1552,7 @@
   {
     "id": "4ef1fa7cd0579165",
     "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-    "excerpt": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 364 # Comments: 128",
+    "excerpt": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and Comments URL: https://news.ycombinator.com/item?id=49627370 Points: 409 # Comments: 134",
     "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1513,7 +1643,7 @@
   {
     "id": "cc50efc6763b3c92",
     "title": "Shopify acquires Tailwind",
-    "excerpt": "Article URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify Comments URL: https://news.ycombinator.com/item?id=49626190 Points: 923 # Comments: 367",
+    "excerpt": "Article URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify Comments URL: https://news.ycombinator.com/item?id=49626190 Points: 1012 # Comments: 389",
     "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1617,7 +1747,7 @@
   {
     "id": "46815a9fce93b9d5",
     "title": "How I advertise malicious software on Google Ads",
-    "excerpt": "Article URL: https://xlii.space/eng/malicious-software-on-google-ads/ Comments URL: https://news.ycombinator.com/item?id=49624856 Points: 367 # Comments: 222",
+    "excerpt": "Article URL: https://xlii.space/eng/malicious-software-on-google-ads/ Comments URL: https://news.ycombinator.com/item?id=49624856 Points: 397 # Comments: 242",
     "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1836,19 +1966,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "eee59ecd8ce17fc5",
-    "title": "Live updates: Bitcoin slips as yields head higher following Treasury buyback announcement",
-    "excerpt": "The Japanese yen extended its rally against the greenback, briefly strengthening past 153 per dollar.",
-    "url": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Shaurya Malwa",
-    "publishedAt": "2026-09-09T07:20:51.000Z",
-    "category": "crypto",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "2509baf6c1bc0b78",
     "title": "OpenAI Says It Has Cracked One of Math's 'Millennium Problems'",
     "excerpt": "An anonymous reader quotes a report from The New York Times: OpenAIsaid on Tuesday that its newest artificial intelligence technology had solved one of the \"Millennium Problems,\" a collection of important unanswered math questions meant to push the world's leading mathematicians to new heights. The…",
@@ -1875,19 +1992,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "db5e5431ae583953",
-    "title": "AI could kill us, Anthropic researcher says after resigning",
-    "excerpt": "The people building AI earnestly believe that it could kill us all by the end of the decade, Coxon said on X, explaining his resignation.",
-    "url": "https://www.coindesk.com/markets/2026/09/09/anthropic-researcher-quits-with-a-warning-on-ai-that-echoes-the-terminator-script",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Omkar Godbole",
-    "publishedAt": "2026-09-09T06:20:38.000Z",
-    "category": "ai",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/4560be8aed0a5640eda1469956aed80cce9bd960-6177x4118.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "6d6d5ef1a928952e",
     "title": "Philippines bets AI will lift GDP by 12 percent in seven years – without hurting outsourcing",
     "excerpt": "One of the few proven use cases for generative AI is automating customer service inquiries to reduce costs even further than it’s been possible to achieve by offshoring jobs to low-wage companies like the Philippines – which yesterday bet that its outsourcing industry will thrive even as it plans a…",
@@ -1898,45 +2002,6 @@
     "publishedAt": "2026-09-09T05:25:44.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=250045&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "476f2924099af3aa",
-    "title": "Hunter Biden defends LAPTOP ahead of Wednesday launch, calls TRUMP a ‘grift’",
-    "excerpt": "Biden says the token is about “resilience, redemption and recovery” and will give coins to nearly one million wallets that lost money on TRUMP.",
-    "url": "https://www.coindesk.com/markets/2026/09/09/hunter-biden-defends-laptop-ahead-of-wednesday-launch-calls-trump-a-grift",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Shaurya Malwa",
-    "publishedAt": "2026-09-09T05:22:57.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/df548a2f7265e0a4c214087c33b2506c6e001208-3000x1688.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "6f96e8e787cb9144",
-    "title": "Moonshot’s Kimi rattled markets. U.S. agencies now say it was trained on American models",
-    "excerpt": "Moonshot, whose Kimi model rattled markets earlier this year, is among six Chinese AI firms accused of systematically extracting capabilities from U.S. models.",
-    "url": "https://www.coindesk.com/tech/2026/09/09/moonshot-s-kimi-rattled-markets-u-s-agencies-now-say-it-was-trained-on-american-models",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Shaurya Malwa",
-    "publishedAt": "2026-09-09T04:40:54.000Z",
-    "category": "Crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/19c695f0f850d47563cc5e9ac2f4369815967c79-1200x800.webp?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "837732bd8dae5ace",
-    "title": "Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul",
-    "excerpt": "Bitcoin fell to nearly $77,600 on Tuesday before clawing most of it back, leaving it little changed on the day while zcash gained roughly 43% on the week and Grayscale's new fund crossed half a billion dollars.",
-    "url": "https://www.coindesk.com/markets/2026/09/09/bitcoin-recovers-toward-usd79-000-as-zcash-records-a-usd500-million-etf-haul",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Shaurya Malwa",
-    "publishedAt": "2026-09-09T04:35:55.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/271061a9323bf3f3cb0450115656ad79336f95d7-1528x824.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2135,19 +2200,6 @@
     "publishedAt": "2026-09-08T21:11:46.000Z",
     "category": "ai",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ef5f4549e9e64d99",
-    "title": "Meta Debuts Muse, Its Long-Planned Personal AI Agent",
-    "excerpt": "Meta has launched Muse, a personal AI agent developed under chief AI officer Alexandr Wang. \"The product, long in development, was touted as a key next step by CEO Mark Zuckerberg in his recent 6,500-word manifesto,\" reports Axios. From the report: Muse, as the agent is known, exists in a chat…",
-    "url": "https://meta.slashdot.org/story/26/09/08/2012246/meta-debuts-muse-its-long-planned-personal-ai-agent?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-09-08T21:00:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -2619,32 +2671,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "3ea1a4d597ab4f93",
-    "title": "Nightwing CEO has a Labor Day message for staff – and apparently The Register",
-    "excerpt": "Nightwing CEO Bob Coleman wanted to thank his employees for their hard work over the Labor Day weekend. Unfortunately, he also thanked The Register. The cybersecurity and intelligence contractor, which prides itself on “secure communications,” appears to have accidentally sent a…",
-    "url": "https://www.theregister.com/security/2026/09/07/nightwing-ceo-has-a-labor-day-message-for-staff-and-apparently-the-register/5294819",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-07T14:43:00.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=5254719&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "67e2c3176e6f60e9",
-    "title": "Oracle may be next in EU software licensing hot seat following SAP deal",
-    "excerpt": "The European Commission (EC) may be laying the groundwork for an investigation into Oracle's software licensing practices, according to reports. The scrutiny follows the EC's investigation into fellow enterprise software vendor SAP, which ended with the Commission accepting legally binding…",
-    "url": "https://www.theregister.com/software/2026/09/07/oracle-may-be-next-in-eu-software-licensing-hot-seat-following-sap-deal/5294805",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-07T13:56:51.000Z",
-    "category": "software",
-    "imageUrl": "https://image.theregister.com/?imageId=241510&width=800",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "827351c0559b3ceb",
     "title": "Ubuntu 26.10 amd64v3 Daily ISOs Now Being Published",
     "excerpt": "As an interesting development for Ubuntu 26.10, the daily ISOs of the \"Stonking Stingray\" now include amd64v3 images...",
@@ -2655,32 +2681,6 @@
     "publishedAt": "2026-09-07T13:36:20.000Z",
     "category": "hardware",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "bd51b8a92015707c",
-    "title": "Hackers drain $320M in Bitcoin from Liquid Network, claim they're the good guys",
-    "excerpt": "Hackers have drained roughly $320 million in Bitcoin from the federation wallet backing the Liquid Network, while claiming to be the good guys. Liquid, a Bitcoin sidechain developed by Blockstream and used by exchanges and other financial institutions, said in a post on X on Sunday that around…",
-    "url": "https://www.theregister.com/security/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/5294770",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-07T13:26:00.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=262699&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "97352c5fef441d93",
-    "title": "Asahi Linux takes on Apple M3, minus a few creature comforts",
-    "excerpt": "The Asahi Linux gang has announced support for Apple's M3 silicon, with a few ifs and buts for owners that want to try out the code on their hardware. According to the project, \"Asahi Linux now officially supports Macs with an M3 series SoC!\" There are, however, some substantial caveats. Want…",
-    "url": "https://www.theregister.com/os-platforms/2026/09/07/asahi-linux-takes-on-apple-m3-minus-a-few-creature-comforts/5294788",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-07T13:01:09.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=261233&width=800",
     "readTimeMinutes": 1
   },
   {
