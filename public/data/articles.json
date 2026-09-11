@@ -1,5 +1,148 @@
 [
   {
+    "id": "70b3cdf6eaa0506a",
+    "title": "Bitcoin below $77,000, Zcash leads losses as traders bet on a Fed rate hike",
+    "excerpt": "Ninety-five of the CoinDesk 100 fell over the past 24 hours, and bitcoin has shed more than 5% on the week.",
+    "url": "https://www.coindesk.com/markets/2026/09/11/bitcoin-below-usd77-000-zcash-leads-losses-as-traders-bet-on-a-fed-rate-hike",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-09-11T04:46:15.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/a53e2f62ad9d1a24b5d39adee59d91e931e9aea6-1506x842.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e4c23f40cc19f85e",
+    "title": "Ripple puts AI agents inside its $1 billion corporate treasury bet",
+    "excerpt": "The software can monitor cash, risk and forecasts and suggest financial moves, but humans still have to approve every action.",
+    "url": "https://www.coindesk.com/markets/2026/09/11/ripple-puts-ai-agents-inside-its-usd1-billion-corporate-treasury-bet",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-09-11T04:25:21.000Z",
+    "category": "hardware",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/260b57a4fe560b018cc5f2eb91b9df196b57dc92-3773x2122.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d2199dd1e3f8d3b1",
+    "title": "Exercise intensity is associated with cardiometabolic health",
+    "excerpt": "Article URL: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2 Comments URL: https://news.ycombinator.com/item?id=49653328 Points: 19 # Comments: 3",
+    "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "qclibre22",
+    "publishedAt": "2026-09-11T03:48:10.000Z",
+    "category": "science",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2a8a09d4edb3b11e",
+    "title": "Climate 'Feedback Loops' Could Worsen Global Warming By 30%, Study Finds",
+    "excerpt": "An anonymous reader quotes a report from The Guardian: Rising global temperatures caused by the burning of fossil fuels are transforming the world's forests, wetlands and tundra to the point they are releasing emissions that could further worsen global heating by as much as 30%, a new study has…",
+    "url": "https://news.slashdot.org/story/26/09/11/0014223/climate-feedback-loops-could-worsen-global-warming-by-30-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-09-11T03:30:00.000Z",
+    "category": "software",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1068961fe33b39f8",
+    "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+    "excerpt": "Article URL: https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/ Comments URL: https://news.ycombinator.com/item?id=49652237 Points: 107 # Comments: 43",
+    "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "rguiscard",
+    "publishedAt": "2026-09-11T01:00:56.000Z",
+    "category": "security",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "493a55011a2206e4",
+    "title": "BeOS-Inspired Haiku Now Supports Changing Audio Outputs Live, Other Improvements",
+    "excerpt": "In addition to August bringing the long-awaited Haiku R1 Beta 6 release, there was also a lot of development progress on this BeOS-inspired operating system too during the course of the past month...",
+    "url": "https://www.phoronix.com/news/Haiku-OS-August-2026",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-11T00:55:29.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "fb184358728431ef",
+    "title": "Herdr Studio",
+    "excerpt": "Article URL: https://powerfooI.github.io/herdr-studio/ Comments URL: https://news.ycombinator.com/item?id=49652188 Points: 16 # Comments: 10",
+    "url": "https://powerfooI.github.io/herdr-studio/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "throwaway888abc",
+    "publishedAt": "2026-09-11T00:54:36.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1ccbec204999a930",
+    "title": "Setting up OpenCode with Ollama and sbx on Mac",
+    "excerpt": "Article URL: https://tensorsandtokens.com/posts/opencode-ollama/ Comments URL: https://news.ycombinator.com/item?id=49652122 Points: 21 # Comments: 11",
+    "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "etoxin",
+    "publishedAt": "2026-09-11T00:45:26.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d73c7d39c95d5e6b",
+    "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+    "excerpt": "Article URL: https://www.bbc.com/news/articles/c8r6y4me2g6o Comments URL: https://news.ycombinator.com/item?id=49652105 Points: 148 # Comments: 109",
+    "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "lukaspetersson",
+    "publishedAt": "2026-09-11T00:42:41.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "15e2051c5046525f",
+    "title": "YuE2 · Frontier Music with Symbolic Planning",
+    "excerpt": "Article URL: https://map-yue2.github.io/ Comments URL: https://news.ycombinator.com/item?id=49652028 Points: 69 # Comments: 60",
+    "url": "https://map-yue2.github.io/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "sexy_seedbox",
+    "publishedAt": "2026-09-11T00:33:26.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7068f4bd3401bbcf",
+    "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+    "excerpt": "Article URL: https://system76.com/workstations/thelio-mira-ai Comments URL: https://news.ycombinator.com/item?id=49651372 Points: 67 # Comments: 42",
+    "url": "https://system76.com/workstations/thelio-mira-ai",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "jonifico",
+    "publishedAt": "2026-09-10T23:10:06.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "ce260f804cc6e6f1",
     "title": "iPhone 18 Pro Max vs Samsung Galaxy S26 Ultra: How these XL phones compete",
     "excerpt": "Apple or Samsung? It really comes down to which ecosystem you prefer.",
@@ -36,6 +179,19 @@
     "publishedAt": "2026-09-10T22:59:00.000Z",
     "category": "ai",
     "imageUrl": "https://image.theregister.com/?imageId=5295712&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "05ca3a4b555e7b83",
+    "title": "Nine coding harnesses vs. your laptop",
+    "excerpt": "Article URL: https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74 Comments URL: https://news.ycombinator.com/item?id=49651221 Points: 16 # Comments: 0",
+    "url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "nasutton12",
+    "publishedAt": "2026-09-10T22:54:01.000Z",
+    "category": "hardware",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -145,7 +301,7 @@
   {
     "id": "0fc721ba653083a4",
     "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
-    "excerpt": "Article URL: https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx Comments URL: https://news.ycombinator.com/item?id=49650418 Points: 41 # Comments: 56",
+    "excerpt": "Article URL: https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx Comments URL: https://news.ycombinator.com/item?id=49650418 Points: 80 # Comments: 125",
     "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -166,19 +322,6 @@
     "publishedAt": "2026-09-10T21:25:21.000Z",
     "category": "startups",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "0c423cdb6ebab28c",
-    "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
-    "excerpt": "Article URL: https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/ Comments URL: https://news.ycombinator.com/item?id=49650326 Points: 126 # Comments: 124",
-    "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "ibobev",
-    "publishedAt": "2026-09-10T21:22:59.000Z",
-    "category": "ai",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -286,19 +429,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "f0c8eb77f335f260",
-    "title": "Bodily Oddities",
-    "excerpt": "Article URL: https://vester.si/bodily-oddities/ Comments URL: https://news.ycombinator.com/item?id=49649789 Points: 47 # Comments: 38",
-    "url": "https://vester.si/bodily-oddities/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "vesterde",
-    "publishedAt": "2026-09-10T20:33:11.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "142d225171d57010",
     "title": "Don't buy the 'regular' AirPods 5",
     "excerpt": "The first time you need to adjust volume, you'll wish you'd spent that extra $20.",
@@ -379,7 +509,7 @@
   {
     "id": "ffe91d848f41d8dc",
     "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
-    "excerpt": "Article URL: https://merybenavente.me/blog/proof-of-capture Comments URL: https://news.ycombinator.com/item?id=49649222 Points: 59 # Comments: 41",
+    "excerpt": "Article URL: https://merybenavente.me/blog/proof-of-capture Comments URL: https://news.ycombinator.com/item?id=49649222 Points: 82 # Comments: 51",
     "url": "https://merybenavente.me/blog/proof-of-capture",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -405,7 +535,7 @@
   {
     "id": "3dffb20e2b3c17ea",
     "title": "OpenAI Agents API",
-    "excerpt": "Article URL: https://developers.openai.com/api/docs/guides/agents-api/overview Comments URL: https://news.ycombinator.com/item?id=49649213 Points: 99 # Comments: 68",
+    "excerpt": "Article URL: https://developers.openai.com/api/docs/guides/agents-api/overview Comments URL: https://news.ycombinator.com/item?id=49649213 Points: 187 # Comments: 118",
     "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -418,7 +548,7 @@
   {
     "id": "ccdf536e83e544e5",
     "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
-    "excerpt": "Article URL: https://auberon.xyz/blog/posts/deathray/ Comments URL: https://news.ycombinator.com/item?id=49649124 Points: 60 # Comments: 36",
+    "excerpt": "Article URL: https://auberon.xyz/blog/posts/deathray/ Comments URL: https://news.ycombinator.com/item?id=49649124 Points: 121 # Comments: 76",
     "url": "https://auberon.xyz/blog/posts/deathray/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -439,19 +569,6 @@
     "publishedAt": "2026-09-10T19:09:29.000Z",
     "category": "science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Envision-1152x648-1789054779.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ebb53a4f1e6d87f8",
-    "title": "Creativity is the new moat",
-    "excerpt": "Article URL: https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat Comments URL: https://news.ycombinator.com/item?id=49648732 Points: 125 # Comments: 65",
-    "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "virgil_disgr4ce",
-    "publishedAt": "2026-09-10T19:03:34.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -665,7 +782,7 @@
   {
     "id": "5e851ed2e0667503",
     "title": "JEP 544: Ahead-of-Time Code Compilation",
-    "excerpt": "Article URL: https://openjdk.org/jeps/544 Comments URL: https://news.ycombinator.com/item?id=49647404 Points: 71 # Comments: 24",
+    "excerpt": "Article URL: https://openjdk.org/jeps/544 Comments URL: https://news.ycombinator.com/item?id=49647404 Points: 84 # Comments: 29",
     "url": "https://openjdk.org/jeps/544",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -691,7 +808,7 @@
   {
     "id": "d957d6c999575906",
     "title": "Detecting and countering misuse of AI: September 2026",
-    "excerpt": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a... Comments URL: https://news.ycombinator.com/item?id=49647300 Points: 73 # Comments: 138",
+    "excerpt": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a... Comments URL: https://news.ycombinator.com/item?id=49647300 Points: 103 # Comments: 176",
     "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -717,7 +834,7 @@
   {
     "id": "9e03277e88518b27",
     "title": "Music Theory for the 21st-Century Classroom",
-    "excerpt": "Article URL: https://musictheory.pugetsound.edu/mt21c/MusicTheory.html Comments URL: https://news.ycombinator.com/item?id=49647134 Points: 143 # Comments: 71",
+    "excerpt": "Article URL: https://musictheory.pugetsound.edu/mt21c/MusicTheory.html Comments URL: https://news.ycombinator.com/item?id=49647134 Points: 185 # Comments: 84",
     "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -803,19 +920,6 @@
     "publishedAt": "2026-09-10T16:53:52.000Z",
     "category": "hardware",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Drone-Nepal-flood-disaster-relief-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "579e626a254093ef",
-    "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
-    "excerpt": "Article URL: https://tokenstead.ai/models/swe-2 Comments URL: https://news.ycombinator.com/item?id=49646778 Points: 55 # Comments: 25",
-    "url": "https://tokenstead.ai/models/swe-2",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "cdnsteve",
-    "publishedAt": "2026-09-10T16:52:11.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -925,7 +1029,7 @@
   {
     "id": "fa7bd8e6fd84b6ff",
     "title": "Forgejo <=16.0.3 Critical RCE",
-    "excerpt": "Article URL: https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md Comments URL: https://news.ycombinator.com/item?id=49645907 Points: 145 # Comments: 54",
+    "excerpt": "Article URL: https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md Comments URL: https://news.ycombinator.com/item?id=49645907 Points: 160 # Comments: 59",
     "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -937,7 +1041,7 @@
   },
   {
     "id": "25d34096de29efef",
-    "title": "Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK",
+    "title": "Monument Bank delays retail tokenized deposits while onboarding custody partner",
     "excerpt": "The London-based challenger bank tapped a Canadian custodian to meet the Financial Conduct Authority’s regulatory requirements. It now expects to roll out retail tokenized deposits by November.",
     "url": "https://www.coindesk.com/business/2026/09/10/monument-bank-delays-retail-tokenized-deposits-cites-regulatory-issues-in-the-uk",
     "source": "CoinDesk",
@@ -946,19 +1050,6 @@
     "publishedAt": "2026-09-10T15:53:24.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/ecdda2c4e8818fb75de87159f1697cfaed7876fb-2400x1350.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a51420107f548057",
-    "title": "Silicon Valley is transforming the military-industrial complex?",
-    "excerpt": "Article URL: https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex Comments URL: https://news.ycombinator.com/item?id=49645754 Points: 144 # Comments: 282",
-    "url": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "paimapi",
-    "publishedAt": "2026-09-10T15:47:50.000Z",
-    "category": "science",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -977,7 +1068,7 @@
   {
     "id": "d5b330bed085b599",
     "title": "Neki – Sharded Postgres",
-    "excerpt": "Article URL: https://planetscale.com/blog/introducing-neki Comments URL: https://news.ycombinator.com/item?id=49645686 Points: 189 # Comments: 100",
+    "excerpt": "Article URL: https://planetscale.com/blog/introducing-neki Comments URL: https://news.ycombinator.com/item?id=49645686 Points: 218 # Comments: 120",
     "url": "https://planetscale.com/blog/introducing-neki",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1003,7 +1094,7 @@
   {
     "id": "403f674bcee8f9cc",
     "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-    "excerpt": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 343 # Comments: 140",
+    "excerpt": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 382 # Comments: 161",
     "url": "https://cognition.com/blog/swe-2",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1016,7 +1107,7 @@
   {
     "id": "20a18063144debff",
     "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
-    "excerpt": "https://dstretch.com/DecorrelationStretch.pdf https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-... Comments URL: https://news.ycombinator.com/item?id=49645437 Points: 256 # Comments: 38",
+    "excerpt": "https://dstretch.com/DecorrelationStretch.pdf https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-... Comments URL: https://news.ycombinator.com/item?id=49645437 Points: 293 # Comments: 46",
     "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1029,7 +1120,7 @@
   {
     "id": "62d04695dab0ddba",
     "title": "Don't let anyone take away your big box of cables",
-    "excerpt": "Article URL: https://blog.jim-nielsen.com/2026/hands-off-my-cables/ Comments URL: https://news.ycombinator.com/item?id=49645393 Points: 290 # Comments: 226",
+    "excerpt": "Article URL: https://blog.jim-nielsen.com/2026/hands-off-my-cables/ Comments URL: https://news.ycombinator.com/item?id=49645393 Points: 395 # Comments: 285",
     "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1261,19 +1352,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "ccf40ae115f1048c",
-    "title": "Shopify is moving from React Native back to Swift and Kotlin",
-    "excerpt": "Article URL: https://shopify.engineering/back-to-native Comments URL: https://news.ycombinator.com/item?id=49643982 Points: 724 # Comments: 479",
-    "url": "https://shopify.engineering/back-to-native",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "fnthawar2",
-    "publishedAt": "2026-09-10T14:09:31.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "ed93cf017106c7e0",
     "title": "Nscale swallows lion's share of UK datacenter investment",
     "excerpt": "Nscale accounts for nearly two-thirds of the equity funding raised by UK datacenter infrastructure companies, according to a report from Tracxn. The market research firm identifies the rent-a-GPU operation as the only unicorn – a privately held company valued at more than $1 billion – in Britain's…",
@@ -1297,19 +1375,6 @@
     "publishedAt": "2026-09-10T13:56:54.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/0787d5f032ca85f77ffa1a385d7fd6d77c3d64a6-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c3aba4d13cd3eb24",
-    "title": "Rust is tier-1 language at Microsoft",
-    "excerpt": "Article URL: https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/ Comments URL: https://news.ycombinator.com/item?id=49643546 Points: 586 # Comments: 323",
-    "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "mmastrac",
-    "publishedAt": "2026-09-10T13:39:16.000Z",
-    "category": "crypto",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1452,7 +1517,7 @@
     "author": "staff@engadget.com (Cherlynn Low)",
     "publishedAt": "2026-09-10T12:30:00.000Z",
     "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/apple-watch-series-12-hands-on-new-sensing-system-health-features-and-audio-intelligence/l-intro-1789004620.jpg",
+    "imageUrl": "https://www.engadget.com/img/gallery/apple-watch-series-12-hands-on-siri-recap-transcribe-live-rewind-health-sensing/l-intro-1789091316.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1729,19 +1794,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "7040bcc06f184be9",
-    "title": "What algorithm did Windows XP use to choose your initial user picture?",
-    "excerpt": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683 Comments URL: https://news.ycombinator.com/item?id=49640646 Points: 336 # Comments: 165",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "soheilpro",
-    "publishedAt": "2026-09-10T09:04:14.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "4d2135725be8336c",
     "title": "Live updates: Bitcoin slumps as oil and bond yields surge to new highs",
     "excerpt": "The ECB hiked rates earlier Thursday, and U.S. core PPI was softer than expected, but still running hot.",
@@ -1830,19 +1882,6 @@
     "publishedAt": "2026-09-10T05:30:15.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/7aa08ce1ab67582761b88b71cd110f1937a343c8-1526x848.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "64c935c1613d03d2",
-    "title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
-    "excerpt": "Coinbase CEO tells CNBC the crypto industry gets regulatory clarity whether or not the Senate passes the bill on Sept. 15.",
-    "url": "https://www.coindesk.com/markets/2026/09/10/crypto-wins-regardless-of-clarity-act-vote-coinbase-s-armstrong-says",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Omkar Godbole",
-    "publishedAt": "2026-09-10T05:05:41.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/9411c764a451101a37d939489f6f10515a33d0a9-3244x1825.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2057,19 +2096,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "a5a8486cbf508f24",
-    "title": "OpenAI's Rogue Agents Used At Least 10 More Sites For Unauthorized Communications",
-    "excerpt": "An anonymous reader quotes a report from Reuters: AI agents unleashed by OpenAI used more than 10 previously undisclosed websites for unsanctioned communications earlier this year, according to six sets of independent investigators and data reviewed by Reuters, showing that the agents' rogue…",
-    "url": "https://slashdot.org/story/26/09/09/1937259/openais-rogue-agents-used-at-least-10-more-sites-for-unauthorized-communications?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-09-09T20:00:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "b05a28e3242ebfd9",
     "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
     "excerpt": "Apple ended today's hardware event with one of its classic \"One more thing\" reveals. Some smartphone makers have been offering foldable phones for the better part of a decade, but Apple has now joined the fray with the iPhone Duo after years of speculation . This device is undeniably the most…",
@@ -2197,19 +2223,6 @@
     "publishedAt": "2026-09-09T16:56:41.000Z",
     "category": "science",
     "imageUrl": "https://image.theregister.com/?imageId=5295348&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "258c501e3608db2c",
-    "title": "Robinhood CEO Vlad Tenev fires back at AMC's Aron in escalating fight over stock tokens",
-    "excerpt": "Tenev told CNBC's \"Squawk Box\" on Wednesday that public companies shouldn't have veto power over third-party securities that reference their shares.",
-    "url": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Helene Braun",
-    "publishedAt": "2026-09-09T16:11:07.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/777380e065809566f31e83f71a5eab0c67e97d87-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2749,19 +2762,6 @@
     "sourceHomepage": "https://www.phoronix.com",
     "author": "Michael Larabel",
     "publishedAt": "2026-09-08T10:41:09.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "aadf5dcc737cd650",
-    "title": "DirectX Support Promoted To Official Target Within LLVM",
-    "excerpt": "Over the past four years there has been a lot of work on a DirectX back-end within the LLVM compiler stack. Microsoft has backed the initiative for being able to lower LLVM IR into the DirectX Intermediate Language (DXIL) for execution by Windows DirectX 12 graphics drivers. This back-end is now…",
-    "url": "https://www.phoronix.com/news/LLVM-DirectX-Backend-Official",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-08T10:21:51.000Z",
     "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
