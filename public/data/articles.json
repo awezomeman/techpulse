@@ -1,5 +1,96 @@
 [
   {
+    "id": "ce260f804cc6e6f1",
+    "title": "iPhone 18 Pro Max vs Samsung Galaxy S26 Ultra: How these XL phones compete",
+    "excerpt": "Apple or Samsung? It really comes down to which ecosystem you prefer.",
+    "url": "https://www.engadget.com/2255321/iphone-18-pro-max-vs-samsung-galaxy-s26-ultra-comparison/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Filipe Espósito)",
+    "publishedAt": "2026-09-10T23:00:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/iphone-18-pro-max-vs-samsung-galaxy-s26-ultra-how-these-xl-phones-compete/l-intro-1789068272.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a80b24bb4b9736f6",
+    "title": "Latest Apple Watch Can Grab Snippets of Conversation Without Both Speakers' Consent",
+    "excerpt": "Apple's new Audio Intelligence features for the Apple Watch Series 12 are drawing privacy concerns because they can process nearby conversations without explicit consent from everyone involved. \"Live Rewind lets you instantly see the last 15 seconds of a conversation as text,\" Apple explains in its…",
+    "url": "https://apple.slashdot.org/story/26/09/10/2221244/latest-apple-watch-can-grab-snippets-of-conversation-without-both-speakers-consent?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-09-10T23:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ac03e381c760c1e6",
+    "title": "OpenAI arms devs with AI conversation tool that can talk and listen at the same time",
+    "excerpt": "OpenAI has launched a version of its latest real-time full-duplex voice model as an API, allowing software developers to implement more responsive voice-enabled apps and conversational workflows. GPT-Live-1 debuted in July, offering a way to interact through spoken prompts and responses instead of…",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/10/openai-arms-devs-with-ai-conversation-tool-that-can-talk-and-listen-at-the-same-time/5295708",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-10T22:59:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://image.theregister.com/?imageId=5295712&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1e5875b9f6154666",
+    "title": "CA governor signs 'landmark' laws on youth use of social media and AI chatbots",
+    "excerpt": "They're aimed at protecting minors, but the rules are not universally supported.",
+    "url": "https://www.engadget.com/2255569/ca-governor-signs-landmark-laws-on-youth-use-of-social-media-and-ai-chatbots/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Anna Washenko)",
+    "publishedAt": "2026-09-10T22:45:45.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/ca-governor-signs-landmark-laws-on-youth-use-of-social-media-and-ai-chatbots/l-intro-1789080229.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1669783ffdf81089",
+    "title": "Latest Anthropic horror story chills with tales of kamikaze drone swarms and bioweapons research",
+    "excerpt": "In the latest installment of \"my AI model is more dangerous than yours,\" Anthropic on Thursday warned that cybercriminals and state-sponsored hackers alike are using its Claude models to automate cyberattacks, build kamikaze drone swarms, conduct mass surveillance operations, and try to develop an…",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/10/latest-anthropic-horror-story-chills-with-tales-of-kamikaze-drone-swarms-and-bioweapons-research/5295702",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-10T22:38:35.000Z",
+    "category": "ai",
+    "imageUrl": "https://image.theregister.com/?imageId=225154&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6f98020f2f157136",
+    "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+    "excerpt": "Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
+    "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Connie Loizos",
+    "publishedAt": "2026-09-10T22:30:00.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f02c9eba9c6c9d71",
+    "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
+    "excerpt": "Fears that modern electronic devices may harm children are nothing new. Gadgets with screens of any size have long been allegedly melting, rotting, and/or corrupting the brains of youths for decades. However, a medical case report published this week offers a new and alarming way our digital…",
+    "url": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Beth Mole",
+    "publishedAt": "2026-09-10T22:16:05.000Z",
+    "category": "hardware",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1370964080-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "8530c3416ce6c9b9",
     "title": "GIMP 3.2.6 Released With Some Early Preparations Toward Eventual GTK4 Port",
     "excerpt": "The long-awaited GIMP 3.0 release for transitioning from GTK2 to GTK3 only saw its stable release last year. But with GTK4 already being out for years, GIMP developers have begun making some very early preparations toward an inevitable GTK4 port...",
@@ -53,8 +144,8 @@
   },
   {
     "id": "0fc721ba653083a4",
-    "title": "NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami",
-    "excerpt": "Article URL: https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx Comments URL: https://news.ycombinator.com/item?id=49650418 Points: 20 # Comments: 15",
+    "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
+    "excerpt": "Article URL: https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx Comments URL: https://news.ycombinator.com/item?id=49650418 Points: 41 # Comments: 56",
     "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -79,14 +170,14 @@
   },
   {
     "id": "0c423cdb6ebab28c",
-    "title": "The part of Navier-Stokes no one is talking about",
-    "excerpt": "Article URL: https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/ Comments URL: https://news.ycombinator.com/item?id=49650326 Points: 78 # Comments: 55",
+    "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+    "excerpt": "Article URL: https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/ Comments URL: https://news.ycombinator.com/item?id=49650326 Points: 126 # Comments: 124",
     "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "ibobev",
     "publishedAt": "2026-09-10T21:22:59.000Z",
-    "category": "startups",
+    "category": "ai",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -197,7 +288,7 @@
   {
     "id": "f0c8eb77f335f260",
     "title": "Bodily Oddities",
-    "excerpt": "Article URL: https://vester.si/bodily-oddities/ Comments URL: https://news.ycombinator.com/item?id=49649789 Points: 11 # Comments: 12",
+    "excerpt": "Article URL: https://vester.si/bodily-oddities/ Comments URL: https://news.ycombinator.com/item?id=49649789 Points: 47 # Comments: 38",
     "url": "https://vester.si/bodily-oddities/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -288,7 +379,7 @@
   {
     "id": "ffe91d848f41d8dc",
     "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
-    "excerpt": "Article URL: https://merybenavente.me/blog/proof-of-capture Comments URL: https://news.ycombinator.com/item?id=49649222 Points: 29 # Comments: 28",
+    "excerpt": "Article URL: https://merybenavente.me/blog/proof-of-capture Comments URL: https://news.ycombinator.com/item?id=49649222 Points: 59 # Comments: 41",
     "url": "https://merybenavente.me/blog/proof-of-capture",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -314,13 +405,26 @@
   {
     "id": "3dffb20e2b3c17ea",
     "title": "OpenAI Agents API",
-    "excerpt": "Article URL: https://developers.openai.com/api/docs/guides/agents-api/overview Comments URL: https://news.ycombinator.com/item?id=49649213 Points: 43 # Comments: 38",
+    "excerpt": "Article URL: https://developers.openai.com/api/docs/guides/agents-api/overview Comments URL: https://news.ycombinator.com/item?id=49649213 Points: 99 # Comments: 68",
     "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "aquir",
     "publishedAt": "2026-09-10T19:43:22.000Z",
     "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ccdf536e83e544e5",
+    "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+    "excerpt": "Article URL: https://auberon.xyz/blog/posts/deathray/ Comments URL: https://news.ycombinator.com/item?id=49649124 Points: 60 # Comments: 36",
+    "url": "https://auberon.xyz/blog/posts/deathray/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "auberonedu",
+    "publishedAt": "2026-09-10T19:34:20.000Z",
+    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -339,8 +443,8 @@
   },
   {
     "id": "ebb53a4f1e6d87f8",
-    "title": "Creativity is the New Moat",
-    "excerpt": "Article URL: https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat Comments URL: https://news.ycombinator.com/item?id=49648732 Points: 98 # Comments: 53",
+    "title": "Creativity is the new moat",
+    "excerpt": "Article URL: https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat Comments URL: https://news.ycombinator.com/item?id=49648732 Points: 125 # Comments: 65",
     "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -561,7 +665,7 @@
   {
     "id": "5e851ed2e0667503",
     "title": "JEP 544: Ahead-of-Time Code Compilation",
-    "excerpt": "Article URL: https://openjdk.org/jeps/544 Comments URL: https://news.ycombinator.com/item?id=49647404 Points: 54 # Comments: 22",
+    "excerpt": "Article URL: https://openjdk.org/jeps/544 Comments URL: https://news.ycombinator.com/item?id=49647404 Points: 71 # Comments: 24",
     "url": "https://openjdk.org/jeps/544",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -587,7 +691,7 @@
   {
     "id": "d957d6c999575906",
     "title": "Detecting and countering misuse of AI: September 2026",
-    "excerpt": "Article URL: https://www.anthropic.com/threat-intelligence-report-september-2026 Comments URL: https://news.ycombinator.com/item?id=49647300 Points: 42 # Comments: 22",
+    "excerpt": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a... Comments URL: https://news.ycombinator.com/item?id=49647300 Points: 73 # Comments: 138",
     "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -613,7 +717,7 @@
   {
     "id": "9e03277e88518b27",
     "title": "Music Theory for the 21st-Century Classroom",
-    "excerpt": "Article URL: https://musictheory.pugetsound.edu/mt21c/MusicTheory.html Comments URL: https://news.ycombinator.com/item?id=49647134 Points: 116 # Comments: 58",
+    "excerpt": "Article URL: https://musictheory.pugetsound.edu/mt21c/MusicTheory.html Comments URL: https://news.ycombinator.com/item?id=49647134 Points: 143 # Comments: 71",
     "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -690,8 +794,8 @@
   },
   {
     "id": "6877b7a343580c4f",
-    "title": "Drones deliver food and remove bodies after Nepal’s flood disaster",
-    "excerpt": "Chinese-made drones are airlifting the bodies of flood victims and delivering food to survivors in the aftermath of devastating flash floods on the border of Nepal and China’s Tibetan region. Nepal’s army has been using four DJI FlyCart 100 drones donated from China to make 10 to 16 aid deliveries…",
+    "title": "China’s drone supremacy shows in airlifting bodies and food after Nepal flood disaster",
+    "excerpt": "Chinese-made drones are flying out the bodies of flood victims and delivering food to survivors in the aftermath of devastating flash floods on the border of Nepal and China’s Tibetan region. Nepal’s army has been using four DJI FlyCart 100 drones donated from China to make 10 to 16 aid deliveries…",
     "url": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
     "source": "Ars Technica",
     "sourceHomepage": "https://arstechnica.com",
@@ -704,7 +808,7 @@
   {
     "id": "579e626a254093ef",
     "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
-    "excerpt": "Article URL: https://tokenstead.ai/models/swe-2 Comments URL: https://news.ycombinator.com/item?id=49646778 Points: 46 # Comments: 22",
+    "excerpt": "Article URL: https://tokenstead.ai/models/swe-2 Comments URL: https://news.ycombinator.com/item?id=49646778 Points: 55 # Comments: 25",
     "url": "https://tokenstead.ai/models/swe-2",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -821,7 +925,7 @@
   {
     "id": "fa7bd8e6fd84b6ff",
     "title": "Forgejo <=16.0.3 Critical RCE",
-    "excerpt": "Article URL: https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md Comments URL: https://news.ycombinator.com/item?id=49645907 Points: 122 # Comments: 47",
+    "excerpt": "Article URL: https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md Comments URL: https://news.ycombinator.com/item?id=49645907 Points: 145 # Comments: 54",
     "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -846,8 +950,8 @@
   },
   {
     "id": "a51420107f548057",
-    "title": "Silicon Valley Is Transforming the Military-Industrial Complex",
-    "excerpt": "Article URL: https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex Comments URL: https://news.ycombinator.com/item?id=49645754 Points: 129 # Comments: 243",
+    "title": "Silicon Valley is transforming the military-industrial complex?",
+    "excerpt": "Article URL: https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex Comments URL: https://news.ycombinator.com/item?id=49645754 Points: 144 # Comments: 282",
     "url": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -872,14 +976,14 @@
   },
   {
     "id": "d5b330bed085b599",
-    "title": "Neki",
-    "excerpt": "Article URL: https://planetscale.com/blog/introducing-neki Comments URL: https://news.ycombinator.com/item?id=49645686 Points: 178 # Comments: 72",
+    "title": "Neki – Sharded Postgres",
+    "excerpt": "Article URL: https://planetscale.com/blog/introducing-neki Comments URL: https://news.ycombinator.com/item?id=49645686 Points: 189 # Comments: 100",
     "url": "https://planetscale.com/blog/introducing-neki",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "simon_weber",
     "publishedAt": "2026-09-10T15:43:49.000Z",
-    "category": "startups",
+    "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -899,7 +1003,7 @@
   {
     "id": "403f674bcee8f9cc",
     "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-    "excerpt": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 318 # Comments: 130",
+    "excerpt": "Article URL: https://cognition.com/blog/swe-2 Comments URL: https://news.ycombinator.com/item?id=49645443 Points: 343 # Comments: 140",
     "url": "https://cognition.com/blog/swe-2",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -910,10 +1014,10 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "2076cbdbd673e236",
-    "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
-    "excerpt": "Article URL: https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844 Comments URL: https://news.ycombinator.com/item?id=49645437 Points: 227 # Comments: 36",
-    "url": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
+    "id": "20a18063144debff",
+    "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+    "excerpt": "https://dstretch.com/DecorrelationStretch.pdf https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-... Comments URL: https://news.ycombinator.com/item?id=49645437 Points: 256 # Comments: 38",
+    "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "gumby",
@@ -925,7 +1029,7 @@
   {
     "id": "62d04695dab0ddba",
     "title": "Don't let anyone take away your big box of cables",
-    "excerpt": "Article URL: https://blog.jim-nielsen.com/2026/hands-off-my-cables/ Comments URL: https://news.ycombinator.com/item?id=49645393 Points: 218 # Comments: 170",
+    "excerpt": "Article URL: https://blog.jim-nielsen.com/2026/hands-off-my-cables/ Comments URL: https://news.ycombinator.com/item?id=49645393 Points: 290 # Comments: 226",
     "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1158,8 +1262,8 @@
   },
   {
     "id": "ccf40ae115f1048c",
-    "title": "Shopify moves back to Native from React Native",
-    "excerpt": "Article URL: https://shopify.engineering/back-to-native Comments URL: https://news.ycombinator.com/item?id=49643982 Points: 631 # Comments: 426",
+    "title": "Shopify is moving from React Native back to Swift and Kotlin",
+    "excerpt": "Article URL: https://shopify.engineering/back-to-native Comments URL: https://news.ycombinator.com/item?id=49643982 Points: 724 # Comments: 479",
     "url": "https://shopify.engineering/back-to-native",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1198,7 +1302,7 @@
   {
     "id": "c3aba4d13cd3eb24",
     "title": "Rust is tier-1 language at Microsoft",
-    "excerpt": "Article URL: https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/ Comments URL: https://news.ycombinator.com/item?id=49643546 Points: 557 # Comments: 304",
+    "excerpt": "Article URL: https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/ Comments URL: https://news.ycombinator.com/item?id=49643546 Points: 586 # Comments: 323",
     "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1257,19 +1361,6 @@
     "author": "Aisha Malik",
     "publishedAt": "2026-09-10T13:00:00.000Z",
     "category": "science",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "0e9c976991824598",
-    "title": "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
-    "excerpt": "The buzzy startup raised another $600 million in a Series C extension round, bringing the total of the round to $900 million.",
-    "url": "https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Julie Bort",
-    "publishedAt": "2026-09-10T13:00:00.000Z",
-    "category": "ai",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1375,19 +1466,6 @@
     "publishedAt": "2026-09-10T12:28:32.000Z",
     "category": "policy",
     "imageUrl": "https://image.theregister.com/?imageId=5288528&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "41b4e5a6ca97dead",
-    "title": "List of references on Sony websites to players \"owning\" their digital games",
-    "excerpt": "Article URL: https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit Comments URL: https://news.ycombinator.com/item?id=49642531 Points: 337 # Comments: 111",
-    "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "haunter",
-    "publishedAt": "2026-09-10T12:18:06.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1534,19 +1612,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "bfd57a72f83cb64c",
-    "title": "Nintendo's Switch 2 will now sync its refresh rate to your TV for smoother motion",
-    "excerpt": "Nintendo has finally delivered Switch 2 docked variable refresh rate support for TV gaming.",
-    "url": "https://www.engadget.com/2254557/nintendo-switch-2-support-variable-refresh-rate-when-docked/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Steve Dent)",
-    "publishedAt": "2026-09-10T10:46:51.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/nintendos-switch-2-will-now-sync-its-refresh-rate-to-your-tv-for-smoother-motion/l-intro-1789037118.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "380d2490c1a77226",
     "title": "AI uprising postponed after Copilot falls off the web",
     "excerpt": "Fears of an AI takeover remain unfounded after Microsoft demonstrated that Copilot can sometimes struggle to remain upright, let alone march over the remnants of humanity. The copilot.microsoft.com website fell over for an hour and 40 minutes overnight, returning a Cloudflare Error 1016 message…",
@@ -1612,19 +1677,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "9a17d21992d91e7d",
-    "title": "AppleCare One now has a $50 tier per month for families",
-    "excerpt": "AppleCareOne Family insurance will cover all eligible devices for up to six members.",
-    "url": "https://www.engadget.com/2254544/applecare-one-50-monthly-tier-families/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Mariella Moon)",
-    "publishedAt": "2026-09-10T09:50:29.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/applecare-one-50-monthly-tier-families/l-intro-1789063536.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "4621b80684af9086",
     "title": "GNU Automake 1.19 Released With More Than One Year Worth Of Fixes",
     "excerpt": "For those continuing to use GNU Automake over the likes of Meson or CMake for your build system, Automake 1.19 is out today as the first new release in 15 months. Among the many fixes in this release is for a bug dating back 14 years...",
@@ -1679,7 +1731,7 @@
   {
     "id": "7040bcc06f184be9",
     "title": "What algorithm did Windows XP use to choose your initial user picture?",
-    "excerpt": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683 Comments URL: https://news.ycombinator.com/item?id=49640646 Points: 329 # Comments: 160",
+    "excerpt": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683 Comments URL: https://news.ycombinator.com/item?id=49640646 Points: 336 # Comments: 165",
     "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -2057,19 +2109,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "8ac056028448d07f",
-    "title": "Apple Launches iPhone 18 Pro With Variable-Aperture Camera System",
-    "excerpt": "Apple's iPhone 18 Pro and Pro Max were announced today and keep last year's overall design but put the emphasis on camera upgrades, including a 48-megapixel variable-aperture system, new manual controls, and 4K Dolby Vision recording. Prices for the devices start at $1,199 and $1,299, respectively.…",
-    "url": "https://hardware.slashdot.org/story/26/09/09/1837238/apple-launches-iphone-18-pro-with-variable-aperture-camera-system?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-09-09T19:00:00.000Z",
-    "category": "software",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "b5c760d636b1307f",
     "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
     "excerpt": "Apple has debuted the new AirPods 5 with improved active noise cancellation and sound quality—aiming to provide improved listening and user features at a lower launch price than the predecessor AirPods 4. The newest AirPods will go on sale for $129 in stores starting on September 18, according to…",
@@ -2145,19 +2184,6 @@
     "publishedAt": "2026-09-09T17:11:46.000Z",
     "category": "Science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/UN-correct-the-map-vote-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a579fccc1aba1528",
-    "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
-    "excerpt": "When a prominent researcher quits a job at a frontier AI lab these days, it's often to pursue a new startup or protest a new business model . But AI researcher Jacob Coxon is using his departure from Anthropic to publicly warn that frontier AI companies are \"gambling with our lives\" with systems…",
-    "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Kyle Orland",
-    "publishedAt": "2026-09-09T16:59:40.000Z",
-    "category": "ai",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-504013302-1152x648-1788971374.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2673,32 +2699,6 @@
     "publishedAt": "2026-09-08T15:45:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=227731&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "8b097d2b2aaf7382",
-    "title": "ASML and TSMC want bigger masks for smaller chips",
-    "excerpt": "ASML and chipmaking giant TSMC have launched an industry-wide push toward 12-inch photomasks, saying the larger format could lower costs and overcome some limitations of high-NA EUV lithography. Dutch firm ASML, the only commercial supplier of EUV lithography systems, says it and TSMC have…",
-    "url": "https://www.theregister.com/systems/2026/09/08/asml-and-tsmc-want-bigger-masks-for-smaller-chips/5294982",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-08T15:02:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://image.theregister.com/?imageId=5294994&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "faf84ca7f82a479d",
-    "title": "How to secure hybrid meeting rooms without sacrificing user experience",
-    "excerpt": "Secure by design videoconferencing products may be vital for customer trust and operational resilience, but if they aren't usable, organizations are on a hiding to nothing. Videoconferencing security is no longer a routine item on the IT checklist. Organizations now rate security as their most…",
-    "url": "https://www.theregister.com/security/2026/09/08/sponsored-how-to-secure-hybrid-meeting-rooms-without-sacrificing-user-experience/5294440",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-08T15:00:00.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=5294442&width=800",
     "readTimeMinutes": 1
   },
   {
