@@ -1,5 +1,252 @@
 [
   {
+    "id": "35cdd19bb91b9f9a",
+    "title": "Staked ether should be seen as the benchmark of the decentralized economy",
+    "excerpt": "The yield-generating asset has a special place in the digital asset investor’s portfolio, argues GlobalStake’s Ryan Haczynski.",
+    "url": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Ryan Haczynski",
+    "publishedAt": "2026-09-12T14:00:00.000Z",
+    "category": "science",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/3f541ca1c4a292027ccea331a59077292160ec46-5700x3800.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4a7bdb2d6c667647",
+    "title": "My last six months at Evernote",
+    "excerpt": "Article URL: https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/ Comments URL: https://news.ycombinator.com/item?id=49672342 Points: 7 # Comments: 0",
+    "url": "https://alexkras.com/my-last-six-months-at-evernote-after-bending-spoons-took-over/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "ingve",
+    "publishedAt": "2026-09-12T13:54:19.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1fb8a064eae140cc",
+    "title": "Intel Reverses Decision To Cancel Their Open-Source Font Project",
+    "excerpt": "Amid Intel cutting back on open-source projects over the past two years as cost cutting measures at the company, their latest open-source project on the chopping block was the peculiar font they developed a few years back. The project was archived this week only to change course two days later...",
+    "url": "https://www.phoronix.com/news/Intel-One-Mono-Saved",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-12T13:45:00.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b093419ae204e61c",
+    "title": "How Google Maps knows when a business is packed",
+    "excerpt": "Instead of relying on intuition or sheer luck to find local venues and restaurants capable of hosting you, Google Maps can take away the guesswork.",
+    "url": "https://www.engadget.com/2252763/how-google-maps-knows-businesses-packed/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Christine Persaud)",
+    "publishedAt": "2026-09-12T13:30:00.000Z",
+    "category": "software",
+    "imageUrl": "https://www.engadget.com/img/gallery/how-google-maps-knows-when-a-business-is-packed/l-intro-1787765647.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "91392a9ca327c9f6",
+    "title": "Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late",
+    "excerpt": "Nvidia spent a whopping $20 billion late last year to license Groq’s AI accelerator tech and hire away key members of its engineering team in an everything-but-the-kitchen-sink deal. The acquihire technically left Groq’s core inference-as-a-service business intact, but was clearly architected in…",
+    "url": "https://www.theregister.com/systems/2026/09/12/nvidias-groq-acquihire-is-on-the-dojs-radar-but-its-already-too-late/5295986",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-12T13:26:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://image.theregister.com/?imageId=262815&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "92e87d26ea1a1584",
+    "title": "Coding Is Over. Get over It",
+    "excerpt": "Article URL: https://blog.pitermarx.com/2026/09/coding-is-over.-get-over-it./ Comments URL: https://news.ycombinator.com/item?id=49672045 Points: 8 # Comments: 1",
+    "url": "https://blog.pitermarx.com/2026/09/coding-is-over.-get-over-it./",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "pitermarx",
+    "publishedAt": "2026-09-12T13:16:38.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "166a007b3f5fe141",
+    "title": "Laika’s stop-motion fantasy Wildwood looks so smooth",
+    "excerpt": "Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some fascinating details on one of my most anticipated films this year. Even if you don't know the name Laika, you probably…",
+    "url": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Andrew Webster",
+    "publishedAt": "2026-09-12T13:00:00.000Z",
+    "category": "policy",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/img-260ce3af-8e70-4401-9a35-9eb971697f7b.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8db57533f1abc444",
+    "title": "Is a 256GB SSD better than a 1TB hard drive? It depends how you're using it",
+    "excerpt": "Should you choose a smaller SSD for speed or a larger HDD for storage space? The answer depends on what you prioritize.",
+    "url": "https://www.engadget.com/2252762/256-gb-ssd-vs-1-tb-hard-drive-which-better/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Novak Božović)",
+    "publishedAt": "2026-09-12T13:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/is-a-256gb-ssd-better-than-a-1tb-hard-drive-it-depends-how-youre-using-it/l-intro-1787767507.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0e5fdef18ce1d929",
+    "title": "Scientists Create a New Form of Ice At 2,357 Degrees Celsius",
+    "excerpt": "Longtime Slashdot reader fahrbot-bot shares a report from ScienceAlert: Scientists have now demonstrated one of the weirdest forms of ice yet -- under preposterous pressures up to 2.3 million atmospheres, and tremendous temperatures up to 2,630 kelvins (2,357 degrees Celsius, or 4,274 degrees…",
+    "url": "https://science.slashdot.org/story/26/09/11/2249242/scientists-create-a-new-form-of-ice-at-2357-degrees-celsius?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-09-12T13:00:00.000Z",
+    "category": "science",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "181d6c5b4e9066f7",
+    "title": "Get the best battery life for your Windows laptop by changing these settings",
+    "excerpt": "Windows laptops aren't known for having excellent battery life, but a lot of that is because of unoptimized settings. Change these for big improvements.",
+    "url": "https://www.engadget.com/2252761/best-battery-life-for-windows-laptop-settings/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Max Miller)",
+    "publishedAt": "2026-09-12T12:30:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/get-the-best-battery-life-for-your-windows-laptop-by-changing-these-settings/l-intro-1787760565.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ff4bb26ae0220666",
+    "title": "Engadget review recap: Lenovo ThinkPad X1 Carbon, Insta360 Luna Pro and more",
+    "excerpt": "A roundup of recent reviews from Engadget.",
+    "url": "https://www.engadget.com/2255874/engadget-review-recap-lenovo-thinkpad-x1-carbon/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Billy Steele)",
+    "publishedAt": "2026-09-12T12:15:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/engadget-review-recap-lenovo-thinkpad-x1-carbon-insta360-luna-pro-and-more/l-intro-1789137096.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8669598f515b968a",
+    "title": "Where to preorder the iPhone 18 Pro and Pro Max",
+    "excerpt": "Which color suits you best? | Photo: Nilay Patel / The Verge The iPhone 18 Pro and 18 Pro Max are almost here. Announced at Apple's September 2026 \"Sunrise and shine\" event alongside the iPhone Duo and other new gear, the two upgraded phones feature the faster A20 Pro processor with more GPU power…",
+    "url": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Brad Bourque",
+    "publishedAt": "2026-09-12T12:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_NPatel_0012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0d004dfffc0813ae",
+    "title": "GameCube vs PS2: Which retro console is more powerful?",
+    "excerpt": "The GameCube and PS2 had different strengths in their exclusive libraries and extra features, but which one had more horsepower for rendering games?",
+    "url": "https://www.engadget.com/2252758/gamecube-vs-ps2-which-retro-console-more-powerful/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Deven McClure)",
+    "publishedAt": "2026-09-12T12:00:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/gamecube-vs-ps2-which-retro-console-is-more-powerful/l-intro-1787756403.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "cf9d405f4994bb61",
+    "title": "Fuck it, make it anyway",
+    "excerpt": "Article URL: https://www.joelotter.com/posts/2026/09/make-it-anyway/ Comments URL: https://news.ycombinator.com/item?id=49671329 Points: 232 # Comments: 170",
+    "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "JayOtter",
+    "publishedAt": "2026-09-12T11:42:32.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4113a43675188847",
+    "title": "Crypto farm in Mexican mountains puts spotlight on cartel funding",
+    "excerpt": "Article URL: https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/ Comments URL: https://news.ycombinator.com/item?id=49671296 Points: 26 # Comments: 4",
+    "url": "https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "JumpCrisscross",
+    "publishedAt": "2026-09-12T11:37:22.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "98f9eda275e17473",
+    "title": "Wardogs, Valheim 1.0 and other new indie games worth checking out",
+    "excerpt": "Our weekly indie games roundup includes a double deckbuilder, capybara puzzles and an undead William Wallace.",
+    "url": "https://www.engadget.com/2256410/wardogs-valheim-1-0-and-other-new-indie-games-worth-checking-out/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Kris Holt)",
+    "publishedAt": "2026-09-12T11:30:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/wardogs-valheim-1-0-and-other-new-indie-games-worth-checking-out/l-intro-1789155338.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f7412aa9854ed61c",
+    "title": "Dell's 52-inch enormo-monitor is a tsunami of impractical fun",
+    "excerpt": "FIRST LOOK Dell's UltraSharp 52 display is a joyously enormous head-turner, but probably too much monitor for most users. Dell debuted the display at the CES show earlier this year. It's now on sale for $3,000. Sadly, I lack a PC capable of driving the screen at its full 6144 x 2560 resolution and…",
+    "url": "https://www.theregister.com/personal-tech/2026/09/12/dells-52-inch-enormo-monitor-is-a-tsunami-of-impractical-fun/5290753",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-12T11:20:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://image.theregister.com/?imageId=4093826&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4e8072dbb99755c4",
+    "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+    "excerpt": "Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/ Comments URL: https://news.ycombinator.com/item?id=49671159 Points: 48 # Comments: 26",
+    "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "ColinWright",
+    "publishedAt": "2026-09-12T11:13:38.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ddb897a7cc9c09ae",
+    "title": "I spent $4,000 on a robot dog from China",
+    "excerpt": "On a sunny morning in June, I walked to work with a quadruped robot beside me. I’ve never gotten more attention from strangers. A bunch of people snapped pictures of my robot dog. Several people asked me questions. Was it mine? (Yes.) Did I build it? (No.) Was it being used for surveillance? (No.)…",
+    "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Timothy B. Lee",
+    "publishedAt": "2026-09-12T11:00:53.000Z",
+    "category": "ai",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/80276b2c-6940-443f-adf2-2aabe4d1e838_2048x1365-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "eeedd70bf03dfb90",
     "title": "OpenAI just wants to win",
     "excerpt": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement.…",
@@ -28,7 +275,7 @@
   {
     "id": "2e256b5818ba52bd",
     "title": "We've followed their lives for six decades; now the stars of 7 Up are bowing out",
-    "excerpt": "Article URL: https://www.bbc.co.uk/news/articles/crm932el3yjo Comments URL: https://news.ycombinator.com/item?id=49670981 Points: 4 # Comments: 0",
+    "excerpt": "Article URL: https://www.bbc.co.uk/news/articles/crm932el3yjo Comments URL: https://news.ycombinator.com/item?id=49670981 Points: 48 # Comments: 10",
     "url": "https://www.bbc.co.uk/news/articles/crm932el3yjo",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -93,7 +340,7 @@
   {
     "id": "6e6ec7cc06b404db",
     "title": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
-    "excerpt": "Article URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/ Comments URL: https://news.ycombinator.com/item?id=49670493 Points: 14 # Comments: 2",
+    "excerpt": "Article URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/ Comments URL: https://news.ycombinator.com/item?id=49670493 Points: 37 # Comments: 24",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -132,26 +379,13 @@
   {
     "id": "cd4275fac97b5fd9",
     "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-    "excerpt": "Article URL: https://eiln.github.io/posts/ane.html Comments URL: https://news.ycombinator.com/item?id=49670032 Points: 94 # Comments: 11",
+    "excerpt": "Article URL: https://eiln.github.io/posts/ane.html Comments URL: https://news.ycombinator.com/item?id=49670032 Points: 149 # Comments: 19",
     "url": "https://eiln.github.io/posts/ane.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "zdw",
     "publishedAt": "2026-09-12T07:54:03.000Z",
     "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "113fcf459aba0a49",
-    "title": "WeWorm: Zero-Click WeChat Worm",
-    "excerpt": "Article URL: https://calif.io/research/weworm Comments URL: https://news.ycombinator.com/item?id=49669276 Points: 28 # Comments: 1",
-    "url": "https://calif.io/research/weworm",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "BlackEarth",
-    "publishedAt": "2026-09-12T05:49:10.000Z",
-    "category": "science",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -171,7 +405,7 @@
   {
     "id": "628871b105fd3a46",
     "title": "Usenet rewind archive search engine",
-    "excerpt": "Article URL: https://www.usenet-rewind.com/ Comments URL: https://news.ycombinator.com/item?id=49668777 Points: 66 # Comments: 14",
+    "excerpt": "Article URL: https://www.usenet-rewind.com/ Comments URL: https://news.ycombinator.com/item?id=49668777 Points: 91 # Comments: 28",
     "url": "https://www.usenet-rewind.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -184,7 +418,7 @@
   {
     "id": "f805a46f8df62abe",
     "title": "Navier-Stokes Announcement",
-    "excerpt": "Article URL: https://www.claymath.org/news/navier-stokes-announcement/ Comments URL: https://news.ycombinator.com/item?id=49668706 Points: 181 # Comments: 120",
+    "excerpt": "Article URL: https://www.claymath.org/news/navier-stokes-announcement/ Comments URL: https://news.ycombinator.com/item?id=49668706 Points: 223 # Comments: 156",
     "url": "https://www.claymath.org/news/navier-stokes-announcement/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -197,7 +431,7 @@
   {
     "id": "dff1498b29796da3",
     "title": "google.com/goto: Google's anti-scraping update",
-    "excerpt": "Article URL: https://www.autom.dev/blog/google-search-goto-links Comments URL: https://news.ycombinator.com/item?id=49668386 Points: 450 # Comments: 351",
+    "excerpt": "Article URL: https://www.autom.dev/blog/google-search-goto-links Comments URL: https://news.ycombinator.com/item?id=49668386 Points: 508 # Comments: 404",
     "url": "https://www.autom.dev/blog/google-search-goto-links",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -262,7 +496,7 @@
   {
     "id": "b0c48a4bc7fbd434",
     "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-    "excerpt": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems... Comments URL: https://news.ycombinator.com/item?id=49666735 Points: 726 # Comments: 406",
+    "excerpt": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems... Comments URL: https://news.ycombinator.com/item?id=49666735 Points: 815 # Comments: 473",
     "url": "https://www.rubyhack.ai/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -282,19 +516,6 @@
     "author": "Marina Temkin",
     "publishedAt": "2026-09-11T22:58:17.000Z",
     "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "89ec18f49a7f6ab6",
-    "title": "Project Blinkenlights",
-    "excerpt": "Article URL: https://blinkenlights.de/en/ Comments URL: https://news.ycombinator.com/item?id=49666146 Points: 97 # Comments: 32",
-    "url": "https://blinkenlights.de/en/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "doener",
-    "publishedAt": "2026-09-11T22:15:00.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -338,19 +559,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "56ada5d3ccc246c4",
-    "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
-    "excerpt": "Article URL: https://github.com/mirza-rizvi/ResolveHQ Comments URL: https://news.ycombinator.com/item?id=49665864 Points: 61 # Comments: 21",
-    "url": "https://github.com/mirza-rizvi/ResolveHQ",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "mirza_rizvi",
-    "publishedAt": "2026-09-11T21:48:00.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "12f90ad4cdd4e8e7",
     "title": "Random rewards enrich classic game-theory insights",
     "excerpt": "Games may be life with all the hard bits removed, but they provide a way to study why people make the choices they make. Traditional games are usually played against a static background: the rewards per outcome are constant. That limits their relevance to behavior because, in real life, the rewards…",
@@ -364,6 +572,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "35847cea64145052",
+    "title": "Forgotten Woodlands",
+    "excerpt": "Article URL: https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49 Comments URL: https://news.ycombinator.com/item?id=49665549 Points: 21 # Comments: 4",
+    "url": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "NaOH",
+    "publishedAt": "2026-09-11T21:21:04.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "c0bb2ed6d55690b1",
     "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
     "excerpt": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
@@ -373,19 +594,6 @@
     "author": "Connie Loizos",
     "publishedAt": "2026-09-11T21:19:05.000Z",
     "category": "Startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "9b64496de13490d5",
-    "title": "Another way to leak traffic on Android has been discovered",
-    "excerpt": "Article URL: https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered Comments URL: https://news.ycombinator.com/item?id=49665502 Points: 87 # Comments: 13",
-    "url": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "mhitza",
-    "publishedAt": "2026-09-11T21:16:48.000Z",
-    "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -585,19 +793,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "5e97932056794107",
-    "title": "GrapheneOS' rewritten Messages app is released",
-    "excerpt": "Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13 Comments URL: https://news.ycombinator.com/item?id=49663373 Points: 280 # Comments: 206",
-    "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "microtonal",
-    "publishedAt": "2026-09-11T18:50:36.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "431822ebf715de3f",
     "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
     "excerpt": "Credit: Museum of Mediterranean and Near Eastern Antiquities, Stockholm Credit: Museum of Mediterranean and Near Eastern Antiquities, Stockholm The precise composition of ancient Egyptian paints, binders, adhesives, and similar materials used to make artifacts is largely unknown, in part because a…",
@@ -613,7 +808,7 @@
   {
     "id": "1a11e7c2583e4e5e",
     "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-    "excerpt": "Article URL: https://dayzlegame.com/blog/google-ads-bot-farm/ Comments URL: https://news.ycombinator.com/item?id=49662990 Points: 558 # Comments: 295",
+    "excerpt": "Article URL: https://dayzlegame.com/blog/google-ads-bot-farm/ Comments URL: https://news.ycombinator.com/item?id=49662990 Points: 626 # Comments: 345",
     "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -639,7 +834,7 @@
   {
     "id": "6d134ed885afc69e",
     "title": "Litelm: LiteLLM Without the Bloat",
-    "excerpt": "Article URL: https://github.com/kennethwolters/litelm Comments URL: https://news.ycombinator.com/item?id=49662767 Points: 148 # Comments: 49",
+    "excerpt": "Article URL: https://github.com/kennethwolters/litelm Comments URL: https://news.ycombinator.com/item?id=49662767 Points: 157 # Comments: 52",
     "url": "https://github.com/kennethwolters/litelm",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -678,7 +873,7 @@
   {
     "id": "27d3981660ac3e51",
     "title": "A misalignment of AI in mathematics",
-    "excerpt": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 950 # Comments: 909",
+    "excerpt": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 1054 # Comments: 1012",
     "url": "https://mathandai.org/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -702,19 +897,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "5b5318e43ea03e31",
-    "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
-    "excerpt": "Article URL: https://snap.berkeley.edu/ Comments URL: https://news.ycombinator.com/item?id=49662214 Points: 147 # Comments: 84",
-    "url": "https://snap.berkeley.edu/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "dr_kiszonka",
-    "publishedAt": "2026-09-11T17:36:11.000Z",
-    "category": "science",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "5aa2e88e9449fc5d",
     "title": "New images show a detailed view of Meta's upcoming mixed reality headset",
     "excerpt": "The device known as Project Phoenix is a new form factor for Meta.",
@@ -730,7 +912,7 @@
   {
     "id": "7ff6244359328b8e",
     "title": "Mind-altering drugs played key role in rise of Andean civilization",
-    "excerpt": "Article URL: https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization Comments URL: https://news.ycombinator.com/item?id=49662020 Points: 165 # Comments: 107",
+    "excerpt": "Article URL: https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization Comments URL: https://news.ycombinator.com/item?id=49662020 Points: 187 # Comments: 123",
     "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -938,7 +1120,7 @@
   {
     "id": "81dc92a8a9debb5e",
     "title": "Rune is now open source",
-    "excerpt": "Article URL: https://rune.build/blog/rune-is-now-open-source Comments URL: https://news.ycombinator.com/item?id=49660149 Points: 191 # Comments: 58",
+    "excerpt": "Article URL: https://rune.build/blog/rune-is-now-open-source Comments URL: https://news.ycombinator.com/item?id=49660149 Points: 203 # Comments: 65",
     "url": "https://rune.build/blog/rune-is-now-open-source",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -946,19 +1128,6 @@
     "publishedAt": "2026-09-11T15:31:47.000Z",
     "category": "startups",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "782fbcbd5086deb8",
-    "title": "Where to preorder the Apple AirPods 5",
-    "excerpt": "The new AirPods 5 in their charging case. | Photo: Antonio G. Di Benedetto / The Verge The Apple AirPods 5 are bringing active noise cancellation to the masses, and they're now available for preorder at a variety of retailers. They'll officially launch on September 18th, the same day as the Apple…",
-    "url": "https://www.theverge.com/gadgets/993637/apple-airpods-5-anc-wireless-charging-preorder-buy",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Brad Bourque",
-    "publishedAt": "2026-09-11T15:31:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0046.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -1014,19 +1183,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "038971c42f39c59e",
-    "title": "Anime reaction YouTubers are at war with copyright enforcers",
-    "excerpt": "On September 6th, YouTuber Nicholas Light posted a video to one of his channels that made it seem like all of his content was about to be removed from the platform. In the video - ominously titled \" My Channel will be Deleted Today \" - Light alleges that he was on the receiving end of some of the…",
-    "url": "https://www.theverge.com/tech/993898/nicholaslighttv-remove-your-media-youtube-crunchyroll-viz-media",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Charles Pulliam-Moore",
-    "publishedAt": "2026-09-11T15:12:58.000Z",
-    "category": "startups",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268740_Youtuber_account_deleted_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "63ec3af01e21b371",
     "title": "CachyOS vs. Windows 11 vs. Ubuntu 26.04 LTS On Intel Wildcat Lake + 8GB RAM",
     "excerpt": "Often times when testing different Linux distributions or comparing Windows vs. Linux it's on leading flagship desktop or server hardware, but today we are looking at the Ubuntu vs. CachyOS vs. Windows performance at the opposite end of the spectrum. With the new CHUWI UniBook $449 laptop powered…",
@@ -1063,6 +1219,19 @@
     "publishedAt": "2026-09-11T14:27:00.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=256253&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "5fddcc211942b559",
+    "title": "I Fixed a Tractor Using John Deere's Self-Repair Service. Farmers Aren't Sold",
+    "excerpt": "Article URL: https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/ Comments URL: https://news.ycombinator.com/item?id=49658672 Points: 22 # Comments: 31",
+    "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "sbulaev",
+    "publishedAt": "2026-09-11T14:07:08.000Z",
+    "category": "startups",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1763,19 +1932,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "cd6f1ed6fc0de7e4",
-    "title": "Android Rolling Out Passkey Transfers Between Password Managers",
-    "excerpt": "Android is rolling out a system-level way to securely transfer passwords and passkeys between credential managers, eliminating the need to export passwords as unencrypted text files or manually recreate passkeys. The feature initially supports Google Password Manager, 1Password, Bitwarden, and…",
-    "url": "https://yro.slashdot.org/story/26/09/10/1922227/android-rolling-out-passkey-transfers-between-password-managers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-09-10T21:00:00.000Z",
-    "category": "software",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "54827c4e6e1210d7",
     "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
     "excerpt": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
@@ -1971,19 +2127,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "c1ec4f011110bcd0",
-    "title": "IDScan is offering free credit monitoring and ID protection after leaking driver's licenses",
-    "excerpt": "The platform was linked to an FBI investigation into a dark web marketplace last week.",
-    "url": "https://www.engadget.com/2255209/idscan-is-offering-free-credit-monitoring-and-id-protection-after-leaking-drivers-licenses/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Ian Carlos Campbell)",
-    "publishedAt": "2026-09-10T18:40:00.000Z",
-    "category": "software",
-    "imageUrl": "https://www.engadget.com/img/gallery/idscan-is-offering-free-credit-monitoring-and-id-protection-after-leaking-drivers-licenses/l-intro-1789065088.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "8930a870a2e04898",
     "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
     "excerpt": "Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reactor design.",
@@ -1994,32 +2137,6 @@
     "publishedAt": "2026-09-10T18:38:00.000Z",
     "category": "startups",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "33c3ca996948c077",
-    "title": "A native Gemini app is finally available for Windows PCs",
-    "excerpt": "There's a keyboard shortcut to open it up, just like the Mac version.",
-    "url": "https://www.engadget.com/2255197/a-native-gemini-app-is-finally-available-for-windows-pcs/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Lawrence Bonk)",
-    "publishedAt": "2026-09-10T18:30:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/a-native-gemini-app-is-finally-available-for-windows-pcs/l-intro-1789064836.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f2c9092b5be764ae",
-    "title": "How to watch the Flame Fatales 2026 speedrunning marathon",
-    "excerpt": "The fundraiser for Malala Fund runs September 13-19.",
-    "url": "https://www.engadget.com/2255188/how-to-watch-the-flame-fatales-2026-speedrunning-marathon/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Anna Washenko)",
-    "publishedAt": "2026-09-10T18:25:12.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/how-to-watch-the-flame-fatales-2026-speedrunning-marathon/l-intro-1789064566.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2075,32 +2192,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "ab6bd5ca3ce5e928",
-    "title": "Kimmel's ABC show won't air interview with Democrat because of Trump FCC threats",
-    "excerpt": "ABC's Jimmy Kimmel said he will be interviewing a Democratic candidate for Senate tonight, but the interview will be on YouTube only and not broadcast on TV because of threats made by the Federal Communications Commission. Kimmel has been a prime target in the Trump FCC's attacks on ABC and its…",
-    "url": "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Jon Brodkin",
-    "publishedAt": "2026-09-10T17:30:09.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/jimmy-kimmel-1152x648-1789058149.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b5965005ac633c5b",
-    "title": "The latest Avatar: Seven Havens trailer gives us a deeper dive into the characters and story",
-    "excerpt": "It's also pretty easy on the eyes.",
-    "url": "https://www.engadget.com/2255071/the-latest-avatar-seven-havens-trailer-gives-us-a-deeper-dive-into-the-characters-and-story/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Lawrence Bonk)",
-    "publishedAt": "2026-09-10T17:15:54.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/the-latest-avatar-seven-havens-trailer-gives-us-a-deeper-dive-into-the-characters-and-story/l-intro-1789060371.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "2778dc46659a053e",
     "title": "OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows",
     "excerpt": "The exchange is offering up to 10x leverage on private-company valuations alongside 100 tokenized stocks and ETFs.",
@@ -2124,19 +2215,6 @@
     "publishedAt": "2026-09-10T17:03:34.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/6d84d85eddfea0214122fb8436cd96c91a7a922e-2880x1620.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3313b105cde9c4e3",
-    "title": "Universal Music Group is collaborating with ElevenLabs on a new AI-powered creation platform",
-    "excerpt": "The unnamed software will be built around licensed music from UMG artists who want to participate.",
-    "url": "https://www.engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Matt Tate)",
-    "publishedAt": "2026-09-10T17:01:52.000Z",
-    "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/l-intro-1789059229.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2205,19 +2283,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "8ee5cc2f7cec548a",
-    "title": "Detailed report on the use of solar geoengineering",
-    "excerpt": "Article URL: https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/ Comments URL: https://news.ycombinator.com/item?id=49646113 Points: 13 # Comments: 3",
-    "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "coloneltcb",
-    "publishedAt": "2026-09-10T16:08:54.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "25d34096de29efef",
     "title": "Monument Bank delays retail tokenized deposits while onboarding custody partner",
     "excerpt": "The London-based challenger bank tapped a Canadian custodian to meet the Financial Conduct Authority’s regulatory requirements. It now expects to roll out retail tokenized deposits by November.",
@@ -2228,19 +2293,6 @@
     "publishedAt": "2026-09-10T15:53:24.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/ecdda2c4e8818fb75de87159f1697cfaed7876fb-2400x1350.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "42f67314eab2eb80",
-    "title": "Yoto just announced two new audio devices for kids",
-    "excerpt": "Some upgrades make these more capable and easier to use for small hands.",
-    "url": "https://www.engadget.com/2254860/yoto-just-announced-two-new-audio-devices-for-kids/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Lawrence Bonk)",
-    "publishedAt": "2026-09-10T15:47:08.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/yoto-just-announced-two-new-audio-devices-for-kids/l-intro-1789055145.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2280,19 +2332,6 @@
     "publishedAt": "2026-09-10T14:47:00.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=223152&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "62cb2b19b292f9d9",
-    "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
-    "excerpt": "The remittance giant is rolling out a Visa card that lets customers hold dollars and spend from a stablecoin-backed balance.",
-    "url": "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Krisztian Sandor",
-    "publishedAt": "2026-09-10T14:30:00.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/d7959f555e24e90cf0a41c4677d90edb55b5cd06-2048x1152.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2699,19 +2738,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "844023c2f69e0587",
-    "title": "System76 Launches The Thelio Mira AI With AMD Ryzen + NVIDIA Or AMD Graphics",
-    "excerpt": "System76 today unveiled their newest desktop computer as the Thelio Mira AI. The System76 Thelio Mira AI is designed for multi-GPU AI training, model fine-tuning, AI inferencing, computer vision and image generation tasks on tthe AI side. Or with its AMD Ryzen 9000 series CPU and NVIDIA/AMD GPU…",
-    "url": "https://www.phoronix.com/news/System76-Thelio-Mira-AI",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-09T14:57:09.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "fccc1f839ff90ee0",
     "title": "Cryptocrook ringleader, 22, who met crew on Minecraft admits role in $245M heist",
     "excerpt": "The ringleader of a sprawling cybercrime operation has pleaded guilty in the US after helping to steal and launder hundreds of millions of dollars in cryptocurrency. Malone Lam, 22, a Singaporean national and Miami resident, spearheaded the scheme to steal cryptocurrency from wealthy individuals…",
@@ -2722,32 +2748,6 @@
     "publishedAt": "2026-09-09T13:39:00.000Z",
     "category": "crypto",
     "imageUrl": "https://image.theregister.com/?imageId=241371&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ac1a3c28c0191531",
-    "title": "WeChat worm could pwn a friend before they even answered the call",
-    "excerpt": "Tencent has patched up a zero-click vulnerability that security researchers used to create a worm capable of spreading through calls on WeChat. With more than 1.4 billion monthly active users, WeChat is among the most popular apps in the world. According to researchers at Calif, its VoIP stack…",
-    "url": "https://www.theregister.com/security/2026/09/09/wechat-worm-could-pwn-a-friend-before-they-even-answered-the-call/5295234",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-09T12:45:00.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=249321&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "5733a95dc9ddbc94",
-    "title": "Microsoft closes the book on Publisher and unplugs Project Online",
-    "excerpt": "Microsoft will retire Project Online and remove Publisher from Microsoft 365 over the coming weeks, while support for perpetual versions of Publisher and for Office 2021 will end shortly afterward. Publisher, Microsoft's desktop publishing application, dates back to the Windows 3.x era. Microsoft…",
-    "url": "https://www.theregister.com/software/2026/09/09/microsoft-closes-the-book-on-publisher-and-unplugs-project-online/5295205",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-09T12:03:00.000Z",
-    "category": "software",
-    "imageUrl": "https://image.theregister.com/?imageId=5242280&width=800",
     "readTimeMinutes": 1
   },
   {
