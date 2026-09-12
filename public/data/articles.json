@@ -1,5 +1,96 @@
 [
   {
+    "id": "a38325bcaf228138",
+    "title": "Male Fruit Fly Brain Trained to Play Doom",
+    "excerpt": "Last week, Google announced that it managed to produce a detailed 3D reconstruction of an adult male fruit fly's brain and central nervous system. A few days later a software engineer at Coinbase said the fly brain was being trained to play the original Doom. \"Each Doom frame stimulates sensory…",
+    "url": "https://games.slashdot.org/story/26/09/11/2022239/male-fruit-fly-brain-trained-to-play-doom?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-09-12T01:00:00.000Z",
+    "category": "crypto",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a270c02d46983e7a",
+    "title": "Gitte As Git Client For GNOME Continues Maturing Quite Nicely",
+    "excerpt": "For those in pursuit of a graphical Git client for GNOME or the Linux desktop at large, the GTK4-powered Gitte continues advancing rather well and out this week is its v0.10 release...",
+    "url": "https://www.phoronix.com/news/Gitte-0.10-Released",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-12T00:35:39.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "69e10205d30144cb",
+    "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+    "excerpt": "Article URL: https://github.com/zachsaw/graphify-csharp Comments URL: https://news.ycombinator.com/item?id=49667188 Points: 6 # Comments: 2",
+    "url": "https://github.com/zachsaw/graphify-csharp",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "zachsaw",
+    "publishedAt": "2026-09-12T00:16:10.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ec24345becf0193f",
+    "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
+    "excerpt": "In a post on Friday, Vlad Tenev said securities issuers should control shareholder rights, but not separate products that track their publicly traded shares.",
+    "url": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Helene Braun",
+    "publishedAt": "2026-09-11T23:47:51.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/5a77d3d03bca929880510e1d9a587793372dd83a-6000x3999.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "fc63b2341e475eba",
+    "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
+    "excerpt": "Article URL: https://www.firecrawl.dev/blog/ai-software-factory Comments URL: https://news.ycombinator.com/item?id=49666960 Points: 14 # Comments: 2",
+    "url": "https://www.firecrawl.dev/blog/ai-software-factory",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "makaimc",
+    "publishedAt": "2026-09-11T23:43:53.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8f75a7c2114acd17",
+    "title": "Some satellite companies still have an appetite for boutique launch services",
+    "excerpt": "If you ask most satellite companies aside from SpaceX, they will tell you the world doesn't have enough capacity for launching payloads into orbit. This is despite the blistering launch cadence we've seen around the world in recent years, led by SpaceX's Falcon 9 rocket. Customers in any sector…",
+    "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Stephen Clark",
+    "publishedAt": "2026-09-11T23:34:45.000Z",
+    "category": "science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Engine3-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b0c48a4bc7fbd434",
+    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+    "excerpt": "Article URL: https://www.rubyhack.ai/ Comments URL: https://news.ycombinator.com/item?id=49666735 Points: 257 # Comments: 150",
+    "url": "https://www.rubyhack.ai/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "chao-",
+    "publishedAt": "2026-09-11T23:17:42.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "7f452d3805d7ed7a",
     "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
     "excerpt": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
@@ -13,9 +104,22 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "283d6b6c28cb30b3",
+    "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
+    "excerpt": "Article URL: https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf Comments URL: https://news.ycombinator.com/item?id=49666155 Points: 16 # Comments: 7",
+    "url": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "matt_d",
+    "publishedAt": "2026-09-11T22:16:15.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "89ec18f49a7f6ab6",
     "title": "Project Blinkenlights",
-    "excerpt": "Article URL: https://blinkenlights.de/en/ Comments URL: https://news.ycombinator.com/item?id=49666146 Points: 13 # Comments: 6",
+    "excerpt": "Article URL: https://blinkenlights.de/en/ Comments URL: https://news.ycombinator.com/item?id=49666146 Points: 42 # Comments: 18",
     "url": "https://blinkenlights.de/en/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -67,7 +171,7 @@
   {
     "id": "56ada5d3ccc246c4",
     "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
-    "excerpt": "Article URL: https://github.com/mirza-rizvi/ResolveHQ Comments URL: https://news.ycombinator.com/item?id=49665864 Points: 9 # Comments: 1",
+    "excerpt": "Article URL: https://github.com/mirza-rizvi/ResolveHQ Comments URL: https://news.ycombinator.com/item?id=49665864 Points: 26 # Comments: 9",
     "url": "https://github.com/mirza-rizvi/ResolveHQ",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -79,7 +183,7 @@
   },
   {
     "id": "12f90ad4cdd4e8e7",
-    "title": "Random rewards enrich classic game-theory contests",
+    "title": "Random rewards enrich classic game-theory insights",
     "excerpt": "Games may be life with all the hard bits removed, but they provide a way to study why people make the choices they make. Traditional games are usually played against a static background: the rewards per outcome are constant. That limits their relevance to behavior because, in real life, the rewards…",
     "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
     "source": "Ars Technica",
@@ -88,6 +192,19 @@
     "publishedAt": "2026-09-11T21:41:16.000Z",
     "category": "science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294031830-1024x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7101efa9853f8ca9",
+    "title": "AI researchers debate how close we are to recursive self-improvement",
+    "excerpt": "Article URL: https://www.dwarkesh.com/p/john-beren-charlie Comments URL: https://news.ycombinator.com/item?id=49665711 Points: 21 # Comments: 0",
+    "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "artninja1988",
+    "publishedAt": "2026-09-11T21:35:29.000Z",
+    "category": "startups",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -221,19 +338,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "dae4ced2eec2f2f1",
-    "title": "Txt: A fast, keyboard-driven terminal text editor for engineers",
-    "excerpt": "Article URL: https://txt.hellman.io/ Comments URL: https://news.ycombinator.com/item?id=49664322 Points: 18 # Comments: 15",
-    "url": "https://txt.hellman.io/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "jlundberg",
-    "publishedAt": "2026-09-11T19:46:43.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "275e51d488e330cd",
     "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
     "excerpt": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
@@ -314,7 +418,7 @@
   {
     "id": "5e97932056794107",
     "title": "GrapheneOS' rewritten Messages app is released",
-    "excerpt": "Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13 Comments URL: https://news.ycombinator.com/item?id=49663373 Points: 152 # Comments: 87",
+    "excerpt": "Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13 Comments URL: https://news.ycombinator.com/item?id=49663373 Points: 190 # Comments: 110",
     "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -340,7 +444,7 @@
   {
     "id": "e70e4865c6357fd9",
     "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
-    "excerpt": "https://www.cia.gov/stories/story/cia-releases-presidents-da... Comments URL: https://news.ycombinator.com/item?id=49663054 Points: 78 # Comments: 48",
+    "excerpt": "https://www.cia.gov/stories/story/cia-releases-presidents-da... Comments URL: https://news.ycombinator.com/item?id=49663054 Points: 113 # Comments: 58",
     "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -353,7 +457,7 @@
   {
     "id": "1a11e7c2583e4e5e",
     "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-    "excerpt": "Article URL: https://dayzlegame.com/blog/google-ads-bot-farm/ Comments URL: https://news.ycombinator.com/item?id=49662990 Points: 176 # Comments: 84",
+    "excerpt": "Article URL: https://dayzlegame.com/blog/google-ads-bot-farm/ Comments URL: https://news.ycombinator.com/item?id=49662990 Points: 272 # Comments: 154",
     "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -379,7 +483,7 @@
   {
     "id": "6d134ed885afc69e",
     "title": "Litelm: LiteLLM Without the Bloat",
-    "excerpt": "Article URL: https://github.com/kennethwolters/litelm Comments URL: https://news.ycombinator.com/item?id=49662767 Points: 79 # Comments: 27",
+    "excerpt": "Article URL: https://github.com/kennethwolters/litelm Comments URL: https://news.ycombinator.com/item?id=49662767 Points: 94 # Comments: 35",
     "url": "https://github.com/kennethwolters/litelm",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -392,7 +496,7 @@
   {
     "id": "ad9b6844fd09f81d",
     "title": "The EPA is planning to scrap public review rules for data center pollution",
-    "excerpt": "Article URL: https://capitalbnews.org/data-centers-permit-rules-epa/ Comments URL: https://news.ycombinator.com/item?id=49662672 Points: 274 # Comments: 184",
+    "excerpt": "Article URL: https://capitalbnews.org/data-centers-permit-rules-epa/ Comments URL: https://news.ycombinator.com/item?id=49662672 Points: 336 # Comments: 223",
     "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -431,7 +535,7 @@
   {
     "id": "27d3981660ac3e51",
     "title": "A misalignment of AI in mathematics",
-    "excerpt": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 488 # Comments: 554",
+    "excerpt": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 610 # Comments: 665",
     "url": "https://mathandai.org/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -457,7 +561,7 @@
   {
     "id": "5b5318e43ea03e31",
     "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
-    "excerpt": "Article URL: https://snap.berkeley.edu/ Comments URL: https://news.ycombinator.com/item?id=49662214 Points: 92 # Comments: 50",
+    "excerpt": "Article URL: https://snap.berkeley.edu/ Comments URL: https://news.ycombinator.com/item?id=49662214 Points: 110 # Comments: 53",
     "url": "https://snap.berkeley.edu/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -483,7 +587,7 @@
   {
     "id": "7ff6244359328b8e",
     "title": "Mind-altering drugs played key role in rise of Andean civilization",
-    "excerpt": "Article URL: https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization Comments URL: https://news.ycombinator.com/item?id=49662020 Points: 80 # Comments: 59",
+    "excerpt": "Article URL: https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization Comments URL: https://news.ycombinator.com/item?id=49662020 Points: 95 # Comments: 70",
     "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -689,32 +793,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "d6a0f632a83adedb",
-    "title": "Global Glacier Extinction Explorer",
-    "excerpt": "Article URL: https://glacierextinction.com Comments URL: https://news.ycombinator.com/item?id=49660576 Points: 146 # Comments: 48",
-    "url": "https://glacierextinction.com",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "guillego",
-    "publishedAt": "2026-09-11T15:58:06.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "5a8a45059d881f9a",
-    "title": "118M Queries per Second on Neki",
-    "excerpt": "Article URL: https://planetscale.com/blog/118-million-queries-per-second-on-neki Comments URL: https://news.ycombinator.com/item?id=49660555 Points: 83 # Comments: 38",
-    "url": "https://planetscale.com/blog/118-million-queries-per-second-on-neki",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "joshmgross",
-    "publishedAt": "2026-09-11T15:56:37.000Z",
-    "category": "policy",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "b6d53b7256d86e5a",
     "title": "With Fed rate hike all but assured, here's how markets might react",
     "excerpt": "Traders could look past an expected Fed hike and weigh what higher rates are signaling about the economy.",
@@ -743,7 +821,7 @@
   {
     "id": "81dc92a8a9debb5e",
     "title": "Rune is now open source",
-    "excerpt": "Article URL: https://rune.build/blog/rune-is-now-open-source Comments URL: https://news.ycombinator.com/item?id=49660149 Points: 117 # Comments: 47",
+    "excerpt": "Article URL: https://rune.build/blog/rune-is-now-open-source Comments URL: https://news.ycombinator.com/item?id=49660149 Points: 141 # Comments: 54",
     "url": "https://rune.build/blog/rune-is-now-open-source",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -894,19 +972,6 @@
     "publishedAt": "2026-09-11T13:46:51.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/6dfa527e7f18058c20f81771f1d1dc674ff71efc-1280x826.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a17a9b6a155d4842",
-    "title": "Measuring the sloppiness of code",
-    "excerpt": "Article URL: https://earendil.com/posts/measuring-code-sloppiness/ Comments URL: https://news.ycombinator.com/item?id=49658311 Points: 232 # Comments: 219",
-    "url": "https://earendil.com/posts/measuring-code-sloppiness/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "doppp",
-    "publishedAt": "2026-09-11T13:42:28.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1120,7 +1185,7 @@
   {
     "id": "a7e839f442e5efa3",
     "title": "RTK reports token savings, but our cost benchmarks disagree",
-    "excerpt": "Article URL: https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/ Comments URL: https://news.ycombinator.com/item?id=49656471 Points: 140 # Comments: 68",
+    "excerpt": "Article URL: https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/ Comments URL: https://news.ycombinator.com/item?id=49656471 Points: 146 # Comments: 72",
     "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1185,7 +1250,7 @@
   {
     "id": "214c86f57b820be1",
     "title": "Claude is only available to people over 18 years",
-    "excerpt": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude Comments URL: https://news.ycombinator.com/item?id=49656225 Points: 535 # Comments: 576",
+    "excerpt": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude Comments URL: https://news.ycombinator.com/item?id=49656225 Points: 574 # Comments: 596",
     "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1698,19 +1763,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "f0c8eb77f335f260",
-    "title": "Show HN: Bodily Oddities",
-    "excerpt": "When I was about 11 years old, my best friend and I were playing during recess at school, and I was carrying him around on my back, presumably pretending to be a multipart attack robot. All of a sudden, my heart started hurting, and I collapsed to my knees, and the robot was no more. Every time I…",
-    "url": "https://vester.si/bodily-oddities/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "vesterde",
-    "publishedAt": "2026-09-10T20:33:11.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "142d225171d57010",
     "title": "Don't buy the 'regular' AirPods 5",
     "excerpt": "The first time you need to adjust volume, you'll wish you'd spent that extra $20.",
@@ -1932,19 +1984,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "572e810189ed2fcc",
-    "title": "IMDb Adds 'Digital Creator' Profiles For the First Time",
-    "excerpt": "IMDb is introducing \"Digital Creator\" as a new professional category on IMDb and IMDbPro, giving streamers, vloggers, influencers, video essayists, and other online creators a \"dedicated way to represent [their] work and connect with audiences, industry peers, and potential employers,\" according to…",
-    "url": "https://tech.slashdot.org/story/26/09/10/1750233/imdb-adds-digital-creator-profiles-for-the-first-time?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-09-10T18:00:00.000Z",
-    "category": "software",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "379cf6f20acf29ae",
     "title": "Physicist does the math on Star Trek’s “Picard maneuver”",
     "excerpt": "It turns out Jean-Luc Picard was an even better starship helmsman than the writers knew. A physicist has gone through the details of a warp-speed trick from the first season of Star Trek: The Next Generation and found a subtlety the show missed. But instead of a plot hole, the detail he found…",
@@ -2033,19 +2072,6 @@
     "publishedAt": "2026-09-10T17:01:52.000Z",
     "category": "ai",
     "imageUrl": "https://www.engadget.com/img/gallery/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/l-intro-1789059229.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "6877b7a343580c4f",
-    "title": "China’s drone supremacy shows in airlifting bodies and food after Nepal flood disaster",
-    "excerpt": "Chinese-made drones are flying out the bodies of flood victims and delivering food to survivors in the aftermath of devastating flash floods on the border of Nepal and China’s Tibetan region. Nepal’s army has been using four DJI FlyCart 100 drones donated from China to make 10 to 16 aid deliveries…",
-    "url": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Jeremy Hsu",
-    "publishedAt": "2026-09-10T16:53:52.000Z",
-    "category": "hardware",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Drone-Nepal-flood-disaster-relief-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2241,19 +2267,6 @@
     "publishedAt": "2026-09-10T13:00:00.000Z",
     "category": "ai",
     "imageUrl": "https://image.theregister.com/?imageId=5295411&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c84b7c3ba40a0f9f",
-    "title": "Threatened with arrest online? Recognizing a law enforcement impersonation scam",
-    "excerpt": "So-called digital arrest scams use false claims of authority to pressure victims virtually into making rapid digital payments, including cryptocurrency transactions, writes Moody's Rich Graham.",
-    "url": "https://www.coindesk.com/opinion/2026/09/10/threatened-with-arrest-online-recognizing-a-law-enforcement-impersonation-scam",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Rich Graham",
-    "publishedAt": "2026-09-10T13:00:00.000Z",
-    "category": "software",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/7772f0f3498a9b928f18a3848965016192b63387-7008x4672.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2734,19 +2747,6 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-09-09T10:26:16.000Z",
     "category": "security",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4d06bc38629700a0",
-    "title": "Experimental Patches Get Nouveau+NVK Working On NVIDIA DGX Spark GB10",
-    "excerpt": "Red Hat's David Airlie has managed another open-source graphics engineering feat... Getting the Nouveau reverse-engineered kernel graphics driver and Mesa NVK Vulkan driver running on the GB10 Grace Blackwell Superchip with the DGX Spark system...",
-    "url": "https://www.phoronix.com/news/Experiment-Nouveau-NVIDIA-GB10",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-09T10:13:00.000Z",
-    "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
