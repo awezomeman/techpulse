@@ -1,5 +1,161 @@
 [
   {
+    "id": "eeedd70bf03dfb90",
+    "title": "OpenAI just wants to win",
+    "excerpt": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement.…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Robert Hart",
+    "publishedAt": "2026-09-12T11:00:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268745_OpenAI_just_wants_to_win-_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "c7dbb1924ce4be91",
+    "title": "GTK 4.24 Released With Better Fractional Scaling, More Precise GDK Frame-Clock",
+    "excerpt": "GTK 4.24 released on Friday as the newest stable feature release to the GTK4 toolkit. It's quite a nice update to GTK4 for pairing with next week's GNOME 51 desktop release...",
+    "url": "https://www.phoronix.com/news/GTK-4.24-Released",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-12T10:52:32.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2e256b5818ba52bd",
+    "title": "We've followed their lives for six decades; now the stars of 7 Up are bowing out",
+    "excerpt": "Article URL: https://www.bbc.co.uk/news/articles/crm932el3yjo Comments URL: https://news.ycombinator.com/item?id=49670981 Points: 4 # Comments: 0",
+    "url": "https://www.bbc.co.uk/news/articles/crm932el3yjo",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "mellosouls",
+    "publishedAt": "2026-09-12T10:39:03.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7e87f844c1bcfefc",
+    "title": "Intel Linux NPU Driver Only Now Officially Supports Ubuntu 26.04 LTS",
+    "excerpt": "Releasing on Friday was the Intel Linux NPU Driver 1.38 as the user-space open-source driver components for leveraging the Core Ultra Neural Processing Unit (NPU) under Linux in conjunction with the upstream IVPU kernel accelerator driver...",
+    "url": "https://www.phoronix.com/news/Intel-Linux-NPU-Driver-1.38",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-12T10:34:25.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1e266aa8c8fafb92",
+    "title": "Ubuntu Developers Contemplate Linux Firmware HWE Package",
+    "excerpt": "A possible future enhancement being considered for Ubuntu Long Term Support \"LTS\" releases is the introduction of a linux-firmware-hwe package as part of their hardware enablement (HWE) stack...",
+    "url": "https://www.phoronix.com/news/Ubuntu-Considers-Linux-Firm-HWE",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-12T10:25:11.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9d01b6952f9fdfdf",
+    "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+    "excerpt": "Passports, selfies and home addresses were also handed over after the digital bank treated a fraudulent request as legitimate, but no customer funds were lost.",
+    "url": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-09-12T10:11:01.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/6ca19b29e8ab173881d07a500314e2d207392d68-1152x648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0379671b1f754732",
+    "title": "KDE Plasma 6.8 Remote Desktop To Enjoy Lower Latency Performance",
+    "excerpt": "Along with KDE Plasma 6.8 beta releasing this week, there were some other interesting Plasma changes this week worthy of a shout-out...",
+    "url": "https://www.phoronix.com/news/KDE-Plasma-6.8-KRDP-Lower-Lat",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-12T10:07:48.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6e6ec7cc06b404db",
+    "title": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
+    "excerpt": "Article URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/ Comments URL: https://news.ycombinator.com/item?id=49670493 Points: 14 # Comments: 2",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "ultral",
+    "publishedAt": "2026-09-12T09:08:54.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "c0afd23e10e9400f",
+    "title": "The aircraft might not be flying, but the certificate has gone on vacation",
+    "excerpt": "BORK!BORK!BORK! We still don't know what caused the air traffic control mayhem in the UK in early September, but one information board at Luton Airport appears to have gone out in sympathy. Spotted by Register reader Mark, the digital sign usually shows passenger information. Today, however, it…",
+    "url": "https://www.theregister.com/offbeat/2026/09/12/the-aircraft-might-not-be-flying-but-the-certificate-has-gone-on-vacation/5295622",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-12T09:00:00.000Z",
+    "category": "startups",
+    "imageUrl": "https://image.theregister.com/?imageId=5295625&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "aa4fa38682586117",
+    "title": "Little Mercury May Be Shrinking Faster Than Scientists Expected",
+    "excerpt": "A new study suggests Mercury may have shrunk about 30% more than scientists previously thought, losing as much as 14 miles in diameter as its interior cooled and contracted over billions of years. \"That's significant for a planet barely 3,000 miles (4,900 kilometers) across,\" reports the Associated…",
+    "url": "https://science.slashdot.org/story/26/09/11/2050204/little-mercury-may-be-shrinking-faster-than-scientists-expected?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-09-12T09:00:00.000Z",
+    "category": "science",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "cd4275fac97b5fd9",
+    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+    "excerpt": "Article URL: https://eiln.github.io/posts/ane.html Comments URL: https://news.ycombinator.com/item?id=49670032 Points: 94 # Comments: 11",
+    "url": "https://eiln.github.io/posts/ane.html",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "zdw",
+    "publishedAt": "2026-09-12T07:54:03.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "113fcf459aba0a49",
+    "title": "WeWorm: Zero-Click WeChat Worm",
+    "excerpt": "Article URL: https://calif.io/research/weworm Comments URL: https://news.ycombinator.com/item?id=49669276 Points: 28 # Comments: 1",
+    "url": "https://calif.io/research/weworm",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "BlackEarth",
+    "publishedAt": "2026-09-12T05:49:10.000Z",
+    "category": "science",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "0de290ecfa15f924",
     "title": "Can Red-Light Therapy Treat Brain Injuries?",
     "excerpt": "The Athletic reports that researchers at the University of Utah are studying itPBM, a medical-grade red-light therapy that has shown promising signs of reducing brain inflammation and improving cognition, mood, anxiety, motor performance and neural connectivity. The report centers in part on former…",
@@ -13,22 +169,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "7b2efff004017f35",
-    "title": "OpenAI agents attacked RubyGems back in May",
-    "excerpt": "Article URL: https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/ Comments URL: https://news.ycombinator.com/item?id=49668914 Points: 12 # Comments: 1",
-    "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "lumpa",
-    "publishedAt": "2026-09-12T04:46:43.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "628871b105fd3a46",
     "title": "Usenet rewind archive search engine",
-    "excerpt": "Article URL: https://www.usenet-rewind.com/ Comments URL: https://news.ycombinator.com/item?id=49668777 Points: 26 # Comments: 4",
+    "excerpt": "Article URL: https://www.usenet-rewind.com/ Comments URL: https://news.ycombinator.com/item?id=49668777 Points: 66 # Comments: 14",
     "url": "https://www.usenet-rewind.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -40,8 +183,8 @@
   },
   {
     "id": "f805a46f8df62abe",
-    "title": "Clay Mathematics Institute on the Navier-Stokes Problem",
-    "excerpt": "Article URL: https://www.claymath.org/news/navier-stokes-announcement/ Comments URL: https://news.ycombinator.com/item?id=49668706 Points: 53 # Comments: 19",
+    "title": "Navier-Stokes Announcement",
+    "excerpt": "Article URL: https://www.claymath.org/news/navier-stokes-announcement/ Comments URL: https://news.ycombinator.com/item?id=49668706 Points: 181 # Comments: 120",
     "url": "https://www.claymath.org/news/navier-stokes-announcement/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -53,27 +196,14 @@
   },
   {
     "id": "dff1498b29796da3",
-    "title": "Google no longer provides direct URLs in search results",
-    "excerpt": "Article URL: https://www.autom.dev/blog/google-search-goto-links Comments URL: https://news.ycombinator.com/item?id=49668386 Points: 243 # Comments: 124",
+    "title": "google.com/goto: Google's anti-scraping update",
+    "excerpt": "Article URL: https://www.autom.dev/blog/google-search-goto-links Comments URL: https://news.ycombinator.com/item?id=49668386 Points: 450 # Comments: 351",
     "url": "https://www.autom.dev/blog/google-search-goto-links",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "1e1a",
     "publishedAt": "2026-09-12T03:14:20.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "08830928f9a691cb",
-    "title": "Pandas Should Go Extinct",
-    "excerpt": "Article URL: https://eddie.codes/posts/pandas-should-go-extinct/ Comments URL: https://news.ycombinator.com/item?id=49668198 Points: 114 # Comments: 64",
-    "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "__eddie__",
-    "publishedAt": "2026-09-12T02:42:08.000Z",
-    "category": "startups",
+    "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -91,19 +221,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "0de37cadf4fc1e7b",
-    "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
-    "excerpt": "Article URL: https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies Comments URL: https://news.ycombinator.com/item?id=49667375 Points: 86 # Comments: 50",
-    "url": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "upofadown",
-    "publishedAt": "2026-09-12T00:40:32.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "a270c02d46983e7a",
     "title": "Gitte As Git Client For GNOME Continues Maturing Quite Nicely",
     "excerpt": "For those in pursuit of a graphical Git client for GNOME or the Linux desktop at large, the GTK4-powered Gitte continues advancing rather well and out this week is its v0.10 release...",
@@ -112,19 +229,6 @@
     "sourceHomepage": "https://www.phoronix.com",
     "author": "Michael Larabel",
     "publishedAt": "2026-09-12T00:35:39.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "69e10205d30144cb",
-    "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
-    "excerpt": "Article URL: https://github.com/zachsaw/graphify-csharp Comments URL: https://news.ycombinator.com/item?id=49667188 Points: 28 # Comments: 12",
-    "url": "https://github.com/zachsaw/graphify-csharp",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "zachsaw",
-    "publishedAt": "2026-09-12T00:16:10.000Z",
     "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -158,7 +262,7 @@
   {
     "id": "b0c48a4bc7fbd434",
     "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-    "excerpt": "Article URL: https://www.rubyhack.ai/ Comments URL: https://news.ycombinator.com/item?id=49666735 Points: 551 # Comments: 319",
+    "excerpt": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems... Comments URL: https://news.ycombinator.com/item?id=49666735 Points: 726 # Comments: 406",
     "url": "https://www.rubyhack.ai/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -184,7 +288,7 @@
   {
     "id": "89ec18f49a7f6ab6",
     "title": "Project Blinkenlights",
-    "excerpt": "Article URL: https://blinkenlights.de/en/ Comments URL: https://news.ycombinator.com/item?id=49666146 Points: 69 # Comments: 28",
+    "excerpt": "Article URL: https://blinkenlights.de/en/ Comments URL: https://news.ycombinator.com/item?id=49666146 Points: 97 # Comments: 32",
     "url": "https://blinkenlights.de/en/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -236,7 +340,7 @@
   {
     "id": "56ada5d3ccc246c4",
     "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
-    "excerpt": "Article URL: https://github.com/mirza-rizvi/ResolveHQ Comments URL: https://news.ycombinator.com/item?id=49665864 Points: 48 # Comments: 14",
+    "excerpt": "Article URL: https://github.com/mirza-rizvi/ResolveHQ Comments URL: https://news.ycombinator.com/item?id=49665864 Points: 61 # Comments: 21",
     "url": "https://github.com/mirza-rizvi/ResolveHQ",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -260,19 +364,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "7101efa9853f8ca9",
-    "title": "AI researchers debate how close we are to recursive self-improvement",
-    "excerpt": "Article URL: https://www.dwarkesh.com/p/john-beren-charlie Comments URL: https://news.ycombinator.com/item?id=49665711 Points: 85 # Comments: 73",
-    "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "artninja1988",
-    "publishedAt": "2026-09-11T21:35:29.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "c0bb2ed6d55690b1",
     "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
     "excerpt": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
@@ -282,6 +373,19 @@
     "author": "Connie Loizos",
     "publishedAt": "2026-09-11T21:19:05.000Z",
     "category": "Startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9b64496de13490d5",
+    "title": "Another way to leak traffic on Android has been discovered",
+    "excerpt": "Article URL: https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered Comments URL: https://news.ycombinator.com/item?id=49665502 Points: 87 # Comments: 13",
+    "url": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "mhitza",
+    "publishedAt": "2026-09-11T21:16:48.000Z",
+    "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -483,7 +587,7 @@
   {
     "id": "5e97932056794107",
     "title": "GrapheneOS' rewritten Messages app is released",
-    "excerpt": "Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13 Comments URL: https://news.ycombinator.com/item?id=49663373 Points: 238 # Comments: 157",
+    "excerpt": "Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13 Comments URL: https://news.ycombinator.com/item?id=49663373 Points: 280 # Comments: 206",
     "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -509,7 +613,7 @@
   {
     "id": "1a11e7c2583e4e5e",
     "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-    "excerpt": "Article URL: https://dayzlegame.com/blog/google-ads-bot-farm/ Comments URL: https://news.ycombinator.com/item?id=49662990 Points: 428 # Comments: 221",
+    "excerpt": "Article URL: https://dayzlegame.com/blog/google-ads-bot-farm/ Comments URL: https://news.ycombinator.com/item?id=49662990 Points: 558 # Comments: 295",
     "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -535,25 +639,12 @@
   {
     "id": "6d134ed885afc69e",
     "title": "Litelm: LiteLLM Without the Bloat",
-    "excerpt": "Article URL: https://github.com/kennethwolters/litelm Comments URL: https://news.ycombinator.com/item?id=49662767 Points: 118 # Comments: 39",
+    "excerpt": "Article URL: https://github.com/kennethwolters/litelm Comments URL: https://news.ycombinator.com/item?id=49662767 Points: 148 # Comments: 49",
     "url": "https://github.com/kennethwolters/litelm",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "kennethwolters",
     "publishedAt": "2026-09-11T18:10:20.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ad9b6844fd09f81d",
-    "title": "The EPA is planning to scrap public review rules for data center pollution",
-    "excerpt": "Article URL: https://capitalbnews.org/data-centers-permit-rules-epa/ Comments URL: https://news.ycombinator.com/item?id=49662672 Points: 423 # Comments: 296",
-    "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "doener",
-    "publishedAt": "2026-09-11T18:05:21.000Z",
     "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -587,7 +678,7 @@
   {
     "id": "27d3981660ac3e51",
     "title": "A misalignment of AI in mathematics",
-    "excerpt": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 801 # Comments: 796",
+    "excerpt": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 950 # Comments: 909",
     "url": "https://mathandai.org/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -613,7 +704,7 @@
   {
     "id": "5b5318e43ea03e31",
     "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
-    "excerpt": "Article URL: https://snap.berkeley.edu/ Comments URL: https://news.ycombinator.com/item?id=49662214 Points: 133 # Comments: 74",
+    "excerpt": "Article URL: https://snap.berkeley.edu/ Comments URL: https://news.ycombinator.com/item?id=49662214 Points: 147 # Comments: 84",
     "url": "https://snap.berkeley.edu/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -639,7 +730,7 @@
   {
     "id": "7ff6244359328b8e",
     "title": "Mind-altering drugs played key role in rise of Andean civilization",
-    "excerpt": "Article URL: https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization Comments URL: https://news.ycombinator.com/item?id=49662020 Points: 135 # Comments: 86",
+    "excerpt": "Article URL: https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization Comments URL: https://news.ycombinator.com/item?id=49662020 Points: 165 # Comments: 107",
     "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -847,7 +938,7 @@
   {
     "id": "81dc92a8a9debb5e",
     "title": "Rune is now open source",
-    "excerpt": "Article URL: https://rune.build/blog/rune-is-now-open-source Comments URL: https://news.ycombinator.com/item?id=49660149 Points: 165 # Comments: 56",
+    "excerpt": "Article URL: https://rune.build/blog/rune-is-now-open-source Comments URL: https://news.ycombinator.com/item?id=49660149 Points: 191 # Comments: 58",
     "url": "https://rune.build/blog/rune-is-now-open-source",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -906,7 +997,7 @@
     "author": "Omkar Godbole",
     "publishedAt": "2026-09-11T15:17:08.000Z",
     "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/d2d635a94af6650d58a3dbcda666805d2d1930bf-1280x851.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/6876a8f03e38026b9e6e17cf35ca9ecd78632594-1066x1599.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -959,19 +1050,6 @@
     "publishedAt": "2026-09-11T15:00:00.000Z",
     "category": "ai",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "08be94218ff1b5ef",
-    "title": "The wireless earbuds with unbeatable call quality got their first discount",
-    "excerpt": "Anker’s Soundcore Liberty 5 Pro came out swinging in May with incredible call quality, something that competing ear buds have struggled to get right. They’ve become part of our reviewer John Higgins’ rotation of earbuds for more than just taking calls; The Liberty 5 Pro have fantastic audio once…",
-    "url": "https://www.theverge.com/gadgets/993929/soundcore-liberty-5-pro-earbuds-control-resonant-ring-doorbell-deal-sale",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Cameron Faulkner",
-    "publishedAt": "2026-09-11T14:43:26.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/soundcoreliberty5prodeal.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -1258,19 +1336,6 @@
     "publishedAt": "2026-09-11T10:50:47.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/7f055a33216d8ee08692f0e37101ccf7ccbd40d1-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "214c86f57b820be1",
-    "title": "Claude is only available to people over 18 years",
-    "excerpt": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude Comments URL: https://news.ycombinator.com/item?id=49656225 Points: 616 # Comments: 621",
-    "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "Muhammad523",
-    "publishedAt": "2026-09-11T10:48:00.000Z",
-    "category": "ai",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1776,6 +1841,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "f0c8eb77f335f260",
+    "title": "Show HN: Bodily Oddities",
+    "excerpt": "When I was about 11 years old, my best friend and I were playing during recess at school, and I was carrying him around on my back, presumably pretending to be a multipart attack robot. All of a sudden, my heart started hurting, and I collapsed to my knees, and the robot was no more. Every time I…",
+    "url": "https://vester.si/bodily-oddities/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "vesterde",
+    "publishedAt": "2026-09-10T20:33:11.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "142d225171d57010",
     "title": "Don't buy the 'regular' AirPods 5",
     "excerpt": "The first time you need to adjust volume, you'll wish you'd spent that extra $20.",
@@ -1799,19 +1877,6 @@
     "publishedAt": "2026-09-10T20:21:57.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/27f181c6ee0ec7f329ad40b57f8403e3338d7346-4928x2772.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f535e8be130a7a66",
-    "title": "ABC Show Won't Air Interview With Democrat Because of FCC Threats",
-    "excerpt": "An anonymous reader quotes a report from Ars Technica: ABC's Jimmy Kimmel said he will be interviewing a Democratic candidate for Senate tonight, but the interview will be on YouTube only and not broadcast on TV because of threats made by the Federal Communications Commission. Kimmel has been a…",
-    "url": "https://yro.slashdot.org/story/26/09/10/1914225/abc-show-wont-air-interview-with-democrat-because-of-fcc-threats?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-09-10T20:00:00.000Z",
-    "category": "policy",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
@@ -2140,6 +2205,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "8ee5cc2f7cec548a",
+    "title": "Detailed report on the use of solar geoengineering",
+    "excerpt": "Article URL: https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/ Comments URL: https://news.ycombinator.com/item?id=49646113 Points: 13 # Comments: 3",
+    "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "coloneltcb",
+    "publishedAt": "2026-09-10T16:08:54.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "25d34096de29efef",
     "title": "Monument Bank delays retail tokenized deposits while onboarding custody partner",
     "excerpt": "The London-based challenger bank tapped a Canadian custodian to meet the Financial Conduct Authority’s regulatory requirements. It now expects to roll out retail tokenized deposits by November.",
@@ -2228,19 +2306,6 @@
     "publishedAt": "2026-09-10T14:08:00.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=236882&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "6debe374554ea05e",
-    "title": "Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial",
-    "excerpt": "The coalition warned that the current limit is too low, noting some existing European projects already exceed it.",
-    "url": "https://www.coindesk.com/business/2026/09/10/nasdaq-boerse-stuttgart-others-ask-eu-to-remove-or-increase-cap-in-tokenization-trial",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Francisco Rodrigues",
-    "publishedAt": "2026-09-10T13:56:54.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/0787d5f032ca85f77ffa1a385d7fd6d77c3d64a6-1920x1280.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2647,32 +2712,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "ec0f12c8f1c1964f",
-    "title": "OpenSSL 4.1 Alpha 1 Released With DTLS 1.3, GREASE & More AVX-512 Optimizations",
-    "excerpt": "The first alpha release of the upcoming OpenSSL 4.1 release is now available for testing with some GREASE and DTLS 1.3 support along with more AVX-512 performance optimizations...",
-    "url": "https://www.phoronix.com/news/OpenSSL-4.1-Alpha-1",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-09T14:46:00.000Z",
-    "category": "security",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "1725fa386a13f8ac",
-    "title": "NVIDIA 615.71.09 Linux Driver Released With Vulkan Improvements",
-    "excerpt": "NVIDIA today debuted the 615.71.09 Linux driver that comes with a number of improvements, especially from the Vulkan API perspective...",
-    "url": "https://www.phoronix.com/news/NVIDIA-615.71.09-Linux-Driver",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-09T14:02:37.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "fccc1f839ff90ee0",
     "title": "Cryptocrook ringleader, 22, who met crew on Minecraft admits role in $245M heist",
     "excerpt": "The ringleader of a sprawling cybercrime operation has pleaded guilty in the US after helping to steal and launder hundreds of millions of dollars in cryptocurrency. Malone Lam, 22, a Singaporean national and Miami resident, spearheaded the scheme to steal cryptocurrency from wealthy individuals…",
@@ -2683,19 +2722,6 @@
     "publishedAt": "2026-09-09T13:39:00.000Z",
     "category": "crypto",
     "imageUrl": "https://image.theregister.com/?imageId=241371&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "e952433b6bf7082c",
-    "title": "A Nice Improvement Coming For Faster Btrfs Zstd Decompression",
-    "excerpt": "In addition to the still-pending kernel work for improving the in-kernel Zstd code, sepaarately the Btrfs file-system driver has an improvement on the way in its decompression code path for the Zstd transparent file-system compression...",
-    "url": "https://www.phoronix.com/news/Btrfs-Zstd-Faster-Decompress",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-09T12:52:22.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2722,32 +2748,6 @@
     "publishedAt": "2026-09-09T12:03:00.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=5242280&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "eebea7ce64ed2915",
-    "title": "Security boffin claims airport group left API keys in client-side JavaScript for four years",
-    "excerpt": "Security researcher Scott Helme says his analysis supports FulcrumSec's claim that Manchester Airports Group (MAG) exposed privileged API keys in client-side JavaScript. Helme says he reached that conclusion after using information provided by the cyber extortion group to reconstruct how data…",
-    "url": "https://www.theregister.com/cyber-crime/2026/09/09/security-boffin-claims-airport-group-left-api-keys-in-client-side-javascript-for-four-years/5295192",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-09T11:14:00.000Z",
-    "category": "software",
-    "imageUrl": "https://image.theregister.com/?imageId=5273664&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ca4de6626373518e",
-    "title": "AMD Posts New GCC Compiler Patch For Extended Load Optimization",
-    "excerpt": "It's nice seeing a new GNU Compiler Collection (GCC) patch out of AMD today that is a general optimization for the x86_64 compiler code and not exclusively tied to their Zen processors. It's an Extended Load Optimization to benefit code where there is a narrower type and then an arithmetic type…",
-    "url": "https://www.phoronix.com/news/AMD-GCC-Extended-Load-Opt",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-09T10:26:16.000Z",
-    "category": "security",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
