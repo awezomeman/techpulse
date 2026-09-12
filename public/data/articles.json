@@ -1,5 +1,83 @@
 [
   {
+    "id": "0de290ecfa15f924",
+    "title": "Can Red-Light Therapy Treat Brain Injuries?",
+    "excerpt": "The Athletic reports that researchers at the University of Utah are studying itPBM, a medical-grade red-light therapy that has shown promising signs of reducing brain inflammation and improving cognition, mood, anxiety, motor performance and neural connectivity. The report centers in part on former…",
+    "url": "https://science.slashdot.org/story/26/09/11/2037218/can-red-light-therapy-treat-brain-injuries?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "BeauHD",
+    "publishedAt": "2026-09-12T05:00:00.000Z",
+    "category": "science",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7b2efff004017f35",
+    "title": "OpenAI agents attacked RubyGems back in May",
+    "excerpt": "Article URL: https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/ Comments URL: https://news.ycombinator.com/item?id=49668914 Points: 12 # Comments: 1",
+    "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "lumpa",
+    "publishedAt": "2026-09-12T04:46:43.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "628871b105fd3a46",
+    "title": "Usenet rewind archive search engine",
+    "excerpt": "Article URL: https://www.usenet-rewind.com/ Comments URL: https://news.ycombinator.com/item?id=49668777 Points: 26 # Comments: 4",
+    "url": "https://www.usenet-rewind.com/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "cstadler1869",
+    "publishedAt": "2026-09-12T04:19:52.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f805a46f8df62abe",
+    "title": "Clay Mathematics Institute on the Navier-Stokes Problem",
+    "excerpt": "Article URL: https://www.claymath.org/news/navier-stokes-announcement/ Comments URL: https://news.ycombinator.com/item?id=49668706 Points: 53 # Comments: 19",
+    "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "rvz",
+    "publishedAt": "2026-09-12T04:09:43.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "dff1498b29796da3",
+    "title": "Google no longer provides direct URLs in search results",
+    "excerpt": "Article URL: https://www.autom.dev/blog/google-search-goto-links Comments URL: https://news.ycombinator.com/item?id=49668386 Points: 243 # Comments: 124",
+    "url": "https://www.autom.dev/blog/google-search-goto-links",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "1e1a",
+    "publishedAt": "2026-09-12T03:14:20.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "08830928f9a691cb",
+    "title": "Pandas Should Go Extinct",
+    "excerpt": "Article URL: https://eddie.codes/posts/pandas-should-go-extinct/ Comments URL: https://news.ycombinator.com/item?id=49668198 Points: 114 # Comments: 64",
+    "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "__eddie__",
+    "publishedAt": "2026-09-12T02:42:08.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "a38325bcaf228138",
     "title": "Male Fruit Fly Brain Trained to Play Doom",
     "excerpt": "Last week, Google announced that it managed to produce a detailed 3D reconstruction of an adult male fruit fly's brain and central nervous system. A few days later a software engineer at Coinbase said the fly brain was being trained to play the original Doom. \"Each Doom frame stimulates sensory…",
@@ -10,6 +88,19 @@
     "publishedAt": "2026-09-12T01:00:00.000Z",
     "category": "crypto",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0de37cadf4fc1e7b",
+    "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
+    "excerpt": "Article URL: https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies Comments URL: https://news.ycombinator.com/item?id=49667375 Points: 86 # Comments: 50",
+    "url": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "upofadown",
+    "publishedAt": "2026-09-12T00:40:32.000Z",
+    "category": "startups",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -28,7 +119,7 @@
   {
     "id": "69e10205d30144cb",
     "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
-    "excerpt": "Article URL: https://github.com/zachsaw/graphify-csharp Comments URL: https://news.ycombinator.com/item?id=49667188 Points: 6 # Comments: 2",
+    "excerpt": "Article URL: https://github.com/zachsaw/graphify-csharp Comments URL: https://news.ycombinator.com/item?id=49667188 Points: 28 # Comments: 12",
     "url": "https://github.com/zachsaw/graphify-csharp",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -52,19 +143,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "fc63b2341e475eba",
-    "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
-    "excerpt": "Article URL: https://www.firecrawl.dev/blog/ai-software-factory Comments URL: https://news.ycombinator.com/item?id=49666960 Points: 14 # Comments: 2",
-    "url": "https://www.firecrawl.dev/blog/ai-software-factory",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "makaimc",
-    "publishedAt": "2026-09-11T23:43:53.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "8f75a7c2114acd17",
     "title": "Some satellite companies still have an appetite for boutique launch services",
     "excerpt": "If you ask most satellite companies aside from SpaceX, they will tell you the world doesn't have enough capacity for launching payloads into orbit. This is despite the blistering launch cadence we've seen around the world in recent years, led by SpaceX's Falcon 9 rocket. Customers in any sector…",
@@ -80,7 +158,7 @@
   {
     "id": "b0c48a4bc7fbd434",
     "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-    "excerpt": "Article URL: https://www.rubyhack.ai/ Comments URL: https://news.ycombinator.com/item?id=49666735 Points: 257 # Comments: 150",
+    "excerpt": "Article URL: https://www.rubyhack.ai/ Comments URL: https://news.ycombinator.com/item?id=49666735 Points: 551 # Comments: 319",
     "url": "https://www.rubyhack.ai/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -104,22 +182,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "283d6b6c28cb30b3",
-    "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
-    "excerpt": "Article URL: https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf Comments URL: https://news.ycombinator.com/item?id=49666155 Points: 16 # Comments: 7",
-    "url": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "matt_d",
-    "publishedAt": "2026-09-11T22:16:15.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "89ec18f49a7f6ab6",
     "title": "Project Blinkenlights",
-    "excerpt": "Article URL: https://blinkenlights.de/en/ Comments URL: https://news.ycombinator.com/item?id=49666146 Points: 42 # Comments: 18",
+    "excerpt": "Article URL: https://blinkenlights.de/en/ Comments URL: https://news.ycombinator.com/item?id=49666146 Points: 69 # Comments: 28",
     "url": "https://blinkenlights.de/en/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -171,7 +236,7 @@
   {
     "id": "56ada5d3ccc246c4",
     "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
-    "excerpt": "Article URL: https://github.com/mirza-rizvi/ResolveHQ Comments URL: https://news.ycombinator.com/item?id=49665864 Points: 26 # Comments: 9",
+    "excerpt": "Article URL: https://github.com/mirza-rizvi/ResolveHQ Comments URL: https://news.ycombinator.com/item?id=49665864 Points: 48 # Comments: 14",
     "url": "https://github.com/mirza-rizvi/ResolveHQ",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -197,7 +262,7 @@
   {
     "id": "7101efa9853f8ca9",
     "title": "AI researchers debate how close we are to recursive self-improvement",
-    "excerpt": "Article URL: https://www.dwarkesh.com/p/john-beren-charlie Comments URL: https://news.ycombinator.com/item?id=49665711 Points: 21 # Comments: 0",
+    "excerpt": "Article URL: https://www.dwarkesh.com/p/john-beren-charlie Comments URL: https://news.ycombinator.com/item?id=49665711 Points: 85 # Comments: 73",
     "url": "https://www.dwarkesh.com/p/john-beren-charlie",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -418,7 +483,7 @@
   {
     "id": "5e97932056794107",
     "title": "GrapheneOS' rewritten Messages app is released",
-    "excerpt": "Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13 Comments URL: https://news.ycombinator.com/item?id=49663373 Points: 190 # Comments: 110",
+    "excerpt": "Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13 Comments URL: https://news.ycombinator.com/item?id=49663373 Points: 238 # Comments: 157",
     "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -442,22 +507,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "e70e4865c6357fd9",
-    "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
-    "excerpt": "https://www.cia.gov/stories/story/cia-releases-presidents-da... Comments URL: https://news.ycombinator.com/item?id=49663054 Points: 113 # Comments: 58",
-    "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "stmw",
-    "publishedAt": "2026-09-11T18:30:07.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "1a11e7c2583e4e5e",
     "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-    "excerpt": "Article URL: https://dayzlegame.com/blog/google-ads-bot-farm/ Comments URL: https://news.ycombinator.com/item?id=49662990 Points: 272 # Comments: 154",
+    "excerpt": "Article URL: https://dayzlegame.com/blog/google-ads-bot-farm/ Comments URL: https://news.ycombinator.com/item?id=49662990 Points: 428 # Comments: 221",
     "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -483,7 +535,7 @@
   {
     "id": "6d134ed885afc69e",
     "title": "Litelm: LiteLLM Without the Bloat",
-    "excerpt": "Article URL: https://github.com/kennethwolters/litelm Comments URL: https://news.ycombinator.com/item?id=49662767 Points: 94 # Comments: 35",
+    "excerpt": "Article URL: https://github.com/kennethwolters/litelm Comments URL: https://news.ycombinator.com/item?id=49662767 Points: 118 # Comments: 39",
     "url": "https://github.com/kennethwolters/litelm",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -496,7 +548,7 @@
   {
     "id": "ad9b6844fd09f81d",
     "title": "The EPA is planning to scrap public review rules for data center pollution",
-    "excerpt": "Article URL: https://capitalbnews.org/data-centers-permit-rules-epa/ Comments URL: https://news.ycombinator.com/item?id=49662672 Points: 336 # Comments: 223",
+    "excerpt": "Article URL: https://capitalbnews.org/data-centers-permit-rules-epa/ Comments URL: https://news.ycombinator.com/item?id=49662672 Points: 423 # Comments: 296",
     "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -535,7 +587,7 @@
   {
     "id": "27d3981660ac3e51",
     "title": "A misalignment of AI in mathematics",
-    "excerpt": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 610 # Comments: 665",
+    "excerpt": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/... , https://unwall.app/www.economist.com/science-and-technology/... Comments URL: https://news.ycombinator.com/item?id=49662371 Points: 801 # Comments: 796",
     "url": "https://mathandai.org/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -561,7 +613,7 @@
   {
     "id": "5b5318e43ea03e31",
     "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
-    "excerpt": "Article URL: https://snap.berkeley.edu/ Comments URL: https://news.ycombinator.com/item?id=49662214 Points: 110 # Comments: 53",
+    "excerpt": "Article URL: https://snap.berkeley.edu/ Comments URL: https://news.ycombinator.com/item?id=49662214 Points: 133 # Comments: 74",
     "url": "https://snap.berkeley.edu/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -587,7 +639,7 @@
   {
     "id": "7ff6244359328b8e",
     "title": "Mind-altering drugs played key role in rise of Andean civilization",
-    "excerpt": "Article URL: https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization Comments URL: https://news.ycombinator.com/item?id=49662020 Points: 95 # Comments: 70",
+    "excerpt": "Article URL: https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization Comments URL: https://news.ycombinator.com/item?id=49662020 Points: 135 # Comments: 86",
     "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -621,19 +673,6 @@
     "publishedAt": "2026-09-11T17:12:45.000Z",
     "category": "hardware",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/550882cd1c9405cbe0c4bfae04412895bdfcb8a6-1937x1089.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "15d5dd0fd27db9c9",
-    "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
-    "excerpt": "Article URL: https://www.getzep.com/careers/ Comments URL: https://news.ycombinator.com/item?id=49661645 Points: 0 # Comments: 0",
-    "url": "https://www.getzep.com/careers/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "roseway4",
-    "publishedAt": "2026-09-11T17:00:17.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -741,19 +780,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "c9ebc6e443b6871f",
-    "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
-    "excerpt": "I wanted to share my side-project: gPTY. Started off as an idea to combine Godot and Rust in a project (two stacks I wanted to use more to learn more). The base inspiration was tmux - simply allow spawning multiple PTYs and then let the user grid/tile them how they see fit. But since we have the…",
-    "url": "https://github.com/godot-pty/gpty",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "1nv1n",
-    "publishedAt": "2026-09-11T16:03:05.000Z",
-    "category": "crypto",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "57fdb8a9306389a0",
     "title": "Disembodied fruit fly brain joins the crypto speculation swarm",
     "excerpt": "If you want to understand how 2026 is going, in March The Register reported that scientists had connected a simulated fruit fly brain to a virtual body and let it wander around a virtual world. Now another simulated fly nervous system is trading crypto. Behold Stonkfly, the brainchild of Coinbase…",
@@ -821,7 +847,7 @@
   {
     "id": "81dc92a8a9debb5e",
     "title": "Rune is now open source",
-    "excerpt": "Article URL: https://rune.build/blog/rune-is-now-open-source Comments URL: https://news.ycombinator.com/item?id=49660149 Points: 141 # Comments: 54",
+    "excerpt": "Article URL: https://rune.build/blog/rune-is-now-open-source Comments URL: https://news.ycombinator.com/item?id=49660149 Points: 165 # Comments: 56",
     "url": "https://rune.build/blog/rune-is-now-open-source",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1183,19 +1209,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "a7e839f442e5efa3",
-    "title": "RTK reports token savings, but our cost benchmarks disagree",
-    "excerpt": "Article URL: https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/ Comments URL: https://news.ycombinator.com/item?id=49656471 Points: 146 # Comments: 72",
-    "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "michalwarda",
-    "publishedAt": "2026-09-11T11:15:13.000Z",
-    "category": "crypto",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "600e102c5ab412b4",
     "title": "Live updates: Bitcoin gives up early gains, with markets moving to price in multiple rate hikes",
     "excerpt": "Core CPI rose a faster-than-forecast 0.3% in August, but the yearly pace of 2.4% was in line and the slowest rate since early 2021.",
@@ -1250,7 +1263,7 @@
   {
     "id": "214c86f57b820be1",
     "title": "Claude is only available to people over 18 years",
-    "excerpt": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude Comments URL: https://news.ycombinator.com/item?id=49656225 Points: 574 # Comments: 596",
+    "excerpt": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude Comments URL: https://news.ycombinator.com/item?id=49656225 Points: 616 # Comments: 621",
     "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1851,19 +1864,6 @@
     "publishedAt": "2026-09-10T19:09:29.000Z",
     "category": "science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Envision-1152x648-1789054779.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c3439dfd46a11b9e",
-    "title": "OpenAI Targets Work of Wall Street Junior Bankers",
-    "excerpt": "OpenAI has launched ChatGPT for Financial Services, a Wall Street-focused version of ChatGPT Work developed with Morgan Stanley and Evercore that can research companies, analyze financial data, and build presentations using the company's latest and most advanced model, GPT-6 Astra. \"We're…",
-    "url": "https://news.slashdot.org/story/26/09/10/191248/openai-targets-work-of-wall-street-junior-bankers?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-09-10T19:02:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
