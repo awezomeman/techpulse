@@ -1,5 +1,161 @@
 [
   {
+    "id": "8158f9fb057a4138",
+    "title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
+    "excerpt": "Prosecutors have filed a civil forfeiture complaint against what they call Iran's illegal crypto proceeds that are used to fund its military.",
+    "url": "https://www.coindesk.com/markets/2026/09/15/u-s-doj-seeks-usd61-million-in-what-it-calls-crypto-laundered-iranian-oil-proceeds",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Omkar Godbole",
+    "publishedAt": "2026-09-15T05:12:06.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/daff9ba693e030b0bf954a2c3bd97fd9395cc604-1920x1403.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1921333aa03dc10c",
+    "title": "Solana transactions just got more than 3 times bigger, giving an edge over Ethereum",
+    "excerpt": "Transaction V1 raises Solana’s limit to 4,096 bytes from 1,232, giving developers more room for multi-step trades, company-wallet approvals and privacy proofs.",
+    "url": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-09-15T04:34:10.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/e6376ed45a3d412e45b43d8bef2b7e97998c05ab-5760x3240.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "fe44802c15688be8",
+    "title": "Democrats send counteroffer to Republicans over Clarity Act provisions",
+    "excerpt": "Democratic Senators were said to be meeting late Monday to discuss the latest proposed draft text.",
+    "url": "https://www.coindesk.com/policy/2026/09/15/democrats-send-counteroffer-to-republicans-over-clarity-act-provisions",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Nikhilesh De",
+    "publishedAt": "2026-09-15T04:09:01.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/d960f691e3e8d1df1d85c75dada63f4f46fe67c5-6000x3376.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "5c81d3a813775a7f",
+    "title": "For the first time, the US military confirms it has deployed weapons in orbit",
+    "excerpt": "Air Force Secretary Troy Meink made the first public declaration Monday that the United States has placed \"space control weapons\" in orbit, an announcement that will surely reverberate in the power centers of Beijing and Moscow. Space Force officials have previously expressed their interest in…",
+    "url": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Stephen Clark",
+    "publishedAt": "2026-09-15T03:47:36.000Z",
+    "category": "science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/9718607-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3a827aeb65ca3056",
+    "title": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
+    "excerpt": "The House Ways and Means Committee published a crypto tax bill addressing de minimis transactions, staking and other issues for which the industry's clamored for policies.",
+    "url": "https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Nikhilesh De",
+    "publishedAt": "2026-09-15T03:27:38.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/13ac995b99ca118ff9b61fe29239c0b16abd0a24-3456x2304.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f4c80dbf54eada23",
+    "title": "Bitcoin slips to $77,800 as Senate Clarity Act vote nears and oil prices climb",
+    "excerpt": "Bitcoin pulls back from $79,000 as the Senate prepares to vote on the Clarity Act and oil prices rise.",
+    "url": "https://www.coindesk.com/markets/2026/09/15/bitcoin-slips-to-usd77-800-as-senate-clarity-act-vote-nears-and-oil-prices-climb",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Omkar Godbole",
+    "publishedAt": "2026-09-15T03:23:28.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/3c2cec85b0ff164779a92237b9e4d66cfaac9e49-2191x1176.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7cf2e571be71f701",
+    "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+    "excerpt": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+    "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Connie Loizos",
+    "publishedAt": "2026-09-15T01:50:48.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "578f234b1b0a6384",
+    "title": "COBOL dev won .Net hackathon with help from AI – and their CIO loves it",
+    "excerpt": "The CIO of Australia’s taxation office (ATO) is letting administrative staff use Microsoft’s Copilot for everyday activities, in the hope it pays off by helping them to develop skills, and ideas, that eventually improve its core services. “We are getting AI into the hands of as many workers as…",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/15/cobol-dev-won-net-hackathon-with-help-from-ai-and-their-cio-loves-it/5296438",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-15T01:47:17.000Z",
+    "category": "ai",
+    "imageUrl": "https://image.theregister.com/?imageId=262941&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8d49e08b4537bb2a",
+    "title": "Reservations Go Live for Valve's Steam Frame VR Headset. An Experiment in Progress?",
+    "excerpt": "Reservations are now live for Valve's \"Steam Frame\" VR headset (with its Linux-based SteamOS and an ARM CPU). \"It starts at $1,059 for 256GB or $1,299 for 1TB,\" reports CNET, \"and every purchase includes a copy of Half-Life: Alyx if you don't already own it.\" Reservations are open through Sept. 17…",
+    "url": "https://games.slashdot.org/story/26/09/14/2019212/reservations-go-live-for-valves-steam-frame-vr-headset-an-experiment-in-progress?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-09-15T01:04:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b6e9f57f7ea545cc",
+    "title": "How to use Meta Display glasses while driving with the Audio Only feature",
+    "excerpt": "The Meta Display glasses have an Audio Only feature that can detect when you're driving and turn off the display.",
+    "url": "https://www.engadget.com/2255133/meta-display-glasses-audio-only-driving-detection-feature/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Filipe Espósito)",
+    "publishedAt": "2026-09-15T00:30:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/how-to-use-meta-display-glasses-while-driving-with-the-audio-only-feature/l-intro-1788885789.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "292398026a41ecfe",
+    "title": "Microsoft drafts feel-good AI model guidelines and wants your input",
+    "excerpt": "Microsoft on Monday debuted draft principles for governing how the company will train future AI models, as part of a public consultation process. The Windows biz has solicited feedback to refine its Humanist AI Code of Conduct [PDF], with the expectation of applying the guidelines to model…",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/15/microsoft-drafts-feel-good-ai-model-guidelines-and-wants-your-input/5296431",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-15T00:15:29.000Z",
+    "category": "ai",
+    "imageUrl": "https://image.theregister.com/?imageId=5296435&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d7d4f6eed21789a8",
+    "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
+    "excerpt": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller , the Steam Machine , and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The company is figuring out \"how and when we can deliver something like that,\"…",
+    "url": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Sean Hollister",
+    "publishedAt": "2026-09-15T00:13:47.000Z",
+    "category": "hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/DSCF9137.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "5c4325948955e094",
     "title": "Can you use an Apple Pencil with an iPhone?",
     "excerpt": "If you have the right Apple Pencil and iPhone, you can use them together. But it won't be cheap, and there are some limitations to know.",
@@ -10,19 +166,6 @@
     "publishedAt": "2026-09-15T00:00:00.000Z",
     "category": "Hardware",
     "imageUrl": "https://www.engadget.com/img/gallery/can-you-use-an-apple-pencil-with-an-iphone/l-intro-1789062711.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d0f9a00a1adb3947",
-    "title": "I'm not addicted to the internet or my smartphone. I'm addicted to information",
-    "excerpt": "Article URL: https://explorator.dev/addiction/ Comments URL: https://news.ycombinator.com/item?id=49705868 Points: 6 # Comments: 1",
-    "url": "https://explorator.dev/addiction/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "jyhrow",
-    "publishedAt": "2026-09-14T23:52:14.000Z",
-    "category": "hardware",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -67,7 +210,7 @@
   {
     "id": "d31813a3aa335b59",
     "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-    "excerpt": "Article URL: https://github.com/JamesRyanATX/fcbnerd Comments URL: https://news.ycombinator.com/item?id=49705442 Points: 21 # Comments: 1",
+    "excerpt": "Article URL: https://github.com/JamesRyanATX/fcbnerd Comments URL: https://news.ycombinator.com/item?id=49705442 Points: 52 # Comments: 9",
     "url": "https://github.com/JamesRyanATX/fcbnerd",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -114,6 +257,19 @@
     "publishedAt": "2026-09-14T22:59:41.000Z",
     "category": "ai",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9893c475d5fcb1b3",
+    "title": "HBO Max Reddit account compromised to serve ClickFix attacks",
+    "excerpt": "Someone compromised the official HBO Max Reddit account and used it to push more than 100 malicious ads serving up ClickFix attacks targeting both Windows and macOS devices with information-stealing malware. A Reddit user uncovered the infostealer ads on September 6, noting that the ad showed…",
+    "url": "https://www.theregister.com/cyber-crime/2026/09/14/hbo-max-reddit-account-compromised-to-serve-clickfix-attacks/5296408",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-14T22:43:01.000Z",
+    "category": "software",
+    "imageUrl": "https://image.theregister.com/?imageId=5296419&width=800",
     "readTimeMinutes": 1
   },
   {
@@ -223,7 +379,7 @@
   {
     "id": "7591806ea80f1f15",
     "title": "Charts built for Chat",
-    "excerpt": "Article URL: https://dbtcharts.com/blog/charts-built-for-chat/ Comments URL: https://news.ycombinator.com/item?id=49704246 Points: 70 # Comments: 21",
+    "excerpt": "Article URL: https://dbtcharts.com/blog/charts-built-for-chat/ Comments URL: https://news.ycombinator.com/item?id=49704246 Points: 158 # Comments: 49",
     "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -249,7 +405,7 @@
   {
     "id": "937e97743839da56",
     "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-    "excerpt": "Article URL: https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html Comments URL: https://news.ycombinator.com/item?id=49704008 Points: 156 # Comments: 159",
+    "excerpt": "Article URL: https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html Comments URL: https://news.ycombinator.com/item?id=49704008 Points: 192 # Comments: 195",
     "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -327,7 +483,7 @@
   {
     "id": "594e3fb16cec9f57",
     "title": "A Visit to San Francisco's AI-run Store: No Customers, Nothing Useful, And Losing Money Fast",
-    "excerpt": "Previously Andon Labs handled the hardware and software integration for that AI-powered vending machine that went bankrupt after Wall Street Journal reporters \"systematically manipulated the bot into giving away its entire inventory for free\".Today they announced \"we are opening up the platform we…",
+    "excerpt": "Previously Andon Labs handled the hardware and software integration for that AI-powered vending machine that went bankrupt after Wall Street Journal reporters \"systematically manipulated the bot into giving away its entire inventory for free\". Today they announced \"we are opening up the platform we…",
     "url": "https://slashdot.org/story/26/09/13/0523208/a-visit-to-san-franciscos-ai-run-store-no-customers-nothing-useful-and-losing-money-fast?utm_source=rss1.0mainlinkanon&utm_medium=feed",
     "source": "Slashdot",
     "sourceHomepage": "https://slashdot.org",
@@ -374,19 +530,6 @@
     "publishedAt": "2026-09-14T20:00:00.000Z",
     "category": "software",
     "imageUrl": "https://www.engadget.com/img/gallery/how-to-force-quit-on-your-windows-pc/l-intro-1789034135.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "baf3658e1d9c87c8",
-    "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-    "excerpt": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review Comments URL: https://news.ycombinator.com/item?id=49703003 Points: 95 # Comments: 105",
-    "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "theanonymousone",
-    "publishedAt": "2026-09-14T19:56:20.000Z",
-    "category": "ai",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -613,7 +756,7 @@
   {
     "id": "a25b2880e57d5485",
     "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
-    "excerpt": "https://arxiv.org/abs/2605.31022 https://github.com/SakanaAI/pc-alm Comments URL: https://news.ycombinator.com/item?id=49701182 Points: 32 # Comments: 6",
+    "excerpt": "https://arxiv.org/abs/2605.31022 https://github.com/SakanaAI/pc-alm Comments URL: https://news.ycombinator.com/item?id=49701182 Points: 62 # Comments: 13",
     "url": "https://pub.sakana.ai/pc-alm/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -665,7 +808,7 @@
   {
     "id": "85519a8f6e295c80",
     "title": "iOS 27, iPadOS 27, and macOS 27",
-    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/ Comments URL: https://news.ycombinator.com/item?id=49701004 Points: 330 # Comments: 368",
+    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/ Comments URL: https://news.ycombinator.com/item?id=49701004 Points: 483 # Comments: 525",
     "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -756,7 +899,7 @@
   {
     "id": "6521ac2763494dd5",
     "title": "Steam Frame starts at $1059",
-    "excerpt": "Article URL: https://store.steampowered.com/hardware/steamframe Comments URL: https://news.ycombinator.com/item?id=49700661 Points: 466 # Comments: 345",
+    "excerpt": "Article URL: https://store.steampowered.com/hardware/steamframe Comments URL: https://news.ycombinator.com/item?id=49700661 Points: 584 # Comments: 438",
     "url": "https://store.steampowered.com/hardware/steamframe",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -782,7 +925,7 @@
   {
     "id": "b54bfac470e15413",
     "title": "Pion, an agent designed to run any company autonomously",
-    "excerpt": "Article URL: https://andonlabs.com/blog/why-we-built-pion Comments URL: https://news.ycombinator.com/item?id=49700477 Points: 271 # Comments: 282",
+    "excerpt": "Article URL: https://andonlabs.com/blog/why-we-built-pion Comments URL: https://news.ycombinator.com/item?id=49700477 Points: 336 # Comments: 377",
     "url": "https://andonlabs.com/blog/why-we-built-pion",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -858,19 +1001,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "12e5cda671e09b2c",
-    "title": "Apple releases iOS 27 with Siri AI overhaul",
-    "excerpt": "The iOS 27 update arrives just in time for the iPhone 18 Pro release. | Photo by Allison Johnson / The Verge Apple is now rolling out its iOS 27 update to compatible devices today, alongside the watchOS 27, iPadOS 27, and visionOS 27 updates. Siri AI is the headline feature across all four updates,…",
-    "url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Tom Warren",
-    "publishedAt": "2026-09-14T17:08:49.000Z",
-    "category": "software",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04248.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "4989248e3306855e",
     "title": "Valve's Steam Frame Now Available At $1059+ USD",
     "excerpt": "Valve just announced their long-awaited Steam Frame headset is now available...",
@@ -886,7 +1016,7 @@
   {
     "id": "7b627cb99b71d01f",
     "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
-    "excerpt": "Article URL: https://blog.cloudflare.com/automatic-key-exchange-for-origins/ Comments URL: https://news.ycombinator.com/item?id=49700255 Points: 79 # Comments: 22",
+    "excerpt": "Article URL: https://blog.cloudflare.com/automatic-key-exchange-for-origins/ Comments URL: https://news.ycombinator.com/item?id=49700255 Points: 100 # Comments: 26",
     "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -972,7 +1102,15 @@
     "publishedAt": "2026-09-14T16:59:24.000Z",
     "category": "ai",
     "imageUrl": "https://image.theregister.com/?imageId=240353&width=800",
-    "readTimeMinutes": 1
+    "readTimeMinutes": 1,
+    "alsoCoveredBy": [
+      {
+        "source": "Hacker News",
+        "sourceHomepage": "https://news.ycombinator.com",
+        "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+        "publishedAt": "2026-09-15T00:40:14.000Z"
+      }
+    ]
   },
   {
     "id": "191f180b6281f056",
@@ -990,7 +1128,7 @@
   {
     "id": "712c25db4c998bf9",
     "title": "Why don't machine learning research agents overfit?",
-    "excerpt": "Article URL: https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit Comments URL: https://news.ycombinator.com/item?id=49699648 Points: 99 # Comments: 54",
+    "excerpt": "Article URL: https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit Comments URL: https://news.ycombinator.com/item?id=49699648 Points: 115 # Comments: 65",
     "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1042,26 +1180,13 @@
   {
     "id": "e2d31cd92fde7b78",
     "title": "How my e-reader lost its stripes",
-    "excerpt": "Article URL: https://www.serpentine.com/posts/2026/x3-stripes/ Comments URL: https://news.ycombinator.com/item?id=49699489 Points: 142 # Comments: 23",
+    "excerpt": "Article URL: https://www.serpentine.com/posts/2026/x3-stripes/ Comments URL: https://news.ycombinator.com/item?id=49699489 Points: 174 # Comments: 28",
     "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "simonmic",
     "publishedAt": "2026-09-14T16:23:16.000Z",
     "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f15a217cae8d891c",
-    "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
-    "excerpt": "Hey HN, Toby from Nari Labs here. We've been working on making OSS speech models super-fast. Last year, we built Dia, the first OSS text-to-speech model capable of doing natural dialogue. Since then, so many more great speech models have been released to the public. But the market is still…",
-    "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "toebee",
-    "publishedAt": "2026-09-14T16:07:58.000Z",
-    "category": "science",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1092,22 +1217,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "995bc7a4b9c1b2b3",
-    "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
-    "excerpt": "Article URL: https://www.neobrutalism.dev/ Comments URL: https://news.ycombinator.com/item?id=49699159 Points: 136 # Comments: 59",
-    "url": "https://www.neobrutalism.dev/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "samke-",
-    "publishedAt": "2026-09-14T16:02:02.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "e9641a285e40a472",
     "title": "Distributed Systems Classics (2017)",
-    "excerpt": "Article URL: https://nvartolomei.com/dist-sys-classics/ Comments URL: https://news.ycombinator.com/item?id=49699158 Points: 222 # Comments: 44",
+    "excerpt": "Article URL: https://nvartolomei.com/dist-sys-classics/ Comments URL: https://news.ycombinator.com/item?id=49699158 Points: 258 # Comments: 58",
     "url": "https://nvartolomei.com/dist-sys-classics/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1115,19 +1227,6 @@
     "publishedAt": "2026-09-14T16:02:01.000Z",
     "category": "startups",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "98f2ace345856be8",
-    "title": "How to fix Outlook's \"Your message can't be displayed right now\" error",
-    "excerpt": "When Outlook runs into issues, whether on the web or its desktop version, you can fix them and get back to your mail.",
-    "url": "https://www.engadget.com/2253803/outlook-your-message-cant-be-displayed-right-now-error-fixes/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Deven McClure)",
-    "publishedAt": "2026-09-14T16:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/how-to-fix-outlooks-your-message-cant-be-displayed-right-now-error/l-intro-1788966788.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1198,7 +1297,7 @@
   {
     "id": "4285abcd1ad3368b",
     "title": "A Beginning for Mathematics",
-    "excerpt": "Article URL: https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49698699 Points: 160 # Comments: 91",
+    "excerpt": "Article URL: https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49698699 Points: 185 # Comments: 107",
     "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1211,7 +1310,7 @@
   {
     "id": "c6804af3afcbd942",
     "title": "Principles for Fast Tokio Applications",
-    "excerpt": "Article URL: https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/ Comments URL: https://news.ycombinator.com/item?id=49698607 Points: 157 # Comments: 41",
+    "excerpt": "Article URL: https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/ Comments URL: https://news.ycombinator.com/item?id=49698607 Points: 185 # Comments: 45",
     "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1270,6 +1369,19 @@
     "author": "TechCrunch Events",
     "publishedAt": "2026-09-14T15:00:00.000Z",
     "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "66ee286cf98d5a70",
+    "title": "Dario, Please",
+    "excerpt": "Article URL: https://pop.rdi.sh/dario-please/ Comments URL: https://news.ycombinator.com/item?id=49697893 Points: 371 # Comments: 178",
+    "url": "https://pop.rdi.sh/dario-please/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "0x5FC3",
+    "publishedAt": "2026-09-14T14:50:32.000Z",
+    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1367,7 +1479,7 @@
   {
     "id": "ea803dfd17bfd0bb",
     "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-    "excerpt": "Article URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/ Comments URL: https://news.ycombinator.com/item?id=49697477 Points: 14 # Comments: 4",
+    "excerpt": "Article URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/ Comments URL: https://news.ycombinator.com/item?id=49697477 Points: 73 # Comments: 19",
     "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1417,6 +1529,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "80c2f34d29a9d3da",
+    "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+    "excerpt": "Article URL: https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/ Comments URL: https://news.ycombinator.com/item?id=49697014 Points: 125 # Comments: 68",
+    "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "0o_MrPatrick_o0",
+    "publishedAt": "2026-09-14T13:59:09.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "f034e567f700f373",
     "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
     "excerpt": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
@@ -1443,6 +1568,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "9f4895a907944ad7",
+    "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+    "excerpt": "Article URL: https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete Comments URL: https://news.ycombinator.com/item?id=49696697 Points: 119 # Comments: 102",
+    "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "theanonymousone",
+    "publishedAt": "2026-09-14T13:38:58.000Z",
+    "category": "crypto",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "405ecdd7f3c75776",
     "title": "Removing Drivers For Outdated ARM Platforms Will Lighten The Kernel By ~247k Lines",
     "excerpt": "The Linux kernel is going to see the removal of a number of recently deprecated ARM 32-bit platforms. Following the deprecation in Linux 7.3, removing the old ARM platforms will lighten the kernel by around 55k lines of code. But removing now unused drivers only relevant to those platforms will…",
@@ -1452,6 +1590,19 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-09-14T13:32:47.000Z",
     "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "fdcd2ec9df5a76f8",
+    "title": "People who can't picture anything are rewriting the science of imagination",
+    "excerpt": "Article URL: https://dailyneuron.com/aphantasia-mental-imagery-brain-network/ Comments URL: https://news.ycombinator.com/item?id=49696453 Points: 123 # Comments: 191",
+    "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "giuliomagnifico",
+    "publishedAt": "2026-09-14T13:23:53.000Z",
+    "category": "science",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1466,15 +1617,7 @@
     "publishedAt": "2026-09-14T13:00:00.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=259053&width=800",
-    "readTimeMinutes": 1,
-    "alsoCoveredBy": [
-      {
-        "source": "Hacker News",
-        "sourceHomepage": "https://news.ycombinator.com",
-        "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
-        "publishedAt": "2026-09-14T16:09:45.000Z"
-      }
-    ]
+    "readTimeMinutes": 1
   },
   {
     "id": "1598106eaf5334ec",
@@ -1672,32 +1815,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "30dacbd62516de4f",
-    "title": "TikTok developer ByteDance arranges $29.6 billion loan as it builds AI ambitions",
-    "excerpt": "ByteDance was reportedly considering spending $70 billion on AI data centers and infrastructure. The news comes as U.S. AI giants call for slowing the AI race.",
-    "url": "https://www.coindesk.com/business/2026/09/14/tiktok-developer-bytedance-arranges-usd29-6-billion-loan-as-it-builds-ai-ambitions",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Olivier Acuna",
-    "publishedAt": "2026-09-14T09:43:45.000Z",
-    "category": "ai",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/98fa26209b9655d6994b0fefb23bf2ce0423341d-1920x1060.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "cbf75bb0c554d046",
-    "title": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
-    "excerpt": "Your look at what's coming in the week starting Sept. 14.",
-    "url": "https://www.coindesk.com/markets/2026/09/14/fed-boe-boj-interest-rate-decisions-crypto-week-ahead",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Jamie Crawley",
-    "publishedAt": "2026-09-14T09:29:57.000Z",
-    "category": "software",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/86094ea78f944f140cc21b29434392b1d1380382-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "abf70ef6e57791a5",
     "title": "UK.gov begins killing off passwords for 23 million users",
     "excerpt": "The UK government is giving more than 23 million people the chance to ditch passwords for passkeys – and could save itself a tidy sum on authentication texts in the process. Passkeys are being rolled out more widely across GOV.UK One Login following a trial involving more than 300,000 users,…",
@@ -1721,19 +1838,6 @@
     "publishedAt": "2026-09-14T08:30:00.000Z",
     "category": "policy",
     "imageUrl": "https://image.theregister.com/?imageId=213223&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "8341d674ba7471c7",
-    "title": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
-    "excerpt": "Bitcoin rose above $77,000 as calls to slow AI development hit technology shares, while rising oil prices added to market pressure.",
-    "url": "https://www.coindesk.com/markets/2026/09/14/bitcoin-bucks-tech-selloff-as-ai-safety-concerns-weigh-on-stocks",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "James Van Straten",
-    "publishedAt": "2026-09-14T08:07:16.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/3a958c07a8e330779bda9e3b0543e725149b9d48-802x503.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -1867,32 +1971,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "882dbf1e60569e23",
-    "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-    "excerpt": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
-    "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Marina Temkin, Dominic-Madori Davis",
-    "publishedAt": "2026-09-13T20:28:00.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "6994d1b8c4407af0",
-    "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
-    "excerpt": "I dunno, flip a coin.",
-    "url": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Nikhilesh De",
-    "publishedAt": "2026-09-13T18:45:08.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/bb0e02fe77cc6bb9eae2b1c4887014c319e9800f-4928x2772.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "3e5c2962e5c37099",
     "title": "California's Gig Drivers Just Secured Collective Bargaining Power with Newly Certified Union",
     "excerpt": "A union representing Uber and Lyft drivers was just certified by California's Public Employment Relations Board, officially recognizing them as the drivers' bargaining organization. The Sacramento Bee reports that this new bargaining structure : The move will allow the California Gig Workers Union…",
@@ -1903,19 +1981,6 @@
     "publishedAt": "2026-09-13T17:34:00.000Z",
     "category": "crypto",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "05a4efd040a0d24f",
-    "title": "Quantum-proof blockchain: why math, not machines, holds the key",
-    "excerpt": "Blockchains don’t need quantum computers to be quantum-safe, argues Optimum co-founder and MIT professor Muriel Médard. Classic math already gives us the tools.",
-    "url": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Muriel Médard",
-    "publishedAt": "2026-09-13T17:00:00.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/49c14a849cd698ca328264f8336914c0c5e41c33-8000x4500.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2270,19 +2335,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "aa4fa38682586117",
-    "title": "Little Mercury May Be Shrinking Faster Than Scientists Expected",
-    "excerpt": "A new study suggests Mercury may have shrunk about 30% more than scientists previously thought, losing as much as 14 miles in diameter as its interior cooled and contracted over billions of years. \"That's significant for a planet barely 3,000 miles (4,900 kilometers) across,\" reports the Associated…",
-    "url": "https://science.slashdot.org/story/26/09/11/2050204/little-mercury-may-be-shrinking-faster-than-scientists-expected?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-09-12T09:00:00.000Z",
-    "category": "science",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "a270c02d46983e7a",
     "title": "Gitte As Git Client For GNOME Continues Maturing Quite Nicely",
     "excerpt": "For those in pursuit of a graphical Git client for GNOME or the Linux desktop at large, the GTK4-powered Gitte continues advancing rather well and out this week is its v0.10 release...",
@@ -2332,19 +2384,6 @@
     "publishedAt": "2026-09-11T21:41:16.000Z",
     "category": "science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294031830-1024x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "9021d387bc62790d",
-    "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
-    "excerpt": "For a child bursting with energy, few things are more fun than hurtling through a bouncy castle, launching into the air, and ping-ponging between every surface. But that childhood buoyancy will quickly deflate when it turns out those surfaces are smeared with a hypervirulent, multidrug-resistant…",
-    "url": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Beth Mole",
-    "publishedAt": "2026-09-11T21:14:26.000Z",
-    "category": "Science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2233742597-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2709,45 +2748,6 @@
     "publishedAt": "2026-09-10T19:43:55.000Z",
     "category": "startups",
     "imageUrl": "https://image.theregister.com/?imageId=245113&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "9628268e5dccc00b",
-    "title": "Hundreds of AI agents helped PaperCut attacker hit 395+ orgs, and some went off script",
-    "excerpt": "An unknown attacker used hundreds of AI agents to exploit two PaperCut MF/NG bugs and break into at least 395 organizations. The victims were concentrated in the US education sector, and the intrusions moved fast. In one case, an American high school went from initial access to domain admin in…",
-    "url": "https://www.theregister.com/security/2026/09/10/hundreds-of-ai-agents-helped-papercut-attacker-hit-395-orgs-and-some-went-off-script/5295650",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-10T18:49:43.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=5224165&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ac4caef3e25d8eec",
-    "title": "OpenAI's website-hijacking swarm reached far further than we thought",
-    "excerpt": "Getting straight answers out of OpenAI about how many websites and services its agents have hijacked increasingly seems like pulling teeth, as the company seems intent on making the world discover each instance one by one. Case in point: The OpenAI agent swarm we reported last week had taken over…",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/10/openais-website-hijacking-swarm-reached-far-further-than-we-thought/5295644",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-10T18:15:10.000Z",
-    "category": "ai",
-    "imageUrl": "https://image.theregister.com/?imageId=251199&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "bbc7ec9ba99be995",
-    "title": "AI job cuts could come with a costly undo button",
-    "excerpt": "Gartner forecasts that, by 2029, nearly a third of employees laid off because of AI will need to be rehired, often at significantly higher cost. The global research firm warned that workforce cuts could save money in the short term but risk weakening talent pipelines and eroding institutional…",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/10/ai-job-cuts-could-come-with-a-costly-undo-button/5295605",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-10T16:21:22.000Z",
-    "category": "ai",
-    "imageUrl": "https://image.theregister.com/?imageId=230952&width=800",
     "readTimeMinutes": 1
   },
   {
