@@ -1,5 +1,187 @@
 [
   {
+    "id": "5c4325948955e094",
+    "title": "Can you use an Apple Pencil with an iPhone?",
+    "excerpt": "If you have the right Apple Pencil and iPhone, you can use them together. But it won't be cheap, and there are some limitations to know.",
+    "url": "https://www.engadget.com/2255122/use-apple-pencil-with-iphone-duo/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Filipe Espósito)",
+    "publishedAt": "2026-09-15T00:00:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/can-you-use-an-apple-pencil-with-an-iphone/l-intro-1789062711.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d0f9a00a1adb3947",
+    "title": "I'm not addicted to the internet or my smartphone. I'm addicted to information",
+    "excerpt": "Article URL: https://explorator.dev/addiction/ Comments URL: https://news.ycombinator.com/item?id=49705868 Points: 6 # Comments: 1",
+    "url": "https://explorator.dev/addiction/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "jyhrow",
+    "publishedAt": "2026-09-14T23:52:14.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4f75b1cde20bdfed",
+    "title": "Even if Clarity fails, Wall Street’s crypto push is unlikely to stop",
+    "excerpt": "The Clarity Act could give banks, brokers and asset managers a clearer rulebook, but financial firms have already moved far enough into digital assets that failure may slow adoption rather than stop it.",
+    "url": "https://www.coindesk.com/policy/2026/09/14/even-if-clarity-fails-wall-street-s-crypto-push-is-unlikely-to-stop",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Helene Braun",
+    "publishedAt": "2026-09-14T23:43:28.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/d0183643376c63d3344b437b12fb69486c8bd450-1500x996.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b6a414a27c462683",
+    "title": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
+    "excerpt": "The SEC chair said crypto issuance, transfer agent modernization and custody will form the backbone of the agency’s regulatory push.",
+    "url": "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Krisztian Sandor",
+    "publishedAt": "2026-09-14T23:30:40.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/f5e51d142f4aa8a9a66d07435fa821e33f12872b-4858x2733.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "39534ce7bffe4194",
+    "title": "Is the Samsung Galaxy S24 still worth buying?",
+    "excerpt": "A refurbished S24 can still be a good deal, but its price needs to be low enough to justify buying a two-year-old phone instead of a newer model.",
+    "url": "https://www.engadget.com/2255053/samsung-galaxy-s24-is-it-still-worth-buying/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Novak Božović)",
+    "publishedAt": "2026-09-14T23:30:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/is-the-samsung-galaxy-s24-still-worth-buying/l-intro-1789059833.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d31813a3aa335b59",
+    "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+    "excerpt": "Article URL: https://github.com/JamesRyanATX/fcbnerd Comments URL: https://news.ycombinator.com/item?id=49705442 Points: 21 # Comments: 1",
+    "url": "https://github.com/JamesRyanATX/fcbnerd",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "fretlessjazz",
+    "publishedAt": "2026-09-14T23:01:36.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "954aa114de921c92",
+    "title": "The EPA wants to stop regulating power plant emissions",
+    "excerpt": "If only there were some kind of agency for environmental protection to stop this.",
+    "url": "https://www.engadget.com/2258444/the-epa-wants-to-stop-regulating-power-plant-emissions/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Anna Washenko)",
+    "publishedAt": "2026-09-14T23:00:45.000Z",
+    "category": "science",
+    "imageUrl": "https://www.engadget.com/img/gallery/the-epa-wants-to-stop-regulating-power-plant-emissions/l-intro-1789426616.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7af9345194e15798",
+    "title": "How much data does Apple Music use for lossless audio quality?",
+    "excerpt": "Apple Music has two Lossless options for maximum audio quality, but they consume significantly more data.",
+    "url": "https://www.engadget.com/2254918/how-much-data-apple-music-uses-lossless-audio-quality/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Novak Božović)",
+    "publishedAt": "2026-09-14T23:00:00.000Z",
+    "category": "crypto",
+    "imageUrl": "https://www.engadget.com/img/gallery/how-much-data-does-apple-music-use-for-lossless-audio-quality/l-intro-1789056400.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "752a4ec6492b7270",
+    "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+    "excerpt": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Hayden Field",
+    "publishedAt": "2026-09-14T22:59:41.000Z",
+    "category": "ai",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "16ef783685981c5d",
+    "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
+    "excerpt": "One of the top crypto market structure negotiators in Washington says she's run out of gas on new revisions for the bill she's worked on for more than five years.",
+    "url": "https://www.coindesk.com/policy/2026/09/14/u-s-senator-lummis-says-democrats-won-t-quit-asking-for-more-on-crypto-clarity-act",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Jesse Hamilton",
+    "publishedAt": "2026-09-14T22:34:18.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/8cf9c186e9bd64a1303b6e7e58bd043359c97153-3506x1972.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "c0f03ff4096fbdf5",
+    "title": "How to use the Windows 11 Media Creation Tool to create a bootable USB drive",
+    "excerpt": "The Windows Media Creation tool is easy to use and lets you keep a USB drive handy so you can install Windows 11 anytime you need.",
+    "url": "https://www.engadget.com/2254793/how-to-use-windows-11-media-creation-tool-create-bootable-usb-drive/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Gabriela Vătu)",
+    "publishedAt": "2026-09-14T22:30:00.000Z",
+    "category": "software",
+    "imageUrl": "https://www.engadget.com/img/gallery/how-to-use-the-windows-11-media-creation-tool-to-create-a-bootable-usb-drive/l-intro-1789052528.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b33734e74769006c",
+    "title": "Apple Home’s new security camera features cost as much as $60 a month",
+    "excerpt": "New Apple Intelligence features for HomeKit cameras start at $10 a month and go up to $60. | Image: The Verge With the public release of iOS 27 and tvOS 27 , Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered…",
+    "url": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Jennifer Pattison Tuohy",
+    "publishedAt": "2026-09-14T22:28:52.000Z",
+    "category": "software",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268594_iOS_27_home_app_first_look_CVirginia2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1d0a904f16c11a37",
+    "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
+    "excerpt": "US Health Secretary Robert F. Kennedy Jr. will deliver a keynote address at an anti-vaccine conference being held in Washington, DC, later this week and hosted by the anti-vaccine organization he once led, Children's Health Defense (CHD). The organization announced Monday that Kennedy had signed on…",
+    "url": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Beth Mole",
+    "publishedAt": "2026-09-14T22:06:24.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-1024x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ec076cb2d7a41bc1",
+    "title": "Wired vs wireless gaming mouse: is there really a difference in performance?",
+    "excerpt": "In the past, choosing between a wired and a wireless gaming mouse may have meant accepting a number of tradeoffs. These days, there's very little between them.",
+    "url": "https://www.engadget.com/2254564/wired-vs-wireless-gaming-mouse-is-there-a-difference/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Deven McClure)",
+    "publishedAt": "2026-09-14T22:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/wired-vs-wireless-gaming-mouse-is-there-really-a-difference-in-performance/l-intro-1789036935.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "cfce7ca956ec5884",
     "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
     "excerpt": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
@@ -26,6 +208,32 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "f7906909219d0b55",
+    "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
+    "excerpt": "In theory, developing a spacecraft that will fly to Mars, insert itself into orbit around the red planet, and relay transmissions back and forth to large satellite dishes on Earth is a relatively straightforward proposition. NASA's procurement of a \"Mars Telecommunications Network\" spacecraft,…",
+    "url": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Eric Berger",
+    "publishedAt": "2026-09-14T21:32:22.000Z",
+    "category": "science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/blue-origin-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7591806ea80f1f15",
+    "title": "Charts built for Chat",
+    "excerpt": "Article URL: https://dbtcharts.com/blog/charts-built-for-chat/ Comments URL: https://news.ycombinator.com/item?id=49704246 Points: 70 # Comments: 21",
+    "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "thingsilearned",
+    "publishedAt": "2026-09-14T21:22:54.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "ab0b67bb40bdb005",
     "title": "What execs and politicians are saying about slowing down AI development",
     "excerpt": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've…",
@@ -39,22 +247,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "f4abe08e4d056581",
-    "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-    "excerpt": "Article URL: https://www.effort.news/irregular Comments URL: https://news.ycombinator.com/item?id=49704132 Points: 75 # Comments: 24",
-    "url": "https://www.effort.news/irregular",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "yusufozkan",
-    "publishedAt": "2026-09-14T21:15:01.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "937e97743839da56",
     "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-    "excerpt": "Article URL: https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html Comments URL: https://news.ycombinator.com/item?id=49704008 Points: 89 # Comments: 60",
+    "excerpt": "Article URL: https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html Comments URL: https://news.ycombinator.com/item?id=49704008 Points: 156 # Comments: 159",
     "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -75,6 +270,19 @@
     "publishedAt": "2026-09-14T21:05:13.000Z",
     "category": "startups",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/da9ffcdfcd965614c3a32a2e673631861308b387-1920x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0a67bb4610e17cf8",
+    "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+    "excerpt": "AI agents are flooding the Internet with slop-infused spam sent to social media platforms and writers in an attempt to gain traction for a startup promoting a “complex social system in which humans and Agents participate together.” “Hello, I'm Рэн (Ren), an Al agent, a few days old, living on a…",
+    "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Dan Goodin",
+    "publishedAt": "2026-09-14T21:04:32.000Z",
+    "category": "ai",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -169,6 +377,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "baf3658e1d9c87c8",
+    "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+    "excerpt": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review Comments URL: https://news.ycombinator.com/item?id=49703003 Points: 95 # Comments: 105",
+    "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "theanonymousone",
+    "publishedAt": "2026-09-14T19:56:20.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "a1612c0262f483d0",
     "title": "Valve’s virtual reality plans hit actual reality",
     "excerpt": "The Steam Frame headset is here , and it may not surprise you: it was supposed to cost less than $1,059 . \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted us the same way they've impacted everybody,\"…",
@@ -257,19 +478,6 @@
     "publishedAt": "2026-09-14T19:06:13.000Z",
     "category": "ai",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1482639221-1152x648-1789407457.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f94c75fef6675a16",
-    "title": "Oracle’s 6am layoff emails hit staff amid new wave of cuts",
-    "excerpt": "Article URL: https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676 Comments URL: https://news.ycombinator.com/item?id=49702239 Points: 115 # Comments: 83",
-    "url": "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "akis33",
-    "publishedAt": "2026-09-14T19:05:15.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -405,13 +613,13 @@
   {
     "id": "a25b2880e57d5485",
     "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
-    "excerpt": "Article URL: https://pub.sakana.ai/pc-alm/ Comments URL: https://news.ycombinator.com/item?id=49701182 Points: 14 # Comments: 1",
+    "excerpt": "https://arxiv.org/abs/2605.31022 https://github.com/SakanaAI/pc-alm Comments URL: https://news.ycombinator.com/item?id=49701182 Points: 32 # Comments: 6",
     "url": "https://pub.sakana.ai/pc-alm/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "guld",
     "publishedAt": "2026-09-14T18:03:12.000Z",
-    "category": "startups",
+    "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -457,7 +665,7 @@
   {
     "id": "85519a8f6e295c80",
     "title": "iOS 27, iPadOS 27, and macOS 27",
-    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/ Comments URL: https://news.ycombinator.com/item?id=49701004 Points: 274 # Comments: 280",
+    "excerpt": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/ Comments URL: https://news.ycombinator.com/item?id=49701004 Points: 330 # Comments: 368",
     "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -548,7 +756,7 @@
   {
     "id": "6521ac2763494dd5",
     "title": "Steam Frame starts at $1059",
-    "excerpt": "Article URL: https://store.steampowered.com/hardware/steamframe Comments URL: https://news.ycombinator.com/item?id=49700661 Points: 406 # Comments: 281",
+    "excerpt": "Article URL: https://store.steampowered.com/hardware/steamframe Comments URL: https://news.ycombinator.com/item?id=49700661 Points: 466 # Comments: 345",
     "url": "https://store.steampowered.com/hardware/steamframe",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -574,7 +782,7 @@
   {
     "id": "b54bfac470e15413",
     "title": "Pion, an agent designed to run any company autonomously",
-    "excerpt": "Article URL: https://andonlabs.com/blog/why-we-built-pion Comments URL: https://news.ycombinator.com/item?id=49700477 Points: 212 # Comments: 229",
+    "excerpt": "Article URL: https://andonlabs.com/blog/why-we-built-pion Comments URL: https://news.ycombinator.com/item?id=49700477 Points: 271 # Comments: 282",
     "url": "https://andonlabs.com/blog/why-we-built-pion",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -678,7 +886,7 @@
   {
     "id": "7b627cb99b71d01f",
     "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
-    "excerpt": "Article URL: https://blog.cloudflare.com/automatic-key-exchange-for-origins/ Comments URL: https://news.ycombinator.com/item?id=49700255 Points: 63 # Comments: 17",
+    "excerpt": "Article URL: https://blog.cloudflare.com/automatic-key-exchange-for-origins/ Comments URL: https://news.ycombinator.com/item?id=49700255 Points: 79 # Comments: 22",
     "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -725,32 +933,6 @@
     "publishedAt": "2026-09-14T17:00:00.000Z",
     "category": "ai",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b5da680b1662df71",
-    "title": "The Steam Frame is made for irresponsible hardware nerds like me",
-    "excerpt": "For nearly three weeks, I've been testing the limits of Valve's Steam Frame, the company's new wearable PC. At first glance, it's easy to write it off as a pricey headset that missed the VR craze. At $1,059 with 256GB of storage or $1,299 for 1TB, it costs two to three times as much as…",
-    "url": "https://www.theverge.com/tech/994267/steam-frame-review",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Sean Hollister",
-    "publishedAt": "2026-09-14T17:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4404164360d8c9df",
-    "title": "Valve’s Steam Frame costs $1,059",
-    "excerpt": "Valve is finally releasing its Steam Frame headset , which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299. Every Steam Frame will come with a copy of Half-Life: Alyx ,…",
-    "url": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Jay Peters",
-    "publishedAt": "2026-09-14T17:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0030.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -808,7 +990,7 @@
   {
     "id": "712c25db4c998bf9",
     "title": "Why don't machine learning research agents overfit?",
-    "excerpt": "Article URL: https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit Comments URL: https://news.ycombinator.com/item?id=49699648 Points: 87 # Comments: 51",
+    "excerpt": "Article URL: https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit Comments URL: https://news.ycombinator.com/item?id=49699648 Points: 99 # Comments: 54",
     "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -860,7 +1042,7 @@
   {
     "id": "e2d31cd92fde7b78",
     "title": "How my e-reader lost its stripes",
-    "excerpt": "Article URL: https://www.serpentine.com/posts/2026/x3-stripes/ Comments URL: https://news.ycombinator.com/item?id=49699489 Points: 104 # Comments: 11",
+    "excerpt": "Article URL: https://www.serpentine.com/posts/2026/x3-stripes/ Comments URL: https://news.ycombinator.com/item?id=49699489 Points: 142 # Comments: 23",
     "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -912,7 +1094,7 @@
   {
     "id": "995bc7a4b9c1b2b3",
     "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
-    "excerpt": "Article URL: https://www.neobrutalism.dev/ Comments URL: https://news.ycombinator.com/item?id=49699159 Points: 112 # Comments: 51",
+    "excerpt": "Article URL: https://www.neobrutalism.dev/ Comments URL: https://news.ycombinator.com/item?id=49699159 Points: 136 # Comments: 59",
     "url": "https://www.neobrutalism.dev/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -925,25 +1107,12 @@
   {
     "id": "e9641a285e40a472",
     "title": "Distributed Systems Classics (2017)",
-    "excerpt": "Article URL: https://nvartolomei.com/dist-sys-classics/ Comments URL: https://news.ycombinator.com/item?id=49699158 Points: 194 # Comments: 38",
+    "excerpt": "Article URL: https://nvartolomei.com/dist-sys-classics/ Comments URL: https://news.ycombinator.com/item?id=49699158 Points: 222 # Comments: 44",
     "url": "https://nvartolomei.com/dist-sys-classics/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "grep_it",
     "publishedAt": "2026-09-14T16:02:01.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4b309f9dd13a495a",
-    "title": "Truncated SVD (2023)",
-    "excerpt": "Article URL: https://brashandplucky.com/2023/09/09/truncated-svd.html Comments URL: https://news.ycombinator.com/item?id=49699134 Points: 39 # Comments: 7",
-    "url": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "ibobev",
-    "publishedAt": "2026-09-14T16:00:33.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -1029,7 +1198,7 @@
   {
     "id": "4285abcd1ad3368b",
     "title": "A Beginning for Mathematics",
-    "excerpt": "Article URL: https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49698699 Points: 138 # Comments: 71",
+    "excerpt": "Article URL: https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49698699 Points: 160 # Comments: 91",
     "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1040,22 +1209,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "6e85ef932126f95c",
-    "title": "What's the biggest IMAX theater in the world? It depends who you ask",
-    "excerpt": "Working out which movie theater hosts the world's biggest IMAX screen can be quite confusing. It all comes down to whether you want a true IMAX experience.",
-    "url": "https://www.engadget.com/2253781/biggest-imax-theater-in-world/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Alec Hively)",
-    "publishedAt": "2026-09-14T15:30:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/whats-the-biggest-imax-theater-in-the-world-it-depends-who-you-ask/l-intro-1788955540.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "c6804af3afcbd942",
     "title": "Principles for Fast Tokio Applications",
-    "excerpt": "Article URL: https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/ Comments URL: https://news.ycombinator.com/item?id=49698607 Points: 138 # Comments: 26",
+    "excerpt": "Article URL: https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/ Comments URL: https://news.ycombinator.com/item?id=49698607 Points: 157 # Comments: 41",
     "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1114,32 +1270,6 @@
     "author": "TechCrunch Events",
     "publishedAt": "2026-09-14T15:00:00.000Z",
     "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "90e1a7ef31a0130e",
-    "title": "Phone makers ditched 3.5mm for USB-C, but which one offers better audio quality?",
-    "excerpt": "Working out whether to invest in headphones with a 3.5mm jack or USB-C connector can be tricky. Turns out, there's a lot more to it than how you plug them in.",
-    "url": "https://www.engadget.com/2253607/usb-c-vs-3-5-mm-aux-cable-audio-quality/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Thomas Godwin)",
-    "publishedAt": "2026-09-14T15:00:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/phone-makers-ditched-3-5mm-for-usb-c-but-which-one-offers-better-audio-quality/l-intro-1788971681.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "66ee286cf98d5a70",
-    "title": "Dario, Please",
-    "excerpt": "Article URL: https://pop.rdi.sh/dario-please/ Comments URL: https://news.ycombinator.com/item?id=49697893 Points: 106 # Comments: 51",
-    "url": "https://pop.rdi.sh/dario-please/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "0x5FC3",
-    "publishedAt": "2026-09-14T14:50:32.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1222,19 +1352,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "122f54c4e26ba493",
-    "title": "Will GTA 6's Ultimate Edition be worth the extra cost? Here's what it'll come with",
-    "excerpt": "Many have paid the extra $20 for the GTA6 , but there's no rush to join them.",
-    "url": "https://www.engadget.com/2253053/gta-6-ultimate-edition-what-comes-with/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Luke James)",
-    "publishedAt": "2026-09-14T14:30:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/will-gta-6s-ultimate-edition-be-worth-the-extra-cost-heres-what-itll-come-with/l-intro-1788890725.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "eb34dbcfc4a7fb69",
     "title": "Perfect-10 GitLab bug under attack days after patch lands",
     "excerpt": "CISA says attackers are exploiting a maximum-severity GitLab flaw that lets unauthenticated miscreants read arbitrary files from vulnerable servers after the code shack released fixes on September 10. The US Cybersecurity and Infrastructure Security Agency has added CVE-2026-85706 to its Known…",
@@ -1245,6 +1362,19 @@
     "publishedAt": "2026-09-14T14:30:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=5279434&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ea803dfd17bfd0bb",
+    "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+    "excerpt": "Article URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/ Comments URL: https://news.ycombinator.com/item?id=49697477 Points: 14 # Comments: 4",
+    "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "nathannaveen",
+    "publishedAt": "2026-09-14T14:29:23.000Z",
+    "category": "hardware",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1274,19 +1404,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "ced71250b837c6c2",
-    "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-    "excerpt": "Article URL: https://spectrum.ieee.org/adversarial-fashion Comments URL: https://news.ycombinator.com/item?id=49697094 Points: 85 # Comments: 41",
-    "url": "https://spectrum.ieee.org/adversarial-fashion",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "rbanffy",
-    "publishedAt": "2026-09-14T14:04:53.000Z",
-    "category": "policy",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "3b89d94cbe0b10f4",
     "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
     "excerpt": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.",
@@ -1297,19 +1414,6 @@
     "publishedAt": "2026-09-14T14:00:00.000Z",
     "category": "ai",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "86a75703954e07a7",
-    "title": "What is MSI mode on Windows PCs and does it speed up your GPU?",
-    "excerpt": "This is a setting you probably won't want to mess around with.",
-    "url": "https://www.engadget.com/2253025/what-is-msi-mode-windows-pc-speed-up-gpu/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Luke James)",
-    "publishedAt": "2026-09-14T14:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/what-is-msi-mode-on-windows-pcs-and-does-it-speed-up-your-gpu/l-intro-1788889165.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1349,32 +1453,6 @@
     "publishedAt": "2026-09-14T13:32:47.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c4ab606d577f57ba",
-    "title": "How to prepare your iPhone for the iOS 27 update",
-    "excerpt": "It's not difficult to update to iOS 27, but you should prepare in a few ways to avoid common issues when moving to the new version.",
-    "url": "https://www.engadget.com/2252944/prepare-iphone-ios-27-update/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Jack Peachey)",
-    "publishedAt": "2026-09-14T13:30:00.000Z",
-    "category": "software",
-    "imageUrl": "https://www.engadget.com/img/gallery/how-to-prepare-your-iphone-for-the-ios-27-update/l-intro-1788887741.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "22a2afbe2bdad619",
-    "title": "What does background app refresh on iPhone actually do?",
-    "excerpt": "Here's what will happen if you turn off background app refresh on your iPhone, and which apps operate better with it on.",
-    "url": "https://www.engadget.com/2252907/what-background-apps-refresh-iphone-does/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Ben Stegner)",
-    "publishedAt": "2026-09-14T13:00:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/what-does-background-app-refresh-on-iphone-actually-do/l-intro-1788886478.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1880,45 +1958,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "df5b5ee461866d79",
-    "title": "Fed rate hike is about Wall Street, not inflation, says economist",
-    "excerpt": "Goldman Sachs late Friday became the last of the major banks to retract its forecast of no rate hike next week.",
-    "url": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Stephen Alpher",
-    "publishedAt": "2026-09-13T13:00:00.000Z",
-    "category": "Crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/e8d8df4259af82f8ea238aee5c1f1e2fa3dce49a-1920x1000.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "74a9bfd2f8541a1f",
-    "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
-    "excerpt": "Stablecoins' “next battleground is in emerging markets,” one expert said, as Circle looks to expand USDC's reach where rival Tether has long been strong.",
-    "url": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Krisztian Sandor",
-    "publishedAt": "2026-09-13T13:00:00.000Z",
-    "category": "Crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/024ae1afdc1672e747814cc0546828b965ecf695-5162x3441.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "e7a1bdbc03e3bacc",
-    "title": "Crypto’s Clarity Act heads into a make-or-break week with no clear outcome",
-    "excerpt": "The crypto industry eagerly awaits a September 15 vote, though it might not happen. Or maybe it will. Or it might get delayed or reappear in some other form.",
-    "url": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Jesse Hamilton",
-    "publishedAt": "2026-09-13T12:00:00.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/fdf7f5a1bfc3ea1d7708ef0c24ddb8c1297cbb2f-3480x1958.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "332ef7b4036dfe3b",
     "title": "Security through obscurity is dead, and AI delivered the fatal blow",
     "excerpt": "The term \"security through obscurity\" describes an old idea that networks and systems will remain secure so long as their architecture, along with any vulnerabilities or other weaknesses, remains secret or hidden. It was never a sound strategy for protecting sensitive assets and systems, but many…",
@@ -2306,45 +2345,6 @@
     "publishedAt": "2026-09-11T21:14:26.000Z",
     "category": "Science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2233742597-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "54994a8ec17cc771",
-    "title": "Trump's forced coal plant extensions thrown out by judge",
-    "excerpt": "The use of coal to generate electricity on the US grid has been plunging for nearly two decades, and the first Trump administration was unable to affect the trend. So his second administration has attempted more aggressive interventions to prop up coal use. One of its most direct means of doing so…",
-    "url": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "John Timmer",
-    "publishedAt": "2026-09-11T20:32:59.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2225114161.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "2bba04b4abfea337",
-    "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-    "excerpt": "The New Mexico Supreme Court held a ChatGPT-using lawyer in direct contempt of court for submitting a brief with \"false testimony from wholly fabricated witnesses,\" including fake police testimony and other mistakes. The state's top court referred the lawyer to a disciplinary board for further…",
-    "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Jon Brodkin",
-    "publishedAt": "2026-09-11T19:34:09.000Z",
-    "category": "ai",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-icon-1152x648-1789154124.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "431822ebf715de3f",
-    "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
-    "excerpt": "Credit: Museum of Mediterranean and Near Eastern Antiquities, Stockholm Credit: Museum of Mediterranean and Near Eastern Antiquities, Stockholm The precise composition of ancient Egyptian paints, binders, adhesives, and similar materials used to make artifacts is largely unknown, in part because a…",
-    "url": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Jennifer Ouellette",
-    "publishedAt": "2026-09-11T18:49:39.000Z",
-    "category": "science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/egypt1-1-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
