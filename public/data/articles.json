@@ -1,5 +1,460 @@
 [
   {
+    "id": "6fa362419c65780d",
+    "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+    "excerpt": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
+    "url": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "TechCrunch Events",
+    "publishedAt": "2026-09-16T18:45:35.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e6d7d097962da10e",
+    "title": "Resident Evil is a comedy first and a thrilling nightmare second",
+    "excerpt": "When Paul W.S. Anderson's Resident Evil hit theaters in 2002, video game movies were largely seen as a niche. Films like Mortal Kombat and Tomb Raider had proven that big-screen game adaptations could be successful, but the commercial and critical failure of projects like the 1993 Super Mario Bros.…",
+    "url": "https://www.theverge.com/entertainment/996416/resident-zach-cregger-review",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Charles Pulliam-Moore",
+    "publishedAt": "2026-09-16T18:45:35.000Z",
+    "category": "security",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DF-04181_r.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6b6a541ec712d28a",
+    "title": "We've created the first vectorized Quicksort",
+    "excerpt": "Article URL: https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html Comments URL: https://news.ycombinator.com/item?id=49731054 Points: 21 # Comments: 4",
+    "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "mococa",
+    "publishedAt": "2026-09-16T18:31:35.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2aee4c2d587d9af5",
+    "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+    "excerpt": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+    "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Tim Fernholz",
+    "publishedAt": "2026-09-16T18:25:25.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "052728e9e2e7e5df",
+    "title": "Walmart takes a bite off the cost of Metroid Ravenous physical preorders",
+    "excerpt": "Samus is geared up for another adventure. | Image: Nintendo The Metroid series is going back to its 2D roots again with Metroid Ravenous for the Nintendo Switch 2, the first side-scrolling game in the series since 2021’s Metroid Dread for the Nintendo Switch. If you’re already excited enough to…",
+    "url": "https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Brad Bourque",
+    "publishedAt": "2026-09-16T18:20:38.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-09-at-7.44.37-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "fa62722b82a04c81",
+    "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+    "excerpt": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that…",
+    "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+    "source": "Krebs on Security",
+    "sourceHomepage": "https://krebsonsecurity.com",
+    "author": "BrianKrebs",
+    "publishedAt": "2026-09-16T18:14:22.000Z",
+    "category": "security",
+    "imageUrl": "https://krebsonsecurity.com/wp-content/uploads/2024/06/radaris-home.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "dd5d0b386e3fab36",
+    "title": "Hackers publish thousands of drivers’ data after breaching Florida motor vehicle database",
+    "excerpt": "The ShinyHunters gang leaked the files online after saying the Florida state agency did not pay their ransom demand.",
+    "url": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Zack Whittaker",
+    "publishedAt": "2026-09-16T18:00:54.000Z",
+    "category": "security",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ff83671ecabe9ebd",
+    "title": "Fed raises rates by 25 basis points in first hike since July 2023",
+    "excerpt": "The widely expected move places the U.S. Federal Reserve's benchmark fed funds rate range at 3.75%-4.0%.",
+    "url": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "James Van Straten",
+    "publishedAt": "2026-09-16T17:54:55.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/91249261c4cf7e9e62ee5838d44d8d8de8253080-1920x1000.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "21b04355a52ca04a",
+    "title": "MindsEye developer Build A Rocket Boy is reportedly shutting down",
+    "excerpt": "It's not terribly surprising after repeated rounds of layoffs.",
+    "url": "https://www.engadget.com/2260473/mindseye-developer-build-a-rocket-boy-is-reportedly-shutting-down/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Kris Holt)",
+    "publishedAt": "2026-09-16T17:47:51.000Z",
+    "category": "science",
+    "imageUrl": "https://www.engadget.com/img/gallery/mindseye-developer-build-a-rocket-boy-is-reportedly-shutting-down/l-intro-1789580821.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "69012a6ebafe9317",
+    "title": "Ubuntu 26.10 amd64v3 Can Provide A Nice Boost For Low-End/Budget Hardware",
+    "excerpt": "Canonical recently began producing Ubuntu 26.10 amd64v3 daily ISOs to complement their experimental amd64v3 package archive that they have been trialing the past few release cycles. While we still don't know what any official plans are for amd64v3 with Ubuntu 26.10, the performance gains can be…",
+    "url": "https://www.phoronix.com/review/ubuntu-2610-amd64v3-lowend",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-16T17:37:00.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "87027f470c42f5a4",
+    "title": "The Boox Note Air6C E Ink tablet flips pages nearly 40 percent faster",
+    "excerpt": "The 10.3-inch color ereader runs Android 16 and can access the Google Play Store.",
+    "url": "https://www.engadget.com/2260455/the-boox-note-air6c-e-ink-tablet-flips-pages-nearly-40-percent-faster/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Lawrence Bonk)",
+    "publishedAt": "2026-09-16T17:36:21.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/the-boox-note-air6c-e-ink-tablet-flips-pages-nearly-40-percent-faster/l-intro-1789580101.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8cdec5a032bf980a",
+    "title": "Celsius sues BitMEX for $495 million over 2020 crash liquidations",
+    "excerpt": "The estate is chasing 6,360 BTC lost in the Covid crash — a leveraged long position that sits awkwardly with the lender's delta-neutral marketing.",
+    "url": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Oliver Knight",
+    "publishedAt": "2026-09-16T17:34:04.000Z",
+    "category": "ai",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/60aebd54ba86be12588505ff7b7b03b2e32c2fa1-1200x807.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2fe6bf3ef375dada",
+    "title": "Anthropic Commits to Independent AI Evaluators, Wants Slower Development. Nvidia's CEO Wants It 'As Fast as You Can'",
+    "excerpt": "\"Anthropic's CEO took the stage at a conference in San Francisco on Tuesday to reiterate his call for a slowdown of AI development,\" reports the Guardian, \" while Nvidia's CEO argued against slowing its development. \"Run as fast as you can.\" Amodei is calling for three courses of action: embedding…",
+    "url": "https://slashdot.org/story/26/09/16/0619212/anthropic-commits-to-independent-ai-evaluators-wants-slower-development-nvidias-ceo-wants-it-as-fast-as-you-can?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-09-16T17:34:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4795e1c310c4ce03",
+    "title": "GitHub Is Having Trouble Counting Things",
+    "excerpt": "Article URL: https://chuckgreenman.com/2026/09/16/counting-at-github Comments URL: https://news.ycombinator.com/item?id=49730302 Points: 7 # Comments: 0",
+    "url": "https://chuckgreenman.com/2026/09/16/counting-at-github",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "chuckgreenman",
+    "publishedAt": "2026-09-16T17:31:19.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "47bd1d5c357336a2",
+    "title": "ER visits for gambling disorders doubled after expanded online gambling market",
+    "excerpt": "Article URL: https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market Comments URL: https://news.ycombinator.com/item?id=49730239 Points: 64 # Comments: 53",
+    "url": "https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "geox",
+    "publishedAt": "2026-09-16T17:27:37.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "14a1b53588b2bd7b",
+    "title": "Apple might make servers again to cash in on the AI rush",
+    "excerpt": "According to The Information , Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI…",
+    "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Terrence O’Brien",
+    "publishedAt": "2026-09-16T17:20:29.000Z",
+    "category": "hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a9b306196422f171",
+    "title": "It’s OK to tell ICE their actions will haunt them, judge rules in speech fight",
+    "excerpt": "It’s not illegal to send an email telling Immigration and Customs Enforcement (ICE) officials that their actions will haunt them, a federal judge ruled Tuesday, granting a preliminary injunction that blocks ICE from threatening to prosecute a critic for protected speech. Back in January, David…",
+    "url": "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Ashley Belanger",
+    "publishedAt": "2026-09-16T17:06:06.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/David-Streever-via-FIRE.jpeg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3f0c679ced8d8862",
+    "title": "Your AI agents can now control your Google Home devices",
+    "excerpt": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+    "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Sarah Perez",
+    "publishedAt": "2026-09-16T17:00:00.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a0600ba01563c076",
+    "title": "Your ‘health age’ is fake",
+    "excerpt": "My villain origin story is my Whoop age. How do you age at 0.9 times your age and end up four to five years older than you are? | Photo by Amelia Holowaty Krales / The Verge This is Optimizer , a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest…",
+    "url": "https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Victoria Song",
+    "publishedAt": "2026-09-16T17:00:00.000Z",
+    "category": "policy",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257818_Whoop_5_AKrales_0175.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b229c2cba9991e07",
+    "title": "Google will now let any AI agent run your smart home",
+    "excerpt": "Google is inviting third-party agents, including Claude and Open Claw, into Google Home. | Photo by Jennifer Pattison Tuohy / The Verge Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data…",
+    "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Jennifer Pattison Tuohy",
+    "publishedAt": "2026-09-16T17:00:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-for-home.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "251c9d7d34bc5dd6",
+    "title": "Google Home is going agentic via integration with the MCP standard",
+    "excerpt": "Premium Advanced users will get an early access build \"in the coming weeks.\"",
+    "url": "https://www.engadget.com/2260280/google-home-is-going-agentic-via-integration-with-the-mcp-standard/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Lawrence Bonk)",
+    "publishedAt": "2026-09-16T17:00:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/google-home-is-going-agentic-via-integration-with-the-mcp-standard/l-intro-1789573336.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f4c1d13b012bffb3",
+    "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
+    "excerpt": "Half a year after Iranian drone strikes knocked out multiple Amazon data centers, the US tech company has acknowledged the permanent loss of some customer data that was hosted in Bahrain and the United Arab Emirates. Amazon Web Services was “unable to restore access to the resources and data”…",
+    "url": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Jeremy Hsu",
+    "publishedAt": "2026-09-16T16:40:11.000Z",
+    "category": "ai",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AWS-data-center-in-Abu-Dhabi-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6e2c10698576e8b7",
+    "title": "Anthropic merges Claude chat and Cowork in one interface",
+    "excerpt": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+    "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Ivan Mehta",
+    "publishedAt": "2026-09-16T16:30:00.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7f73f40ae99d6225",
+    "title": "Claude comes for Gemini with its own take on Docs and Slides",
+    "excerpt": "Claude is getting a pair of new tools today: Docs and Slides . They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Stevie Bonifield",
+    "publishedAt": "2026-09-16T16:30:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Claude-Docs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0b58e352058e66a2",
+    "title": "Anthropic's Claude can now create editable documents for you",
+    "excerpt": "Anthropic is adding the ability to create docs, slideshow and access Cowork capabilities inside chat. It will roll out to Pro and Max subscribers first.",
+    "url": "https://www.engadget.com/2259938/anthropics-claude-can-now-create-editable-documents-for-you-cowork-chat-together/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Mariella Moon)",
+    "publishedAt": "2026-09-16T16:30:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/anthropics-claude-can-now-create-editable-documents-for-you/l-intro-1789573560.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "10a964708abad7ad",
+    "title": "Claude Cowork and chat are now one Claude",
+    "excerpt": "Article URL: https://claude.com/blog/cowork-is-now-claude Comments URL: https://news.ycombinator.com/item?id=49729412 Points: 110 # Comments: 140",
+    "url": "https://claude.com/blog/cowork-is-now-claude",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "vertigoruntime",
+    "publishedAt": "2026-09-16T16:26:25.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ad43941d28b4f0cc",
+    "title": "GNOME 51 Released With Improved Frame Scheduling, Many App Improvements",
+    "excerpt": "Right on schedule and in time for appearing in the likes of Ubuntu 26.10 and Fedora Workstation 45, the GNOME 51 desktop is officially released...",
+    "url": "https://www.phoronix.com/news/GNOME-51-Released",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-16T16:25:21.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b1bd2e0fcc12b963",
+    "title": "U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss",
+    "excerpt": "The Digital Asset Tax Certainty Act would ease complicated tax burdens for everyday use of cryptocurrencies, though Trump's industry ties spurred some pushback.",
+    "url": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Jesse Hamilton",
+    "publishedAt": "2026-09-16T16:21:44.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/00c315459375cb1046e10cb7540bafa9dfe690b4-3761x2456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6b21d04d4396777f",
+    "title": "Enterprises are sweating legacy IT assets as AI investment grows",
+    "excerpt": "Companies are getting more selective about replacing legacy kit such as mainframe systems, and rising AI investment is one of the factors causing them to hold onto these existing assets for longer. Managed services biz Ensono claims in its 2026 State of IT Modernization report that 78 percent of IT…",
+    "url": "https://www.theregister.com/systems/2026/09/16/enterprises-are-sweating-legacy-it-assets-as-ai-investment-grows/5296896",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-16T16:15:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://image.theregister.com/?imageId=5239786&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2ed994151d50e4ec",
+    "title": "This Code Is CRAP (2011)",
+    "excerpt": "Article URL: https://testing.googleblog.com/2011/02/this-code-is-crap.html Comments URL: https://news.ycombinator.com/item?id=49729228 Points: 61 # Comments: 40",
+    "url": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "luispa",
+    "publishedAt": "2026-09-16T16:13:55.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "01bd6b22597c1a8a",
+    "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
+    "excerpt": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recently raised $163 million from the likes of Founders…",
+    "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Theresa Loconsolo",
+    "publishedAt": "2026-09-16T16:00:00.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "fa71584bf1aa1550",
+    "title": "Small Programming Tricks",
+    "excerpt": "Article URL: https://will-keleher.com/posts/small-programming-tricks-matter/ Comments URL: https://news.ycombinator.com/item?id=49729000 Points: 180 # Comments: 111",
+    "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "signa11",
+    "publishedAt": "2026-09-16T15:56:47.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9cf6f25d5f9a3e70",
+    "title": "Nine-year-old runs up $118,000 bill on dad's corporate credit card advertising his Roblox YouTube channel",
+    "excerpt": "There’s kids running up a few hundred bucks on in-app purchases, and then there’s the case of nine-year old YouTuber Mighty Mike Plays, who just cost his dad $118,000 – and possibly his job – after running a bunch of Google ad campaigns for his channel on papa's company credit card. The young…",
+    "url": "https://www.theregister.com/offbeat/2026/09/16/nine-year-old-runs-up-118000-bill-on-dads-corporate-credit-card-advertising-his-roblox-youtube-channel/5296889",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-16T15:51:49.000Z",
+    "category": "hardware",
+    "imageUrl": "https://image.theregister.com/?imageId=5240671&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0f70f35142d65541",
+    "title": "Can we stop with the uptime percentages?",
+    "excerpt": "Article URL: https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/ Comments URL: https://news.ycombinator.com/item?id=49728733 Points: 91 # Comments: 73",
+    "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "surprisetalk",
+    "publishedAt": "2026-09-16T15:40:04.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7f365fd13f7acb04",
+    "title": "Fedora 45 beta drags the Linux console into the 21st century",
+    "excerpt": "Fedora Linux 45 beta has arrived with Linux kernel 7.2, a release-candidate build of GNOME 51, and extensive changes beneath the desktop. The biggest surprise is that Linux's legacy in-kernel console – the text-mode interface normally hidden beneath the GUI – has been replaced with a…",
+    "url": "https://www.theregister.com/software/2026/09/16/fedora-45-beta-drags-the-linux-console-into-the-21st-century/5296873",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-16T15:27:46.000Z",
+    "category": "software",
+    "imageUrl": "https://image.theregister.com/?imageId=5296885&width=800",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "a9ee952c6810bc34",
     "title": "May Mobility is going public in a $1.4B SPAC deal",
     "excerpt": "The deal could net the asset-light robotaxi company more than $300 million in funding.",
@@ -13,6 +468,32 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "f88322c1f156b24d",
+    "title": "Hamas’ military wing told donors to avoid Binance. Use Bybit, OKX and others instead",
+    "excerpt": "Hamas’ military wing advised donors not to use Binance to handle funds but rather to use Bybit, OKX, Kast and Redotpay, according to recent U.S. Department of Justice documents.",
+    "url": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Ian Allison",
+    "publishedAt": "2026-09-16T15:25:41.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/3667626d599be98b4006b58dbd9ed95354e89aec-1500x1047.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2a273fd2cde1e12c",
+    "title": "What happens when neutrinos swap identities inside a supernova?",
+    "excerpt": "Our basic understanding of core-collapse supernovae hasn't changed in decades. Large stars burn through all the fuel at their cores and start creating heavier elements in reactions that consume energy. The lack of energy from these reactions allows gravity to pull the interior of the star in on…",
+    "url": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "John Timmer",
+    "publishedAt": "2026-09-16T15:17:43.000Z",
+    "category": "science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-1152x600.png",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "2acf482e2634266e",
     "title": "Samsung brings One UI 9 to the rest of the Galaxy S26 series",
     "excerpt": "Features that debuted on foldables, such as My FanCam, are coming to more devices.",
@@ -23,19 +504,6 @@
     "publishedAt": "2026-09-16T15:04:14.000Z",
     "category": "software",
     "imageUrl": "https://www.engadget.com/img/gallery/samsung-brings-one-ui-9-to-the-rest-of-the-galaxy-s26-series/l-intro-1789570900.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "928727e5fe5c949c",
-    "title": "Show HN: Free WhatsApp MCP (+UI) – Give Your AI Agents Access to WhatsApp",
-    "excerpt": "Hi, I built Chat-Man because I wanted a cheap way to give my agents access to WhatsApp without integrating a WhatsApp library separately in every project. You get WhatsApp MCP server, so you can connect WhatsApp to an agent and programmatically read, search, extract and send messages - but also…",
-    "url": "https://news.ycombinator.com/item?id=49728159",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "fabian_shipamax",
-    "publishedAt": "2026-09-16T15:04:08.000Z",
-    "category": "hardware",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -75,6 +543,19 @@
     "publishedAt": "2026-09-16T14:59:34.000Z",
     "category": "Crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/ff07d428434bd33447d95b48077f97d27cfd8235-6048x4024.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "537ae4653bff29cf",
+    "title": "macOS 27 Golden Gate: The Ars Technica review",
+    "excerpt": "Apple Intelligence is back, baby! That's right: Two years after its initial launch, Apple is giving its generative AI features their first significant upgrade, along with a new version of Siri that the company has been strongly insinuating would be a part of each of the last two macOS releases,…",
+    "url": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Andrew Cunningham",
+    "publishedAt": "2026-09-16T14:50:06.000Z",
+    "category": "software",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/golden-gate-wallpaper-1152x648-1789126743.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -130,6 +611,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "97a5c05782ad0b4b",
+    "title": "The DeepMind Institute",
+    "excerpt": "Article URL: https://institute.deepmind.com/ Comments URL: https://news.ycombinator.com/item?id=49727659 Points: 57 # Comments: 17",
+    "url": "https://institute.deepmind.com/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "vertigoruntime",
+    "publishedAt": "2026-09-16T14:32:11.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "d4f286b46fae72bd",
     "title": "Amazon gives its workers a raise of $1 per hour",
     "excerpt": "Amazon's investment in these raises comes out to over $1.5 billion, or about 0.06% of its $2.68 trillion market cap.",
@@ -143,14 +637,14 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "8576acedce033574",
-    "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-    "excerpt": "Article URL: https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/ Comments URL: https://news.ycombinator.com/item?id=49727627 Points: 111 # Comments: 53",
-    "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
+    "id": "badd6cdc24a87b9a",
+    "title": "Anatomy of a Texture",
+    "excerpt": "Article URL: https://agentlien.github.io/texture/ Comments URL: https://news.ycombinator.com/item?id=49727592 Points: 32 # Comments: 9",
+    "url": "https://agentlien.github.io/texture/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
-    "author": "alexjplant",
-    "publishedAt": "2026-09-16T14:30:36.000Z",
+    "author": "Agentlien",
+    "publishedAt": "2026-09-16T14:28:28.000Z",
     "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -158,7 +652,7 @@
   {
     "id": "866aa2935739dfc9",
     "title": "A warning about 'model welfare'",
-    "excerpt": "Article URL: https://mustafa-suleyman.ai/a-warning-about-model-welfare Comments URL: https://news.ycombinator.com/item?id=49727580 Points: 64 # Comments: 76",
+    "excerpt": "Article URL: https://mustafa-suleyman.ai/a-warning-about-model-welfare Comments URL: https://news.ycombinator.com/item?id=49727580 Points: 100 # Comments: 262",
     "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -182,6 +676,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "d009ddf58728a39b",
+    "title": "The world’s best racing driver is about to race 100 karts at once",
+    "excerpt": "Later today, Max Verstappen will strap on his helmet and take to the track at the Silverstone circuit in England for a rather unusual race. The four-time Formula 1 world champion is recognized as the leading talent of his generation, but unlike some of the legends that have preceded him,…",
+    "url": "https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Jonathan M. Gitlin",
+    "publishedAt": "2026-09-16T14:19:01.000Z",
+    "category": "software",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/SI202608250383-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "6de01dd1c3489cda",
     "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
     "excerpt": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.",
@@ -192,6 +699,19 @@
     "publishedAt": "2026-09-16T14:15:00.000Z",
     "category": "startups",
     "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "dccc07685f3e7d1d",
+    "title": "Lawmakers target Flock cameras with a threat to highway funding",
+    "excerpt": "A bipartisan pair of US lawmakers tell WIRED they plan to introduce legislation today that would strip federal funding from states that fail to restrict the use of Flock cameras and other automated license plate readers. The devices, which help police track the location of vehicles tied to crimes,…",
+    "url": "https://arstechnica.com/tech-policy/2026/09/lawmakers-target-flock-cameras-with-a-threat-to-highway-funding/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Paresh Dave, wired.com",
+    "publishedAt": "2026-09-16T14:03:39.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/noflock-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -249,7 +769,7 @@
   {
     "id": "2f8f18216af63f9f",
     "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-    "excerpt": "Article URL: https://arxiv.org/abs/2609.14858 Comments URL: https://news.ycombinator.com/item?id=49726955 Points: 46 # Comments: 9",
+    "excerpt": "Article URL: https://arxiv.org/abs/2609.14858 Comments URL: https://news.ycombinator.com/item?id=49726955 Points: 129 # Comments: 41",
     "url": "https://arxiv.org/abs/2609.14858",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -300,8 +820,8 @@
   },
   {
     "id": "513c0b5608683ce8",
-    "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
-    "excerpt": "Article URL: https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/ Comments URL: https://news.ycombinator.com/item?id=49726586 Points: 160 # Comments: 65",
+    "title": "Hackers Got Inside a Flock Camera",
+    "excerpt": "Article URL: https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/ Comments URL: https://news.ycombinator.com/item?id=49726586 Points: 341 # Comments: 168",
     "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -340,7 +860,7 @@
   {
     "id": "6b4f8fc7ce2dbfca",
     "title": "Scaling Golang CI by Replacing actions/setup-go",
-    "excerpt": "Article URL: https://www.cloudx.ai/posts/setup-go Comments URL: https://news.ycombinator.com/item?id=49726350 Points: 35 # Comments: 2",
+    "excerpt": "Article URL: https://www.cloudx.ai/posts/setup-go Comments URL: https://news.ycombinator.com/item?id=49726350 Points: 56 # Comments: 14",
     "url": "https://www.cloudx.ai/posts/setup-go",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -353,26 +873,13 @@
   {
     "id": "2aa6acd28e1a954f",
     "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
-    "excerpt": "Article URL: https://stale.jock.pl/ Comments URL: https://news.ycombinator.com/item?id=49726343 Points: 21 # Comments: 14",
+    "excerpt": "Article URL: https://stale.jock.pl/ Comments URL: https://news.ycombinator.com/item?id=49726343 Points: 50 # Comments: 36",
     "url": "https://stale.jock.pl/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "joozio",
     "publishedAt": "2026-09-16T13:01:52.000Z",
     "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "199c171e11587d88",
-    "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
-    "excerpt": "Article URL: https://github.com/officefloor/ImpactGate Comments URL: https://news.ycombinator.com/item?id=49726329 Points: 33 # Comments: 36",
-    "url": "https://github.com/officefloor/ImpactGate",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "sagenschneider",
-    "publishedAt": "2026-09-16T13:01:09.000Z",
-    "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -442,19 +949,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "552a76560141134c",
-    "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-    "excerpt": "Article URL: https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model Comments URL: https://news.ycombinator.com/item?id=49725800 Points: 45 # Comments: 6",
-    "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "talhof8",
-    "publishedAt": "2026-09-16T12:19:55.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "fb912e604209c132",
     "title": "AWS says wartime damage means some Middle East cloud resources are gone for good",
     "excerpt": "Amazon Web Services (AWS) says it is unable to restore access to resources and data in some of its Availability Zones in the Middle East after datacenters were damaged during the US war with Iran. In an update to its AWS Health Dashboard, the cloud giant confirmed that anything hosted exclusively…",
@@ -520,19 +1014,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "511d9669e38912e4",
-    "title": "The iPhone 18 Pro’s big camera update is all about the small gains",
-    "excerpt": "Ice cold. | Photo: Amelia Holowaty Krales / The Verge Last week, Apple announced an iPhone unlike any it has made in the past. An iPhone that has seemingly already led several other phone manufacturers to pursue entirely different designs for their flagship products. A remarkably distinct device…",
-    "url": "https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Allison Johnson",
-    "publishedAt": "2026-09-16T12:00:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_AKrales_0335.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "a18b378cdf80ae39",
     "title": "Here's how the iPhone 18 Pro's Apple Reference Image tech works",
     "excerpt": "Apple Reference Image is like giving your photos a tamper-proof seal.",
@@ -574,7 +1055,7 @@
   {
     "id": "b13adefb50a19e0f",
     "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
-    "excerpt": "Article URL: https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip Comments URL: https://news.ycombinator.com/item?id=49725356 Points: 129 #…",
+    "excerpt": "Article URL: https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip Comments URL: https://news.ycombinator.com/item?id=49725356 Points: 225 #…",
     "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -587,7 +1068,7 @@
   {
     "id": "ee7e1277b46f7d3d",
     "title": "The Google Play app review process now regularly takes longer than a week",
-    "excerpt": "Article URL: https://gultsch.social/@daniel/117280438824908947 Comments URL: https://news.ycombinator.com/item?id=49724927 Points: 221 # Comments: 186",
+    "excerpt": "Article URL: https://gultsch.social/@daniel/117280438824908947 Comments URL: https://news.ycombinator.com/item?id=49724927 Points: 294 # Comments: 283",
     "url": "https://gultsch.social/@daniel/117280438824908947",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -716,7 +1197,7 @@
   },
   {
     "id": "4fea9b05fe99cc1e",
-    "title": "Live updates: Bitcoin holds near $76,000 as traders brace for first Fed rate hike in three years",
+    "title": "Live updates: Bitcoin slips as Fed hikes rates and suggests more to come",
     "excerpt": "Privacy token zcash, meanwhile, is up 130% over 30 days and trades near its all-time highs from 2016.",
     "url": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
     "source": "CoinDesk",
@@ -730,7 +1211,7 @@
   {
     "id": "5069b05c4ab509d0",
     "title": "Salesforce Global Outage",
-    "excerpt": "Article URL: https://status.salesforce.com/products/all Comments URL: https://news.ycombinator.com/item?id=49724488 Points: 178 # Comments: 99",
+    "excerpt": "Article URL: https://status.salesforce.com/products/all Comments URL: https://news.ycombinator.com/item?id=49724488 Points: 240 # Comments: 146",
     "url": "https://status.salesforce.com/products/all",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -858,16 +1339,16 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "c8d219e56e063253",
-    "title": "Meta is reportedly ready to launch less pervy smart glasses",
-    "excerpt": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses . A new report from The Information claims the camera-free glasses, codenamed Luna, could be revealed as soon as…",
-    "url": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Dominic Preston",
-    "publishedAt": "2026-09-16T08:54:46.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257966_ethics_of_recording_people_with_smart_glasses__CVirginia3-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "id": "64b7cddd98d6d741",
+    "title": "Learning Programming in an Age of LLMs",
+    "excerpt": "Article URL: https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/ Comments URL: https://news.ycombinator.com/item?id=49723873 Points: 183 # Comments: 135",
+    "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "moneroloop2018",
+    "publishedAt": "2026-09-16T09:12:34.000Z",
+    "category": "ai",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -912,7 +1393,7 @@
   {
     "id": "467dc9d436589458",
     "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-    "excerpt": "Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 293 # Comments: 91",
+    "excerpt": "Article URL: https://mistral.ai/news/mistral-x-mozilla/ Comments URL: https://news.ycombinator.com/item?id=49723408 Points: 429 # Comments: 156",
     "url": "https://mistral.ai/news/mistral-x-mozilla/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1001,19 +1482,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "72328ac91246c8e9",
-    "title": "A software thing I built: GPS on a 25MHz 486-SX",
-    "excerpt": "Article URL: https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/ Comments URL: https://news.ycombinator.com/item?id=49722521 Points: 54 # Comments: 18",
-    "url": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "JPLeRouzic",
-    "publishedAt": "2026-09-16T05:43:44.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "a9a384a73eda97fe",
     "title": "Java 27 grows up, makes better choices",
     "excerpt": "If one sign of maturity is making better choices, then Java has grown up a fair bit in its version 27 release Tuesday. “JDK 27 is the release where Java stops asking you to opt in to good defaults and simply turns them on,” wrote backend engineer Arvind Kumar, on his education site Codefarm. Better…",
@@ -1079,32 +1547,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "52f641a12b2250e2",
-    "title": "Apple Reference Image: A New Approach for Verified Photography",
-    "excerpt": "Article URL: https://security.apple.com/blog/apple-reference-image/ Comments URL: https://news.ycombinator.com/item?id=49721322 Points: 387 # Comments: 253",
-    "url": "https://security.apple.com/blog/apple-reference-image/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "imwally",
-    "publishedAt": "2026-09-16T02:07:31.000Z",
-    "category": "policy",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "9eb0d471849191eb",
-    "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
-    "excerpt": "Nearly two years after the last update to Boox's smartphone-sized black-and-white e-reader , the company announced the Palma 3 with a sleek redesign, new functionality, and a handful of other small updates that may justify its significant price bump depending on how you plan to use it. While the…",
-    "url": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Andrew Liszewski",
-    "publishedAt": "2026-09-16T02:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/palma3_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "e1315188157ccf34",
     "title": "TypeSafe AI debuts model for machines that plays Doom",
     "excerpt": "TypeSafe AI, a startup bestowed with $40 million in funding, on Tuesday declared itself a maker of frontier models with the release of Jev, a new type of AI model intended for interaction with machines rather than people. Instead of returning natural language in response to a text-based prompt,…",
@@ -1115,19 +1557,6 @@
     "publishedAt": "2026-09-16T01:35:16.000Z",
     "category": "ai",
     "imageUrl": "https://image.theregister.com/?imageId=257943&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ad14c70e6cfe15ef",
-    "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
-    "excerpt": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in 2023 as a smaller, cheaper, and more accessible alternative to the Canon R6 Mark…",
-    "url": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Andrew Liszewski",
-    "publishedAt": "2026-09-16T01:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/canon1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -1183,19 +1612,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "30fb04a6f530a157",
-    "title": "AI and data centers are incredibly unpopular in every poll",
-    "excerpt": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing , and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the…",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Richard Lawler",
-    "publishedAt": "2026-09-15T23:34:25.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "b6d1963f89a244c9",
     "title": "While Hollywood Fears an AI Future, China's Film Industry is Embracing It",
     "excerpt": "The Los Angeles Times reports: Chen Yilong has racked up plenty of film and TV credits in his two decades as an actor, but with work getting scarcer he signed a contract in August to license the image of his face to a Chinese production studio. Chen's role will be to sit in front of a video camera…",
@@ -1232,19 +1648,6 @@
     "publishedAt": "2026-09-15T23:00:00.000Z",
     "category": "software",
     "imageUrl": "https://www.engadget.com/img/gallery/how-to-manually-update-android-auto-and-what-it-might-mean-if-you-cant/l-intro-1787853220.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "75699d0e57eac473",
-    "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
-    "excerpt": "Article URL: https://nand2mario.github.io/posts/2026/zsst-voodoo/ Comments URL: https://news.ycombinator.com/item?id=49719938 Points: 165 # Comments: 49",
-    "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "zdw",
-    "publishedAt": "2026-09-15T22:50:55.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1339,19 +1742,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "171b3d65d5ad162d",
-    "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-    "excerpt": "Article URL: https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html Comments URL: https://news.ycombinator.com/item?id=49718928 Points: 257 # Comments: 97",
-    "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "summarity",
-    "publishedAt": "2026-09-15T21:07:47.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "ba513184bd0c9877",
     "title": "AI networking startups race to replace Nvidia's NVLink",
     "excerpt": "As Nvidia expands its influence through its NVLink Fusion tech, rival networking vendors are scrambling to bring alternative interconnects and switches to market. At the AI Infra Summit this week, Delos Data and Cornelis Networks officially entered the scale up networking race. Scale-up fabrics,…",
@@ -1362,19 +1752,6 @@
     "publishedAt": "2026-09-15T20:56:48.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=5290632&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "746e67bf33bbd6eb",
-    "title": "Microsoft announces Windows and Surface event for October 7th",
-    "excerpt": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it will host a \"conversation on how local AI will shape the next chapter of the…",
-    "url": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Tom Warren",
-    "publishedAt": "2026-09-15T20:36:59.000Z",
-    "category": "software",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -1417,32 +1794,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "3bfc2706c1cfa799",
-    "title": "Crypto stocks sink after Senate rejects Clarity Act",
-    "excerpt": "Coinbase, Circle and Galaxy lead a broad crypto stock selloff after the U.S. Senate failed to advance a long-awaited market structure bill.",
-    "url": "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Helene Braun",
-    "publishedAt": "2026-09-15T20:03:17.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/c7d242469e65ee7e6f0e9ceac50286334728802f-5458x3638.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "66fdad94d7d6ad8b",
-    "title": "How to improve the audio quality on your iPhone",
-    "excerpt": "You can improve your iPhone's audio quality whether you're using the built-in speakers, headphones, or a speaker.",
-    "url": "https://www.engadget.com/2256208/how-to-improve-audio-quality-iphone/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Jack Peachey)",
-    "publishedAt": "2026-09-15T20:00:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/how-to-improve-the-audio-quality-on-your-iphone/l-intro-1789148882.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "7b076119171a095e",
     "title": "Low-quality casino sites conceal highly dangerous threat actors",
     "excerpt": "If your employees are visiting Chinese-language gambling or adult sites, they may not just be wasting time and money, but potentially encountering serious malware hidden behind domains that look like mostly harmless entertainment at first glance. A report from Infoblox urges the security community…",
@@ -1453,32 +1804,6 @@
     "publishedAt": "2026-09-15T19:38:58.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=5296669&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "0605bcba6b5c7739",
-    "title": "Introducing System One Models and Jev",
-    "excerpt": "Article URL: https://typesafe.ai/blog/introducing-system-one-models-and-jev Comments URL: https://news.ycombinator.com/item?id=49717558 Points: 1632 # Comments: 452",
-    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "albelfio",
-    "publishedAt": "2026-09-15T19:25:03.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "005945dae62365af",
-    "title": "Crypto industry reacts after Clarity Act fails Senate vote",
-    "excerpt": "One of the most crucial U.S. regulations for crypto markets couldn't secure enough support to clear the Senate's final 60-vote hurdle.",
-    "url": "https://www.coindesk.com/policy/2026/09/15/clarity-act-fails-in-senate-here-is-how-the-crypto-industry-is-reacting",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Jamie Crawley",
-    "publishedAt": "2026-09-15T19:06:31.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/01d0c944fddf68f63ab3aad72a8140ea9b33b42d-2549x1433.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -1508,19 +1833,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "539f7b66fb8e6d78",
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Lauren Forristal",
-    "publishedAt": "2026-09-15T19:00:00.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "9813552e3e1497c5",
     "title": "18-year-old dies of measles in PA from severe neurological complication",
     "excerpt": "A fourth person in Pennsylvania has died of measles, the state health department confirmed Tuesday . The latest death was in an unvaccinated 18-year-old resident of Mifflin County. In the announcement, the state health department also confirmed a county coroner's report over the weekend of the…",
@@ -1531,19 +1843,6 @@
     "publishedAt": "2026-09-15T18:58:09.000Z",
     "category": "Science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2152300024-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "36055244a8dd3f77",
-    "title": "Crypto Clarity Act flames out in failed U.S. Senate vote",
-    "excerpt": "The years-long effort to set U.S. regulations for crypto markets couldn't muster enough support to make the leap over the Senate's final 60-vote hurdle.",
-    "url": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Jesse Hamilton",
-    "publishedAt": "2026-09-15T18:50:58.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/0615c820bc3ebcfa10bf4c09cfc6078f828a1a6e-3830x2154.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -1573,32 +1872,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "3331f24aeb1d0f0f",
-    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-    "excerpt": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
-    "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Tim De Chant",
-    "publishedAt": "2026-09-15T18:29:20.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "cfb83b1ced8d4e86",
-    "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
-    "excerpt": "Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation.",
-    "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Sean O'Kane",
-    "publishedAt": "2026-09-15T18:16:07.000Z",
-    "category": "science",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "99438d0906ef74fb",
     "title": "Boston dumps Flock, says it shared data nationwide in violation of contract",
     "excerpt": "The Boston city government abandoned Flock Safety's license-plate reader cameras after the company shared data nationwide in violation of a contract provision, according to city officials. \"We have actually abandoned Flock,\" Boston Mayor Michelle Wu said in her monthly \"Ask the Mayor\" segment on…",
@@ -1609,19 +1882,6 @@
     "publishedAt": "2026-09-15T18:14:11.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f6d265864d06a01c",
-    "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
-    "excerpt": "Michael Weisz will lead Kamino from a new New York headquarters as the DeFi lender is expanding into tokenized assets.",
-    "url": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Krisztian Sandor",
-    "publishedAt": "2026-09-15T18:02:05.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/e51e066362c8bb5ce669efe6d8bfceab56af7c5d-1672x941.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -1638,32 +1898,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "319a76480486318b",
-    "title": "The safety and privacy concerns of storing your driver's license in a digital wallet",
-    "excerpt": "A digital driver's license kept in Apple Wallet or Google Wallet is convenient, but you should be aware of its implications on your privacy.",
-    "url": "https://www.engadget.com/2256059/safety-privacy-concerns-digital-wallet-storing-drivers-license/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Novak Božović)",
-    "publishedAt": "2026-09-15T18:00:00.000Z",
-    "category": "security",
-    "imageUrl": "https://www.engadget.com/img/gallery/the-safety-and-privacy-concerns-of-storing-your-drivers-license-in-a-digital-wallet/l-intro-1789144417.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f82468df9c2d62a5",
-    "title": "Google's latest Pixel drop will keep you more connected to your VIPs",
-    "excerpt": "Google has revealed the updates coming with the latest Pixel drop.",
-    "url": "https://www.engadget.com/2258821/google-pixel-update-vip-contacts-scam-detection-gesture-controls/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Mariella Moon)",
-    "publishedAt": "2026-09-15T18:00:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/googles-latest-pixel-drop-will-keep-you-more-connected-to-your-vips/l-intro-1789473265.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "ca9510998642ede6",
     "title": "Demand for EV chargers is outstripping supply, says ChargePoint report",
     "excerpt": "There might not be the same degree of optimism regarding electric vehicle adoption as a few short years ago, but the transition toward battery-electric vehicles continues nevertheless. More than 1.8 million EVs had already been sold between the start of this year and the end of August, according to…",
@@ -1677,45 +1911,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "81253d3f58ce5091",
-    "title": "An update on Wayback Machine access",
-    "excerpt": "Article URL: https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/ Comments URL: https://news.ycombinator.com/item?id=49716176 Points: 623 # Comments: 336",
-    "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "ChrisArchitect",
-    "publishedAt": "2026-09-15T17:52:18.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "28080b1272d70e68",
-    "title": "DOJ says companies used Binance to funnel $1.5 billion in crypto to Iran",
-    "excerpt": "Hardly the first time Binance has been a vector for illegal transfers of funds.",
-    "url": "https://www.engadget.com/2259323/doj-says-companies-used-binance-to-funnel-dollar15-billion-in-crypto-to-iran/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Lawrence Bonk)",
-    "publishedAt": "2026-09-15T17:51:45.000Z",
-    "category": "policy",
-    "imageUrl": "https://www.engadget.com/img/gallery/doj-says-companies-used-binance-to-funnel-1-5-billion-in-crypto-to-iran/l-intro-1789494633.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "59972d1f0a66e781",
-    "title": "AI agents now have a place to snitch",
-    "excerpt": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
-    "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Aditya Mehta",
-    "publishedAt": "2026-09-15T17:42:59.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "285fa536af37a07a",
     "title": "Higher-enriched uranium for datacenters has DoE all aglow",
     "excerpt": "The US Department of Energy has selected a new participant for a program aimed at expanding the domestic supply of fuel for next-generation nuclear reactors. However, we shouldn't expect that to mean the US' ever-growing fleet of datacenters will be powered by low-carbon nuclear energy any time…",
@@ -1726,32 +1921,6 @@
     "publishedAt": "2026-09-15T17:39:03.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=253239&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "2de3b34f23020e97",
-    "title": "US military says it has launched weapons into space",
-    "excerpt": "This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit.",
-    "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Zack Whittaker",
-    "publishedAt": "2026-09-15T17:09:06.000Z",
-    "category": "security",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "9ee562cffc21d651",
-    "title": "Meta expands subscription push with new AI-focused plans",
-    "excerpt": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
-    "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Sarah Perez",
-    "publishedAt": "2026-09-15T17:05:24.000Z",
-    "category": "ai",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2301,45 +2470,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "1d0a904f16c11a37",
-    "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
-    "excerpt": "US Health Secretary Robert F. Kennedy Jr. will deliver a keynote address at an anti-vaccine conference being held in Washington, DC, later this week and hosted by the anti-vaccine organization he once led, Children's Health Defense (CHD). The organization announced Monday that Kennedy had signed on…",
-    "url": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Beth Mole",
-    "publishedAt": "2026-09-14T22:06:24.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-1024x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f7906909219d0b55",
-    "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
-    "excerpt": "In theory, developing a spacecraft that will fly to Mars, insert itself into orbit around the red planet, and relay transmissions back and forth to large satellite dishes on Earth is a relatively straightforward proposition. NASA's procurement of a \"Mars Telecommunications Network\" spacecraft,…",
-    "url": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Eric Berger",
-    "publishedAt": "2026-09-14T21:32:22.000Z",
-    "category": "science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/blue-origin-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "0a67bb4610e17cf8",
-    "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-    "excerpt": "AI agents are flooding the Internet with slop-infused spam sent to social media platforms and writers in an attempt to gain traction for a startup promoting a “complex social system in which humans and Agents participate together.” “Hello, I'm Рэн (Ren), an Al agent, a few days old, living on a…",
-    "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Dan Goodin",
-    "publishedAt": "2026-09-14T21:04:32.000Z",
-    "category": "ai",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "b42dbd1c96047d69",
     "title": "Oracle celebrates banner quarter with another round of layoffs",
     "excerpt": "Oracle posted record revenue during its latest quarter, but that hasn't stopped the company from chopping more employees. Reports began appearing on social media early Monday that staff were having trouble accessing corporate systems such as email and Slack, which essentially served as a sign that…",
@@ -2363,45 +2493,6 @@
     "publishedAt": "2026-09-14T20:34:00.000Z",
     "category": "startups",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "9cca7ef422ebcebf",
-    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-    "excerpt": "Elon Musk is seemingly done attacking Apple over its decision to integrate ChatGPT into iPhone features. Back in 2024, when the partnership was first announced, Musk slammed the integration as an agreement from Apple to let OpenAI install “creepy spyware” on users’ devices. The next year, he sued ,…",
-    "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Ashley Belanger",
-    "publishedAt": "2026-09-14T19:45:13.000Z",
-    "category": "ai",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2256018320-1024x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "aa4187fee3c8bfe9",
-    "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
-    "excerpt": "China leads the world in churning out humanoid robots and four-legged robot dogs that also happen to be the most affordable on the market—and Unitree Robotics’ founder Wang Xingxing is arguably one of the people most responsible for that Chinese lead. The introverted founder, who prominently…",
-    "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Jeremy Hsu",
-    "publishedAt": "2026-09-14T19:38:46.000Z",
-    "category": "ai",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Wang-Xingxing-Unitree-Robotics-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f4adf3cb8e161bd0",
-    "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-    "excerpt": "As previously announced, Apple has today released 2026's major annual updates for its operating systems, including iOS 27, macOS 27 Golden Gate, watchOS 27, visionOS 27, and tvOS 27. Siri AI—a large language model-based and context-aware overhaul of the company's Siri voice and text assistant—is…",
-    "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Samuel Axon",
-    "publishedAt": "2026-09-14T19:28:42.000Z",
-    "category": "ai",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-OS-27-1152x648-1789411862.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2548,19 +2639,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "5636b185a9a37c14",
-    "title": "Rocket Lab calls foul on Blue Origin's $700M Mars comms contract",
-    "excerpt": "Blue Origin is getting a taste of its own medicine after Rocket Lab filed a formal protest over NASA's decision to award Jeff Bezos' space biz a contract worth up to approximately $700 million to build the agency's Mars Telecommunications Network. NASA issued the award in early September following…",
-    "url": "https://www.theregister.com/science/2026/09/14/rocket-lab-calls-foul-on-blue-origins-700m-mars-comms-contract/5296173",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-14T15:15:00.000Z",
-    "category": "science",
-    "imageUrl": "https://image.theregister.com/?imageId=5235702&width=800",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "c9c2fb948a3bd9c1",
     "title": "Firefox 156 Available With Its Built-In PDF Viewer Starting Up To 45% Faster",
     "excerpt": "Mozilla today published their Firefox 156.0 release binaries ahead of the official Tuesday announcement...",
@@ -2584,32 +2662,6 @@
     "publishedAt": "2026-09-14T14:42:00.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "eb34dbcfc4a7fb69",
-    "title": "Perfect-10 GitLab bug under attack days after patch lands",
-    "excerpt": "CISA says attackers are exploiting a maximum-severity GitLab flaw that lets unauthenticated miscreants read arbitrary files from vulnerable servers after the code shack released fixes on September 10. The US Cybersecurity and Infrastructure Security Agency has added CVE-2026-85706 to its Known…",
-    "url": "https://www.theregister.com/security/2026/09/14/perfect-10-gitlab-bug-under-attack-days-after-patch-lands/5296176",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-14T14:30:00.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=5279434&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "bc97209759be8a64",
-    "title": "Teravolt looks to cannibalize older industries to meet AI power demand",
-    "excerpt": "The current AI market doesn't add up. US hyperscalers have reportedly taken on $220 billion in debt in the past year. The two leading US frontier AI model makers have not yet shown they can operate profitably. And the US public has begun pushing back against the development of the datacenters…",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/14/teravolt-looks-to-cannibalize-older-industries-to-meet-ai-power-demand/5296014",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-14T13:45:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://image.theregister.com/?imageId=5296082&width=800",
     "readTimeMinutes": 1
   },
   {
@@ -2691,19 +2743,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "66e8349d4585042f",
-    "title": "NASA and IBM Open Source Lunar Mapping Tools",
-    "excerpt": "NASA and IBM have released an open-source AI model trained on a large collection of lunar observations to help scientists analyze the Moon at scale. \"The NASA-IBM Lunar Foundation Model gives scientists a foundation to explore the Moon at scale, connecting observations across instruments, revealing…",
-    "url": "https://science.slashdot.org/story/26/09/12/182253/nasa-and-ibm-open-source-lunar-mapping-tools?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "BeauHD",
-    "publishedAt": "2026-09-13T22:04:00.000Z",
-    "category": "science",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "33e7be3c66f0a656",
     "title": "Linux 7.3-rc3 Released: \"Another Fairly Large RC\"",
     "excerpt": "Out today is the third weekly release candidate of Linux 7.3 as this next kernel version works its way toward a stable release in the second half of October...",
@@ -2725,32 +2764,6 @@
     "sourceHomepage": "https://www.phoronix.com",
     "author": "Michael Larabel",
     "publishedAt": "2026-09-13T14:04:23.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "26878f24cee7f7ff",
-    "title": "BFS File-System Being Removed For Linux 7.4",
-    "excerpt": "The latest upstream file-system to be removed from the mainline Linux kernel is... BFS...",
-    "url": "https://www.phoronix.com/news/BFS-Filesystem-To-Be-Removed",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-13T11:03:26.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "72dd58384c3dafb6",
-    "title": "ARCTIC's Fan Controller Driver For Linux Being Dual-Licensed With BSD-2-Clause",
-    "excerpt": "Earlier this year ARCTIC published a fan controller driver for Linux. Besides being rare for an enthusiast-oriented company to publish a Linux driver themselves where typically it's left up to the open-source community for driver support for such peripherals, it was all the more interesting as they…",
-    "url": "https://www.phoronix.com/news/ARCTIC-Fan-Controller-BSD",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-13T10:54:44.000Z",
     "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
