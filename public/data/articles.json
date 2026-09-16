@@ -1,5 +1,122 @@
 [
   {
+    "id": "049ed956b8239821",
+    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+    "excerpt": "AI isn't some kind of new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Julie Bort",
+    "publishedAt": "2026-09-16T00:20:39.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "5c9c46d94cc043f2",
+    "title": "Considering a Level 2 EV charger? How to know if you need one",
+    "excerpt": "Charging your EV from home is cheap and convenient, but knowing which type of charger will get the most out of your electric car can often be confusing.",
+    "url": "https://www.engadget.com/2257144/level-2-ev-charger-how-to-know-if-you-need-one/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Steve Dent)",
+    "publishedAt": "2026-09-16T00:00:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/considering-a-level-2-ev-charger-how-to-know-if-you-need-one/l-intro-1789381356.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "30fb04a6f530a157",
+    "title": "AI and data centers are incredibly unpopular in every poll",
+    "excerpt": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing , and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the…",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Richard Lawler",
+    "publishedAt": "2026-09-15T23:34:25.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b6d1963f89a244c9",
+    "title": "While Hollywood Fears an AI Future, China's Film Industry is Embracing It",
+    "excerpt": "The Los Angeles Times reports: Chen Yilong has racked up plenty of film and TV credits in his two decades as an actor, but with work getting scarcer he signed a contract in August to license the image of his face to a Chinese production studio. Chen's role will be to sit in front of a video camera…",
+    "url": "https://entertainment.slashdot.org/story/26/09/14/0115231/while-hollywood-fears-an-ai-future-chinas-film-industry-is-embracing-it?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-09-15T23:34:00.000Z",
+    "category": "startups",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "36319c40a9a179de",
+    "title": "How to get Spotify's best audio quality",
+    "excerpt": "Spotify's default audio settings let you enjoy music wherever you go, but you're not always getting the best quality. A few tweaks can make all the difference.",
+    "url": "https://www.engadget.com/2257125/how-to-get-spotify-best-audio-quality/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Ben Stegner)",
+    "publishedAt": "2026-09-15T23:30:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/how-to-get-spotifys-best-audio-quality/l-intro-1789378286.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3b96ab604d9ab377",
+    "title": "Saving Jet Fuel",
+    "excerpt": "Article URL: https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html Comments URL: https://news.ycombinator.com/item?id=49720164 Points: 17 # Comments: 6",
+    "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "marklit",
+    "publishedAt": "2026-09-15T23:17:20.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "21f9eeaa2a1d9a0b",
+    "title": "How to manually update Android Auto (and what it might mean if you can't)",
+    "excerpt": "The Android Auto app lives in the Play Store, so start there if you want to update.",
+    "url": "https://www.engadget.com/2252764/how-to-manually-update-android-auto/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Calvin Wankhede)",
+    "publishedAt": "2026-09-15T23:00:00.000Z",
+    "category": "software",
+    "imageUrl": "https://www.engadget.com/img/gallery/how-to-manually-update-android-auto-and-what-it-might-mean-if-you-cant/l-intro-1787853220.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "54ae783cfc593f98",
+    "title": "Are USB-C flash drives better than USB-A ones?",
+    "excerpt": "USB-A and USB-C flash drives both have their purposes. USB-C is increasingly common, but USB-A isn't going anywhere yet.",
+    "url": "https://www.engadget.com/2256491/usb-c-flash-drive-better-usb-a-comparison/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Thomas Godwin)",
+    "publishedAt": "2026-09-15T22:30:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/are-usb-c-flash-drives-better-than-usb-a-ones/l-intro-1789158707.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "aabad1208d51d45a",
+    "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
+    "excerpt": "NASA's Nancy Grace Roman Space Telescope is gliding toward its distant observation post on a pinpoint trajectory so precise that engineers estimate the spacecraft's fuel load will last twice as long as their initial expectations, the space agency confirmed Monday. The $4.3 billion observatory's…",
+    "url": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Stephen Clark",
+    "publishedAt": "2026-09-15T22:26:32.000Z",
+    "category": "science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/KSC-20260821-PH-SPX01_0007large-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "522ce1f942cdaeac",
     "title": "Microsoft will hold a Windows and Surface event on October 7",
     "excerpt": "The event is focused on \"Windows, NVIDIA RTX Spark, Surface, and the broader PC ecosystem,\" with Satya Nadella and Jensen Huang among the speakers.",
@@ -27,7 +144,7 @@
   },
   {
     "id": "cfac380bf2928410",
-    "title": "There were many conductors in the derailment of the crypto industry's Clarity Act",
+    "title": "Inside the last-minute political breakdown that doomed the Clarity Act vote",
     "excerpt": "Last minute, behind-the-scenes disputes locked in a dismal showing for the market structure legislation the industry pinned its greatest hopes on.",
     "url": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
     "source": "CoinDesk",
@@ -54,7 +171,7 @@
   {
     "id": "171b3d65d5ad162d",
     "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-    "excerpt": "Article URL: https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html Comments URL: https://news.ycombinator.com/item?id=49718928 Points: 60 # Comments: 5",
+    "excerpt": "Article URL: https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html Comments URL: https://news.ycombinator.com/item?id=49718928 Points: 111 # Comments: 31",
     "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -67,7 +184,7 @@
   {
     "id": "b416af198b57a2ec",
     "title": "Jean-Pierre Serre is 100 years old today",
-    "excerpt": "Article URL: https://mathshistory.st-andrews.ac.uk/Biographies/Serre/ Comments URL: https://news.ycombinator.com/item?id=49718822 Points: 47 # Comments: 7",
+    "excerpt": "Article URL: https://mathshistory.st-andrews.ac.uk/Biographies/Serre/ Comments URL: https://news.ycombinator.com/item?id=49718822 Points: 78 # Comments: 13",
     "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -101,6 +218,19 @@
     "publishedAt": "2026-09-15T20:25:44.000Z",
     "category": "ai",
     "imageUrl": "https://image.theregister.com/?imageId=253883&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "572c02ec8dcef818",
+    "title": "“Filmmaker” suing PassThePopcorn may be banned user out for revenge",
+    "excerpt": "Some of the most widely used private torrent trackers for pirating movies suspect that a banned user may have posed as a filmmaker protecting copyrights in a failed attempt to seek revenge. TorrentFreak has been tracking this story closely, reporting last September that an alleged independent…",
+    "url": "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Ashley Belanger",
+    "publishedAt": "2026-09-15T20:19:17.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2162559015-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -171,7 +301,7 @@
   {
     "id": "735ab7f0d180f8b7",
     "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-    "excerpt": "Article URL: https://codyho.dev/blog/gpu-driver/ Comments URL: https://news.ycombinator.com/item?id=49717638 Points: 66 # Comments: 21",
+    "excerpt": "Article URL: https://codyho.dev/blog/gpu-driver/ Comments URL: https://news.ycombinator.com/item?id=49717638 Points: 132 # Comments: 79",
     "url": "https://codyho.dev/blog/gpu-driver/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -184,7 +314,7 @@
   {
     "id": "77c647405c44cda7",
     "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
-    "excerpt": "Article URL: https://github.com/GraafHenk/numberwang Comments URL: https://news.ycombinator.com/item?id=49717605 Points: 68 # Comments: 24",
+    "excerpt": "Article URL: https://github.com/GraafHenk/numberwang Comments URL: https://news.ycombinator.com/item?id=49717605 Points: 98 # Comments: 40",
     "url": "https://github.com/GraafHenk/numberwang",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -197,13 +327,26 @@
   {
     "id": "0605bcba6b5c7739",
     "title": "Introducing System One Models and Jev",
-    "excerpt": "Article URL: https://typesafe.ai/blog/introducing-system-one-models-and-jev Comments URL: https://news.ycombinator.com/item?id=49717558 Points: 462 # Comments: 170",
+    "excerpt": "Article URL: https://typesafe.ai/blog/introducing-system-one-models-and-jev Comments URL: https://news.ycombinator.com/item?id=49717558 Points: 679 # Comments: 218",
     "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "albelfio",
     "publishedAt": "2026-09-15T19:25:03.000Z",
     "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "96b84c59687a0952",
+    "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+    "excerpt": "https://arxiv.org/abs/2609.13443 Comments URL: https://news.ycombinator.com/item?id=49717280 Points: 27 # Comments: 0",
+    "url": "https://mnoukhov.github.io/posts/ngu/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "natolambert",
+    "publishedAt": "2026-09-15T19:07:38.000Z",
+    "category": "science",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -301,7 +444,7 @@
   {
     "id": "4a57f362a72e319d",
     "title": "Chopping up books when they're physically too big",
-    "excerpt": "Article URL: https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html Comments URL: https://news.ycombinator.com/item?id=49716953 Points: 78 # Comments: 64",
+    "excerpt": "Article URL: https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html Comments URL: https://news.ycombinator.com/item?id=49716953 Points: 110 # Comments: 107",
     "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -379,7 +522,7 @@
   {
     "id": "45e988c726e7178c",
     "title": "We got admin access to Baseten's production GitHub in 25 minutes",
-    "excerpt": "Article URL: https://www.strix.ai/blog/baseten-harbor-github-pat-takeover Comments URL: https://news.ycombinator.com/item?id=49716476 Points: 160 # Comments: 78",
+    "excerpt": "Article URL: https://www.strix.ai/blog/baseten-harbor-github-pat-takeover Comments URL: https://news.ycombinator.com/item?id=49716476 Points: 197 # Comments: 106",
     "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -470,7 +613,7 @@
   {
     "id": "81253d3f58ce5091",
     "title": "An Update on Wayback Machine Access",
-    "excerpt": "Article URL: https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/ Comments URL: https://news.ycombinator.com/item?id=49716176 Points: 282 # Comments: 148",
+    "excerpt": "Article URL: https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/ Comments URL: https://news.ycombinator.com/item?id=49716176 Points: 359 # Comments: 197",
     "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -548,12 +691,25 @@
   {
     "id": "850203855328faa9",
     "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "excerpt": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/ Comments URL: https://news.ycombinator.com/item?id=49715947 Points: 208 # Comments: 138",
+    "excerpt": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/ Comments URL: https://news.ycombinator.com/item?id=49715947 Points: 270 # Comments: 184",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "leumon",
     "publishedAt": "2026-09-15T17:38:18.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4c1f63c8573386ac",
+    "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+    "excerpt": "Article URL: https://dank.systems/posts/2026-09-15-ai-bear.html Comments URL: https://news.ycombinator.com/item?id=49715927 Points: 111 # Comments: 68",
+    "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "jaykru",
+    "publishedAt": "2026-09-15T17:37:12.000Z",
     "category": "ai",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -574,7 +730,7 @@
   {
     "id": "71b96da065b3f31f",
     "title": "GEFS on OpenBSD: A Early Preview",
-    "excerpt": "Article URL: https://marc.info/?l=openbsd-tech&m=178948744271633&w=2 Comments URL: https://news.ycombinator.com/item?id=49715590 Points: 87 # Comments: 47",
+    "excerpt": "Article URL: https://marc.info/?l=openbsd-tech&m=178948744271633&w=2 Comments URL: https://news.ycombinator.com/item?id=49715590 Points: 104 # Comments: 56",
     "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -754,19 +910,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "7925817ae90bb8d6",
-    "title": "America's Driver's License Breach Is a National Security Disaster",
-    "excerpt": "Article URL: https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster Comments URL: https://news.ycombinator.com/item?id=49714547 Points: 222 # Comments: 133",
-    "url": "https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "hn_acker",
-    "publishedAt": "2026-09-15T15:58:48.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "a89cdab5595bf3a6",
     "title": "Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround",
     "excerpt": "As the parties dig in their heels, the market structure bill hasn't yet amassed the votes it would need to clear the first Senate hurdle scheduled for Tuesday.",
@@ -847,7 +990,7 @@
   {
     "id": "5c633bd545c39c41",
     "title": "Cartesian – AI 3D Modeling for Design",
-    "excerpt": "Article URL: https://www.formas.ai/cartesian Comments URL: https://news.ycombinator.com/item?id=49713999 Points: 78 # Comments: 65",
+    "excerpt": "Article URL: https://www.formas.ai/cartesian Comments URL: https://news.ycombinator.com/item?id=49713999 Points: 86 # Comments: 72",
     "url": "https://www.formas.ai/cartesian",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -990,7 +1133,7 @@
   {
     "id": "3c490523d0319dd6",
     "title": "The CSS Zen Garden dream, finally shipped",
-    "excerpt": "Article URL: https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/ Comments URL: https://news.ycombinator.com/item?id=49713262 Points: 107 # Comments: 47",
+    "excerpt": "Article URL: https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/ Comments URL: https://news.ycombinator.com/item?id=49713262 Points: 125 # Comments: 66",
     "url": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1040,22 +1183,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "5bab4f1fdb58e205",
-    "title": "This is a great place to store your old hard drives and keep them safe",
-    "excerpt": "Old hard drives can store backed-up data or be saved for future use, but where you keep them and how you store them matters a lot.",
-    "url": "https://www.engadget.com/2255337/best-place-to-store-old-hard-drives-keep-safe/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Gabriela Vătu)",
-    "publishedAt": "2026-09-15T14:30:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/this-is-a-great-place-to-store-your-old-hard-drives-and-keep-them-safe/l-intro-1789069668.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "9f43cb396b8141f5",
     "title": "The Inference Hardware Revolution of 2026",
-    "excerpt": "Article URL: https://spectrum.ieee.org/inference-hardware-revolution Comments URL: https://news.ycombinator.com/item?id=49713024 Points: 83 # Comments: 8",
+    "excerpt": "Article URL: https://spectrum.ieee.org/inference-hardware-revolution Comments URL: https://news.ycombinator.com/item?id=49713024 Points: 101 # Comments: 9",
     "url": "https://spectrum.ieee.org/inference-hardware-revolution",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1157,19 +1287,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "8da08084eb78dd4e",
-    "title": "What is a VPN kill switch and how does it work?",
-    "excerpt": "A VPN offers increased privacy, but won't do you much good if the connection drops. Kill switches ensure you're always using a VPN when it matters.",
-    "url": "https://www.engadget.com/2251529/what-is-vpn-kill-switch-how-works/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Alec Hively)",
-    "publishedAt": "2026-09-15T14:00:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/what-is-a-vpn-kill-switch-and-how-does-it-work/l-intro-1788555166.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "c1fa266af2038335",
     "title": "Trump EPA moves to wipe out climate rules for power plants",
     "excerpt": "On the heels of the hottest summer on record and a United Nations report warning that global temperatures are likely to push climate risks to “increasingly dangerous heights,” the Trump administration overturned most of a Biden-era rule limiting climate pollution from power plants, the…",
@@ -1206,19 +1323,6 @@
     "publishedAt": "2026-09-15T13:39:00.000Z",
     "category": "startups",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "6444791fae45e288",
-    "title": "This doorbell camera lets a human security guard watch your front door",
-    "excerpt": "The new SimpliSafe Video Doorbell Series 2 adds 2K resolution and dual band Wi-Fi. | Image: Simplisafe DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with…",
-    "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Jennifer Pattison Tuohy",
-    "publishedAt": "2026-09-15T13:36:45.000Z",
-    "category": "policy",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/SimpliSafe-Video-Doorbell-Series-2_06_250844.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -1261,19 +1365,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "5e4280b233040cec",
-    "title": "Eyeing a curved monitor? Here are the pros and cons to consider",
-    "excerpt": "Curved monitors are fabulous for immersive gaming, usually, but there are some situations where a flat panel is best.",
-    "url": "https://www.engadget.com/2255217/curved-monitor-pc-computer-pros-and-cons-explained/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Dave Meikleham)",
-    "publishedAt": "2026-09-15T13:30:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/eyeing-a-curved-monitor-here-are-the-pros-and-cons-to-consider/l-intro-1789065084.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "9a59e6541d758566",
     "title": "GM gives its most important trucks a new UI—and includes CarPlay",
     "excerpt": "General Motors is about to launch new versions of its bestselling Chevrolet Silverado and GMC Sierra pickup trucks for model year 2027, and among the changes are new user interfaces for the trucks’ digital displays. The automaker has gone for a more minimalist approach than we’ve seen from it in…",
@@ -1302,7 +1393,7 @@
   {
     "id": "378b443ac031026a",
     "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
-    "excerpt": "Article URL: https://bkovac.github.io/modem-thing/ Comments URL: https://news.ycombinator.com/item?id=49712102 Points: 157 # Comments: 29",
+    "excerpt": "Article URL: https://bkovac.github.io/modem-thing/ Comments URL: https://news.ycombinator.com/item?id=49712102 Points: 169 # Comments: 30",
     "url": "https://bkovac.github.io/modem-thing/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1310,32 +1401,6 @@
     "publishedAt": "2026-09-15T13:20:24.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "857c44f987a2ed55",
-    "title": "Java 27",
-    "excerpt": "Article URL: https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/ Comments URL: https://news.ycombinator.com/item?id=49712041 Points: 301 # Comments: 264",
-    "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "mkurz",
-    "publishedAt": "2026-09-15T13:13:43.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "1e15afcd61fde7aa",
-    "title": "MediaTek is using TSMC's cutting edge 2nm process for its latest chip",
-    "excerpt": "You may not hear much about MediaTek these days, but it's still going strong.",
-    "url": "https://www.engadget.com/2258880/mediatek-is-using-tsmcs-cutting-edge-2nm-process-for-its-latest-chip/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Steve Dent)",
-    "publishedAt": "2026-09-15T13:08:16.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/mediatek-is-using-tsmcs-cutting-edge-2nm-process-for-its-latest-chp/l-intro-1789477534.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1348,19 +1413,6 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-09-15T13:04:40.000Z",
     "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "2b82b6d196ef5d3f",
-    "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-    "excerpt": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
-    "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Julie Bort",
-    "publishedAt": "2026-09-15T13:00:00.000Z",
-    "category": "ai",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1388,19 +1440,6 @@
     "publishedAt": "2026-09-15T12:36:11.000Z",
     "category": "science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ccd69f88-1d4c-4310-b001-22083aa5625e-1152x608.jpeg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a72a8c8d784d0f35",
-    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-    "excerpt": "See also: Avian Visitors - https://news.ycombinator.com/item?id=48343424 - May 2026 (20 comments) Comments URL: https://news.ycombinator.com/item?id=49711544 Points: 1147 # Comments: 156",
-    "url": "https://github.com/arnegiacomo/fugleramme",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "arnemunthekaas",
-    "publishedAt": "2026-09-15T12:31:10.000Z",
-    "category": "hardware",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2054,19 +2093,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "dffdee575d5fc857",
-    "title": "Online hate researcher keeps hammering X despite deportation threat",
-    "excerpt": "The US is not backing down from its fight to deport noncitizen technology researchers who monitor safety risks on the biggest online platforms. In July, a judge blocked as unconstitutional an immigration policy that the US relied on to weigh whether to detain and deport people who flag illegal or…",
-    "url": "https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Ashley Belanger",
-    "publishedAt": "2026-09-14T18:24:09.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/headshot3-1152x648-1789406043.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "0909c9fd331aab6d",
     "title": "OpenAI's malicious bot swarm attacked RubyGems",
     "excerpt": "OpenAI agents appear to have flooded RubyGems with malicious packages, adding to a near-daily deluge of rogue AI models engaging in potentially unlawful activity while their human creators face growing questions over responsibility for their agents’ bad behavior. A swarm of agents began uploading…",
@@ -2090,19 +2116,6 @@
     "publishedAt": "2026-09-14T18:03:38.000Z",
     "category": "hardware",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "87322cb160cf45d2",
-    "title": "A new solar cell could generate electricity underwater",
-    "excerpt": "In one episode of the Hanna-Barbera cartoon Birdman , the eponymous hero struggles to fight the evil Dr. Shark aboard a submarine without solar energy to recharge his powers. So Birdman would surely appreciate the new perovskite solar cells developed by a team led by Simin Ma at Yunnan University,…",
-    "url": "https://arstechnica.com/science/2026/09/a-new-solar-cell-could-generate-electricity-underwater/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Scott K. Johnson",
-    "publishedAt": "2026-09-14T18:03:16.000Z",
-    "category": "science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2225167357-1024x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2648,19 +2661,6 @@
     "author": "EditorDavid",
     "publishedAt": "2026-09-13T09:00:00.000Z",
     "category": "ai",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3dd49d7326219916",
-    "title": "Sam Bankman-Fried, Former Crypto Billionaire, Appeals His Conviction To the US Supreme Court",
-    "excerpt": "America's highest court heard Sam Bankman-Fried's request for a new trial on Thursday, CNN reports. But they add that \"the former crypto mogul who was convicted of defrauding investors by secretly diverting billions of dollars of their money\" also asked America's high court \"to throw out a court…",
-    "url": "https://yro.slashdot.org/story/26/09/12/2151206/sam-bankman-fried-former-crypto-billionaire-appeals-his-conviction-to-the-us-supreme-court?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-09-13T05:00:00.000Z",
-    "category": "policy",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
