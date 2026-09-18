@@ -1,5 +1,278 @@
 [
   {
+    "id": "7a124024c53237ec",
+    "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
+    "excerpt": "The network is cutting its target slot time to 250 milliseconds, giving apps fresher blockchain data and validators shorter control windows while reducing the amount of work allowed in each slot.",
+    "url": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-09-18T06:16:57.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "cdf051d53f8f599f",
+    "title": "Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too.",
+    "excerpt": "Corporate treasuries bought just 5,900 bitcoin in three months, while broader demand signals remain weak.",
+    "url": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Omkar Godbole",
+    "publishedAt": "2026-09-18T05:43:21.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/945127549bc4106cc0730befcad887387473e052-3096x2072.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1248011508806c82",
+    "title": "America Acknowledges for the First Time: It Has Deployed Weapons In Space",
+    "excerpt": "Tuesday U.S. Space Force chief Douglas Schiess said his branch of the U.S. military operates \"on-orbit weapons,\" reports Reuters, to defend \"against space-enabled attacks.\" He promised \"disciplined and responsible choices\" when scaling America's orbital defense arsenal in the coming years. NPR…",
+    "url": "https://news.slashdot.org/story/26/09/16/2134242/america-acknowledges-for-the-first-time-it-has-deployed-weapons-in-space?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-09-18T05:34:00.000Z",
+    "category": "policy",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2eb0f481865a5b1e",
+    "title": "AI risks make some insurers wary of corporate liability",
+    "excerpt": "If AI does end up killing us all, or just compounds our daily havoc, the insurance industry would rather not pay the bill. \"AI-related harms are already emerging, including incorrect or misleading outputs, deepfakes, privacy violations, intellectual property disputes, fraud, product defects, and…",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/18/ai-risks-make-some-insurers-wary-of-corporate-liability/5297347",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-18T05:33:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://image.theregister.com/?imageId=5297353&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7721d0e03875732a",
+    "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
+    "excerpt": "Free test ether lets fake builders outbid rivals and withhold transaction payloads, while client teams get half the usual review time before Sepolia.",
+    "url": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-09-18T05:23:29.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f333835d904457c5",
+    "title": "AWS confesses its console causes cloudy confusion for new users",
+    "excerpt": "Amazon Web Services does a lot of things right, but the cloud giant’s user console is arguably not one of them. Which may be why it’s just created an easier alternative for new users. In a Wednesday post, Senior Solutions Architect Micah Walter said that when AWS launched its earliest storage,…",
+    "url": "https://www.theregister.com/off-prem/2026/09/18/aws-confesses-its-console-causes-cloudy-confusion-for-new-users/5297365",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-18T04:52:40.000Z",
+    "category": "hardware",
+    "imageUrl": "https://image.theregister.com/?imageId=5297370&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "fc3edbea53463806",
+    "title": "Ether and XRP ETFs post outflows as bitcoin moves above $77,000",
+    "excerpt": "Ether funds shed money for a third straight session even as the token rose, while every major gained and zcash extended its run.",
+    "url": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-09-18T04:49:17.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/18c064c6413091acaad8ec6ad59dfc258ff93092-1340x748.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f435854cfdeec955",
+    "title": "Jemalloc 5.4.0",
+    "excerpt": "Article URL: https://github.com/jemalloc/jemalloc/releases/tag/5.4.0 Comments URL: https://news.ycombinator.com/item?id=49750152 Points: 18 # Comments: 4",
+    "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "gkfasdfasdf",
+    "publishedAt": "2026-09-18T04:20:24.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "1d4f76206f8b1ae7",
+    "title": "The Scourge of x86 Emulation",
+    "excerpt": "Article URL: https://fex-emu.com/Scourge-of-emulation/ Comments URL: https://news.ycombinator.com/item?id=49750094 Points: 22 # Comments: 0",
+    "url": "https://fex-emu.com/Scourge-of-emulation/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "dagmx",
+    "publishedAt": "2026-09-18T04:09:48.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d01a4f110c7756ad",
+    "title": "Help Linux Hardware Testing & Reviews Continue While Enjoying Phoronix Without Ads",
+    "excerpt": "If you missed out on the Phoronix Premium special back during the 22nd birthday of Phoronix.com in June, there is another promotion now active for helping to support the site and allow for continued daily original content and relentless Linux performance benchmarking and other open-sourced focused…",
+    "url": "https://www.phoronix.com/news/Phoronix-Oktoberfest-2026",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-18T04:00:00.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "684c89eaddcfdbb9",
+    "title": "Waymo in Singapore",
+    "excerpt": "Article URL: https://waymo.com/waymo-in-singapore/ Comments URL: https://news.ycombinator.com/item?id=49749981 Points: 73 # Comments: 43",
+    "url": "https://waymo.com/waymo-in-singapore/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "ramanan",
+    "publishedAt": "2026-09-18T03:49:24.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "5fd33c42f95aa488",
+    "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+    "excerpt": "Article URL: https://linguisticdiscovery.com/posts/pre-greek/ Comments URL: https://news.ycombinator.com/item?id=49749771 Points: 34 # Comments: 8",
+    "url": "https://linguisticdiscovery.com/posts/pre-greek/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "axiologist",
+    "publishedAt": "2026-09-18T03:04:38.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d278e602036136c4",
+    "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000",
+    "excerpt": "The yen declined and BTC rose after the BOJ hiked rates to the highest level in 31 years.",
+    "url": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Omkar Godbole",
+    "publishedAt": "2026-09-18T03:03:38.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/1d87eabe2ada7e5c5fb5014805876879c803feba-3388x2472.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8115cfa81e82073f",
+    "title": "Code Scans",
+    "excerpt": "Article URL: https://devin.ai/blog/introducing-code-scans Comments URL: https://news.ycombinator.com/item?id=49749744 Points: 14 # Comments: 4",
+    "url": "https://devin.ai/blog/introducing-code-scans",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "geoffbp",
+    "publishedAt": "2026-09-18T03:00:40.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b3615add02cfa21d",
+    "title": "Hacking OpenAI",
+    "excerpt": "Article URL: https://www.hacktron.ai/blog/hacking-openai Comments URL: https://news.ycombinator.com/item?id=49749656 Points: 210 # Comments: 61",
+    "url": "https://www.hacktron.ai/blog/hacking-openai",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "Handy-Man",
+    "publishedAt": "2026-09-18T02:47:24.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2de6b35977bee979",
+    "title": "USA’s Venezuela takeover comes with bonus exposure to Chinese AI surveillance tech",
+    "excerpt": "Think tank the Australian Strategic Policy Institute (ASPI) has warned that Venezuela is poised to adopt Chinese AI systems to enhance surveillance systems that already rely on Middle Kingdom tech, and called for US Secretary of State Marco Rubio to do something about it. ASPI outlined the…",
+    "url": "https://www.theregister.com/security/2026/09/18/usas-venezuela-takeover-comes-with-bonus-exposure-to-chinese-ai-surveillance-tech/5297357",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-18T02:28:30.000Z",
+    "category": "security",
+    "imageUrl": "https://image.theregister.com/?imageId=5297362&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8834e7c0e216deda",
+    "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
+    "excerpt": "Article URL: https://byteshape.com/blogs/Qwen3.8-27B/ Comments URL: https://news.ycombinator.com/item?id=49749393 Points: 36 # Comments: 3",
+    "url": "https://byteshape.com/blogs/Qwen3.8-27B/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "syntaxing",
+    "publishedAt": "2026-09-18T02:04:19.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "bd935a3bf4eefac9",
+    "title": "Waymo says Singapore will be its next international robotaxi city",
+    "excerpt": "Waymo Ojai fully autonomous ride-hailing vehicle travels along a city street, San Francisco, California, August 20, 2026. (Photo by Smith Collection/Gado/Getty Images) | Gado via Getty Images Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues…",
+    "url": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "Andrew J. Hawkins",
+    "publishedAt": "2026-09-18T02:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2291354590.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4bf0eea2e2b42619",
+    "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
+    "excerpt": "Article URL: https://askamonk.online Comments URL: https://news.ycombinator.com/item?id=49749171 Points: 25 # Comments: 13",
+    "url": "https://askamonk.online",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "13613288957",
+    "publishedAt": "2026-09-18T01:34:08.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "868883bd1df030cc",
+    "title": "Telstra outage: The night a network decided the year was 2006",
+    "excerpt": "Article URL: https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006 Comments URL: https://news.ycombinator.com/item?id=49748957 Points: 39 # Comments: 13",
+    "url": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "TMWNN",
+    "publishedAt": "2026-09-18T01:05:03.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d97fc44957c2f793",
+    "title": "Ex-Google DeepMind Researcher Also Warns AI Could 'Kill All Humans'. But Meta's Zuckerberg Believes Safety is Up to Each AI Company",
+    "excerpt": "Reuters reports that a former Google DeepMind employee \"became the latest AI researcher to warn that the technology could 'kill all humans', saying time could be running out to avoid the outcome: Public alarm about the potential danger posed by AI is growing, after Anthropic researcher Jacob Coxon…",
+    "url": "https://slashdot.org/story/26/09/16/2151240/ex-google-deepmind-researcher-also-warns-ai-could-kill-all-humans-but-metas-zuckerberg-believes-safety-is-up-to-each-ai-company?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-09-18T01:04:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "00a3e7e3ddc0ad80",
     "title": "OpenCL 3.1.2 Released With cl_khr_command_buffer Promoted",
     "excerpt": "The Khronos Group today released the newest revision of the OpenCL specification with a handful of changes...",
@@ -78,6 +351,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "13ef434401cf612b",
+    "title": "Qwen 3.8 Omni Flash",
+    "excerpt": "Article URL: https://qwen.ai/blog?id=qwen3.8-omni-flash Comments URL: https://news.ycombinator.com/item?id=49747925 Points: 139 # Comments: 35",
+    "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "jjcm",
+    "publishedAt": "2026-09-17T23:05:48.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "1709f0bc62befda4",
     "title": "eGPUs do work, but they come with some notable limitations",
     "excerpt": "You're probably better off buying a basic gaming PC than messing with an eGPU.",
@@ -143,6 +429,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "0a8fafcafdd34da8",
+    "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
+    "excerpt": "Anti-vaccine Health Secretary Robert F. Kennedy Jr. announced the names of eight new members of a 16-person federal task force intended to make scientifically independent, evidence-based recommendations on an array of preventive medicine services for Americans—from depression screening to statin…",
+    "url": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Beth Mole",
+    "publishedAt": "2026-09-17T22:31:28.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "74328b9cdbf83d46",
     "title": "Anthropic says Claude 'leads' 26 percent of its AI R&D work",
     "excerpt": "The company shared the stat alongside three measurements that help communicate the pace of AI development.",
@@ -182,6 +481,32 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "5f759f1230a0cd07",
+    "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+    "excerpt": "As European militaries adapt to the use of AI and drones in modern warfare, a NATO-backed startup is helping to deploy AI-driven target detection and selection that can run on small drones for surveillance and attack missions. The company Scaleout Systems was originally founded by researchers from…",
+    "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Jeremy Hsu",
+    "publishedAt": "2026-09-17T22:12:58.000Z",
+    "category": "ai",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Scaleout-Systems-ALMA-demo-1152x648.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e972903bf96dd67c",
+    "title": "How to Write with an LLM",
+    "excerpt": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070 Points: 93 # Comments: 66",
+    "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "joeriddles",
+    "publishedAt": "2026-09-17T21:48:38.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "c96bcf5f70cfb237",
     "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
     "excerpt": "The SEC is giving tokenized stocks a regulated U.S. pathway, while keeping trading volumes, access and issuer rights tightly controlled.",
@@ -208,22 +533,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "e062ea2071079849",
-    "title": "Sex, AI, and the Apocalypse",
-    "excerpt": "Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/ Comments URL: https://news.ycombinator.com/item?id=49746654 Points: 143 # Comments: 120",
-    "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "Anon84",
-    "publishedAt": "2026-09-17T21:15:52.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "8d664c9fcaf279cd",
     "title": "How Uber Protects Against Retry Storms",
-    "excerpt": "Article URL: https://www.uber.com/us/en/blog/protecting-against-retry-storms/ Comments URL: https://news.ycombinator.com/item?id=49746628 Points: 28 # Comments: 17",
+    "excerpt": "Article URL: https://www.uber.com/us/en/blog/protecting-against-retry-storms/ Comments URL: https://news.ycombinator.com/item?id=49746628 Points: 80 # Comments: 33",
     "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -236,7 +548,7 @@
   {
     "id": "b99c151f8719568d",
     "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-    "excerpt": "Article URL: https://prismml.com/news/bonsai-2-27b Comments URL: https://news.ycombinator.com/item?id=49746618 Points: 180 # Comments: 57",
+    "excerpt": "Article URL: https://prismml.com/news/bonsai-2-27b Comments URL: https://news.ycombinator.com/item?id=49746618 Points: 355 # Comments: 113",
     "url": "https://prismml.com/news/bonsai-2-27b",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -262,7 +574,7 @@
   {
     "id": "07382deea4e43322",
     "title": "The most important product decision is what you don't build",
-    "excerpt": "Article URL: https://liamnugent.me/posts/what-you-dont-build/ Comments URL: https://news.ycombinator.com/item?id=49746407 Points: 33 # Comments: 14",
+    "excerpt": "Article URL: https://liamnugent.me/posts/what-you-dont-build/ Comments URL: https://news.ycombinator.com/item?id=49746407 Points: 81 # Comments: 25",
     "url": "https://liamnugent.me/posts/what-you-dont-build/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -275,7 +587,7 @@
   {
     "id": "ec435291aa72a001",
     "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
-    "excerpt": "Article URL: https://snapdrop.me Comments URL: https://news.ycombinator.com/item?id=49746346 Points: 15 # Comments: 14",
+    "excerpt": "Article URL: https://snapdrop.me Comments URL: https://news.ycombinator.com/item?id=49746346 Points: 60 # Comments: 30",
     "url": "https://snapdrop.me",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -288,7 +600,7 @@
   {
     "id": "620c54083067f312",
     "title": "Flet 1.0 – Build cross-platform apps in Python",
-    "excerpt": "Article URL: https://flet.dev/ Comments URL: https://news.ycombinator.com/item?id=49746290 Points: 47 # Comments: 19",
+    "excerpt": "Article URL: https://flet.dev/ Comments URL: https://news.ycombinator.com/item?id=49746290 Points: 89 # Comments: 41",
     "url": "https://flet.dev/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -301,7 +613,7 @@
   {
     "id": "2529c4416d7268f8",
     "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-    "excerpt": "Article URL: https://bend-lang.com/ Comments URL: https://news.ycombinator.com/item?id=49746163 Points: 248 # Comments: 132",
+    "excerpt": "Article URL: https://bend-lang.com/ Comments URL: https://news.ycombinator.com/item?id=49746163 Points: 396 # Comments: 194",
     "url": "https://bend-lang.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -338,16 +650,29 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "f73e2b1218adf640",
-    "title": "More than 100k people in Japan are now aged 100 or older",
-    "excerpt": "Article URL: https://www.bbc.com/news/articles/cmzezj5e18xxo Comments URL: https://news.ycombinator.com/item?id=49746117 Points: 82 # Comments: 59",
-    "url": "https://www.bbc.com/news/articles/cmzezj5e18xxo",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "karakoram",
-    "publishedAt": "2026-09-17T20:33:00.000Z",
-    "category": "startups",
-    "imageUrl": null,
+    "id": "c88ff0990aca0223",
+    "title": "Iran Strikes On Amazon Data Centers Caused Permanent Loss of Customer Data",
+    "excerpt": "Ars Technica reports: Half a year after Iranian drone strikes knocked out multiple Amazon data centers, the US tech company has acknowledged the permanent loss of some customer data that was hosted in Bahrain and the United Arab Emirates. Amazon Web Services was \"unable to restore access to the…",
+    "url": "https://slashdot.org/story/26/09/17/0619253/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-09-17T20:34:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4987e3a502254109",
+    "title": "Google announces new experimental \"CC\" AI agent for families",
+    "excerpt": "Google's AI models may not be in the lead by most measures right now, but the company does have one key advantage: your data. If you're deep in the Google ecosystem, Gemini models have a lot of context on you already. Google's latest Google Labs experiment, known as CC , aims to expand that kind of…",
+    "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Ryan Whitwam",
+    "publishedAt": "2026-09-17T20:24:34.000Z",
+    "category": "ai",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Google-CC-1152x648.png",
     "readTimeMinutes": 1
   },
   {
@@ -366,7 +691,7 @@
   {
     "id": "fa958b936d28768b",
     "title": "Astra for Law",
-    "excerpt": "Article URL: https://openai.com/index/astra-for-law/ Comments URL: https://news.ycombinator.com/item?id=49745940 Points: 275 # Comments: 307",
+    "excerpt": "Article URL: https://openai.com/index/astra-for-law/ Comments URL: https://news.ycombinator.com/item?id=49745940 Points: 426 # Comments: 456",
     "url": "https://openai.com/index/astra-for-law/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -374,6 +699,19 @@
     "publishedAt": "2026-09-17T20:17:48.000Z",
     "category": "ai",
     "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b56bbdc0e4d98312",
+    "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+    "excerpt": "For years, Microsoft and OpenAI have fought to keep certain information out of the public eye in their fight with news organizations that have accused the AI firms of teaming up to violate copyright laws by stealing tons of news content to train AI. However, now the details that should never have…",
+    "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Ashley Belanger",
+    "publishedAt": "2026-09-17T20:10:41.000Z",
+    "category": "ai",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-907415308-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -387,19 +725,6 @@
     "publishedAt": "2026-09-17T20:09:45.000Z",
     "category": "science",
     "imageUrl": "https://image.theregister.com/?imageId=104971&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b03ff3a961d9ff92",
-    "title": "Plugin4Shell – Zero Click RCE Vulnerability found in top four coding agents",
-    "excerpt": "Article URL: https://www.air.security/blog-posts/plugin4shell Comments URL: https://news.ycombinator.com/item?id=49745809 Points: 4 # Comments: 2",
-    "url": "https://www.air.security/blog-posts/plugin4shell",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "fishthethis",
-    "publishedAt": "2026-09-17T20:05:31.000Z",
-    "category": "security",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -468,6 +793,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "6c1f687ecb598a13",
+    "title": "Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites",
+    "excerpt": "US Rep. Darrell Issa (R-Calif.) has proposed a law that would require Internet service providers and other network operators to block foreign piracy websites. Issa's bill would help copyright holders obtain judicial blocking orders to be served to ISPs, domain name resolution services, and virtual…",
+    "url": "https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Jon Brodkin",
+    "publishedAt": "2026-09-17T19:07:28.000Z",
+    "category": "policy",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/fiber-illustration-1152x648-1738189217.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "bc84f7c344975624",
     "title": "Candy Crush developers are planning a strike for next week",
     "excerpt": "King's staff want to get negotiations back on track after years of bargaining.",
@@ -520,6 +858,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "1ff6d7f6dcfb6f21",
+    "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+    "excerpt": "In response to a new European Union law, AI platforms are implementing new schemes for watermarking the content they generate. Anthropic recently disclosed its future Claude models will use SynthID-Text , an approach Google created and released as open source. It uses a secret key that subtly…",
+    "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Dan Goodin",
+    "publishedAt": "2026-09-17T18:33:13.000Z",
+    "category": "ai",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "6f7c276318cb8e14",
     "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
     "excerpt": "The company suspended service in the city in April after one of its robotaxis got swept away.",
@@ -556,6 +907,32 @@
     "publishedAt": "2026-09-17T18:00:17.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=1681600&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "93201fc726d915da",
+    "title": "IV drips used for \"detoxification\" actually filled with toxins; dozens poisoned",
+    "excerpt": "Over 30 people across four states have been poisoned by bacterial toxins after getting intravenous (IV) drips at wellness clinics, according to the Centers for Disease Control and Prevention and the Food and Drug Administration . The people had received IV drips containing glutathione, which is…",
+    "url": "https://arstechnica.com/health/2026/09/sketchy-iv-drips-at-wellness-clinics-have-poisoned-dozens-cdc-and-fda-warn/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Beth Mole",
+    "publishedAt": "2026-09-17T17:43:50.000Z",
+    "category": "Science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1155940802-1024x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ab2d564f9b0089b7",
+    "title": "2026 Hyundai Ioniq 5: Here's what we still like, here's what annoys us",
+    "excerpt": "When we first drove the Hyundai Ioniq 5 at the end of 2021 , it didn’t take much exposure to the angular electric vehicle to find much about it appealing. Back then, an 800 V architecture had only really been seen in expensive high-end EVs from Porsche, but here was a mainstream model with that…",
+    "url": "https://arstechnica.com/cars/2026/09/2026-hyundai-ioniq-5-heres-what-we-still-like-heres-what-annoys-us/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Jonathan M. Gitlin",
+    "publishedAt": "2026-09-17T17:30:30.000Z",
+    "category": "ai",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026-Hyundai-Ioniq-5-1-of-10-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -611,19 +988,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "410e9ec9a654c81b",
-    "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
-    "excerpt": "Article URL: https://zscc.ai/careers?job_id=109821 Comments URL: https://news.ycombinator.com/item?id=49743567 Points: 0 # Comments: 0",
-    "url": "https://zscc.ai/careers?job_id=109821",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "el_al",
-    "publishedAt": "2026-09-17T17:00:59.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "9996acca906932cf",
     "title": "Lofi Girl returns with a new house music station and vinyl compilation",
     "excerpt": "The old \"where'd lofi girl go\" trick again, I see.",
@@ -639,7 +1003,7 @@
   {
     "id": "08dd30dd2c8c5ed5",
     "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
-    "excerpt": "Article URL: https://arxiv.org/abs/2609.18842 Comments URL: https://news.ycombinator.com/item?id=49743483 Points: 104 # Comments: 29",
+    "excerpt": "Article URL: https://arxiv.org/abs/2609.18842 Comments URL: https://news.ycombinator.com/item?id=49743483 Points: 133 # Comments: 38",
     "url": "https://arxiv.org/abs/2609.18842",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -704,7 +1068,7 @@
   {
     "id": "70e117d494aa90cf",
     "title": "Hister: A private search engine for the pages you visit and the files you keep",
-    "excerpt": "Article URL: https://github.com/asciimoo/hister Comments URL: https://news.ycombinator.com/item?id=49743097 Points: 436 # Comments: 131",
+    "excerpt": "Article URL: https://github.com/asciimoo/hister Comments URL: https://news.ycombinator.com/item?id=49743097 Points: 547 # Comments: 146",
     "url": "https://github.com/asciimoo/hister",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -715,16 +1079,16 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "98a698085fb1fa80",
-    "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
-    "excerpt": "Hey HN, we're Nars & Nishant, founders of Skillsync ( https://skillsync.com ) Skillsync lets you move your AI chats across every coding agent. Most of our work exists as conversations, which are currently scattered across our agents. Though stored locally, these conversations use different formats.…",
-    "url": "https://news.ycombinator.com/item?id=49743049",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "cat-whisperer",
-    "publishedAt": "2026-09-17T16:22:15.000Z",
-    "category": "startups",
-    "imageUrl": null,
+    "id": "d361d8ddd979a396",
+    "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+    "excerpt": "For a while now , the issue of \"AI alignment\" (i.e., how well an AI model's actions line up with the intentions of its creator and/or user) has been a core concern and topic of discussion among AI safety researchers. Since OpenAI's disclosure of the infamous Hugging Face hacking incident in July,…",
+    "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Kyle Orland",
+    "publishedAt": "2026-09-17T16:18:34.000Z",
+    "category": "ai",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-875641-001-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -806,29 +1170,16 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "6942d72a720f30a4",
-    "title": "CrowdSec Source Code Leak",
-    "excerpt": "Article URL: https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure Comments URL: https://news.ycombinator.com/item?id=49742355 Points: 127 # Comments: 35",
-    "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "eccgecko",
-    "publishedAt": "2026-09-17T15:34:01.000Z",
+    "id": "3b5c908347c68fbd",
+    "title": "EPA immediately sued over plans to repeal climate rules for power plants",
+    "excerpt": "Days after finalizing a rule that would eliminate climate rules for power plants , the Environmental Protection Agency (EPA) was sued by groups who say the EPA’s repeal was shockingly short-sighted and risked leaving the country’s single largest source of industrial climate pollution unchecked. On…",
+    "url": "https://arstechnica.com/science/2026/09/thousands-will-die-if-epa-repeals-power-plant-climate-rules-lawsuit-says/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Ashley Belanger",
+    "publishedAt": "2026-09-17T15:38:04.000Z",
     "category": "policy",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "754330a2ccb86de4",
-    "title": "Rate limits on GitLab.com are changing",
-    "excerpt": "Article URL: https://about.gitlab.com/blog/rate-limit-change-2026/ Comments URL: https://news.ycombinator.com/item?id=49742353 Points: 147 # Comments: 105",
-    "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "darkwater",
-    "publishedAt": "2026-09-17T15:33:54.000Z",
-    "category": "software",
-    "imageUrl": null,
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2261166461-1024x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -988,6 +1339,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "3c03c647fecd2da9",
+    "title": "After being sidelined, Boeing's Starliner to get starring role in NASA's spaceflight plans",
+    "excerpt": "As it contemplates a future without access to SpaceX's Crew Dragon spacecraft, NASA will make some key moves to ensure that Boeing's Starliner spacecraft, which has a decidedly checkered record in spaceflight to date, is safer and can continue flying after its Atlas V rocket retires. Multiple…",
+    "url": "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Eric Berger",
+    "publishedAt": "2026-09-17T14:37:37.000Z",
+    "category": "science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/starliner-rise-from-your-grave-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "dfff0a64da357355",
     "title": "Grassroots coalition asks politicians to choose voters over Big AI's $140M machine",
     "excerpt": "A coalition of advocacy groups is trying to counter the AI industry's influence on US politics by asking congressional candidates and elected officials to reject support from a major pro-AI political group. The Stop Bleeding the Future campaign brings together more than 50 national and grassroots…",
@@ -1037,6 +1401,19 @@
     "publishedAt": "2026-09-17T14:00:00.000Z",
     "category": "policy",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-17-at-9.24.23-AM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "5a7d35a2dc8021c0",
+    "title": "A dolphin named Bubbles makes other fish vomit, then eats it",
+    "excerpt": "Staff at the Lady Elliott Island Eco Resort off the southern Great Barrier Reef in Australia are well acquainted with the shenanigans of a male bottlenose dolphin they've nicknamed Bubbles. Bubbles has been around since at least 2017 and regularly harasses local bigeye trevally , chasing a fish…",
+    "url": "https://arstechnica.com/science/2026/09/a-dolphin-named-bubbles-makes-other-fish-vomit-then-eats-it/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Jennifer Ouellette",
+    "publishedAt": "2026-09-17T13:57:14.000Z",
+    "category": "science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/dolphin1-1152x648-1789497589.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1092,19 +1469,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "45ac5aa2ac7f0687",
-    "title": "The American Religion of Self-Storage Facilities",
-    "excerpt": "https://archive.ph/F77tj Comments URL: https://news.ycombinator.com/item?id=49740260 Points: 184 # Comments: 322",
-    "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "pseudolus",
-    "publishedAt": "2026-09-17T13:12:28.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "ff45542f16b506d0",
     "title": "Intel Compute Stack Enables LEO For Nova Lake, Introduces Intel Portable ISA \"PISA\"",
     "excerpt": "Released today was the Intel Compute Runtime 26.35.39758.10 update for Windows and Linux systems. With this updated OpenCL and Level Zero GPU compute driver stack comes some exciting updates for this monthly feature update...",
@@ -1115,32 +1479,6 @@
     "publishedAt": "2026-09-17T13:05:07.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4e40bb256af08a13",
-    "title": "Show HN: Share your AI Setup, Learn from others",
-    "excerpt": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out the window? How did they manage longer-running tasks? So I built this with the hope we could have a…",
-    "url": "https://mysetup.ai/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "steveybrown",
-    "publishedAt": "2026-09-17T13:01:44.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "2c8cb78011bc2d19",
-    "title": "Bose’s next open earbuds have more bass, more volume, and more battery life",
-    "excerpt": "Bose announced a new version of its Ultra Open Earbuds that helped kick off the industry trend of clip-on wireless earbuds nearly two-and-a-half years ago. The new Ultra Open Earbuds (2nd Gen) feature a subtle redesign with improved performance in both sound quality and battery life. They're also…",
-    "url": "https://www.theverge.com/tech/996341/bose-ultra-open-earbuds-second-gen-wireless-sport",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Andrew Liszewski",
-    "publishedAt": "2026-09-17T13:00:00.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/bose1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
     "readTimeMinutes": 1
   },
   {
@@ -1495,6 +1833,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "c609c0b593a4ce67",
+    "title": "Hackers reveal how Flock cameras really track cars and people",
+    "excerpt": "Hackers ripped down a Flock camera above a roadway, made a near-complete copy of the data stored inside it, and shared the files with 404 Media and WIRED, revealing in new detail how exactly Flock Safety’s cameras track the movements of both vehicles and people . The hackers say they are also…",
+    "url": "https://arstechnica.com/security/2026/09/hackers-reveal-how-flock-cameras-really-track-cars-and-people/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Dhruv Mehrotra, Joseph Cox, wired.com",
+    "publishedAt": "2026-09-17T09:43:46.000Z",
+    "category": "security",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "af2251bee1875a92",
     "title": "Government Digital Service move 'grinds gears' in UK's e-government",
     "excerpt": "The UK government’s decision to move the Government Digital Service (GDS) — responsible for creating digital services across the public sector — to its third departmental home in three years risks hemorrhaging talent and moving it further away from the center of power, MPs heard this week. The GDS…",
@@ -1505,19 +1856,6 @@
     "publishedAt": "2026-09-17T09:15:00.000Z",
     "category": "crypto",
     "imageUrl": "https://image.theregister.com/?imageId=241212&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f69d3f0ea2f256a5",
-    "title": "Why I didn’t sign the Fields medallists’ letter",
-    "excerpt": "Article URL: https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/ Comments URL: https://news.ycombinator.com/item?id=49738091 Points: 197 # Comments: 279",
-    "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "simianwords",
-    "publishedAt": "2026-09-17T08:51:51.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1544,19 +1882,6 @@
     "publishedAt": "2026-09-17T08:30:00.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=263174&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3efbd9eb24461e51",
-    "title": "How GLM built its own inference infrastructure",
-    "excerpt": "Article URL: https://z.ai/blog/glm-built-its-inference-infrastructure Comments URL: https://news.ycombinator.com/item?id=49737922 Points: 373 # Comments: 261",
-    "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "whiteros_e",
-    "publishedAt": "2026-09-17T08:27:09.000Z",
-    "category": "ai",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1648,19 +1973,6 @@
     "publishedAt": "2026-09-17T04:27:00.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=258433&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c9e8bcb3d0d54196",
-    "title": "Goldman pivots, now forecasts Fed rate hike in October",
-    "excerpt": "The Fed is likely to raise rates by 25 basis points in October, Goldman said, drawing attention to Fed's own hawkish near term rate projections.",
-    "url": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Omkar Godbole",
-    "publishedAt": "2026-09-17T04:17:55.000Z",
-    "category": "startups",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/8308493c2140c9c77679daf94cac837a721ec241-1440x1080.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -1885,32 +2197,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "26cb979a2e80d9d4",
-    "title": "Group behind Revolut data breach demands $3 million in Monero, threaten to sell customer data",
-    "excerpt": "The group gave Revolut 24 hours to pay and said it targeted customers with significant crypto holdings. Revolut said it has not not received any direct contact from the individuals.",
-    "url": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Helene Braun",
-    "publishedAt": "2026-09-16T19:07:34.000Z",
-    "category": "security",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/b08655496c72c8658f860327377b4fc4bb202061-1500x903.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "02b95584eb2abf65",
-    "title": "Scientists develop new method for deciphering ancient scrolls",
-    "excerpt": "The Vesuvius Challenge is an ongoing project that combines \"digital unwrapping\" with crowdsourced machine learning to decipher the so-called Herculaneum scrolls, badly charred 2,000-year-old papyri too fragile to be physically unrolled. The effort just got an additional boost. A team of researchers…",
-    "url": "https://arstechnica.com/science/2026/09/why-researchers-made-their-own-model-herculaneum-scrolls/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Jennifer Ouellette",
-    "publishedAt": "2026-09-16T18:43:23.000Z",
-    "category": "science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/scrollTOP-1152x648-1789248616.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "4dadf4000ce7d25c",
     "title": "OpenAI's new sponsored agents are happy to chat about selling you things",
     "excerpt": "There's a new kind of agent coming to ChatGPT ads, and this one wants your money. OpenAI has begun testing Sponsored Agents, advertiser-backed bots that try to sell you things as part of a custom conversation. OpenAI said in a Wednesday announcement that Sponsored Agents were now being tested with…",
@@ -1937,19 +2223,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "73f185e663aeeff9",
-    "title": "The Specialized Diverge 4 Pro makes rough gravel your playground",
-    "excerpt": "When I make my yearly trip to Denver, I always bring my road bike. It's my annual chance to suffer on the kinds of gradients unavailable in the glacier-scoured lands of northeastern Illinois. In advance of this year's trip, Specialized hooked me up with its new gravel bike, the Diverge 4 Pro , so I…",
-    "url": "https://arstechnica.com/reviews/2026/09/the-specialized-diverge-pro-4-makes-rough-gravel-your-playground/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Eric Bangeman",
-    "publishedAt": "2026-09-16T18:11:53.000Z",
-    "category": "Science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/divergepro-2-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "181b6d29334ff5e9",
     "title": "Google Pixel phones pwned in zero-click attacks",
     "excerpt": "Both Google and Uncle Sam warned that attackers have exploited a zero-day improper authorization bug in Pixel phones' cellular modems that can bypass permission checks and escalate privileges with no user interaction required. The hole has since been closed, provided that you update. Google…",
@@ -1960,19 +2233,6 @@
     "publishedAt": "2026-09-16T17:56:31.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=257306&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ff83671ecabe9ebd",
-    "title": "Fed raises rates by 25 basis points in first hike since July 2023",
-    "excerpt": "The widely expected move places the U.S. Federal Reserve's benchmark fed funds rate range at 3.75%-4.0%.",
-    "url": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "James Van Straten",
-    "publishedAt": "2026-09-16T17:54:55.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/91249261c4cf7e9e62ee5838d44d8d8de8253080-1920x1000.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -1989,19 +2249,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "8cdec5a032bf980a",
-    "title": "Celsius sues BitMEX for $495 million over 2020 crash liquidations",
-    "excerpt": "The estate is chasing 6,360 BTC lost in the Covid crash — a leveraged long position that sits awkwardly with the lender's delta-neutral marketing.",
-    "url": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Oliver Knight",
-    "publishedAt": "2026-09-16T17:34:04.000Z",
-    "category": "ai",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/60aebd54ba86be12588505ff7b7b03b2e32c2fa1-1200x807.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "2fe6bf3ef375dada",
     "title": "Anthropic Commits to Independent AI Evaluators, Wants Slower Development. Nvidia's CEO Wants It 'As Fast as You Can'",
     "excerpt": "\"Anthropic's CEO took the stage at a conference in San Francisco on Tuesday to reiterate his call for a slowdown of AI development,\" reports the Guardian, \" while Nvidia's CEO argued against slowing its development. \"Run as fast as you can.\" Amodei is calling for three courses of action: embedding…",
@@ -2015,40 +2262,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "a9b306196422f171",
-    "title": "It’s OK to tell ICE their actions will haunt them, judge rules in speech fight",
-    "excerpt": "It’s not illegal to send an email telling Immigration and Customs Enforcement (ICE) officials that their actions will haunt them, a federal judge ruled Tuesday, granting a preliminary injunction that blocks ICE from threatening to prosecute a critic for protected speech. Back in January, David…",
-    "url": "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Ashley Belanger",
-    "publishedAt": "2026-09-16T17:06:06.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/David-Streever-via-FIRE.jpeg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f4c1d13b012bffb3",
-    "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
-    "excerpt": "Half a year after Iranian drone strikes knocked out multiple Amazon data centers, the US tech company has acknowledged the permanent loss of some customer data that was hosted in Bahrain and the United Arab Emirates. Amazon Web Services was “unable to restore access to the resources and data”…",
-    "url": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Jeremy Hsu",
-    "publishedAt": "2026-09-16T16:40:11.000Z",
-    "category": "ai",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AWS-data-center-in-Abu-Dhabi-1152x648.jpg",
-    "readTimeMinutes": 1,
-    "alsoCoveredBy": [
-      {
-        "source": "Slashdot",
-        "sourceHomepage": "https://slashdot.org",
-        "url": "https://slashdot.org/story/26/09/17/0619253/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-        "publishedAt": "2026-09-17T20:34:00.000Z"
-      }
-    ]
-  },
-  {
     "id": "ad43941d28b4f0cc",
     "title": "GNOME 51 Released With Improved Frame Scheduling, Many App Improvements",
     "excerpt": "Right on schedule and in time for appearing in the likes of Ubuntu 26.10 and Fedora Workstation 45, the GNOME 51 desktop is officially released...",
@@ -2059,19 +2272,6 @@
     "publishedAt": "2026-09-16T16:25:21.000Z",
     "category": "hardware",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b1bd2e0fcc12b963",
-    "title": "U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss",
-    "excerpt": "The Digital Asset Tax Certainty Act would ease complicated tax burdens for everyday use of cryptocurrencies, though Trump's industry ties spurred some pushback.",
-    "url": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Jesse Hamilton",
-    "publishedAt": "2026-09-16T16:21:44.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/00c315459375cb1046e10cb7540bafa9dfe690b4-3761x2456.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2111,58 +2311,6 @@
     "publishedAt": "2026-09-16T15:27:46.000Z",
     "category": "software",
     "imageUrl": "https://image.theregister.com/?imageId=5296885&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "2a273fd2cde1e12c",
-    "title": "What happens when neutrinos swap identities inside a supernova?",
-    "excerpt": "Our basic understanding of core-collapse supernovae hasn't changed in decades. Large stars burn through all the fuel at their cores and start creating heavier elements in reactions that consume energy. The lack of energy from these reactions allows gravity to pull the interior of the star in on…",
-    "url": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "John Timmer",
-    "publishedAt": "2026-09-16T15:17:43.000Z",
-    "category": "science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-1152x600.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "537ae4653bff29cf",
-    "title": "macOS 27 Golden Gate: The Ars Technica review",
-    "excerpt": "Apple Intelligence is back, baby! That's right: Two years after its initial launch, Apple is giving its generative AI features their first significant upgrade, along with a new version of Siri that the company has been strongly insinuating would be a part of each of the last two macOS releases,…",
-    "url": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Andrew Cunningham",
-    "publishedAt": "2026-09-16T14:50:06.000Z",
-    "category": "software",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/golden-gate-wallpaper-1152x648-1789126743.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d009ddf58728a39b",
-    "title": "The world’s best racing driver is about to race 100 karts at once",
-    "excerpt": "Later today, Max Verstappen will strap on his helmet and take to the track at the Silverstone circuit in England for a rather unusual race. The four-time Formula 1 world champion is recognized as the leading talent of his generation, but unlike some of the legends that have preceded him,…",
-    "url": "https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Jonathan M. Gitlin",
-    "publishedAt": "2026-09-16T14:19:01.000Z",
-    "category": "software",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/SI202608250383-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "dccc07685f3e7d1d",
-    "title": "Lawmakers target Flock cameras with a threat to highway funding",
-    "excerpt": "A bipartisan pair of US lawmakers tell WIRED they plan to introduce legislation today that would strip federal funding from states that fail to restrict the use of Flock cameras and other automated license plate readers. The devices, which help police track the location of vehicles tied to crimes,…",
-    "url": "https://arstechnica.com/tech-policy/2026/09/lawmakers-target-flock-cameras-with-a-threat-to-highway-funding/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Paresh Dave, wired.com",
-    "publishedAt": "2026-09-16T14:03:39.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/noflock-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2439,19 +2587,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "123e0064883f0719",
-    "title": "How chimps teach their kids tool tricks",
-    "excerpt": "Chimpanzees are known to use rudimentary tools when foraging for food. According to a new paper in the journal Frontiers in Psychology, this learned behavior is passed down from adults to offspring through social learning. Specifically, adult chimps deliberately model the behavior, then turn their…",
-    "url": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Jennifer Ouellette",
-    "publishedAt": "2026-09-16T04:00:39.000Z",
-    "category": "science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chimps1-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "e1315188157ccf34",
     "title": "TypeSafe AI debuts model for machines that plays Doom",
     "excerpt": "TypeSafe AI, a startup bestowed with $40 million in funding, on Tuesday declared itself a maker of frontier models with the release of Jev, a new type of AI model intended for interaction with machines rather than people. Instead of returning natural language in response to a text-based prompt,…",
@@ -2488,19 +2623,6 @@
     "publishedAt": "2026-09-15T23:34:00.000Z",
     "category": "startups",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "aabad1208d51d45a",
-    "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
-    "excerpt": "NASA's Nancy Grace Roman Space Telescope is gliding toward its distant observation post on a pinpoint trajectory so precise that engineers estimate the spacecraft's fuel load will last twice as long as their initial expectations, the space agency confirmed Monday. The $4.3 billion observatory's…",
-    "url": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Stephen Clark",
-    "publishedAt": "2026-09-15T22:26:32.000Z",
-    "category": "science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/KSC-20260821-PH-SPX01_0007large-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2543,19 +2665,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "572c02ec8dcef818",
-    "title": "“Filmmaker” suing PassThePopcorn may be banned user out for revenge",
-    "excerpt": "Some of the most widely used private torrent trackers for pirating movies suspect that a banned user may have posed as a filmmaker protecting copyrights in a failed attempt to seek revenge. TorrentFreak has been tracking this story closely, reporting last September that an alleged independent…",
-    "url": "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Ashley Belanger",
-    "publishedAt": "2026-09-15T20:19:17.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2162559015-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "7b076119171a095e",
     "title": "Low-quality casino sites conceal highly dangerous threat actors",
     "excerpt": "If your employees are visiting Chinese-language gambling or adult sites, they may not just be wasting time and money, but potentially encountering serious malware hidden behind domains that look like mostly harmless entertainment at first glance. A report from Infoblox urges the security community…",
@@ -2595,58 +2704,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "9813552e3e1497c5",
-    "title": "18-year-old dies of measles in PA from severe neurological complication",
-    "excerpt": "A fourth person in Pennsylvania has died of measles, the state health department confirmed Tuesday . The latest death was in an unvaccinated 18-year-old resident of Mifflin County. In the announcement, the state health department also confirmed a county coroner's report over the weekend of the…",
-    "url": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Beth Mole",
-    "publishedAt": "2026-09-15T18:58:09.000Z",
-    "category": "Science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2152300024-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "cc89af6e0bc01677",
-    "title": "SpaceX declares Starship ready for orbit, sets launch date next week",
-    "excerpt": "Pending regulatory approval, SpaceX said today it intends to launch its 14th Starship mission as early as September 22. This flight is notable, as it will be the first time that SpaceX attempts to launch the experimental vehicle into orbit. The company set a target liftoff time of 7:15 am local in…",
-    "url": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Eric Berger",
-    "publishedAt": "2026-09-15T18:48:08.000Z",
-    "category": "science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/HIu9mKcWAAAmrHQ-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "281b270280872a3e",
-    "title": "Iranian spies hit Windows machines with Chosen Brick data-stealing malware",
-    "excerpt": "Iranian state cyber actors are targeting individuals using social messaging apps to deploy surveillance and data-stealing malware on their Windows machines, three Western governments warned. In all observed cases, Chosen Brick has infected Windows systems exclusively. Iran has used it since at…",
-    "url": "https://www.theregister.com/security/2026/09/15/iranian-spies-hit-windows-machines-with-chosen-brick-data-stealing-malware/5296646",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-15T18:01:57.000Z",
-    "category": "security",
-    "imageUrl": "https://image.theregister.com/?imageId=5224613&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "285fa536af37a07a",
-    "title": "Higher-enriched uranium for datacenters has DoE all aglow",
-    "excerpt": "The US Department of Energy has selected a new participant for a program aimed at expanding the domestic supply of fuel for next-generation nuclear reactors. However, we shouldn't expect that to mean the US' ever-growing fleet of datacenters will be powered by low-carbon nuclear energy any time…",
-    "url": "https://www.theregister.com/offbeat/2026/09/15/higher-enriched-uranium-for-datacenters-has-doe-all-aglow/5296624",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-15T17:39:03.000Z",
-    "category": "hardware",
-    "imageUrl": "https://image.theregister.com/?imageId=253239&width=800",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "51722ea6452e766b",
     "title": "SDL3 Ported To HarmonyOS / OpenHarmony",
     "excerpt": "The SDL3 library commonly used for games and applications for cross-platform hardware and software abstractions now has upstream support for Huawei's HarmonyOS and OpenHarmony...",
@@ -2657,19 +2714,6 @@
     "publishedAt": "2026-09-15T16:54:08.000Z",
     "category": "software",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ce4b69db62b533a9",
-    "title": "America is building datacenters faster than the grid can power them",
-    "excerpt": "Financial service biz Moody's says the availability of power is still a major constraint on US datacenter growth as the pace of construction exceeds the speed at which the nation's grid infrastructure can add the requisite capacity. America is the epicenter of the datacenter construction boom,…",
-    "url": "https://www.theregister.com/on-prem/2026/09/15/america-is-building-datacenters-faster-than-the-grid-can-power-them/5296608",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-15T16:37:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://image.theregister.com/?imageId=222760&width=800",
     "readTimeMinutes": 1
   },
   {
@@ -2722,45 +2766,6 @@
     "publishedAt": "2026-09-15T13:39:00.000Z",
     "category": "startups",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a836452a66bbcb2e",
-    "title": "Sound Open Firmware 2.15 Released With AMD ACP 7.x Support, Intel UAOL",
-    "excerpt": "Sound Open Firmware as the open-source, vendor-independent audio DSP firmware stack and driver framework is out today with a new feature update...",
-    "url": "https://www.phoronix.com/news/Sound-Open-Firmware-2.15",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-15T13:04:40.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "94f445c4da74bc92",
-    "title": "Math Professor Accuses OpenAI of Copying His Work, Says AI Compute Power Makes Racing to Publish 'Pointless'",
-    "excerpt": "The New York Post wrote that OpenAI \"stunned the mathematics world\" last week when it announced its AI model \"cracked a legendary math problem left unsolved for nearly a century in just 88 hours.\" But a New York University professor \"has come forward alleging OpenAI may have copied his work after…",
-    "url": "https://science.slashdot.org/story/26/09/14/2246218/math-professor-accuses-openai-of-copying-his-work-says-ai-compute-power-makes-racing-to-publish-pointless?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-09-15T10:04:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d0805b882d5dbd85",
-    "title": "ChatGPT-Using Lawyer Cited Its Fake Witnesses and Police Testimony in Court",
-    "excerpt": "Reuters reports: A defense lawyer appealing his client's murder conviction submitted a brief containing made-up police testimony and witnesses fabricated by OpenAI's ChatGPT, New Mexico's highest court said. The New Mexico Supreme Court on Wednesday fined the attorney, Stephen Aarons [for $5,000],…",
-    "url": "https://slashdot.org/story/26/09/14/0611201/chatgpt-using-lawyer-cited-its-fake-witnesses-and-police-testimony-in-court?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-09-15T05:34:00.000Z",
-    "category": "ai",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
