@@ -1,5 +1,96 @@
 [
   {
+    "id": "d38348ef5631b0b9",
+    "title": "AI Insiders Issue New Warnings - Including Former Anthropic Engineer Jacob Coxon",
+    "excerpt": "Neither OpenAI or Anthropic is acting responsibly, warned AI researcher Jacob Coxon when resigning last week from Anthropic. But just hours earlier, OpenAI VP of Research Aidan Clark had posted \"For the first time, I am asking myself if things are moving too fast. I'm honestly not sure, but I am…",
+    "url": "https://slashdot.org/story/26/09/17/2042242/ai-insiders-issue-new-warnings---including-former-anthropic-engineer-jacob-coxon?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-09-18T23:34:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8401e8e9e2ed3c17",
+    "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+    "excerpt": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+    "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Kirsten Korosec",
+    "publishedAt": "2026-09-18T23:25:01.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "891b0674775700c0",
+    "title": "Anthropic is operating a lab that conducts biology experiments",
+    "excerpt": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+    "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Julie Bort",
+    "publishedAt": "2026-09-18T23:13:31.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "8b776b0e20b90829",
+    "title": "AI hallucination nearly triggers US military operation",
+    "excerpt": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+    "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Aditya Mehta",
+    "publishedAt": "2026-09-18T23:12:32.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3e1dd1f8d6770e09",
+    "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+    "excerpt": "Article URL: https://spectrum.ieee.org/llms-for-chip-design Comments URL: https://news.ycombinator.com/item?id=49761432 Points: 19 # Comments: 11",
+    "url": "https://spectrum.ieee.org/llms-for-chip-design",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "maxall4",
+    "publishedAt": "2026-09-18T23:04:17.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "5daae74fb4b342d6",
+    "title": "AI almost led the US military to start a war with China, report says",
+    "excerpt": "CNN's sources claim the US nearly attacked a Chinese ship it believed was carrying nuclear weapon components.",
+    "url": "https://www.engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Ian Carlos Campbell)",
+    "publishedAt": "2026-09-18T22:44:45.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/ai-almost-led-the-us-military-to-attack-china-report-says/l-intro-1789771253.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "486ffc71b07dd6d3",
+    "title": "US troop deaths during Iran war exceed Pentagon count by at least four",
+    "excerpt": "Article URL: https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/ Comments URL: https://news.ycombinator.com/item?id=49761178 Points: 118 # Comments: 53",
+    "url": "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "wslh",
+    "publishedAt": "2026-09-18T22:35:10.000Z",
+    "category": "policy",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "83bf6e6183167c79",
     "title": "Anthropic’s first embedded evaluator is … Accenture?",
     "excerpt": "Accenture is about to take on its most high-risk consulting engagement ever.",
@@ -13,6 +104,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "ce52467d6b6dc7c3",
+    "title": "Anthropic decides to support OpenAI's markdown instructions spec",
+    "excerpt": "Anthropic on Friday surprised the developer community by supporting rival OpenAI's mechanism for passing marching orders to AI agents. This makes life easier for folks who use both platforms. \"We're adding support for AGENTS.md to Claude Code,\" said Claude Code engineer Thariq Shihipar in a social…",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/18/anthropic-decides-to-support-openais-markdown-instructions-spec/5297588",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-18T21:33:16.000Z",
+    "category": "ai",
+    "imageUrl": "https://image.theregister.com/?imageId=5297598&width=800",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "d2035844a5dc6e58",
     "title": "Wine 11.18 Continues Building Out Its NTOSKRNL Implementation",
     "excerpt": "Wine 11.18 is out today as the newest bi-weekly development release of this open-source software for running Windows games and apps on Linux, macOS, and other platforms...",
@@ -23,6 +127,19 @@
     "publishedAt": "2026-09-18T21:24:50.000Z",
     "category": "software",
     "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "974b16a8fddd9330",
+    "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
+    "excerpt": "The software engine underpinning GitHub Copilot and a growing number of Microsoft products is now written entirely in Rust, with AI agents doing most of the porting work. The migration cost about $120,000 in AI token usage plus about three weeks of a developer's time. However, managers also had to…",
+    "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-18T21:11:05.000Z",
+    "category": "crypto",
+    "imageUrl": "https://image.theregister.com/?imageId=5297581&width=800",
     "readTimeMinutes": 1
   },
   {
@@ -54,7 +171,7 @@
   {
     "id": "3d68ad8e1324eb33",
     "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-    "excerpt": "Article URL: https://code.claude.com/docs/en/changelog Comments URL: https://news.ycombinator.com/item?id=49760187 Points: 70 # Comments: 32",
+    "excerpt": "Article URL: https://code.claude.com/docs/en/changelog Comments URL: https://news.ycombinator.com/item?id=49760187 Points: 408 # Comments: 148",
     "url": "https://code.claude.com/docs/en/changelog",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -88,6 +205,19 @@
     "publishedAt": "2026-09-18T20:35:11.000Z",
     "category": "hardware",
     "imageUrl": "https://www.engadget.com/img/gallery/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/l-intro-1789763272.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "ea36c1448b7e80d4",
+    "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+    "excerpt": "The US narrowly avoided boarding a Chinese ship based on an \"entirely false\" US intelligence report generated with the help of AI tools, according to a CNN report . That erroneous intelligence, submitted by a US Special Operations Command analyst, suggested the Chinese ship was transporting nuclear…",
+    "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Kyle Orland",
+    "publishedAt": "2026-09-18T20:26:33.000Z",
+    "category": "ai",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2249618531-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -130,6 +260,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "302f0b2ed87e7f5c",
+    "title": "Virginia governor wakes up to fact datacenters have become political cancer",
+    "excerpt": "Virginia is not just for lovers, but is also for datacenters, hosting more than anywhere else in the world. However, the growth could be slowing as Governor Abigail Spanberger issued an executive order on Friday cracking down on bit barn builds in the state. “In the years before I took office,…",
+    "url": "https://www.theregister.com/systems/2026/09/18/virginia-governor-wakes-up-to-fact-datacenters-have-become-political-cancer/5297561",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-18T20:16:57.000Z",
+    "category": "hardware",
+    "imageUrl": "https://image.theregister.com/?imageId=5269875&width=800",
+    "readTimeMinutes": 1
+  },
+  {
     "id": "6d036cdbb00df506",
     "title": "Steam Frame Making Use Of Zink For OpenGL On Vulkan",
     "excerpt": "Valve's Steam Frame VR headset that makes use of a Qualcomm Snapdragon 8 Gen 3 SoC with Adreno graphics is using the open-source \"Turnip\" Vulkan driver from Mesa as reported last year. For OpenGL it turns out that the Mesa Zink driver is being used on the Steam Frame for OpenGL atop the Vulkan…",
@@ -145,7 +288,7 @@
   {
     "id": "36b71d7b15092af0",
     "title": "Korea raises data breach fines to 10% of revenue",
-    "excerpt": "Article URL: https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899 Comments URL: https://news.ycombinator.com/item?id=49759466 Points: 165 # Comments: 46",
+    "excerpt": "Article URL: https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899 Comments URL: https://news.ycombinator.com/item?id=49759466 Points: 250 # Comments: 77",
     "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -153,6 +296,19 @@
     "publishedAt": "2026-09-18T20:02:54.000Z",
     "category": "security",
     "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a01e3054d22d7c09",
+    "title": "Compsci grads facing recession-like job prospects thanks to AI",
+    "excerpt": "Thanks to AI, computer science majors are finding themselves in a tougher spot than they might have expected. Jobs are harder to come by, and more graduates are ending up in lower-paying sectors like retail and food service. That’s according to a new working paper by three US Census Bureau…",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/18/compsci-grads-facing-recession-like-job-prospects-thanks-to-ai/5297537",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-18T19:48:22.000Z",
+    "category": "ai",
+    "imageUrl": "https://image.theregister.com/?imageId=233361&width=800",
     "readTimeMinutes": 1
   },
   {
@@ -166,6 +322,19 @@
     "publishedAt": "2026-09-18T19:20:50.000Z",
     "category": "ai",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/DCA-airport-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "795405e02117c6be",
+    "title": "Claude Code revamps projects so you can work and pay in parallel",
+    "excerpt": "Claude Code customers have a new reason to give Anthropic more of their money. The tool now allows you to launch multiple sessions related to a single project, burning through more resources and cash at once. Appropriately enough, the feature is called projects and can be accessed from the…",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/18/claude-code-revamps-projects-so-you-can-work-and-pay-in-parallel/5297532",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-18T19:15:39.000Z",
+    "category": "ai",
+    "imageUrl": "https://image.theregister.com/?imageId=5297536&width=800",
     "readTimeMinutes": 1
   },
   {
@@ -184,7 +353,7 @@
   {
     "id": "c9a125d04430ed26",
     "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-    "excerpt": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576 Comments URL: https://news.ycombinator.com/item?id=49758736 Points: 302 # Comments: 136",
+    "excerpt": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576 Comments URL: https://news.ycombinator.com/item?id=49758736 Points: 424 # Comments: 202",
     "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -197,7 +366,7 @@
   {
     "id": "d35c7bfffe978d42",
     "title": "The Implications of Linguistic Illegibility for LLM Security",
-    "excerpt": "Article URL: https://arxiv.org/abs/2609.02852 Comments URL: https://news.ycombinator.com/item?id=49758689 Points: 30 # Comments: 12",
+    "excerpt": "Article URL: https://arxiv.org/abs/2609.02852 Comments URL: https://news.ycombinator.com/item?id=49758689 Points: 44 # Comments: 17",
     "url": "https://arxiv.org/abs/2609.02852",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -223,7 +392,7 @@
   {
     "id": "5f30185a2f4d3e3f",
     "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-    "excerpt": "Article URL: https://arxiv.org/abs/2510.03215 Comments URL: https://news.ycombinator.com/item?id=49758615 Points: 43 # Comments: 9",
+    "excerpt": "Article URL: https://arxiv.org/abs/2510.03215 Comments URL: https://news.ycombinator.com/item?id=49758615 Points: 59 # Comments: 11",
     "url": "https://arxiv.org/abs/2510.03215",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -236,7 +405,7 @@
   {
     "id": "eb5e0e2da34b5b55",
     "title": "Saving another 100TB of RAM",
-    "excerpt": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/ Comments URL: https://news.ycombinator.com/item?id=49758580 Points: 103 # Comments: 19",
+    "excerpt": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/ Comments URL: https://news.ycombinator.com/item?id=49758580 Points: 185 # Comments: 36",
     "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -262,7 +431,7 @@
   {
     "id": "12b0127a02423700",
     "title": "Xcode 27.1 Beta Release Notes",
-    "excerpt": "Article URL: https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes Comments URL: https://news.ycombinator.com/item?id=49758419 Points: 85 # Comments: 48",
+    "excerpt": "Article URL: https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes Comments URL: https://news.ycombinator.com/item?id=49758419 Points: 108 # Comments: 63",
     "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -322,19 +491,6 @@
     "publishedAt": "2026-09-18T18:22:10.000Z",
     "category": "policy",
     "imageUrl": "https://www.engadget.com/img/gallery/fcc-allows-gulf-state-wealth-funds-to-own-nearly-half-of-paramount-warner-bros/l-intro-1789755542.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "169bc5c4b8f2f119",
-    "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
-    "excerpt": "Article URL: https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/ Comments URL: https://news.ycombinator.com/item?id=49758028 Points: 143 # Comments: 101",
-    "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "mmh0000",
-    "publishedAt": "2026-09-18T18:08:32.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -416,19 +572,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "e23fae26ca174658",
-    "title": "US Military had close call after using AI for hallucinated intelligence report",
-    "excerpt": "Article URL: https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship Comments URL: https://news.ycombinator.com/item?id=49757520 Points: 302 # Comments: 242",
-    "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "realsarm",
-    "publishedAt": "2026-09-18T17:28:01.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "5c2b434ed17c4489",
     "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
     "excerpt": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
@@ -496,7 +639,7 @@
   {
     "id": "b6e0a0e09ba10966",
     "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-    "excerpt": "Article URL: https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/ Comments URL: https://news.ycombinator.com/item?id=49757050 Points: 122 # Comments: 39",
+    "excerpt": "Article URL: https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/ Comments URL: https://news.ycombinator.com/item?id=49757050 Points: 143 # Comments: 46",
     "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -716,14 +859,14 @@
   },
   {
     "id": "bf77158656aaf23f",
-    "title": "Our brain evolved from two primitive nervous systems that merged: Study",
-    "excerpt": "https://archive.is/1CFX9 https://med.stanford.edu/news/all-news/2026/09/two-separate-... Comments URL: https://news.ycombinator.com/item?id=49755533 Points: 76 # Comments: 42",
+    "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+    "excerpt": "https://archive.is/1CFX9 https://med.stanford.edu/news/all-news/2026/09/two-separate-... Preprint of paper: https://www.biorxiv.org/content/10.1101/2025.07.02.662771v1 Comments URL: https://news.ycombinator.com/item?id=49755533 Points: 100 # Comments: 51",
     "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "Jimmc414",
     "publishedAt": "2026-09-18T15:12:07.000Z",
-    "category": "science",
+    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -769,7 +912,7 @@
   {
     "id": "8d66c2a60447cce1",
     "title": "North Korean nuclear test sets off years of earthquakes",
-    "excerpt": "https://archive.is/xjmvA Comments URL: https://news.ycombinator.com/item?id=49755160 Points: 156 # Comments: 143",
+    "excerpt": "https://archive.is/xjmvA Comments URL: https://news.ycombinator.com/item?id=49755160 Points: 173 # Comments: 149",
     "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -795,20 +938,20 @@
   {
     "id": "6432076c12c20140",
     "title": "Mathematicians Build Long-Awaited Graph Sandwich",
-    "excerpt": "Article URL: https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/ Comments URL: https://news.ycombinator.com/item?id=49755095 Points: 57 # Comments: 15",
+    "excerpt": "https://arxiv.org/abs/2510.20765 Comments URL: https://news.ycombinator.com/item?id=49755095 Points: 67 # Comments: 18",
     "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "ibobev",
     "publishedAt": "2026-09-18T14:41:02.000Z",
-    "category": "startups",
+    "category": "science",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
     "id": "a54241a7fc8f18e5",
     "title": "I vibed a proof of Conway's conjecture",
-    "excerpt": "https://github.com/gaearon/conway-refinement#why-i-think-its... Comments URL: https://news.ycombinator.com/item?id=49755024 Points: 182 # Comments: 170",
+    "excerpt": "https://github.com/gaearon/conway-refinement#why-i-think-its... Comments URL: https://news.ycombinator.com/item?id=49755024 Points: 201 # Comments: 178",
     "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -845,19 +988,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "c6ace4402c91c8c5",
-    "title": "Inertia co-founder Jeff Lawson’s next big bet is fusion: Go inside it at TechCrunch Disrupt 2026",
-    "excerpt": "Inertia co-founder and CEO Jeff Lawson joins the Smart Systems Stage at TechCrunch Disrupt 2026. Register now to save up to $200 by September 25.",
-    "url": "https://techcrunch.com/2026/09/18/jeff-lawsons-next-big-bet-is-fusion-go-inside-it-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "TechCrunch Events",
-    "publishedAt": "2026-09-18T14:30:00.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "952cba850401ec9e",
     "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
     "excerpt": "KDE's annual conference takes place this weekend at Graz University of Technology in Austria, with an AI-native desktop proposal likely to divide attendees. The KDE project is celebrating its 30th anniversary this year, giving delegates at the Akademy conference in Graz another reason to raise a…",
@@ -873,38 +1003,12 @@
   {
     "id": "b713bf2029c69622",
     "title": "Cloudflare Quick Tunnels",
-    "excerpt": "Article URL: https://try.cloudflare.com/ Comments URL: https://news.ycombinator.com/item?id=49754785 Points: 465 # Comments: 204",
+    "excerpt": "Article URL: https://try.cloudflare.com/ Comments URL: https://news.ycombinator.com/item?id=49754785 Points: 529 # Comments: 236",
     "url": "https://try.cloudflare.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "jcbhmr",
     "publishedAt": "2026-09-18T14:18:41.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "deaa594637f7b306",
-    "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-    "excerpt": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-    "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Aditya Mehta, Rebecca Bellan",
-    "publishedAt": "2026-09-18T14:00:14.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "c625b8a742964367",
-    "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-    "excerpt": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-    "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "TechCrunch Events",
-    "publishedAt": "2026-09-18T14:00:00.000Z",
     "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
@@ -1289,7 +1393,7 @@
   {
     "id": "1f5ad715aee0f783",
     "title": "OpenJev",
-    "excerpt": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 497 # Comments: 234",
+    "excerpt": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 531 # Comments: 239",
     "url": "https://openjev.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1393,7 +1497,7 @@
   {
     "id": "530bdf9046c2a5f4",
     "title": "Inside ZCode: Silently uploading your Git history to the cloud",
-    "excerpt": "Article URL: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/ Comments URL: https://news.ycombinator.com/item?id=49750694 Points: 223 # Comments: 87",
+    "excerpt": "Article URL: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/ Comments URL: https://news.ycombinator.com/item?id=49750694 Points: 244 # Comments: 89",
     "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1497,7 +1601,7 @@
   {
     "id": "20fccc4b8ba57de6",
     "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
-    "excerpt": "Article URL: https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157 Comments URL: https://news.ycombinator.com/item?id=49749724 Points: 57 # Comments: 8",
+    "excerpt": "Article URL: https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157 Comments URL: https://news.ycombinator.com/item?id=49749724 Points: 92 # Comments: 13",
     "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1523,7 +1627,7 @@
   {
     "id": "84e655714ee36a6e",
     "title": "Minimal Phone 2",
-    "excerpt": "Article URL: https://minimalcompany.com/ Comments URL: https://news.ycombinator.com/item?id=49749369 Points: 127 # Comments: 123",
+    "excerpt": "Article URL: https://minimalcompany.com/ Comments URL: https://news.ycombinator.com/item?id=49749369 Points: 164 # Comments: 158",
     "url": "https://minimalcompany.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1804,19 +1908,6 @@
     "publishedAt": "2026-09-17T19:07:28.000Z",
     "category": "policy",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/fiber-illustration-1152x648-1738189217.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "bc84f7c344975624",
-    "title": "Candy Crush developers are planning a strike for next week",
-    "excerpt": "King's staff want to get negotiations back on track after years of bargaining.",
-    "url": "https://www.engadget.com/2261707/candy-crush-developers-are-planning-a-strike-for-next-week/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Ian Carlos Campbell)",
-    "publishedAt": "2026-09-17T18:58:17.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/candy-crush-developers-are-planning-a-strike-for-next-week/l-intro-1789671447.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2327,19 +2418,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "c609c0b593a4ce67",
-    "title": "Hackers reveal how Flock cameras really track cars and people",
-    "excerpt": "Hackers ripped down a Flock camera above a roadway, made a near-complete copy of the data stored inside it, and shared the files with 404 Media and WIRED, revealing in new detail how exactly Flock Safety’s cameras track the movements of both vehicles and people . The hackers say they are also…",
-    "url": "https://arstechnica.com/security/2026/09/hackers-reveal-how-flock-cameras-really-track-cars-and-people/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Dhruv Mehrotra, Joseph Cox, wired.com",
-    "publishedAt": "2026-09-17T09:43:46.000Z",
-    "category": "security",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "af2251bee1875a92",
     "title": "Government Digital Service move 'grinds gears' in UK's e-government",
     "excerpt": "The UK government’s decision to move the Government Digital Service (GDS) — responsible for creating digital services across the public sector — to its third departmental home in three years risks hemorrhaging talent and moving it further away from the center of power, MPs heard this week. The GDS…",
@@ -2626,19 +2704,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "7f365fd13f7acb04",
-    "title": "Fedora 45 beta drags the Linux console into the 21st century",
-    "excerpt": "Fedora Linux 45 beta has arrived with Linux kernel 7.2, a release-candidate build of GNOME 51, and extensive changes beneath the desktop. The biggest surprise is that Linux's legacy in-kernel console – the text-mode interface normally hidden beneath the GUI – has been replaced with a…",
-    "url": "https://www.theregister.com/software/2026/09/16/fedora-45-beta-drags-the-linux-console-into-the-21st-century/5296873",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-16T15:27:46.000Z",
-    "category": "software",
-    "imageUrl": "https://image.theregister.com/?imageId=5296885&width=800",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "1cb844dfd2733c50",
     "title": "Crash-Safe & Copy-On-Write GEFS As The \"Good Enough File-System\" For OpenBSD",
     "excerpt": "Ori Bernstein announced an early preview of his Good Enough File-System \"GEFS\" for OpenBSD. GEFS is a crash-safe, snapshotting, copy-on-write file-system that he wrote initially for 9front and now porting to OpenBSD...",
@@ -2691,58 +2756,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "44e2f46d3c017401",
-    "title": "SpaceX aims Starship for orbit on September 22",
-    "excerpt": "SpaceX is aiming for a September 22 launch of its monstrous Starship rocket on a 10-hour mission to deliver 26 Starlink V3 satellites into orbit. The flight, set to launch at 1215 UTC if all goes to plan and the authorities give the green light, will be the first time Starship has gone into orbit,…",
-    "url": "https://www.theregister.com/offbeat/2026/09/16/spacex-aims-starship-for-orbit-on-september-22/5296836",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-16T12:46:00.000Z",
-    "category": "science",
-    "imageUrl": "https://image.theregister.com/?imageId=226720&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "fb912e604209c132",
-    "title": "AWS says wartime damage means some Middle East cloud resources are gone for good",
-    "excerpt": "Amazon Web Services (AWS) says it is unable to restore access to resources and data in some of its Availability Zones in the Middle East after datacenters were damaged during the US war with Iran. In an update to its AWS Health Dashboard, the cloud giant confirmed that anything hosted exclusively…",
-    "url": "https://www.theregister.com/off-prem/2026/09/16/aws-says-wartime-damage-means-some-middle-east-cloud-resources-are-gone-for-good/5296830",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-16T12:11:56.000Z",
-    "category": "hardware",
-    "imageUrl": "https://image.theregister.com/?imageId=254445&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "2b157122a13a28bf",
-    "title": "Spain gets its first taste of AI-aided cyber attack",
-    "excerpt": "Spain’s data protection agency (AEPD) has reported the country’s first-ever personal data breach caused by the actions of an autonomous AI agent. Francisco Pérez Bes, president and deputy of the AEPD, said in a Monday blog post that an individual deployed an AI agent that used a “known large…",
-    "url": "https://www.theregister.com/cyber-crime/2026/09/16/spain-gets-its-first-taste-of-ai-aided-cyber-attack/5296844",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-16T11:56:55.000Z",
-    "category": "ai",
-    "imageUrl": "https://image.theregister.com/?imageId=231135&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "8d159908256e61c3",
-    "title": "Logitech releases the MX Keypad to keep idle fingers busy",
-    "excerpt": "Logitech has released the MX Keypad, a developer-focused keypad derived from its MX Creative Console, and something that triggers a distinct sense of déjà vu. Do you remember Stack Overflow's \"The Key\" Joke? Three keys to copy and paste code from the developer's former best friend (until AI tools…",
-    "url": "https://www.theregister.com/personal-tech/2026/09/16/logitech-releases-the-mx-keypad-to-keep-idle-fingers-busy/5296573",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-16T11:15:00.000Z",
-    "category": "software",
-    "imageUrl": "https://image.theregister.com/?imageId=5296577&width=800",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "52a12d87fdeebf92",
     "title": "America's Cryptocurrency 'Clarity Act' Fails Spectacularly, Despite Hundreds of Millions in Industry Lobbying",
     "excerpt": "\"The crypto industry's top legislative priority failed on Tuesday in spectacular fashion,\" reports Barron's. A procedural motion to advance the bill failed by a vote of 49 to 50, with a handful of Republicans joining all Democrats to shoot it down. The motion needed 60 yes votes to pass, and with…",
@@ -2752,19 +2765,6 @@
     "author": "EditorDavid",
     "publishedAt": "2026-09-16T08:34:00.000Z",
     "category": "policy",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "4b0974c4993d2ba1",
-    "title": "Ubuntu's 'Rust-ification' Hits New Milestone: Coreutils Migration is Complete",
-    "excerpt": "\"Ubuntu has managed to do away with GNU Core Utilities in its default stack,\" reports the blog It's FOSS. The last three utilities — cp, mv and rm — have been moved to versions from the uutils project (which reimplements utilities in Rust). Everything else, from ls and cat to chmod and du, made…",
-    "url": "https://news.slashdot.org/story/26/09/15/2115242/ubuntus-rust-ification-hits-new-milestone-coreutils-migration-is-complete?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-09-16T04:04:00.000Z",
-    "category": "crypto",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
