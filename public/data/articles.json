@@ -1,5 +1,187 @@
 [
   {
+    "id": "e5a307bc19508e83",
+    "title": "Anthropic picks Accenture for third-party AI safety evaluations",
+    "excerpt": "This move represents the first step in the CEO's plan to slow down AI development.",
+    "url": "https://www.engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Jackson Chen)",
+    "publishedAt": "2026-09-19T18:33:46.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/l-intro-1789841893.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "31b17ae67769206e",
+    "title": "Why buy a streaming device when you have a smart TV?",
+    "excerpt": "Many modern TVs can stream apps like Netflix and Prime. But you may want to get a streaming device too.",
+    "url": "https://www.engadget.com/2257809/why-buy-streaming-device-when-have-smart-tv/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Lawrence Bonk)",
+    "publishedAt": "2026-09-19T18:30:00.000Z",
+    "category": "crypto",
+    "imageUrl": "https://www.engadget.com/img/gallery/why-buy-a-streaming-device-when-you-have-a-smart-tv/l-intro-1788795557.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "33bb85acf3e90262",
+    "title": "You can use DeX on the Galaxy Z Fold 8's inner screen with this trick",
+    "excerpt": "Samsung's DeX lets you plug in your Samsung Galaxy device into a monitor or TV to create a PC-like experience. Now, it can launch directly on your phone.",
+    "url": "https://www.engadget.com/2258733/galaxy-z-fold-8-series-use-dex-on-inner-screen/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Isaac Egbon)",
+    "publishedAt": "2026-09-19T18:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/you-can-use-dex-on-the-galaxy-z-fold-8s-inner-screen-with-this-trick/l-intro-1789458300.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d2440e2c7bca3a73",
+    "title": "People who know the most often sound the least certain",
+    "excerpt": "Article URL: https://vrash.substack.com/p/the-people-who-know-the-most-often Comments URL: https://news.ycombinator.com/item?id=49768606 Points: 24 # Comments: 7",
+    "url": "https://vrash.substack.com/p/the-people-who-know-the-most-often",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "virde",
+    "publishedAt": "2026-09-19T17:42:43.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "9efe3abcc5a1273b",
+    "title": "Fake AI Intelligence Almost Made the US Military Start a War With China",
+    "excerpt": "U.S. military intelligence received an inaccurate report this spring that a Chinese ship in the Middle East was transporting components of a nuclear weapons program, reports CNN. \"The US military swung into action with plans to intercept the vessel, according to four sources familiar with the…",
+    "url": "https://news.slashdot.org/story/26/09/19/062210/fake-ai-intelligence-almost-made-the-us-military-start-a-war-with-china?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-09-19T17:34:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e0b8e6e014e2a30e",
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "excerpt": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Anthony Ha",
+    "publishedAt": "2026-09-19T17:30:00.000Z",
+    "category": "security",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "da1538c95be0c0fc",
+    "title": "Why is your iPad not charging (and how to fix it)",
+    "excerpt": "You probably don't think about your iPad charging until it runs into trouble. When plugging it in doesn't work, you'll need to check its port and charger.",
+    "url": "https://www.engadget.com/2258268/why-ipad-not-charging-fixes/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Dave Meikleham)",
+    "publishedAt": "2026-09-19T17:30:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/why-is-your-ipad-not-charging-and-how-to-fix-it/l-intro-1789417211.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "c392438060d8ac89",
+    "title": "Trump treads further on free speech with new journalist bans",
+    "excerpt": "President Donald Trump speaks to reporters on the tarmac before boarding Air Force One. (Photo by Andrew Harnik/Getty Images) | Getty Images On Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever…",
+    "url": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
+    "source": "The Verge",
+    "sourceHomepage": "https://www.theverge.com",
+    "author": "TC. Sottek",
+    "publishedAt": "2026-09-19T17:10:21.000Z",
+    "category": "policy",
+    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294614323.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "548fcae1d1ed3761",
+    "title": "Supabase (YC S20) Is Hiring for OrioleDB",
+    "excerpt": "Article URL: https://supabase.link/orioledbjob Comments URL: https://news.ycombinator.com/item?id=49768220 Points: 0 # Comments: 0",
+    "url": "https://supabase.link/orioledbjob",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "awalias",
+    "publishedAt": "2026-09-19T17:01:30.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a202314ae7505231",
+    "title": "California governor wants to implement a kill switch for frontier AI models",
+    "excerpt": "Newsom's executive order calls for an expert panel to develop new AI safety measures.",
+    "url": "https://www.engadget.com/2263218/california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Jackson Chen)",
+    "publishedAt": "2026-09-19T17:00:01.000Z",
+    "category": "ai",
+    "imageUrl": "https://www.engadget.com/img/gallery/california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models/l-intro-1789836840.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b13d30ed356a6fca",
+    "title": "Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors",
+    "excerpt": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
+    "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Connie Loizos",
+    "publishedAt": "2026-09-19T17:00:00.000Z",
+    "category": "policy",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "6d84fb98ba3b24a1",
+    "title": "Almost Never Use AI to Write Anything Substantive",
+    "excerpt": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Points: 49 # Comments: 30",
+    "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "erwald",
+    "publishedAt": "2026-09-19T16:35:24.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "890269d63abdae40",
+    "title": "How to switch between two phones on CarPlay",
+    "excerpt": "When using Apple's CarPlay, it will automatically connect to the first iPhone it was paired with. Here's how to get it to connect to a different device.",
+    "url": "https://www.engadget.com/2258194/how-to-switch-between-two-phones-apple-carplay/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Adnan Ahmed)",
+    "publishedAt": "2026-09-19T16:30:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/how-to-switch-between-two-phones-on-carplay/l-intro-1789414292.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "13696e24a7a74f01",
+    "title": "Simple Optimization For Linux 7.4 Can Open Files For Reading ~39% Faster",
+    "excerpt": "More than two years in the making, Linux 7.4 is poised to introduce a patch that amounts to a rather simple optimization to avoid unnecessary/duplicative work that can net some nice gains when opening files for reading...",
+    "url": "https://www.phoronix.com/news/Linux-7.4-Faster-Do-Open",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-19T16:28:05.000Z",
+    "category": "security",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "73249e2c76f0aadc",
     "title": "Here's why some monitors have two USB ports (and the best ways to use them)",
     "excerpt": "These ports are often part of a built-in USB hub, letting you keep desk accessories connected to the monitor instead of occupying ports on your computer.",
@@ -117,19 +299,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "097322c876b1334d",
-    "title": "Agreement between the USA and Denmark (1951,2004) [pdf]",
-    "excerpt": "Article URL: https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf Comments URL: https://news.ycombinator.com/item?id=49766976 Points: 5 # Comments: 0",
-    "url": "https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "closingreunion",
-    "publishedAt": "2026-09-19T14:45:12.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "45428be7b230c071",
     "title": "This Game Boy inspired hi-res music player raised over $500,000 on Kickstarter",
     "excerpt": "The AP30 Music Boy is just the latest example of \"dumb\" tech's resurgence.",
@@ -158,7 +327,7 @@
   {
     "id": "befbd2916920da23",
     "title": "A graphical desktop for the ZX Spectrum",
-    "excerpt": "Article URL: https://github.com/mindbox77/zxdesk Comments URL: https://news.ycombinator.com/item?id=49766676 Points: 58 # Comments: 31",
+    "excerpt": "Article URL: https://github.com/mindbox77/zxdesk Comments URL: https://news.ycombinator.com/item?id=49766676 Points: 103 # Comments: 83",
     "url": "https://github.com/mindbox77/zxdesk",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -223,7 +392,7 @@
   {
     "id": "05ef42e6240ab09a",
     "title": "What Zig felt like, coming from Rust",
-    "excerpt": "Article URL: https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/ Comments URL: https://news.ycombinator.com/item?id=49766637 Points: 88 # Comments: 88",
+    "excerpt": "Article URL: https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/ Comments URL: https://news.ycombinator.com/item?id=49766637 Points: 132 # Comments: 146",
     "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -236,7 +405,7 @@
   {
     "id": "664ff934106327ad",
     "title": "Tin: full-text search for Postgres",
-    "excerpt": "Article URL: https://planetscale.com/blog/introducing-tin Comments URL: https://news.ycombinator.com/item?id=49766611 Points: 68 # Comments: 19",
+    "excerpt": "Article URL: https://planetscale.com/blog/introducing-tin Comments URL: https://news.ycombinator.com/item?id=49766611 Points: 114 # Comments: 56",
     "url": "https://planetscale.com/blog/introducing-tin",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -478,20 +647,12 @@
     "publishedAt": "2026-09-19T11:10:43.000Z",
     "category": "science",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2181891613-1152x648.jpg",
-    "readTimeMinutes": 1,
-    "alsoCoveredBy": [
-      {
-        "source": "Hacker News",
-        "sourceHomepage": "https://news.ycombinator.com",
-        "url": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
-        "publishedAt": "2026-09-19T14:23:42.000Z"
-      }
-    ]
+    "readTimeMinutes": 1
   },
   {
     "id": "957dad81750da0dc",
-    "title": "Laya the open source version of Jev",
-    "excerpt": "Article URL: https://laya.convaiinnovations.com/ Comments URL: https://news.ycombinator.com/item?id=49765348 Points: 475 # Comments: 113",
+    "title": "I Built Non-Autoregressive Decision Models with RL a Year Ago",
+    "excerpt": "Article URL: https://laya.convaiinnovations.com/ Comments URL: https://news.ycombinator.com/item?id=49765348 Points: 713 # Comments: 166",
     "url": "https://laya.convaiinnovations.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -556,7 +717,7 @@
   {
     "id": "b9c21ef0e3f58c4a",
     "title": "AI-generated posters don’t have to be horrible",
-    "excerpt": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 698 # Comments: 421",
+    "excerpt": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 923 # Comments: 555",
     "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -595,7 +756,7 @@
   {
     "id": "caa03cc38739079c",
     "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-    "excerpt": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 241 # Comments: 126",
+    "excerpt": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 283 # Comments: 144",
     "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -608,7 +769,7 @@
   {
     "id": "df1b5fc36f3654ce",
     "title": "If math is more than proof, we need to better celebrate the rest of it",
-    "excerpt": "Article URL: https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/ Comments URL: https://news.ycombinator.com/item?id=49763928 Points: 230 # Comments: 185",
+    "excerpt": "Article URL: https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/ Comments URL: https://news.ycombinator.com/item?id=49763928 Points: 256 # Comments: 207",
     "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -621,7 +782,7 @@
   {
     "id": "4ebdefeee4195b08",
     "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-    "excerpt": "Article URL: https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html Comments URL: https://news.ycombinator.com/item?id=49763697 Points: 469 # Comments: 176",
+    "excerpt": "Article URL: https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html Comments URL: https://news.ycombinator.com/item?id=49763697 Points: 541 # Comments: 197",
     "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -634,7 +795,7 @@
   {
     "id": "d70233757cfc3460",
     "title": "San Francisco Onion Futures Company",
-    "excerpt": "Article URL: https://onionfutures.com/ Comments URL: https://news.ycombinator.com/item?id=49763296 Points: 294 # Comments: 105",
+    "excerpt": "Article URL: https://onionfutures.com/ Comments URL: https://news.ycombinator.com/item?id=49763296 Points: 321 # Comments: 133",
     "url": "https://onionfutures.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -660,7 +821,7 @@
   {
     "id": "e1fb674c7e832243",
     "title": "SDCC – Small Device C Compiler",
-    "excerpt": "Article URL: https://sdcc.sourceforge.net/ Comments URL: https://news.ycombinator.com/item?id=49762744 Points: 111 # Comments: 23",
+    "excerpt": "Article URL: https://sdcc.sourceforge.net/ Comments URL: https://news.ycombinator.com/item?id=49762744 Points: 115 # Comments: 26",
     "url": "https://sdcc.sourceforge.net/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -673,7 +834,7 @@
   {
     "id": "a5943bbe4f7bda57",
     "title": "Science Is Open Software",
-    "excerpt": "Article URL: https://jepedersen.dk/blog/202505_research/ Comments URL: https://news.ycombinator.com/item?id=49762687 Points: 134 # Comments: 47",
+    "excerpt": "Article URL: https://jepedersen.dk/blog/202505_research/ Comments URL: https://news.ycombinator.com/item?id=49762687 Points: 142 # Comments: 53",
     "url": "https://jepedersen.dk/blog/202505_research/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -790,7 +951,7 @@
   {
     "id": "3e1dd1f8d6770e09",
     "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-    "excerpt": "Article URL: https://spectrum.ieee.org/llms-for-chip-design Comments URL: https://news.ycombinator.com/item?id=49761432 Points: 171 # Comments: 119",
+    "excerpt": "Article URL: https://spectrum.ieee.org/llms-for-chip-design Comments URL: https://news.ycombinator.com/item?id=49761432 Points: 182 # Comments: 123",
     "url": "https://spectrum.ieee.org/llms-for-chip-design",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -889,45 +1050,6 @@
     "publishedAt": "2026-09-18T21:07:24.000Z",
     "category": "ai",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS534_AI_DOOMSDAY2_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "6f3261ed42e8d8cc",
-    "title": "Sony Music and UMG say Suno's new models still violates their copyright",
-    "excerpt": "In a new lawsuit, the labels argue Suno found a roundabout way to train its v6 models on unlicensed music.",
-    "url": "https://www.engadget.com/2262978/sony-music-and-umg-say-sunos-new-models-still-violates-their-copyright/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Ian Carlos Campbell)",
-    "publishedAt": "2026-09-18T21:06:27.000Z",
-    "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/sony-music-and-umg-say-sunos-new-models-still-violates-their-copyright/l-intro-1789765357.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "5954a492cabfe39b",
-    "title": "Clicks Communicator shipments begin in December",
-    "excerpt": "The BlackBerry-like phone also got a spec bump and an impending price hike.",
-    "url": "https://www.engadget.com/2262962/clicks-communicator-shipments-begin-in-december/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Will Shanklin)",
-    "publishedAt": "2026-09-18T20:53:52.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/clicks-communicator-shipments-begin-in-december/l-intro-1789764623.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f6ce47cd5f6fd112",
-    "title": "What to expect at Meta Connect 2026: New AI glasses, a mixed reality headset and more",
-    "excerpt": "There's a lot for Mark Zuckerberg to cover at this year's keynote.",
-    "url": "https://www.engadget.com/2262932/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Karissa Bell)",
-    "publishedAt": "2026-09-18T20:35:11.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/l-intro-1789763272.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1063,7 +1185,7 @@
   {
     "id": "c9a125d04430ed26",
     "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-    "excerpt": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576 Comments URL: https://news.ycombinator.com/item?id=49758736 Points: 970 # Comments: 533",
+    "excerpt": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576 Comments URL: https://news.ycombinator.com/item?id=49758736 Points: 1028 # Comments: 592",
     "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1074,22 +1196,9 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "48835b46e71ecc40",
-    "title": "The new Resident Evil movie captures the survival horror magic of the games",
-    "excerpt": "Resident Evil is yet another horror classic from the director of Weapons.",
-    "url": "https://www.engadget.com/2262746/the-new-resident-evil-movie-captures-the-survival-horror-magic-of-the-games/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Devindra Hardawar)",
-    "publishedAt": "2026-09-18T18:56:15.000Z",
-    "category": "security",
-    "imageUrl": "https://www.engadget.com/img/gallery/the-new-resident-evil-movie-captures-the-survival-horror-magic-of-the-games/l-intro-1789757717.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "eb5e0e2da34b5b55",
     "title": "Saving another 100TB of RAM",
-    "excerpt": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/ Comments URL: https://news.ycombinator.com/item?id=49758580 Points: 416 # Comments: 89",
+    "excerpt": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/ Comments URL: https://news.ycombinator.com/item?id=49758580 Points: 435 # Comments: 93",
     "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1110,19 +1219,6 @@
     "publishedAt": "2026-09-18T18:49:30.000Z",
     "category": "ai",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "8fa7068eccbcac75",
-    "title": "Disney hires ex-CEO of AI company it accused of copyright infringement",
-    "excerpt": "What's a little IP theft between friends?",
-    "url": "https://www.engadget.com/2262703/disney-hires-ex-ceo-of-ai-company-it-accused-of-copyright-infringement/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Ian Carlos Campbell)",
-    "publishedAt": "2026-09-18T18:36:47.000Z",
-    "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/disney-hires-ex-ceo-of-chatbot-company-it-accused-of-copyright-infringement/l-intro-1789756518.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1149,19 +1245,6 @@
     "publishedAt": "2026-09-18T18:27:04.000Z",
     "category": "startups",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK080_VRG_Illo_N_Barclay_9_disney_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "eeba5470cde4bf65",
-    "title": "FCC allows Gulf state wealth funds to own nearly half of Paramount-Warner Bros.",
-    "excerpt": "Great news for the Ellisons and Saudi Arabia. Everyone else: not so much!",
-    "url": "https://www.engadget.com/2262681/fcc-allows-gulf-state-wealth-funds-to-own-nearly-half-of-paramount-warner-bros/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Lawrence Bonk)",
-    "publishedAt": "2026-09-18T18:22:10.000Z",
-    "category": "policy",
-    "imageUrl": "https://www.engadget.com/img/gallery/fcc-allows-gulf-state-wealth-funds-to-own-nearly-half-of-paramount-warner-bros/l-intro-1789755542.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1269,32 +1352,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "5f80044a2b6b73c2",
-    "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-    "excerpt": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already…",
-    "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Theresa Loconsolo",
-    "publishedAt": "2026-09-18T17:09:56.000Z",
-    "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "5c247392059c2f50",
-    "title": "The real story of the iPhone 18 Pro’s camera",
-    "excerpt": "It's one of the most fascinating years in a while when it comes to iPhone camera upgrades. The big story of the iPhone 18 Pro is the variable aperture main lens, which lets you open the aperture up wider for better low light shots and make the aperture smaller for better depth of field in group…",
-    "url": "https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera",
-    "source": "The Verge",
-    "sourceHomepage": "https://www.theverge.com",
-    "author": "Jacob Kastrenakes",
-    "publishedAt": "2026-09-18T17:06:37.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_VST_091826_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "24c9646387b020ed",
     "title": "North Korea's fake job interviews infected 30,000 devices",
     "excerpt": "North Korea's employment scams work both ways. As well as placing fraudulent IT workers inside Western companies, regime-backed cybercriminals have posed as recruiters to infect more than 30,000 devices and steal over $10 million, according to an international advisory. Law enforcement and…",
@@ -1305,19 +1362,6 @@
     "publishedAt": "2026-09-18T16:53:00.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=234163&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "8250b8c61be54a9d",
-    "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-    "excerpt": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
-    "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Ram Iyer",
-    "publishedAt": "2026-09-18T16:35:49.000Z",
-    "category": "ai",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1362,7 +1406,7 @@
   {
     "id": "5937d4f7e77d07da",
     "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
-    "excerpt": "Article URL: https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/ Comments URL: https://news.ycombinator.com/item?id=49756121 Points: 41 # Comments: 7",
+    "excerpt": "Article URL: https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/ Comments URL: https://news.ycombinator.com/item?id=49756121 Points: 58 # Comments: 22",
     "url": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1440,7 +1484,7 @@
   {
     "id": "b713bf2029c69622",
     "title": "Cloudflare Quick Tunnels",
-    "excerpt": "Article URL: https://try.cloudflare.com/ Comments URL: https://news.ycombinator.com/item?id=49754785 Points: 771 # Comments: 300",
+    "excerpt": "Article URL: https://try.cloudflare.com/ Comments URL: https://news.ycombinator.com/item?id=49754785 Points: 790 # Comments: 302",
     "url": "https://try.cloudflare.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1726,7 +1770,7 @@
   {
     "id": "1f5ad715aee0f783",
     "title": "OpenJev",
-    "excerpt": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 666 # Comments: 278",
+    "excerpt": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 683 # Comments: 285",
     "url": "https://openjev.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1890,19 +1934,6 @@
     "publishedAt": "2026-09-18T04:49:17.000Z",
     "category": "crypto",
     "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/18c064c6413091acaad8ec6ad59dfc258ff93092-1340x748.png?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b88971c11f9d6995",
-    "title": "I built the fastest PHP webserver in the world",
-    "excerpt": "Article URL: https://qbixserver.com Comments URL: https://news.ycombinator.com/item?id=49749789 Points: 20 # Comments: 12",
-    "url": "https://qbixserver.com",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "EGreg",
-    "publishedAt": "2026-09-18T03:08:04.000Z",
-    "category": "hardware",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2686,19 +2717,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "a3b18b39e931a3d7",
-    "title": "As Part of California's Coast Begins to Crumble, Is the Clock Ticking on Moving Radioactive Waste?",
-    "excerpt": "\"As parts of the Southern California coastline crumbled into the sea, slammed by intense waves and flooding in recent days, oceanographer Kim McCoy had one thing on his mind,\" reports the Los Angeles Times. He was thinking about \"the nuclear waste set in concrete on the beach near San Clemente at…",
-    "url": "https://hardware.slashdot.org/story/26/09/14/0536219/as-part-of-californias-coast-begins-to-crumble-is-the-clock-ticking-on-moving-radioactive-waste?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-09-16T22:04:00.000Z",
-    "category": "Software",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "e3fc47cac7a6c7b9",
     "title": "Nvidia goes green to keep grid capacity from zapping its revenues",
     "excerpt": "Nvidia’s ability to sell GPUs is ultimately limited by how much juice the power grid can provide. With ever-growing depreciation cycles, it’ll be years before datacenters decommission their aging Hopper or Blackwell systems. More GPUs mean pulling more power from the grid. Nvidia can’t exactly…",
@@ -2709,19 +2727,6 @@
     "publishedAt": "2026-09-16T21:37:05.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=254958&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "dae06abd8da4780a",
-    "title": "Mesa 26.2.3 Released With AMD GFX1171 Support, Other Fixes",
-    "excerpt": "Mesa 26.2.3 is out today as the newest stable point release in this quarter's Mesa 26.2 series...",
-    "url": "https://www.phoronix.com/news/Mesa-26.2.3-Released",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-16T21:18:50.000Z",
-    "category": "hardware",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
