@@ -1,5 +1,278 @@
 [
   {
+    "id": "5ca46094e47504d8",
+    "title": "The pros and cons of using noise cancelling headphones",
+    "excerpt": "Active noise cancellation makes headphones much better, but you should know how it works and what the drawbacks are as well.",
+    "url": "https://www.engadget.com/2257815/noise-cancelling-headphones-pros-and-cons/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Filipe Espósito)",
+    "publishedAt": "2026-09-19T12:30:00.000Z",
+    "category": "science",
+    "imageUrl": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-noise-cancelling-headphones/l-intro-1788878377.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "048bab4019a189bf",
+    "title": "10 Of The Coolest Japanese Gadgets You'll Almost Never See In The US",
+    "excerpt": "Sure, we have plenty of neat products in the United States, but a look at these 10 gadgets really suggest Japan is in a consumer tech league of its own.",
+    "url": "https://www.engadget.com/2262963/cool-japanese-gadgets-not-typically-found-in-united-states/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Courtney Holt)",
+    "publishedAt": "2026-09-19T12:15:00.000Z",
+    "category": "Hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/10-of-the-coolest-japanese-gadgets-youll-almost-never-see-in-the-us/l-intro-1788283387.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f0f0addce02a1565",
+    "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
+    "excerpt": "\"Bitcoin feels like the CD in the age of Spotify, the DVD in the age of Netflix,\" wrote Jason Calacanis.",
+    "url": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Stephen Alpher",
+    "publishedAt": "2026-09-19T12:13:57.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/a63acd47852ba011bc655fb44db8d5af16180542-3024x4032.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2303b140fc750923",
+    "title": "What causes a stuck pixel on your laptop and can it be fixed?",
+    "excerpt": "Stuck pixels don't have to be a death sentence for your laptop, as there are several options that can bring them back to life.",
+    "url": "https://www.engadget.com/2257814/laptop-stuck-pixel-causes-fixes/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Deven McClure)",
+    "publishedAt": "2026-09-19T12:00:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/what-causes-a-stuck-pixel-on-your-laptop-and-can-it-be-fixed/l-intro-1788888527.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e532bd502b54b2d8",
+    "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
+    "excerpt": "Seven-day average fees fell 82% while transaction counts slipped 6%, with about $1.5 billion a day still changing hands.",
+    "url": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Shaurya Malwa",
+    "publishedAt": "2026-09-19T12:00:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/1211fc9879a33b0b70483520c67b5a4029d8abf3-6000x3999.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "abdfa7f4c63faabf",
+    "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
+    "excerpt": "JPMorgan and Citi move billions in tokenized deposits, but only among their branches. A U.K. challenger bank is about to do something neither has done.",
+    "url": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
+    "source": "CoinDesk",
+    "sourceHomepage": "https://www.coindesk.com",
+    "author": "Olivier Acuna",
+    "publishedAt": "2026-09-19T12:00:00.000Z",
+    "category": "crypto",
+    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/b18ee53b50842f9ee6f7eb1059651463c7e51c9a-765x430.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "844e7d8622e258a0",
+    "title": "John Wick as a DVD store operator, a roguelike take on Armored Core and other new indie games worth checking out",
+    "excerpt": "Our latest indie gaming roundup features a John Wick-style character who works in a video store.",
+    "url": "https://www.engadget.com/2262905/john-wick-as-a-dvd-store-operator-and-other-new-indie-games-worth-checking-out/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Kris Holt)",
+    "publishedAt": "2026-09-19T11:30:00.000Z",
+    "category": "hardware",
+    "imageUrl": "https://www.engadget.com/img/gallery/john-wick-as-a-dvd-store-operator-a-roguelike-take-on-armored-core-and-other-new-indie-games-worth-checking-out/l-intro-1789762481.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a5ce4eccae742b0a",
+    "title": "Learning another language may be one of the best ways to keep your brain healthy",
+    "excerpt": "Learning another language is a highly complex mental activity . It requires people to remember words, distinguish unfamiliar sounds, recognize patterns, work out grammatical rules, and retrieve the right expression at the right moment. All of this happens while listening, interpreting, and…",
+    "url": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Karen Stollznow, The Conversation",
+    "publishedAt": "2026-09-19T11:10:43.000Z",
+    "category": "science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2181891613-1152x648.jpg",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "957dad81750da0dc",
+    "title": "Laya the open source version of Jev",
+    "excerpt": "Article URL: https://laya.convaiinnovations.com/ Comments URL: https://news.ycombinator.com/item?id=49765348 Points: 66 # Comments: 10",
+    "url": "https://laya.convaiinnovations.com/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "nandakishor_ml",
+    "publishedAt": "2026-09-19T10:46:58.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "bad4f113f0a004b6",
+    "title": "GNOME OS Turns To Zswap To Deal With OOM Issues, Progress On Geary Email Client Fork",
+    "excerpt": "In addition to this week's GNOME 51 release were several other exciting developments in the GNOME desktop space...",
+    "url": "https://www.phoronix.com/news/GNOME-OS-Goes-Zswap",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-19T10:38:08.000Z",
+    "category": "policy",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "3bcb5b6f9ee4c433",
+    "title": "Intel Xe Driver For Linux 7.4 Adds vRAM Health Check, Degraded Memory Handling",
+    "excerpt": "Sent out this week were more Intel Xe kernel graphics driver changes targeting the upcoming Linux 7.4 kernel cycle. The theme this week was around dealing with video memory health and also being able to better deal with hardware degraded video RAM...",
+    "url": "https://www.phoronix.com/news/Intel-Xe-vRAM-Health-Check",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-19T10:24:15.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0272bf7aec58a1d4",
+    "title": "KDE Plasma 6.8 Seeing More Polishing & Fixes, Plasma 6.9 Begins Seeing More Activity",
+    "excerpt": "Following last week's Plasma 6.8 beta release, KDE desktop developers have spent this week mostly working on bug fixes as well as some early changes toward Plasma 6.9...",
+    "url": "https://www.phoronix.com/news/Plasma-6.8-Post-Beta-Fixes",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-19T10:10:34.000Z",
+    "category": "hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "0b78c077bac74674",
+    "title": "Rings around a tiny body have changed over the past decade",
+    "excerpt": "For decades, astronomers thought rings were something only giant planets had. That changed in 2013, when a small, dark body orbiting between Saturn and Uranus passed in front of a star and blinked twice on either side of the main event, revealing two narrow rings around an object barely 250…",
+    "url": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
+    "source": "Ars Technica",
+    "sourceHomepage": "https://arstechnica.com",
+    "author": "Jacek Krywko",
+    "publishedAt": "2026-09-19T10:00:06.000Z",
+    "category": "science",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-1-1152x648.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "b9c21ef0e3f58c4a",
+    "title": "AI-generated posters don’t have to be horrible",
+    "excerpt": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 330 # Comments: 210",
+    "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "ereiamjh",
+    "publishedAt": "2026-09-19T09:20:58.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "96aae322a09cc6ee",
+    "title": "Gemini Breached Three Outside Systems, and Claude-Using Researchers Breached OpenAI",
+    "excerpt": "\"Software security researchers used Anthropic's Claude AI platform to hack OpenAI's ChatGPT tool,\" reports CBS News. Using Claude, \"On July 25, 2026, we chained two critical vulnerabilities to compromise multiple OpenAI employees' ChatGPT accounts,\" write researchers at security platform Hacktron…",
+    "url": "https://slashdot.org/story/26/09/19/0518206/gemini-breached-three-outside-systems-and-claude-using-researchers-breached-openai?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-09-19T08:34:00.000Z",
+    "category": "ai",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f21118c41c7cefe1",
+    "title": "Firefox 156 arrives with a forest of forks in its wake",
+    "excerpt": "Mozilla and MZLA have delivered the latest releases in their new fortnightly cycle, but users who dislike the faster pace have alternatives. Firefox 156 is trickling out to users. The release notes only mention two new features: for Mac users, there's now an option in Settings to automatically…",
+    "url": "https://www.theregister.com/software/2026/09/19/firefox-156-arrives-with-a-forest-of-forks-in-its-wake/5297194",
+    "source": "The Register",
+    "sourceHomepage": "https://www.theregister.com",
+    "author": null,
+    "publishedAt": "2026-09-19T07:28:00.000Z",
+    "category": "software",
+    "imageUrl": "https://image.theregister.com/?imageId=4093944&width=800",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "caa03cc38739079c",
+    "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+    "excerpt": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 162 # Comments: 91",
+    "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "nsoonhui",
+    "publishedAt": "2026-09-19T06:41:44.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "df1b5fc36f3654ce",
+    "title": "If math is more than proof, we need to better celebrate the rest of it",
+    "excerpt": "Article URL: https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/ Comments URL: https://news.ycombinator.com/item?id=49763928 Points: 157 # Comments: 114",
+    "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "num42",
+    "publishedAt": "2026-09-19T06:28:02.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4ebdefeee4195b08",
+    "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+    "excerpt": "Article URL: https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html Comments URL: https://news.ycombinator.com/item?id=49763697 Points: 330 # Comments: 123",
+    "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "emigre",
+    "publishedAt": "2026-09-19T05:48:50.000Z",
+    "category": "science",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "f603e8fc8d5b75ec",
+    "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+    "excerpt": "Article URL: https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/ Comments URL: https://news.ycombinator.com/item?id=49763379 Points: 39 # Comments: 4",
+    "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "noobplus",
+    "publishedAt": "2026-09-19T04:44:35.000Z",
+    "category": "science",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d70233757cfc3460",
+    "title": "San Francisco Onion Futures Company",
+    "excerpt": "Article URL: https://onionfutures.com/ Comments URL: https://news.ycombinator.com/item?id=49763296 Points: 227 # Comments: 82",
+    "url": "https://onionfutures.com/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "z-mach9",
+    "publishedAt": "2026-09-19T04:23:30.000Z",
+    "category": "crypto",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "c027e416f660de22",
     "title": "Has the James Web Space Telescope Discovered a New 'Black Hole Star'?",
     "excerpt": "The James Webb Space Telescope has been picking up little red dots in almost every image, writes Quanta magazine. And now two teams of astronomers propose they're looking at a new astronomical object: a black hole star. It shines with the light of billions of suns — and hides a black hole in its…",
@@ -15,7 +288,7 @@
   {
     "id": "e1fb674c7e832243",
     "title": "SDCC – Small Device C Compiler",
-    "excerpt": "Article URL: https://sdcc.sourceforge.net/ Comments URL: https://news.ycombinator.com/item?id=49762744 Points: 20 # Comments: 3",
+    "excerpt": "Article URL: https://sdcc.sourceforge.net/ Comments URL: https://news.ycombinator.com/item?id=49762744 Points: 98 # Comments: 20",
     "url": "https://sdcc.sourceforge.net/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -28,7 +301,7 @@
   {
     "id": "a5943bbe4f7bda57",
     "title": "Science Is Open Software",
-    "excerpt": "Article URL: https://jepedersen.dk/blog/202505_research/ Comments URL: https://news.ycombinator.com/item?id=49762687 Points: 30 # Comments: 15",
+    "excerpt": "Article URL: https://jepedersen.dk/blog/202505_research/ Comments URL: https://news.ycombinator.com/item?id=49762687 Points: 109 # Comments: 41",
     "url": "https://jepedersen.dk/blog/202505_research/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -52,6 +325,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "d01a4f110c7756ad",
+    "title": "Help Linux Hardware Testing & Reviews Continue While Enjoying Phoronix Without Ads",
+    "excerpt": "If you missed out on the Phoronix Premium special back during the 22nd birthday of Phoronix.com in June, there is another promotion now active for helping to support the site and allow for continued daily original content and relentless Linux performance benchmarking and other open-sourced focused…",
+    "url": "https://www.phoronix.com/news/Phoronix-Oktoberfest-2026",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-19T01:00:00.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "41abe118b71c1c60",
     "title": "Ubuntu 26.10 Switches To The Linux 7.3 Kernel",
     "excerpt": "As a very pleasant surprise, the upcoming Ubuntu 26.10 release will now be powered by the Linux 7.3 kernel rather than their original plans and switch over to the Linux 7.2 kernel...",
@@ -65,19 +351,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "12c3b173a1914c8b",
-    "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
-    "excerpt": "Article URL: https://liveworld.info/ Comments URL: https://news.ycombinator.com/item?id=49762099 Points: 24 # Comments: 24",
-    "url": "https://liveworld.info/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "harisingh1612",
-    "publishedAt": "2026-09-19T00:30:34.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "4215ed0c60a66649",
     "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
     "excerpt": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
@@ -87,19 +360,6 @@
     "author": "Amanda Silberling",
     "publishedAt": "2026-09-19T00:12:07.000Z",
     "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "2cf33901ecc68ddc",
-    "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-    "excerpt": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions Comments URL: https://news.ycombinator.com/item?id=49761840 Points: 61 # Comments: 8",
-    "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "yogthos",
-    "publishedAt": "2026-09-18T23:54:42.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -158,7 +418,7 @@
   {
     "id": "3e1dd1f8d6770e09",
     "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-    "excerpt": "Article URL: https://spectrum.ieee.org/llms-for-chip-design Comments URL: https://news.ycombinator.com/item?id=49761432 Points: 72 # Comments: 64",
+    "excerpt": "Article URL: https://spectrum.ieee.org/llms-for-chip-design Comments URL: https://news.ycombinator.com/item?id=49761432 Points: 144 # Comments: 98",
     "url": "https://spectrum.ieee.org/llms-for-chip-design",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -270,19 +530,6 @@
     "publishedAt": "2026-09-18T21:06:27.000Z",
     "category": "ai",
     "imageUrl": "https://www.engadget.com/img/gallery/sony-music-and-umg-say-sunos-new-models-still-violates-their-copyright/l-intro-1789765357.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3d68ad8e1324eb33",
-    "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-    "excerpt": "Article URL: https://code.claude.com/docs/en/changelog Comments URL: https://news.ycombinator.com/item?id=49760187 Points: 562 # Comments: 203",
-    "url": "https://code.claude.com/docs/en/changelog",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "datadrivenangel",
-    "publishedAt": "2026-09-18T21:00:32.000Z",
-    "category": "ai",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -444,26 +691,13 @@
   {
     "id": "c9a125d04430ed26",
     "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-    "excerpt": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576 Comments URL: https://news.ycombinator.com/item?id=49758736 Points: 646 # Comments: 317",
+    "excerpt": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576 Comments URL: https://news.ycombinator.com/item?id=49758736 Points: 885 # Comments: 464",
     "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
     "author": "theanonymousone",
     "publishedAt": "2026-09-18T19:03:09.000Z",
     "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d35c7bfffe978d42",
-    "title": "The Implications of Linguistic Illegibility for LLM Security",
-    "excerpt": "Article URL: https://arxiv.org/abs/2609.02852 Comments URL: https://news.ycombinator.com/item?id=49758689 Points: 56 # Comments: 21",
-    "url": "https://arxiv.org/abs/2609.02852",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "tomjakubowski",
-    "publishedAt": "2026-09-18T19:00:06.000Z",
-    "category": "ai",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -483,7 +717,7 @@
   {
     "id": "5f30185a2f4d3e3f",
     "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-    "excerpt": "Article URL: https://arxiv.org/abs/2510.03215 Comments URL: https://news.ycombinator.com/item?id=49758615 Points: 72 # Comments: 12",
+    "excerpt": "Article URL: https://arxiv.org/abs/2510.03215 Comments URL: https://news.ycombinator.com/item?id=49758615 Points: 95 # Comments: 14",
     "url": "https://arxiv.org/abs/2510.03215",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -496,7 +730,7 @@
   {
     "id": "eb5e0e2da34b5b55",
     "title": "Saving another 100TB of RAM",
-    "excerpt": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/ Comments URL: https://news.ycombinator.com/item?id=49758580 Points: 267 # Comments: 56",
+    "excerpt": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/ Comments URL: https://news.ycombinator.com/item?id=49758580 Points: 383 # Comments: 83",
     "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -516,19 +750,6 @@
     "author": "Tim Fernholz",
     "publishedAt": "2026-09-18T18:49:30.000Z",
     "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "12b0127a02423700",
-    "title": "Xcode 27.1 Beta Release Notes",
-    "excerpt": "Article URL: https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes Comments URL: https://news.ycombinator.com/item?id=49758419 Points: 122 # Comments: 75",
-    "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "CameronBanga",
-    "publishedAt": "2026-09-18T18:39:31.000Z",
-    "category": "startups",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -730,7 +951,7 @@
   {
     "id": "b6e0a0e09ba10966",
     "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-    "excerpt": "Article URL: https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/ Comments URL: https://news.ycombinator.com/item?id=49757050 Points: 166 # Comments: 61",
+    "excerpt": "Article URL: https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/ Comments URL: https://news.ycombinator.com/item?id=49757050 Points: 198 # Comments: 73",
     "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -815,19 +1036,6 @@
     "author": "Dominic-Madori Davis",
     "publishedAt": "2026-09-18T16:00:00.000Z",
     "category": "ai",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d01a4f110c7756ad",
-    "title": "Help Linux Hardware Testing & Reviews Continue While Enjoying Phoronix Without Ads",
-    "excerpt": "If you missed out on the Phoronix Premium special back during the 22nd birthday of Phoronix.com in June, there is another promotion now active for helping to support the site and allow for continued daily original content and relentless Linux performance benchmarking and other open-sourced focused…",
-    "url": "https://www.phoronix.com/news/Phoronix-Oktoberfest-2026",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-18T16:00:00.000Z",
-    "category": "software",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -949,19 +1157,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "bf77158656aaf23f",
-    "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-    "excerpt": "https://archive.is/1CFX9 https://med.stanford.edu/news/all-news/2026/09/two-separate-... Preprint of paper: https://www.biorxiv.org/content/10.1101/2025.07.02.662771v1 Comments URL: https://news.ycombinator.com/item?id=49755533 Points: 107 # Comments: 60",
-    "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "Jimmc414",
-    "publishedAt": "2026-09-18T15:12:07.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "eadd9cd2fb10e684",
     "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
     "excerpt": "Some smaller hedge funds with weaker security controls may have lost funds in the targeted attack, sources said.",
@@ -1042,7 +1237,7 @@
   {
     "id": "b713bf2029c69622",
     "title": "Cloudflare Quick Tunnels",
-    "excerpt": "Article URL: https://try.cloudflare.com/ Comments URL: https://news.ycombinator.com/item?id=49754785 Points: 628 # Comments: 262",
+    "excerpt": "Article URL: https://try.cloudflare.com/ Comments URL: https://news.ycombinator.com/item?id=49754785 Points: 737 # Comments: 291",
     "url": "https://try.cloudflare.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1406,7 +1601,7 @@
   {
     "id": "1f5ad715aee0f783",
     "title": "OpenJev",
-    "excerpt": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 576 # Comments: 250",
+    "excerpt": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 640 # Comments: 273",
     "url": "https://openjev.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1440,19 +1635,6 @@
     "publishedAt": "2026-09-18T08:30:00.000Z",
     "category": "crypto",
     "imageUrl": "https://image.theregister.com/?imageId=254057&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "ddfadcbe782de95f",
-    "title": "Waymo is expanding to Singapore",
-    "excerpt": "Waymo has announced its next international location: Singapore.",
-    "url": "https://www.engadget.com/2262023/waymo-is-expanding-to-singapore/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Mariella Moon)",
-    "publishedAt": "2026-09-18T08:18:12.000Z",
-    "category": "Hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/waymo-is-expanding-to-singapore/l-intro-1789719438.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -1510,7 +1692,7 @@
   {
     "id": "530bdf9046c2a5f4",
     "title": "Inside ZCode: Silently uploading your Git history to the cloud",
-    "excerpt": "Article URL: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/ Comments URL: https://news.ycombinator.com/item?id=49750694 Points: 269 # Comments: 94",
+    "excerpt": "Article URL: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/ Comments URL: https://news.ycombinator.com/item?id=49750694 Points: 310 # Comments: 105",
     "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1614,7 +1796,7 @@
   {
     "id": "20fccc4b8ba57de6",
     "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
-    "excerpt": "Article URL: https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157 Comments URL: https://news.ycombinator.com/item?id=49749724 Points: 120 # Comments: 37",
+    "excerpt": "Article URL: https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157 Comments URL: https://news.ycombinator.com/item?id=49749724 Points: 175 # Comments: 87",
     "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1635,19 +1817,6 @@
     "publishedAt": "2026-09-18T02:28:30.000Z",
     "category": "security",
     "imageUrl": "https://image.theregister.com/?imageId=5297362&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "84e655714ee36a6e",
-    "title": "Minimal Phone 2",
-    "excerpt": "Article URL: https://minimalcompany.com/ Comments URL: https://news.ycombinator.com/item?id=49749369 Points: 211 # Comments: 196",
-    "url": "https://minimalcompany.com/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "nashashmi",
-    "publishedAt": "2026-09-18T02:00:25.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1703,32 +1872,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "1709f0bc62befda4",
-    "title": "eGPUs do work, but they come with some notable limitations",
-    "excerpt": "You're probably better off buying a basic gaming PC than messing with an eGPU.",
-    "url": "https://www.engadget.com/2257761/egpu-come-with-limitations/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Luke James)",
-    "publishedAt": "2026-09-17T23:00:00.000Z",
-    "category": "hardware",
-    "imageUrl": "https://www.engadget.com/img/gallery/egpus-do-work-but-they-come-with-some-notable-limitations/l-intro-1789403512.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "8ae8e874e1fb1440",
-    "title": "Google's revamped CC is an AI agent for families and groups",
-    "excerpt": "CC gives an AI agent its own Google account in your family or group and sends all members a daily briefing.",
-    "url": "https://www.engadget.com/2261924/google-cc-is-an-ai-agent-for-families-and-groups/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Anna Washenko)",
-    "publishedAt": "2026-09-17T22:55:08.000Z",
-    "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/googles-revamped-cc-is-an-ai-agent-for-families-and-groups/l-intro-1789685266.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "32ebe1d64d8aa24b",
     "title": "AI coding agents' 0-click RCE flaw could hand attackers keys to the kingdom",
     "excerpt": "A zero-click vulnerability that allows remote code execution affects all of the major AI coding agents - Anthropic’s Claude Code, OpenAI’s Codex, Google's Gemini CLI, Microsoft’s Copilot, and Microsoft-owned GitHub Copilot - and could give attackers full access to every asset and piece of data that…",
@@ -1768,19 +1911,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "74328b9cdbf83d46",
-    "title": "Anthropic says Claude 'leads' 26 percent of its AI R&D work",
-    "excerpt": "The company shared the stat alongside three measurements that help communicate the pace of AI development.",
-    "url": "https://www.engadget.com/2261909/anthropic-says-claude-leads-26-percent-of-its-ai-research-and-development/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Ian Carlos Campbell)",
-    "publishedAt": "2026-09-17T22:30:01.000Z",
-    "category": "ai",
-    "imageUrl": "https://www.engadget.com/img/gallery/anthropic-says-claude-leads-26-percent-of-its-ai-rd-work/l-intro-1789684114.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "5f759f1230a0cd07",
     "title": "Small AI models let drones autonomously identify and attack battlefield targets",
     "excerpt": "As European militaries adapt to the use of AI and drones in modern warfare, a NATO-backed startup is helping to deploy AI-driven target detection and selection that can run on small drones for surveillance and attack missions. The company, Scaleout Systems, was originally founded by researchers…",
@@ -1796,7 +1926,7 @@
   {
     "id": "e972903bf96dd67c",
     "title": "How to Write with an LLM",
-    "excerpt": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070 Points: 426 # Comments: 291",
+    "excerpt": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070 Points: 515 # Comments: 344",
     "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -2171,45 +2301,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "e0e0fa795fcbc66a",
-    "title": "Crypto for Advisors: The case for diversifying beyond bitcoin and ether",
-    "excerpt": "",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Glenn Williams Jr.",
-    "publishedAt": "2026-09-17T14:57:11.000Z",
-    "category": "hardware",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/9052ffe1b38183c086273c6f263b678678736d69-6000x4000.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3b539f678546b739",
-    "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
-    "excerpt": "The U.S. is likely to lose out to foreign markets in the short term, but SEC and CFTC rules will help underpin the industry.",
-    "url": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Olivier Acuna",
-    "publishedAt": "2026-09-17T14:50:58.000Z",
-    "category": "policy",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/822b54f142ab14b2c15954a87529a4bed9d926aa-5107x3405.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "3c03c647fecd2da9",
-    "title": "After being sidelined, Boeing's Starliner to get starring role in NASA's spaceflight plans",
-    "excerpt": "As it contemplates a future without access to SpaceX's Crew Dragon spacecraft, NASA will make some key moves to ensure that Boeing's Starliner spacecraft, which has a decidedly checkered record in spaceflight to date, is safer and can continue flying after its Atlas V rocket retires. Multiple…",
-    "url": "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Eric Berger",
-    "publishedAt": "2026-09-17T14:37:37.000Z",
-    "category": "science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/starliner-rise-from-your-grave-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "dfff0a64da357355",
     "title": "Grassroots coalition asks politicians to choose voters over Big AI's $140M machine",
     "excerpt": "A coalition of advocacy groups is trying to counter the AI industry's influence on US politics by asking congressional candidates and elected officials to reject support from a major pro-AI political group. The Stop Bleeding the Future campaign brings together more than 50 national and grassroots…",
@@ -2220,19 +2311,6 @@
     "publishedAt": "2026-09-17T14:29:00.000Z",
     "category": "ai",
     "imageUrl": "https://image.theregister.com/?imageId=263123&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "5a7d35a2dc8021c0",
-    "title": "A dolphin named Bubbles makes other fish vomit, then eats it",
-    "excerpt": "Staff at the Lady Elliott Island Eco Resort off the southern Great Barrier Reef in Australia are well acquainted with the shenanigans of a male bottlenose dolphin they've nicknamed Bubbles. Bubbles has been around since at least 2017 and regularly harasses local bigeye trevally , chasing a fish…",
-    "url": "https://arstechnica.com/science/2026/09/a-dolphin-named-bubbles-makes-other-fish-vomit-then-eats-it/",
-    "source": "Ars Technica",
-    "sourceHomepage": "https://arstechnica.com",
-    "author": "Jennifer Ouellette",
-    "publishedAt": "2026-09-17T13:57:14.000Z",
-    "category": "science",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/dolphin1-1152x648-1789497589.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -2259,19 +2337,6 @@
     "publishedAt": "2026-09-17T13:42:37.000Z",
     "category": "hardware",
     "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "23e79de80cb1c2db",
-    "title": "Ratings giant S&P Global acquires OpenZeppelin in tokenized finance risk push",
-    "excerpt": "Building on its recent market-data investment in Kaiko, S&P Global’s latest purchase targets the technological risks facing banks and asset managers onchain.",
-    "url": "https://www.coindesk.com/business/2026/09/17/ratings-giant-s-and-p-global-acquires-openzeppelin-in-tokenized-finance-risk-push",
-    "source": "CoinDesk",
-    "sourceHomepage": "https://www.coindesk.com",
-    "author": "Olivier Acuna",
-    "publishedAt": "2026-09-17T13:15:21.000Z",
-    "category": "crypto",
-    "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/8124d5817232e2a5c9bb3d2dd20a5d30b0f10d51-1264x711.jpg?fm=jpg&w=1920&h=1080&crop=focalpoint&fit=clip",
     "readTimeMinutes": 1
   },
   {
@@ -2691,19 +2756,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "ad43941d28b4f0cc",
-    "title": "GNOME 51 Released With Improved Frame Scheduling, Many App Improvements",
-    "excerpt": "Right on schedule and in time for appearing in the likes of Ubuntu 26.10 and Fedora Workstation 45, the GNOME 51 desktop is officially released...",
-    "url": "https://www.phoronix.com/news/GNOME-51-Released",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-16T16:25:21.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "6b21d04d4396777f",
     "title": "Enterprises are sweating legacy IT assets as AI investment grows",
     "excerpt": "Companies are getting more selective about replacing legacy kit such as mainframe systems, and rising AI investment is one of the factors causing them to hold onto these existing assets for longer. Managed services biz Ensono claims in its 2026 State of IT Modernization report that 78 percent of IT…",
@@ -2714,58 +2766,6 @@
     "publishedAt": "2026-09-16T16:15:00.000Z",
     "category": "hardware",
     "imageUrl": "https://image.theregister.com/?imageId=5239786&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "9cf6f25d5f9a3e70",
-    "title": "Nine-year-old runs up $118,000 bill on dad's corporate credit card advertising his Roblox YouTube channel",
-    "excerpt": "There’s kids running up a few hundred bucks on in-app purchases, and then there’s the case of nine-year old YouTuber Mighty Mike Plays, who just cost his dad $118,000 – and possibly his job – after running a bunch of Google ad campaigns for his channel on papa's company credit card. The young…",
-    "url": "https://www.theregister.com/offbeat/2026/09/16/nine-year-old-runs-up-118000-bill-on-dads-corporate-credit-card-advertising-his-roblox-youtube-channel/5296889",
-    "source": "The Register",
-    "sourceHomepage": "https://www.theregister.com",
-    "author": null,
-    "publishedAt": "2026-09-16T15:51:49.000Z",
-    "category": "hardware",
-    "imageUrl": "https://image.theregister.com/?imageId=5240671&width=800",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "1cb844dfd2733c50",
-    "title": "Crash-Safe & Copy-On-Write GEFS As The \"Good Enough File-System\" For OpenBSD",
-    "excerpt": "Ori Bernstein announced an early preview of his Good Enough File-System \"GEFS\" for OpenBSD. GEFS is a crash-safe, snapshotting, copy-on-write file-system that he wrote initially for 9front and now porting to OpenBSD...",
-    "url": "https://www.phoronix.com/news/OpenBSD-GEFS-File-System",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-16T13:42:00.000Z",
-    "category": "crypto",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "acdf0df4a22d133a",
-    "title": "Linux Randomly Picking Idle CPU Cores Shows Modest Win On High Core Count Systems",
-    "excerpt": "Arm engineer Christian Loehle sent out a patch series today proposing that the Linux scheduler code randomize its picking of equally shallow idle CPU cores. This randomization is showing to deliver a win at least for high CPU core counts for better distributing workloads...",
-    "url": "https://www.phoronix.com/news/Linux-Random-Equal-Idle-CPUs",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-16T13:30:04.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "b612f4fe68edb453",
-    "title": "Firefox Touts Lower CPU Use for Large JPEGs, Faster PDF Viewer Startup (and AI Controls)",
-    "excerpt": "Firefox 156 is the second release since Mozilla moved to a twice-monthly release schedule, and the blog OMG Ubuntu notes it has faster start-up times for its built-in PDF viewer and also lower CPU usage when viewing large JPEG images: In Firefox 156, the browser now uses libjpeg-turbo's IDCT…",
-    "url": "https://news.slashdot.org/story/26/09/16/0352217/firefox-touts-lower-cpu-use-for-large-jpegs-faster-pdf-viewer-startup-and-ai-controls?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-09-16T13:04:00.000Z",
-    "category": "crypto",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
   {
