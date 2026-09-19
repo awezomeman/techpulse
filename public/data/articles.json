@@ -1,5 +1,109 @@
 [
   {
+    "id": "c027e416f660de22",
+    "title": "Has the James Web Space Telescope Discovered a New 'Black Hole Star'?",
+    "excerpt": "The James Webb Space Telescope has been picking up little red dots in almost every image, writes Quanta magazine. And now two teams of astronomers propose they're looking at a new astronomical object: a black hole star. It shines with the light of billions of suns — and hides a black hole in its…",
+    "url": "https://science.slashdot.org/story/26/09/19/040210/has-the-james-web-space-telescope-discovered-a-new-black-hole-star?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+    "source": "Slashdot",
+    "sourceHomepage": "https://slashdot.org",
+    "author": "EditorDavid",
+    "publishedAt": "2026-09-19T04:04:00.000Z",
+    "category": "science",
+    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e1fb674c7e832243",
+    "title": "SDCC – Small Device C Compiler",
+    "excerpt": "Article URL: https://sdcc.sourceforge.net/ Comments URL: https://news.ycombinator.com/item?id=49762744 Points: 20 # Comments: 3",
+    "url": "https://sdcc.sourceforge.net/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "lioeters",
+    "publishedAt": "2026-09-19T02:32:36.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "a5943bbe4f7bda57",
+    "title": "Science Is Open Software",
+    "excerpt": "Article URL: https://jepedersen.dk/blog/202505_research/ Comments URL: https://news.ycombinator.com/item?id=49762687 Points: 30 # Comments: 15",
+    "url": "https://jepedersen.dk/blog/202505_research/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "jegp",
+    "publishedAt": "2026-09-19T02:21:35.000Z",
+    "category": "science",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "99e5a792de0e7ab9",
+    "title": "India forces caller-ID apps to feed spam reports to telcos",
+    "excerpt": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+    "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Jagmeet Singh",
+    "publishedAt": "2026-09-19T01:00:00.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "41abe118b71c1c60",
+    "title": "Ubuntu 26.10 Switches To The Linux 7.3 Kernel",
+    "excerpt": "As a very pleasant surprise, the upcoming Ubuntu 26.10 release will now be powered by the Linux 7.3 kernel rather than their original plans and switch over to the Linux 7.2 kernel...",
+    "url": "https://www.phoronix.com/news/Ubuntu-26.10-With-Linux-7.3",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-19T00:50:25.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "12c3b173a1914c8b",
+    "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+    "excerpt": "Article URL: https://liveworld.info/ Comments URL: https://news.ycombinator.com/item?id=49762099 Points: 24 # Comments: 24",
+    "url": "https://liveworld.info/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "harisingh1612",
+    "publishedAt": "2026-09-19T00:30:34.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "4215ed0c60a66649",
+    "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+    "excerpt": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+    "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+    "source": "TechCrunch",
+    "sourceHomepage": "https://techcrunch.com",
+    "author": "Amanda Silberling",
+    "publishedAt": "2026-09-19T00:12:07.000Z",
+    "category": "ai",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "2cf33901ecc68ddc",
+    "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+    "excerpt": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions Comments URL: https://news.ycombinator.com/item?id=49761840 Points: 61 # Comments: 8",
+    "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "yogthos",
+    "publishedAt": "2026-09-18T23:54:42.000Z",
+    "category": "startups",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "d38348ef5631b0b9",
     "title": "AI Insiders Issue New Warnings - Including Former Anthropic Engineer Jacob Coxon",
     "excerpt": "Neither OpenAI or Anthropic is acting responsibly, warned AI researcher Jacob Coxon when resigning last week from Anthropic. But just hours earlier, OpenAI VP of Research Aidan Clark had posted \"For the first time, I am asking myself if things are moving too fast. I'm honestly not sure, but I am…",
@@ -14,7 +118,7 @@
   },
   {
     "id": "8401e8e9e2ed3c17",
-    "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
     "excerpt": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
     "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
     "source": "TechCrunch",
@@ -54,7 +158,7 @@
   {
     "id": "3e1dd1f8d6770e09",
     "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-    "excerpt": "Article URL: https://spectrum.ieee.org/llms-for-chip-design Comments URL: https://news.ycombinator.com/item?id=49761432 Points: 19 # Comments: 11",
+    "excerpt": "Article URL: https://spectrum.ieee.org/llms-for-chip-design Comments URL: https://news.ycombinator.com/item?id=49761432 Points: 72 # Comments: 64",
     "url": "https://spectrum.ieee.org/llms-for-chip-design",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -62,6 +166,19 @@
     "publishedAt": "2026-09-18T23:04:17.000Z",
     "category": "ai",
     "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "7f12403f0b03d584",
+    "title": "How Focus mode has changed in iOS 27",
+    "excerpt": "iOS 27 brings tons of cool upgrades to your iPhone. Don't miss the interesting-yet-subtle changes to Focus.",
+    "url": "https://www.engadget.com/2257610/how-focus-mode-changed-ios-27/",
+    "source": "Engadget",
+    "sourceHomepage": "https://www.engadget.com",
+    "author": "staff@engadget.com (Christine Persaud)",
+    "publishedAt": "2026-09-18T23:00:00.000Z",
+    "category": "software",
+    "imageUrl": "https://www.engadget.com/img/gallery/how-focus-mode-has-changed-in-ios-27/l-intro-1789400547.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -75,19 +192,6 @@
     "publishedAt": "2026-09-18T22:44:45.000Z",
     "category": "ai",
     "imageUrl": "https://www.engadget.com/img/gallery/ai-almost-led-the-us-military-to-attack-china-report-says/l-intro-1789771253.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "486ffc71b07dd6d3",
-    "title": "US troop deaths during Iran war exceed Pentagon count by at least four",
-    "excerpt": "Article URL: https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/ Comments URL: https://news.ycombinator.com/item?id=49761178 Points: 118 # Comments: 53",
-    "url": "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "wslh",
-    "publishedAt": "2026-09-18T22:35:10.000Z",
-    "category": "policy",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -171,7 +275,7 @@
   {
     "id": "3d68ad8e1324eb33",
     "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-    "excerpt": "Article URL: https://code.claude.com/docs/en/changelog Comments URL: https://news.ycombinator.com/item?id=49760187 Points: 408 # Comments: 148",
+    "excerpt": "Article URL: https://code.claude.com/docs/en/changelog Comments URL: https://news.ycombinator.com/item?id=49760187 Points: 562 # Comments: 203",
     "url": "https://code.claude.com/docs/en/changelog",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -217,7 +321,7 @@
     "author": "Kyle Orland",
     "publishedAt": "2026-09-18T20:26:33.000Z",
     "category": "ai",
-    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2249618531-1152x648.jpg",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chinese-cargo-ship-ai-target-1152x648.jpg",
     "readTimeMinutes": 1
   },
   {
@@ -286,19 +390,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "36b71d7b15092af0",
-    "title": "Korea raises data breach fines to 10% of revenue",
-    "excerpt": "Article URL: https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899 Comments URL: https://news.ycombinator.com/item?id=49759466 Points: 250 # Comments: 77",
-    "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "throw7",
-    "publishedAt": "2026-09-18T20:02:54.000Z",
-    "category": "security",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "a01e3054d22d7c09",
     "title": "Compsci grads facing recession-like job prospects thanks to AI",
     "excerpt": "Thanks to AI, computer science majors are finding themselves in a tougher spot than they might have expected. Jobs are harder to come by, and more graduates are ending up in lower-paying sectors like retail and food service. That’s according to a new working paper by three US Census Bureau…",
@@ -353,7 +444,7 @@
   {
     "id": "c9a125d04430ed26",
     "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-    "excerpt": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576 Comments URL: https://news.ycombinator.com/item?id=49758736 Points: 424 # Comments: 202",
+    "excerpt": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576 Comments URL: https://news.ycombinator.com/item?id=49758736 Points: 646 # Comments: 317",
     "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -366,7 +457,7 @@
   {
     "id": "d35c7bfffe978d42",
     "title": "The Implications of Linguistic Illegibility for LLM Security",
-    "excerpt": "Article URL: https://arxiv.org/abs/2609.02852 Comments URL: https://news.ycombinator.com/item?id=49758689 Points: 44 # Comments: 17",
+    "excerpt": "Article URL: https://arxiv.org/abs/2609.02852 Comments URL: https://news.ycombinator.com/item?id=49758689 Points: 56 # Comments: 21",
     "url": "https://arxiv.org/abs/2609.02852",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -392,7 +483,7 @@
   {
     "id": "5f30185a2f4d3e3f",
     "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-    "excerpt": "Article URL: https://arxiv.org/abs/2510.03215 Comments URL: https://news.ycombinator.com/item?id=49758615 Points: 59 # Comments: 11",
+    "excerpt": "Article URL: https://arxiv.org/abs/2510.03215 Comments URL: https://news.ycombinator.com/item?id=49758615 Points: 72 # Comments: 12",
     "url": "https://arxiv.org/abs/2510.03215",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -405,7 +496,7 @@
   {
     "id": "eb5e0e2da34b5b55",
     "title": "Saving another 100TB of RAM",
-    "excerpt": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/ Comments URL: https://news.ycombinator.com/item?id=49758580 Points: 185 # Comments: 36",
+    "excerpt": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/ Comments URL: https://news.ycombinator.com/item?id=49758580 Points: 267 # Comments: 56",
     "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -431,7 +522,7 @@
   {
     "id": "12b0127a02423700",
     "title": "Xcode 27.1 Beta Release Notes",
-    "excerpt": "Article URL: https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes Comments URL: https://news.ycombinator.com/item?id=49758419 Points: 108 # Comments: 63",
+    "excerpt": "Article URL: https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes Comments URL: https://news.ycombinator.com/item?id=49758419 Points: 122 # Comments: 75",
     "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -639,7 +730,7 @@
   {
     "id": "b6e0a0e09ba10966",
     "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-    "excerpt": "Article URL: https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/ Comments URL: https://news.ycombinator.com/item?id=49757050 Points: 143 # Comments: 46",
+    "excerpt": "Article URL: https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/ Comments URL: https://news.ycombinator.com/item?id=49757050 Points: 166 # Comments: 61",
     "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -728,6 +819,19 @@
     "readTimeMinutes": 1
   },
   {
+    "id": "d01a4f110c7756ad",
+    "title": "Help Linux Hardware Testing & Reviews Continue While Enjoying Phoronix Without Ads",
+    "excerpt": "If you missed out on the Phoronix Premium special back during the 22nd birthday of Phoronix.com in June, there is another promotion now active for helping to support the site and allow for continued daily original content and relentless Linux performance benchmarking and other open-sourced focused…",
+    "url": "https://www.phoronix.com/news/Phoronix-Oktoberfest-2026",
+    "source": "Phoronix",
+    "sourceHomepage": "https://www.phoronix.com",
+    "author": "Michael Larabel",
+    "publishedAt": "2026-09-18T16:00:00.000Z",
+    "category": "software",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
     "id": "62d0f26c260e24b8",
     "title": "Apple Video Decode Driver Posted For Upstream Linux Kernel Review",
     "excerpt": "The latest Apple Silicon enablement code working its way from the Asahi Linux project toward the upstream Linux kernel is the AVD driver used for accelerated video playback across Apple M1 / M2 / M3 SoCs...",
@@ -806,19 +910,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "98224f313ba9e91c",
-    "title": "I’m so mad that I love Orion’s $2,195 AI mattress pad",
-    "excerpt": "Sleeping on the Orion is like flipping your pillow to find “the cool side,” except that your entire bed is the cool side.",
-    "url": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "Amanda Silberling",
-    "publishedAt": "2026-09-18T15:22:16.000Z",
-    "category": "hardware",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "a0736e668a0992d2",
     "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
     "excerpt": "The regulator is moving ahead with crypto market rules as the SEC also opens a new path for tokenized stock trading.",
@@ -860,7 +951,7 @@
   {
     "id": "bf77158656aaf23f",
     "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-    "excerpt": "https://archive.is/1CFX9 https://med.stanford.edu/news/all-news/2026/09/two-separate-... Preprint of paper: https://www.biorxiv.org/content/10.1101/2025.07.02.662771v1 Comments URL: https://news.ycombinator.com/item?id=49755533 Points: 100 # Comments: 51",
+    "excerpt": "https://archive.is/1CFX9 https://med.stanford.edu/news/all-news/2026/09/two-separate-... Preprint of paper: https://www.biorxiv.org/content/10.1101/2025.07.02.662771v1 Comments URL: https://news.ycombinator.com/item?id=49755533 Points: 107 # Comments: 60",
     "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -884,19 +975,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "fd58fce9d4e997c7",
-    "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-    "excerpt": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
-    "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "sourceHomepage": "https://techcrunch.com",
-    "author": "TechCrunch Events",
-    "publishedAt": "2026-09-18T15:00:00.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "885a4b3932cfa9be",
     "title": "Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy",
     "excerpt": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy , where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch machine with a 2K 16:10 OLED touchscreen, Snapdragon’s high-end X2 Elite processor with 12 cores,…",
@@ -910,19 +988,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "8d66c2a60447cce1",
-    "title": "North Korean nuclear test sets off years of earthquakes",
-    "excerpt": "https://archive.is/xjmvA Comments URL: https://news.ycombinator.com/item?id=49755160 Points: 173 # Comments: 149",
-    "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "rbanffy",
-    "publishedAt": "2026-09-18T14:45:32.000Z",
-    "category": "startups",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
     "id": "72009b85c809ce06",
     "title": "This cartridge-playing Game Boy clone is smaller and cheaper than Analogue’s Pocket",
     "excerpt": "FunnyPlaying, a Chinese company known for its Game Boy and GBA upgrade kits, has announced a new handheld that plays original Nintendo cartridges and ROMs. The FPGB Mini's cartridge support is limited to the Game Boy and Game Boy Color so it isn't as capable as the Analogue Pocket that's also…",
@@ -933,32 +998,6 @@
     "publishedAt": "2026-09-18T14:41:18.000Z",
     "category": "Hardware",
     "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/funny1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "6432076c12c20140",
-    "title": "Mathematicians Build Long-Awaited Graph Sandwich",
-    "excerpt": "https://arxiv.org/abs/2510.20765 Comments URL: https://news.ycombinator.com/item?id=49755095 Points: 67 # Comments: 18",
-    "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "ibobev",
-    "publishedAt": "2026-09-18T14:41:02.000Z",
-    "category": "science",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a54241a7fc8f18e5",
-    "title": "I vibed a proof of Conway's conjecture",
-    "excerpt": "https://github.com/gaearon/conway-refinement#why-i-think-its... Comments URL: https://news.ycombinator.com/item?id=49755024 Points: 201 # Comments: 178",
-    "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "m-hodges",
-    "publishedAt": "2026-09-18T14:36:10.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1003,7 +1042,7 @@
   {
     "id": "b713bf2029c69622",
     "title": "Cloudflare Quick Tunnels",
-    "excerpt": "Article URL: https://try.cloudflare.com/ Comments URL: https://news.ycombinator.com/item?id=49754785 Points: 529 # Comments: 236",
+    "excerpt": "Article URL: https://try.cloudflare.com/ Comments URL: https://news.ycombinator.com/item?id=49754785 Points: 628 # Comments: 262",
     "url": "https://try.cloudflare.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1063,19 +1102,6 @@
     "publishedAt": "2026-09-18T13:30:12.000Z",
     "category": "ai",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ailogos-1152x648.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "d01a4f110c7756ad",
-    "title": "Help Linux Hardware Testing & Reviews Continue While Enjoying Phoronix Without Ads",
-    "excerpt": "If you missed out on the Phoronix Premium special back during the 22nd birthday of Phoronix.com in June, there is another promotion now active for helping to support the site and allow for continued daily original content and relentless Linux performance benchmarking and other open-sourced focused…",
-    "url": "https://www.phoronix.com/news/Phoronix-Oktoberfest-2026",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-18T13:30:00.000Z",
-    "category": "software",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1180,19 +1206,6 @@
     "publishedAt": "2026-09-18T12:21:57.000Z",
     "category": "ai",
     "imageUrl": "https://www.engadget.com/img/gallery/anthropic-has-set-up-a-bio-research-lab-for-physical-experiments/l-intro-1789733999.jpg",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "a7aa2c45c2adba1d",
-    "title": "Cekura (YC F24) Is Hiring",
-    "excerpt": "Article URL: https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us Comments URL: https://news.ycombinator.com/item?id=49753131 Points: 0 # Comments: 0",
-    "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
-    "source": "Hacker News",
-    "sourceHomepage": "https://news.ycombinator.com",
-    "author": "atarus",
-    "publishedAt": "2026-09-18T12:00:10.000Z",
-    "category": "startups",
-    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -1393,7 +1406,7 @@
   {
     "id": "1f5ad715aee0f783",
     "title": "OpenJev",
-    "excerpt": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 531 # Comments: 239",
+    "excerpt": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 576 # Comments: 250",
     "url": "https://openjev.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1497,7 +1510,7 @@
   {
     "id": "530bdf9046c2a5f4",
     "title": "Inside ZCode: Silently uploading your Git history to the cloud",
-    "excerpt": "Article URL: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/ Comments URL: https://news.ycombinator.com/item?id=49750694 Points: 244 # Comments: 89",
+    "excerpt": "Article URL: https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/ Comments URL: https://news.ycombinator.com/item?id=49750694 Points: 269 # Comments: 94",
     "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1601,7 +1614,7 @@
   {
     "id": "20fccc4b8ba57de6",
     "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
-    "excerpt": "Article URL: https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157 Comments URL: https://news.ycombinator.com/item?id=49749724 Points: 92 # Comments: 13",
+    "excerpt": "Article URL: https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157 Comments URL: https://news.ycombinator.com/item?id=49749724 Points: 120 # Comments: 37",
     "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1627,7 +1640,7 @@
   {
     "id": "84e655714ee36a6e",
     "title": "Minimal Phone 2",
-    "excerpt": "Article URL: https://minimalcompany.com/ Comments URL: https://news.ycombinator.com/item?id=49749369 Points: 164 # Comments: 158",
+    "excerpt": "Article URL: https://minimalcompany.com/ Comments URL: https://news.ycombinator.com/item?id=49749369 Points: 211 # Comments: 196",
     "url": "https://minimalcompany.com/",
     "source": "Hacker News",
     "sourceHomepage": "https://news.ycombinator.com",
@@ -1660,6 +1673,19 @@
     "author": "Michael Larabel",
     "publishedAt": "2026-09-18T00:33:22.000Z",
     "category": "Hardware",
+    "imageUrl": null,
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "d7dddac5c9c6043e",
+    "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+    "excerpt": "Hey HN, Henry from Cactus here. We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to move quickly to release Needle 3 and I'd love to hear what you think again. The key features: 1)…",
+    "url": "https://cactuscompute.com/needle",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "HenryNdubuaku",
+    "publishedAt": "2026-09-18T00:11:44.000Z",
+    "category": "crypto",
     "imageUrl": null,
     "readTimeMinutes": 1
   },
@@ -1755,19 +1781,6 @@
     "readTimeMinutes": 1
   },
   {
-    "id": "fe705cc36c098ca6",
-    "title": "FAA says laser strikes on aircraft fell for the third consecutive year",
-    "excerpt": "The FAA says the 4,470 laser strikes recorded so far this year is \"still too high.\"",
-    "url": "https://www.engadget.com/2261903/faa-says-laser-strikes-on-aircraft-fell-for-the-third-consecutive-year/",
-    "source": "Engadget",
-    "sourceHomepage": "https://www.engadget.com",
-    "author": "staff@engadget.com (Anna Washenko)",
-    "publishedAt": "2026-09-17T22:15:46.000Z",
-    "category": "policy",
-    "imageUrl": "https://www.engadget.com/img/gallery/faa-says-laser-strikes-on-aircraft-fell-for-the-third-consecutive-year/l-intro-1789682631.jpg",
-    "readTimeMinutes": 1
-  },
-  {
     "id": "5f759f1230a0cd07",
     "title": "Small AI models let drones autonomously identify and attack battlefield targets",
     "excerpt": "As European militaries adapt to the use of AI and drones in modern warfare, a NATO-backed startup is helping to deploy AI-driven target detection and selection that can run on small drones for surveillance and attack missions. The company, Scaleout Systems, was originally founded by researchers…",
@@ -1778,6 +1791,19 @@
     "publishedAt": "2026-09-17T22:12:58.000Z",
     "category": "ai",
     "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Scaleout-Systems-ALMA-demo-1152x648.png",
+    "readTimeMinutes": 1
+  },
+  {
+    "id": "e972903bf96dd67c",
+    "title": "How to Write with an LLM",
+    "excerpt": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/ Comments URL: https://news.ycombinator.com/item?id=49747070 Points: 426 # Comments: 291",
+    "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "source": "Hacker News",
+    "sourceHomepage": "https://news.ycombinator.com",
+    "author": "joeriddles",
+    "publishedAt": "2026-09-17T21:48:38.000Z",
+    "category": "ai",
+    "imageUrl": null,
     "readTimeMinutes": 1
   },
   {
@@ -2739,32 +2765,6 @@
     "author": "EditorDavid",
     "publishedAt": "2026-09-16T13:04:00.000Z",
     "category": "crypto",
-    "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "f8c9fd774119fceb",
-    "title": "AMD Sends Out Linux Patches For Enabling SEV-TIO TDISP With PCIe 6.0",
-    "excerpt": "The newest Linux kernel patches out of AMD for enhancing the upstream support with the new AMD EPYC 9006 \"Venice\" processors is for enabling SEV-TIO TDISP that is supported with PCI Express 6.0 and beyond...",
-    "url": "https://www.phoronix.com/news/AMD-SEV-TIO-TDISP-Linux-Patches",
-    "source": "Phoronix",
-    "sourceHomepage": "https://www.phoronix.com",
-    "author": "Michael Larabel",
-    "publishedAt": "2026-09-16T13:02:52.000Z",
-    "category": "software",
-    "imageUrl": null,
-    "readTimeMinutes": 1
-  },
-  {
-    "id": "52a12d87fdeebf92",
-    "title": "America's Cryptocurrency 'Clarity Act' Fails Spectacularly, Despite Hundreds of Millions in Industry Lobbying",
-    "excerpt": "\"The crypto industry's top legislative priority failed on Tuesday in spectacular fashion,\" reports Barron's. A procedural motion to advance the bill failed by a vote of 49 to 50, with a handful of Republicans joining all Democrats to shoot it down. The motion needed 60 yes votes to pass, and with…",
-    "url": "https://news.slashdot.org/story/26/09/16/0454223/americas-cryptocurrency-clarity-act-fails-spectacularly-despite-hundreds-of-millions-in-industry-lobbying?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-    "source": "Slashdot",
-    "sourceHomepage": "https://slashdot.org",
-    "author": "EditorDavid",
-    "publishedAt": "2026-09-16T08:34:00.000Z",
-    "category": "policy",
     "imageUrl": "https://a.fsdn.com/sd/twitter_icon_large.png",
     "readTimeMinutes": 1
   },
